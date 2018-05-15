@@ -1,0 +1,10 @@
+black
+text
+line
+font
+angle
+square
+rectangle
+computer wallpaper
+pattern
+texture

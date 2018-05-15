@@ -1,0 +1,10 @@
+yellow
+orange
+line
+triangle
+signage
+area
+sign
+square
+pattern
+font

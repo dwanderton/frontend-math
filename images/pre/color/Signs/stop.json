@@ -1,0 +1,1255 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01g5v",
+      "description": "blue",
+      "score": 0.9681776,
+      "topicality": 0.9681776
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.945076,
+      "topicality": 0.945076
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "signage",
+      "score": 0.8506314,
+      "topicality": 0.8506314
+    },
+    {
+      "mid": "/m/02q7ylj",
+      "description": "daytime",
+      "score": 0.78154826,
+      "topicality": 0.78154826
+    },
+    {
+      "mid": "/m/02pv19",
+      "description": "stop sign",
+      "score": 0.76304996,
+      "topicality": 0.76304996
+    },
+    {
+      "mid": "/m/06gfj",
+      "description": "road",
+      "score": 0.75885546,
+      "topicality": 0.75885546
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.7327182,
+      "topicality": 0.7327182
+    },
+    {
+      "mid": "/m/04jph85",
+      "description": "street sign",
+      "score": 0.7158848,
+      "topicality": 0.7158848
+    },
+    {
+      "mid": "/m/01mqdt",
+      "description": "traffic sign",
+      "score": 0.7131312,
+      "topicality": 0.7131312
+    },
+    {
+      "mid": "/m/0k4j",
+      "description": "car",
+      "score": 0.56711644,
+      "topicality": 0.56711644
+    },
+    {
+      "mid": "/m/01c8br",
+      "description": "street",
+      "score": 0.5615137,
+      "topicality": 0.5615137
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.5145016,
+      "topicality": 0.5145016
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "en",
+      "description": "STOP\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 363,
+            "y": 202
+          },
+          {
+            "x": 569,
+            "y": 202
+          },
+          {
+            "x": 569,
+            "y": 344
+          },
+          {
+            "x": 363,
+            "y": 344
+          }
+        ]
+      }
+    },
+    {
+      "description": "STOP",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 363,
+            "y": 252
+          },
+          {
+            "x": 543,
+            "y": 203
+          },
+          {
+            "x": 568,
+            "y": 294
+          },
+          {
+            "x": 388,
+            "y": 344
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 214,
+            "green": 7,
+            "blue": 12
+          },
+          "score": 0.30039126,
+          "pixelFraction": 0.017259259
+        },
+        {
+          "color": {
+            "red": 96,
+            "green": 170,
+            "blue": 235
+          },
+          "score": 0.037136555,
+          "pixelFraction": 0.044296294
+        },
+        {
+          "color": {
+            "red": 2,
+            "green": 78,
+            "blue": 169
+          },
+          "score": 0.0336735,
+          "pixelFraction": 0.22888888
+        },
+        {
+          "color": {
+            "red": 204,
+            "green": 69,
+            "blue": 65
+          },
+          "score": 0.01963624,
+          "pixelFraction": 0.0021481481
+        },
+        {
+          "color": {
+            "red": 217,
+            "green": 128,
+            "blue": 129
+          },
+          "score": 0.0057371925,
+          "pixelFraction": 0.001037037
+        },
+        {
+          "color": {
+            "red": 233,
+            "green": 235,
+            "blue": 235
+          },
+          "score": 0.0054216627,
+          "pixelFraction": 0.010666667
+        },
+        {
+          "color": {
+            "red": 231,
+            "green": 185,
+            "blue": 193
+          },
+          "score": 0.0044899313,
+          "pixelFraction": 0.0016296296
+        },
+        {
+          "color": {
+            "red": 194,
+            "green": 4,
+            "blue": 5
+          },
+          "score": 0.27376243,
+          "pixelFraction": 0.016518518
+        },
+        {
+          "color": {
+            "red": 37,
+            "green": 59,
+            "blue": 85
+          },
+          "score": 0.0024616593,
+          "pixelFraction": 0.0088148145
+        },
+        {
+          "color": {
+            "red": 15,
+            "green": 69,
+            "blue": 183
+          },
+          "score": 0.00050832436,
+          "pixelFraction": 0.000962963
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 367
+            },
+            {
+              "x": 869
+            },
+            {
+              "x": 869,
+              "y": 613
+            },
+            {
+              "x": 367,
+              "y": 613
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.66999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 347
+            },
+            {
+              "x": 971
+            },
+            {
+              "x": 971,
+              "y": 613
+            },
+            {
+              "x": 347,
+              "y": 613
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.77
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 255
+            },
+            {
+              "x": 1002
+            },
+            {
+              "x": 1002,
+              "y": 613
+            },
+            {
+              "x": 255,
+              "y": 613
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "property": {
+          "detectedLanguages": [
+            {
+              "languageCode": "en",
+              "confidence": 1
+            }
+          ]
+        },
+        "width": 1024,
+        "height": 614,
+        "blocks": [
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 363,
+                  "y": 252
+                },
+                {
+                  "x": 543,
+                  "y": 203
+                },
+                {
+                  "x": 568,
+                  "y": 294
+                },
+                {
+                  "x": 388,
+                  "y": 344
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 363,
+                      "y": 252
+                    },
+                    {
+                      "x": 543,
+                      "y": 203
+                    },
+                    {
+                      "x": 568,
+                      "y": 294
+                    },
+                    {
+                      "x": 388,
+                      "y": 344
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "en"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 363,
+                          "y": 252
+                        },
+                        {
+                          "x": 543,
+                          "y": 203
+                        },
+                        {
+                          "x": 568,
+                          "y": 294
+                        },
+                        {
+                          "x": 388,
+                          "y": 344
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 363,
+                              "y": 252
+                            },
+                            {
+                              "x": 402,
+                              "y": 241
+                            },
+                            {
+                              "x": 427,
+                              "y": 333
+                            },
+                            {
+                              "x": 388,
+                              "y": 344
+                            }
+                          ]
+                        },
+                        "text": "S",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 412,
+                              "y": 239
+                            },
+                            {
+                              "x": 446,
+                              "y": 230
+                            },
+                            {
+                              "x": 471,
+                              "y": 321
+                            },
+                            {
+                              "x": 437,
+                              "y": 331
+                            }
+                          ]
+                        },
+                        "text": "T",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 446,
+                              "y": 229
+                            },
+                            {
+                              "x": 484,
+                              "y": 219
+                            },
+                            {
+                              "x": 509,
+                              "y": 310
+                            },
+                            {
+                              "x": 471,
+                              "y": 321
+                            }
+                          ]
+                        },
+                        "text": "O",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "en"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 498,
+                              "y": 215
+                            },
+                            {
+                              "x": 543,
+                              "y": 203
+                            },
+                            {
+                              "x": 568,
+                              "y": 294
+                            },
+                            {
+                              "x": 523,
+                              "y": 307
+                            }
+                          ]
+                        },
+                        "text": "P",
+                        "confidence": 0.99
+                      }
+                    ],
+                    "confidence": 0.99
+                  }
+                ],
+                "confidence": 0.99
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "text": "STOP\n"
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/09c7w0",
+        "score": 1.9688,
+        "description": "United States"
+      },
+      {
+        "entityId": "/m/0k4j",
+        "score": 0.9934,
+        "description": "Car"
+      },
+      {
+        "entityId": "/m/02pv19",
+        "score": 0.8782,
+        "description": "Stop sign"
+      },
+      {
+        "entityId": "/m/0btp2",
+        "score": 0.6424,
+        "description": "Traffic"
+      },
+      {
+        "entityId": "/m/0kw6d",
+        "score": 0.5235,
+        "description": "Driving"
+      },
+      {
+        "entityId": "/t/26tx7xy9_tgvr",
+        "score": 0.5064
+      },
+      {
+        "entityId": "/g/1q6jdznrb",
+        "score": 0.4563,
+        "description": "driver"
+      },
+      {
+        "entityId": "/m/0cw2t",
+        "score": 0.4529,
+        "description": "Driver's license"
+      },
+      {
+        "entityId": "/m/07yv9",
+        "score": 0.4478,
+        "description": "Vehicle"
+      },
+      {
+        "entityId": "/m/06zsq",
+        "score": 0.4203,
+        "description": "Sign"
+      },
+      {
+        "entityId": "/m/01mqdt",
+        "score": 0.4098,
+        "description": "Traffic sign"
+      },
+      {
+        "entityId": "/m/05kmd_",
+        "score": 0.3891,
+        "description": "Information sign"
+      },
+      {
+        "entityId": "/m/015qff",
+        "score": 0.3622,
+        "description": "Traffic light"
+      },
+      {
+        "entityId": "/m/06gfj",
+        "score": 0.3611,
+        "description": "Road"
+      },
+      {
+        "entityId": "/m/014mpm",
+        "score": 0.3064,
+        "description": "Intersection"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://cdn.shazoo.ru/204113_fNnqwnCEDp_fort_mason_stop_sign_2281410023.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?fit=1280%2C768&amp;ssl=1"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/1280px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+      },
+      {
+        "url": "http://www.autotribute.com/wp-content/uploads/2016/12/City-stop-sign.jpg"
+      },
+      {
+        "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/58.jpg"
+      },
+      {
+        "url": "http://npic7.edushily.com/cn/zixun/zh-chs/2017-08/11/126527-1502444897188.jpg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20170811/13a03bc4df704cae904ee856cf841892.jpeg"
+      },
+      {
+        "url": "http://www.overseatours.com/images/image/20160816/20160816120416_81943.jpg"
+      },
+      {
+        "url": "http://www.myhawaii.cn/getattachment/Plan-Your-Trip/Travel-Information/Road-Rules-Hawaii/Stop-Sign-(1).jpg"
+      },
+      {
+        "url": "http://www.bangli.us/wp-content/uploads/2016/10/p75038_9.jpg"
+      },
+      {
+        "url": "https://p3-q.mafengwo.net/s10/M00/67/24/wKgBZ1l4WhCAA_KxAAQdVMH9VNI15.jpeg?imageView2%2F2%2Fw%2F680%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cHM6Ly9uNC1xLm1hZmVuZ3dvLm5ldC9zMTEvTTAwL0M0LzEwL3dLZ0JFRnA3c3Z1QVZPdGdBQUFYblE0M3A3YzcwNS5wbmc_aW1hZ2VNb2dyMiUyRnRodW1ibmFpbCUyRjE4MHglMkZxdWFsaXR5JTJGOTA%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F15%2Fdissolve%2F40"
+      },
+      {
+        "url": "http://p3.pstatp.com/large/5933000224a09e0ce04b"
+      },
+      {
+        "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=627%2C376&amp;ssl=1"
+      },
+      {
+        "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/60.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=440%2C264&amp;ssl=1"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=1280%2C640&amp;ssl=1"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/1024px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+      },
+      {
+        "url": "http://1000mankindswords.com/wp-content/uploads/2017/04/Fort_Mason_Stop_Sign_2281410023_compressed.jpg"
+      },
+      {
+        "url": "https://cdn.waijule.cn/wjl/be/image/article/wechat/57a70f4c90d0cd13a6443f3c/7hdLq2yic8NDqia6sryvWtSzGd7DsPQaIG2B2HW8Cd1RuwPHkIj5o0NAxvtUOBD383HZnKHjicuialUsKaSqpAptQw.jpg"
+      },
+      {
+        "url": "https://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie.jpg"
+      },
+      {
+        "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/Stop-sign-Tony-Webster-Wikipedia-20160830010524619.jpg"
+      },
+      {
+        "url": "http://pic.qyer.com/album/user/2231/42/Q0tWQx4FZEk/index/680x"
+      },
+      {
+        "url": "http://pic.qyer.com/album/user/2231/42/Q0tWQx4FZEk/index/680x"
+      },
+      {
+        "url": "https://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie-640x388.jpg"
+      },
+      {
+        "url": "http://imgcdn50.zuzuche.com/tantu/goods/image/20170209/20170209152912_40302.jpg!/quality/80"
+      },
+      {
+        "url": "https://i0.wp.com/1000mankindswords.com/wp-content/uploads/2017/04/Fort_Mason_Stop_Sign_2281410023_compressed.jpg?resize=660%2C330"
+      },
+      {
+        "url": "https://cookforyou.jp/wp-content/uploads/2015/06/2281410023_899020f857_b-580x348.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/content-clarity.com/wp-content/uploads/2017/03/blog-post-2.png?resize=560%2C315"
+      },
+      {
+        "url": "http://imgcdn5.zuzuche.com/cms/upload/20170410/1491794314201704101118342441.jpg"
+      },
+      {
+        "url": "http://thetrinityvoice.com/wp-content/uploads/2016/08/Stop-Sign-2-475x285.jpg"
+      },
+      {
+        "url": "https://scontent-ort2-1.cdninstagram.com/vp/945117db78c08060629bb7e743fc9af8/5B3125A4/t51.2885-15/e35/14701277_1122055151205778_1291963546032144384_n.jpg?ig_cache_key=MTM1ODQwNTgwNjEyNzQyNDgwOA%3D%3D.2"
+      },
+      {
+        "url": "http://alertas.eu/wp-content/uploads/2017/05/radar-stop-2016-00-960x384-374x200.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/320px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+      },
+      {
+        "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/150/cached.offlinehbpl.hbpl.co.uk/news/OTM/Stop-sign-Tony-Webster-Wikipedia-20160830010524619.jpg"
+      },
+      {
+        "url": "https://www.7net.co/images/MbpmmEq8lrC4jnlZnAOWIEaK0QbBzmh8Pbpw5qKXiy9L9NlrBaiArLL0AWkwcrQM9bw03jTnXeKKR1EbCZg.webp"
+      },
+      {
+        "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=150%2C150&amp;ssl=1"
+      },
+      {
+        "url": "http://www.twoeggz.com/news/2018-01-14/235232640a4a244a595452583b1951af.jpg"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/proxy/_QCAv94ScLb7rz5ct4wu8kuC51K8ICMgLSzUti5u-579fguFlICAiALxLl6PsVFmfiP1NzrPOyjF11tfuwfoAHCD4V9td1Csm9BaDbeuAXVrw_7AWCnoVJqUqgVPIRq-oTmziZGfGGtanA-CXGG87zitvcfPgtcjeyX6XTeI7aTly3w=s0-d"
+      },
+      {
+        "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/27.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/1000mankindswords.com/wp-content/uploads/2017/04/Fort_Mason_Stop_Sign_2281410023_compressed.jpg?resize=960%2C370"
+      },
+      {
+        "url": "https://www.newsletter2go.fr/wp-content/uploads/sites/13/2016/06/Fort_Mason_Stop_Sign_2281410023-725x300.jpg?x65270"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Fort_Mason_Stop_Sign_(2281410023).jpg",
+        "pageTitle": "File:Fort Mason &lt;b&gt;Stop Sign&lt;/b&gt; (2281410023).jpg - Wikimedia Commons",
+        "fullMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/1280px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/1024px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg/320px-Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fort_Mason_Stop_Sign_%282281410023%29.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://navalwiki.info/stop-sign-violation.asp",
+        "pageTitle": "&lt;b&gt;Stop Sign&lt;/b&gt; Violation - Navalwiki",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.autotribute.com/wp-content/uploads/2016/12/City-stop-sign.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.autotribute.com/45726/you-can-get-a-ticket-for-that-6-driving-rules-people-ignore/",
+        "pageTitle": "Yes, You Can Get a Ticket for That - 6 Driving Rules People Ignore",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.autotribute.com/wp-content/uploads/2016/12/City-stop-sign.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://navalwiki.info/stop-sign-citation.asp",
+        "pageTitle": "&lt;b&gt;Stop Sign&lt;/b&gt; Citation - Navalwiki",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.autotribute.com/wp-content/uploads/2016/12/City-stop-sign.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://dupamelumno.ga/download/file-796.html",
+        "pageTitle": "&lt;b&gt;Stop sign&lt;/b&gt; antivirus customer service",
+        "fullMatchingImages": [
+          {
+            "url": "https://cdn.shazoo.ru/204113_fNnqwnCEDp_fort_mason_stop_sign_2281410023.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/student-stop-sign_cWjBezxgCaMgZ2zJ%7CTgOQOLiJ8dtfcL2K0ntZEUejkc/",
+        "pageTitle": "Student &lt;b&gt;Stop Sign&lt;/b&gt; Pictures to Pin on Pinterest - PinsDaddy",
+        "partialMatchingImages": [
+          {
+            "url": "http://thetrinityvoice.com/wp-content/uploads/2016/08/Stop-Sign-2-475x285.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/stop-sign-at-auto_bRL80DyNiMRCFVCtf0Br%7CFmPTc2ZDIU9UjMVRphYmjk/",
+        "pageTitle": "&lt;b&gt;Stop Sign&lt;/b&gt; At Auto Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.autotribute.com/wp-content/uploads/2016/12/City-stop-sign.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thetrinityvoice.com/2016/08/",
+        "pageTitle": "August 2016 – The Trinity Voice",
+        "partialMatchingImages": [
+          {
+            "url": "https://thetrinityvoice.com/wp-content/uploads/2016/08/Stop-Sign-2-475x285.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://ericbaker.me/creating-and-deleting-iptables-rules/",
+        "pageTitle": "Creating and Deleting IPTables Rules | Eric Baker | The ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg"
+          },
+          {
+            "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=1280%2C640&amp;ssl=1"
+          },
+          {
+            "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?fit=1280%2C768&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://ericbaker.me/author/e_baker/",
+        "pageTitle": "Eric Baker | Husband &amp;gt; Father &amp;gt; Programmer &amp;gt; Paramedic",
+        "fullMatchingImages": [
+          {
+            "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=627%2C376&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://www.managementtoday.co.uk/7-pieces-corporate-jargon-avoid-cv/your-career/article/1407185",
+        "pageTitle": "7 pieces of corporate jargon to avoid on your CV - Management Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleHeight/150/cached.offlinehbpl.hbpl.co.uk/news/OTM/Stop-sign-Tony-Webster-Wikipedia-20160830010524619.jpg"
+          },
+          {
+            "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/Stop-sign-Tony-Webster-Wikipedia-20160830010524619.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thetrinityvoice.com/category/showcase/page/6",
+        "pageTitle": "SHOWCASE – Page 6 – The Trinity Voice",
+        "partialMatchingImages": [
+          {
+            "url": "https://thetrinityvoice.com/wp-content/uploads/2016/08/Stop-Sign-2-475x285.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://content-clarity.com/index.php/2017/03/07/avoid-these-5-common-content-marketing-mistakes/",
+        "pageTitle": "Avoid these 5 common content marketing mistakes | Content Clarity",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/content-clarity.com/wp-content/uploads/2017/03/blog-post-2.png?resize=560%2C315"
+          }
+        ]
+      },
+      {
+        "url": "http://content-clarity.com/index.php/tag/content-marketing/",
+        "pageTitle": "content marketing Archives | Content Clarity",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/content-clarity.com/wp-content/uploads/2017/03/blog-post-2.png?resize=560%2C315"
+          }
+        ]
+      },
+      {
+        "url": "http://1000mankindswords.com/manner-unhidden-reflection/",
+        "pageTitle": "MANNER, THE UNHIDDEN REFLECTION - 1000 Swords",
+        "partialMatchingImages": [
+          {
+            "url": "http://1000mankindswords.com/wp-content/uploads/2017/04/Fort_Mason_Stop_Sign_2281410023_compressed.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.bangli.us/19274.html",
+        "pageTitle": "中国人到美国开车需特别注意&lt;b&gt;Stop Sign&lt;/b&gt; – 美国邦利",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.bangli.us/wp-content/uploads/2016/08/p19274_2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.myhawaii.cn/hawaii_events/2016_0208-road_rules_hawaii.html",
+        "pageTitle": "夏威夷自驾游攻略– 夏威夷道路交通规则基本常识- 夏威夷旅游信息 ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.myhawaii.cn/getattachment/Plan-Your-Trip/Travel-Information/Road-Rules-Hawaii/Stop-Sign-(1).jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.myhawaii.cn/Plan-Your-Trip/Travel-Information/Road-Rules-Hawaii.htm",
+        "pageTitle": "夏威夷自驾游攻略– 夏威夷道路交通规则基本常识- 夏威夷旅游信息 ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.myhawaii.cn/getattachment/Plan-Your-Trip/Travel-Information/Road-Rules-Hawaii/Stop-Sign-(1).jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://m.hhhss.net/showinfo-118-123413-0.html",
+        "pageTitle": "中国人到美国开车需特别注意&lt;b&gt;StopSign&lt;/b&gt; - 东方时尚女性网",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.bangli.us/wp-content/uploads/2016/08/p19274_2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.bangli.us/119838.html",
+        "pageTitle": "美国开车指南– 美国邦利",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.bangli.us/wp-content/uploads/2016/11/p119838_3.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.waijule.com/usinfo/article_454.html",
+        "pageTitle": "乐生活丨中国老司机在美国开车容易忽视的11个细节！ | 外居乐美国 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn.waijule.cn/wjl/be/image/article/wechat/57a70f4c90d0cd13a6443f3c/7hdLq2yic8NDqia6sryvWtSzGd7DsPQaIG2B2HW8Cd1RuwPHkIj5o0NAxvtUOBD383HZnKHjicuialUsKaSqpAptQw.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.lasexta.com/motor/noticias/llegan-los-radares-de-stop-son-capaces-de-generar-500-multas-al-dia_201604135a9486010cf2052ee3bcc053.html",
+        "pageTitle": "CENTIMETROS CUBICOS | ¡Llegan los radares de &lt;b&gt;STOP&lt;/b&gt;! Son ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/27.jpg"
+          },
+          {
+            "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/58.jpg"
+          },
+          {
+            "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/60.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mafengwo.cn/gonglve/ziyouxing/19254.html",
+        "pageTitle": "学会这篇夏威夷自驾攻略，让你秒变老司机- 马蜂窝",
+        "fullMatchingImages": [
+          {
+            "url": "http://p3-q.mafengwo.net/s10/M00/67/24/wKgBZ1l4WhCAA_KxAAQdVMH9VNI15.jpeg?imageView2%2F2%2Fw%2F680%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cDovL240LXEubWFmZW5nd28ubmV0L3MxMS9NMDAvQzQvMTAvd0tnQkVGcDdzdnVBVk90Z0FBQVhuUTQzcDdjNzA1LnBuZz9pbWFnZU1vZ3IyJTJGdGh1bWJuYWlsJTJGMTgweCUyRnF1YWxpdHklMkY5MA%3D%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F15%2Fdissolve%2F40"
+          }
+        ]
+      },
+      {
+        "url": "http://auto.eastday.com/a/180114105610269.html",
+        "pageTitle": "硬知识——夏威夷道路交通规则基本常识_东方汽车",
+        "fullMatchingImages": [
+          {
+            "url": "http://04.imgmini.eastday.com/mobile/20180114/20180114105610_f0a152efe7905bf54f44f110eb70de74_1.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "https://cookforyou.jp/syokuba-stress",
+        "pageTitle": "【仕事のストレスを少なくする】職場の人間関係をよくするコツ | おいしすぐる",
+        "partialMatchingImages": [
+          {
+            "url": "https://cookforyou.jp/wp-content/uploads/2015/06/2281410023_899020f857_b-580x348.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.twoeggz.com/news/6370187.html",
+        "pageTitle": "硬知识——夏威夷道路交通规则基本常识_新闻_蛋蛋赞",
+        "fullMatchingImages": [
+          {
+            "url": "http://p3.pstatp.com/large/5933000224a09e0ce04b"
+          },
+          {
+            "url": "http://www.twoeggz.com/news/2018-01-14/235232640a4a244a595452583b1951af.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://auto.mop.com/a/180114105610269.html",
+        "pageTitle": "硬知识——夏威夷道路交通规则基本常识_猫扑汽车",
+        "fullMatchingImages": [
+          {
+            "url": "https://04img.mopimg.cn/mobile/20180114/20180114105610_f0a152efe7905bf54f44f110eb70de74_1.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.91tours.com/site/article/info/385.html",
+        "pageTitle": "夏威夷自驾游，夏威夷道路交通规则",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.overseatours.com/images/image/20160816/20160816120416_81943.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://m.hhhss.net/showinfo-118-122649-0.html",
+        "pageTitle": "美国开车指南- 东方时尚女性网",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.bangli.us/wp-content/uploads/2016/11/p119838_3.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.overseatours.com/article/detail?category=strategy&amp;id=276",
+        "pageTitle": "夏威夷自驾游，夏威夷道路交通规则_美国加拿大旅游攻略下载,旅游 ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.overseatours.com/images/image/20160816/20160816120416_81943.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://kknews.cc/zh-mo/car/8xyy82q.html",
+        "pageTitle": "硬知識——夏威夷道路交通規則基本常識- 每日頭條",
+        "fullMatchingImages": [
+          {
+            "url": "https://i1.kknews.cc/SIG=2qe16bf/5933000224n09r0pr04o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://kknews.cc/car/8xyy82q.html",
+        "pageTitle": "硬知識——夏威夷道路交通規則基本常識- 每日頭條",
+        "fullMatchingImages": [
+          {
+            "url": "https://i1.kknews.cc/SIG=2qe16bf/5933000224n09r0pr04o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://m.mafengwo.cn/gonglve/ziyouxing/19254.html",
+        "pageTitle": "学会这篇夏威夷自驾攻略，让你秒变老司机- 手机马蜂窝",
+        "fullMatchingImages": [
+          {
+            "url": "https://p3-q.mafengwo.net/s10/M00/67/24/wKgBZ1l4WhCAA_KxAAQdVMH9VNI15.jpeg?imageView2%2F2%2Fw%2F680%2Fq%2F90%7Cwatermark%2F1%2Fimage%2FaHR0cHM6Ly9uNC1xLm1hZmVuZ3dvLm5ldC9zMTEvTTAwL0M0LzEwL3dLZ0JFRnA3c3Z1QVZPdGdBQUFYblE0M3A3YzcwNS5wbmc_aW1hZ2VNb2dyMiUyRnRodW1ibmFpbCUyRjE4MHglMkZxdWFsaXR5JTJGOTA%3D%2Fgravity%2FSouthEast%2Fdx%2F10%2Fdy%2F15%2Fdissolve%2F40"
+          }
+        ]
+      },
+      {
+        "url": "http://www.sohu.com/a/160263911_159727",
+        "pageTitle": "学会这篇夏威夷自驾攻略，让你秒变老司机_搜狐旅游_搜狐网",
+        "fullMatchingImages": [
+          {
+            "url": "http://img.mp.itc.cn/upload/20170727/8ea9f190b14943358fd48585b408680f_th.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.lasexta.com/motor/noticias-396/",
+        "pageTitle": "CENTIMETROS CUBICOS | Noticias - La Sexta",
+        "fullMatchingImages": [
+          {
+            "url": "http://fotografias.lasexta.com/clipping/cmsimages01/2018/02/26/D3C33B09-02EA-4956-9AA0-DA94E1536A1B/60.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.zuzuche.com/article/art-746-22548.html",
+        "pageTitle": "美国交规和中国有何不同?-租租车",
+        "partialMatchingImages": [
+          {
+            "url": "http://imgcdn5.zuzuche.com/cms/upload/20170410/1491794314201704101118342441.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.7net.co/zh-cn/post/3841483/%E7%A1%AC%E7%9F%A5%E8%AF%86%E2%80%94%E2%80%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E8%A7%84%E5%88%99%E5%9F%BA%E6%9C%AC%E5%B8%B8%E8%AF%86",
+        "pageTitle": "硬知识——夏威夷道路交通规则基本常识- 7net 柒日報",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.7net.co/images/aRq6pLX10es39wyD2Q73I2VGewA8DOIrAk5wRP69Uw3KjVJWOku41ZN69zpOC35QaKG58Pc36A5wOOe.webp"
+          },
+          {
+            "url": "https://www.7net.co/images/MbpmmEq8lrC4jnlZnAOWIEaK0QbBzmh8Pbpw5qKXiy9L9NlrBaiArLL0AWkwcrQM9bw03jTnXeKKR1EbCZg.webp"
+          }
+        ]
+      },
+      {
+        "url": "http://www.zuzuche.com/article/art-746-23508.html",
+        "pageTitle": "美国自驾交通规则和中国有何不同?-租租车",
+        "partialMatchingImages": [
+          {
+            "url": "http://imgcdn50.zuzuche.com/tantu/goods/image/20170209/20170209152912_40302.jpg!/quality/80"
+          }
+        ]
+      },
+      {
+        "url": "https://www.7net.co/zh-tw/post/3841483/%E7%A1%AC%E7%9F%A5%E8%AD%98%E2%80%94%E2%80%94%E5%A4%8F%E5%A8%81%E5%A4%B7%E9%81%93%E8%B7%AF%E4%BA%A4%E9%80%9A%E8%A6%8F%E5%89%87%E5%9F%BA%E6%9C%AC%E5%B8%B8%E8%AD%98",
+        "pageTitle": "硬知識——夏威夷道路交通規則基本常識- 7net 柒日報",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.7net.co/images/aRq6pLX10es39wyD2Q73I2VGewA8DOIrAk5wRP69Uw3KjVJWOku41ZN69zpOC35QaKG58Pc36A5wOOe.webp"
+          },
+          {
+            "url": "https://www.7net.co/images/MbpmmEq8lrC4jnlZnAOWIEaK0QbBzmh8Pbpw5qKXiy9L9NlrBaiArLL0AWkwcrQM9bw03jTnXeKKR1EbCZg.webp"
+          }
+        ]
+      },
+      {
+        "url": "http://bbs.qyer.com/thread-2728086-1.html",
+        "pageTitle": "美国自驾不得不看！交规和中国有什么不同？怎么和美国警察打交道 ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://pic.qyer.com/album/user/2231/42/Q0tWQx4FZEk/index/680x"
+          }
+        ]
+      },
+      {
+        "url": "https://www.newsletter2go.fr/blog/les-principales-erreurs-en-emailing-comment-les-eviter/",
+        "pageTitle": "Les principales erreurs en emailing et comment les éviter",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.newsletter2go.fr/wp-content/uploads/sites/13/2016/06/Fort_Mason_Stop_Sign_2281410023-725x300.jpg?x65270"
+          }
+        ]
+      },
+      {
+        "url": "https://www.newsletter2go.fr/blog/les-spams-words/",
+        "pageTitle": "Les spams words à éviter - Newsletter2Go",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.newsletter2go.fr/wp-content/uploads/sites/13/2016/06/Fort_Mason_Stop_Sign_2281410023.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://androidportal.zoznam.sk/2017/02/rozsirenie-prehliadac-automaticke-prehravanie/",
+        "pageTitle": "Vyskúšajte rozšírenie pre prehliadač, ktoré zablokuje automatické ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie.jpg"
+          },
+          {
+            "url": "https://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie-640x388.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://travelvv.com/listing/%E5%AD%B8%E6%9C%83%E9%80%99%E7%AF%87%E5%A4%8F%E5%A8%81%E5%A4%B7%E8%87%AA%E9%A7%95%E6%94%BB%E7%95%A5%EF%BC%8C%E8%AE%93%E4%BD%A0%E7%A7%92%E8%AE%8A%E8%80%81%E5%8F%B8%E6%A9%9F/",
+        "pageTitle": "學會這篇夏威夷自駕攻略，讓你秒變老司機– 家鄉美",
+        "fullMatchingImages": [
+          {
+            "url": "https://travelvv.com/wp-content/uploads/2017/09/wKgBZ1l4WhCAA_KxAAQdVMH9VNI15-1.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://alertas.eu/category/dgt/",
+        "pageTitle": "DGT Archivos - AlertasAlertas",
+        "partialMatchingImages": [
+          {
+            "url": "http://alertas.eu/wp-content/uploads/2017/05/radar-stop-2016-00-960x384-374x200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.olvinabarca.info/es/iptables-delete-matching-rule",
+        "pageTitle": "Iptables Delete Matching Rule - Olvin Abarca",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/ericbaker.me/wp-content/uploads/2017/05/creating-and-deleting-iptables-rules.jpg?resize=1280%2C640&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://aktualnizpravy.cz/details/23659351-Automaticka-kresba-v-pricinne-souvislosti-s-emocemi---seminar",
+        "pageTitle": "Automatická kresba v příčinné souvislosti s emocemi - seminář ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://aktualnizpravy.cz/details/17891405-Automaticka-kresba-[Hana-Smidova-/register.php",
+        "pageTitle": "Zobraz menu - Aktuální Zprávy - denní přehled zpráv",
+        "partialMatchingImages": [
+          {
+            "url": "http://androidportal.zoznam.sk/wp-content/uploads/2017/02/21/rozsirenie.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://padresenruta.blogspot.com/2016/04/",
+        "pageTitle": "abril 2016 - DIARIO VIAL",
+        "partialMatchingImages": [
+          {
+            "url": "https://lh3.googleusercontent.com/proxy/_QCAv94ScLb7rz5ct4wu8kuC51K8ICMgLSzUti5u-579fguFlICAiALxLl6PsVFmfiP1NzrPOyjF11tfuwfoAHCD4V9td1Csm9BaDbeuAXVrw_7AWCnoVJqUqgVPIRq-oTmziZGfGGtanA-CXGG87zitvcfPgtcjeyX6XTeI7aTly3w=s0-d"
+          }
+        ]
+      },
+      {
+        "url": "http://www.sohu.com/a/163832855_572539",
+        "pageTitle": "谁说海边度假只能吃喝、血拼、泡海水？_搜狐旅游_搜狐网",
+        "fullMatchingImages": [
+          {
+            "url": "http://5b0988e595225.cdn.sohucs.com/images/20170811/13a03bc4df704cae904ee856cf841892.jpeg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://2dfpga1r8k2j3lzl9y1cxsdn.wpengine.netdna-cdn.com/files/2015/07/stop-sign.jpg"
+      },
+      {
+        "url": "http://nowiknow.com/wp-content/uploads/41_15_10_web.jpg"
+      },
+      {
+        "url": "https://vemcoconsulting.com/wp-content/uploads/2013/09/all-way-stop1.jpg"
+      },
+      {
+        "url": "https://www.goldbergfinnegan.com/assets/media/images/blog/four-way-stop-sign-social.jpg"
+      },
+      {
+        "url": "https://assets.standunited.org/_media/uploaded/petition/petition_584acdd1425d11481297361.jpg"
+      },
+      {
+        "url": "https://images.freeimages.com/images/premium/previews/3174/3174432-desert-stop-sign.jpg"
+      },
+      {
+        "url": "http://maxpixel.freegreatpicture.com/static/photo/640/Road-Stop-Sign-Traffic-Town-City-2674299.jpg"
+      },
+      {
+        "url": "https://www.textbroker.com/wp-content/uploads/2017/04/stop-sign-1174658_960_720-750x496.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "stop sign",
+        "languageCode": "zh-CN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.975187,
+      "topicality": 0.975187
+    },
+    {
+      "mid": "/m/02mhj",
+      "description": "ecosystem",
+      "score": 0.92342234,
+      "topicality": 0.92342234
+    },
+    {
+      "mid": "/m/02hnx9",
+      "description": "woody plant",
+      "score": 0.91505647,
+      "topicality": 0.91505647
+    },
+    {
+      "mid": "/m/02zr8",
+      "description": "forest",
+      "score": 0.9128948,
+      "topicality": 0.9128948
+    },
+    {
+      "mid": "/m/042g2h",
+      "description": "old growth forest",
+      "score": 0.8923311,
+      "topicality": 0.8923311
+    },
+    {
+      "mid": "/m/023bbt",
+      "description": "wilderness",
+      "score": 0.88083243,
+      "topicality": 0.88083243
+    },
+    {
+      "mid": "/m/03ljvf",
+      "description": "grove",
+      "score": 0.8781447,
+      "topicality": 0.8781447
+    },
+    {
+      "mid": "/m/0swq_",
+      "description": "nature reserve",
+      "score": 0.8707328,
+      "topicality": 0.8707328
+    },
+    {
+      "mid": "/m/03d74ql",
+      "description": "spruce fir forest",
+      "score": 0.8696021,
+      "topicality": 0.8696021
+    },
+    {
+      "mid": "/m/0hnc1",
+      "description": "woodland",
+      "score": 0.8539473,
+      "topicality": 0.8539473
+    },
+    {
+      "mid": "/m/01cv9m",
+      "description": "tropical and subtropical coniferous forests",
+      "score": 0.82474786,
+      "topicality": 0.82474786
+    },
+    {
+      "mid": "/m/01cv4r",
+      "description": "temperate coniferous forest",
+      "score": 0.81909543,
+      "topicality": 0.81909543
+    },
+    {
+      "mid": "/m/01cv98",
+      "description": "temperate broadleaf and mixed forest",
+      "score": 0.78332865,
+      "topicality": 0.78332865
+    },
+    {
+      "mid": "/m/02tcwp",
+      "description": "trunk",
+      "score": 0.7483643,
+      "topicality": 0.7483643
+    },
+    {
+      "mid": "/m/02jvk3",
+      "description": "valdivian temperate rain forest",
+      "score": 0.73026973,
+      "topicality": 0.73026973
+    },
+    {
+      "mid": "/m/01jb4",
+      "description": "biome",
+      "score": 0.72045076,
+      "topicality": 0.72045076
+    },
+    {
+      "mid": "/m/05s2s",
+      "description": "plant",
+      "score": 0.718548,
+      "topicality": 0.718548
+    },
+    {
+      "mid": "/m/0pcm_",
+      "description": "larch",
+      "score": 0.6600716,
+      "topicality": 0.6600716
+    },
+    {
+      "mid": "/m/05gz5",
+      "description": "national park",
+      "score": 0.6425005,
+      "topicality": 0.6425005
+    },
+    {
+      "mid": "/m/06z0n",
+      "description": "sunlight",
+      "score": 0.64169884,
+      "topicality": 0.64169884
+    },
+    {
+      "mid": "/m/0b5gs",
+      "description": "branch",
+      "score": 0.58774024,
+      "topicality": 0.58774024
+    },
+    {
+      "mid": "/m/01tfm0",
+      "description": "pine family",
+      "score": 0.58437693,
+      "topicality": 0.58437693
+    },
+    {
+      "mid": "/m/021krv",
+      "description": "state park",
+      "score": 0.5812957,
+      "topicality": 0.5812957
+    },
+    {
+      "mid": "/m/0hlzt",
+      "description": "deciduous",
+      "score": 0.55831116,
+      "topicality": 0.55831116
+    },
+    {
+      "mid": "/m/0hv3g",
+      "description": "conifer",
+      "score": 0.54256994,
+      "topicality": 0.54256994
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 64,
+            "green": 52,
+            "blue": 30
+          },
+          "score": 0.22537228,
+          "pixelFraction": 0.31746668
+        },
+        {
+          "color": {
+            "red": 95,
+            "green": 80,
+            "blue": 56
+          },
+          "score": 0.20446074,
+          "pixelFraction": 0.146
+        },
+        {
+          "color": {
+            "red": 132,
+            "green": 115,
+            "blue": 91
+          },
+          "score": 0.1132868,
+          "pixelFraction": 0.058133334
+        },
+        {
+          "color": {
+            "red": 78,
+            "green": 48,
+            "blue": 36
+          },
+          "score": 0.09529708,
+          "pixelFraction": 0.04
+        },
+        {
+          "color": {
+            "red": 170,
+            "green": 151,
+            "blue": 128
+          },
+          "score": 0.07181257,
+          "pixelFraction": 0.033733334
+        },
+        {
+          "color": {
+            "red": 99,
+            "green": 68,
+            "blue": 55
+          },
+          "score": 0.04432639,
+          "pixelFraction": 0.0146
+        },
+        {
+          "color": {
+            "red": 208,
+            "green": 189,
+            "blue": 166
+          },
+          "score": 0.032458223,
+          "pixelFraction": 0.014666666
+        },
+        {
+          "color": {
+            "red": 208,
+            "green": 193,
+            "blue": 183
+          },
+          "score": 0.025921071,
+          "pixelFraction": 0.019866666
+        },
+        {
+          "color": {
+            "red": 245,
+            "green": 236,
+            "blue": 228
+          },
+          "score": 0.0249134,
+          "pixelFraction": 0.029933333
+        },
+        {
+          "color": {
+            "red": 42,
+            "green": 29,
+            "blue": 9
+          },
+          "score": 0.019174308,
+          "pixelFraction": 0.07613333
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 214
+            },
+            {
+              "x": 767
+            },
+            {
+              "x": 767,
+              "y": 679
+            },
+            {
+              "x": 214,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.64
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 152
+            },
+            {
+              "x": 838
+            },
+            {
+              "x": 838,
+              "y": 679
+            },
+            {
+              "x": 152,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.77
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 80
+            },
+            {
+              "x": 900
+            },
+            {
+              "x": 900,
+              "y": 679
+            },
+            {
+              "x": 80,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.87
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0c_y8",
+        "score": 7.104,
+        "description": "Yosemite National Park"
+      },
+      {
+        "entityId": "/m/01qt_z",
+        "score": 5.6368,
+        "description": "Sequoia National Park"
+      },
+      {
+        "entityId": "/m/05gz5",
+        "score": 0.8561584,
+        "description": "National park"
+      },
+      {
+        "entityId": "/m/0166ls",
+        "score": 0.7121,
+        "description": "Park"
+      },
+      {
+        "entityId": "/m/021krv",
+        "score": 0.67664266,
+        "description": "State park"
+      },
+      {
+        "entityId": "/m/02zr8",
+        "score": 0.6264667,
+        "description": "Forest"
+      },
+      {
+        "entityId": "/m/0swq_",
+        "score": 0.6232209,
+        "description": "Nature reserve"
+      },
+      {
+        "entityId": "/t/25v6vz_gf6tyy",
+        "score": 0.5396
+      },
+      {
+        "entityId": "/g/122tb_3n",
+        "score": 0.479,
+        "description": "Temperate coniferous forest"
+      },
+      {
+        "entityId": "/m/0hnc1",
+        "score": 0.44116026,
+        "description": "Woodland"
+      },
+      {
+        "entityId": "/m/01cv98",
+        "score": 0.41068116,
+        "description": "Temperate broadleaf and mixed forest"
+      },
+      {
+        "entityId": "/m/023bbt",
+        "score": 0.3580803,
+        "description": "Wilderness"
+      },
+      {
+        "entityId": "/m/042g2h",
+        "score": 0.34972823,
+        "description": "Old-growth forest"
+      },
+      {
+        "entityId": "/m/01cv9m",
+        "score": 0.3320578,
+        "description": "Tropical and subtropical coniferous forests"
+      },
+      {
+        "entityId": "/m/0hv3g",
+        "score": 0.3297748,
+        "description": "Conifers"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://hurray-usa.nl/wp-content/uploads/2018/03/6297897948_9ce98957ae_b-1-1024x680.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://www.pinsdaddy.com/yosemite-natinal-park_iZGiHC1ZRp4g0HJD7YXHPG6Dg5UwsxGXImejm89pU48/",
+        "pageTitle": "&lt;b&gt;Yosemite&lt;/b&gt; Natinal &lt;b&gt;Park&lt;/b&gt; Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "http://hurray-usa.nl/wp-content/uploads/2018/03/6297897948_9ce98957ae_b-1-1024x680.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/sacoya-national-park_lrFqoahKXA2Um73ZiFAmvAEHIXGPbuXcztDXww3acJc/",
+        "pageTitle": "Sacoya &lt;b&gt;National Park&lt;/b&gt; Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "http://hurray-usa.nl/wp-content/uploads/2018/03/6297897948_9ce98957ae_b-1-1024x680.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/nantional-park-sequoia_qhQdAp94Ao8d5thH6qazJfs2fZecfb6SWWE64tRKJCc/",
+        "pageTitle": "Nantional &lt;b&gt;Park&lt;/b&gt; Sequoia Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "http://hurray-usa.nl/wp-content/uploads/2018/03/6297897948_9ce98957ae_b-1-1024x680.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://hurray-usa.nl/yosemite-national-park-hoogtepunten/",
+        "pageTitle": "&lt;b&gt;Yosemite National Park&lt;/b&gt;: dit zijn de hoogtepunten - Hurray-USA",
+        "fullMatchingImages": [
+          {
+            "url": "http://hurray-usa.nl/wp-content/uploads/2018/03/6297897948_9ce98957ae_b-1-1024x680.jpg"
+          }
+        ]
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "Yosemite National Park"
+      }
+    ]
+  }
+}

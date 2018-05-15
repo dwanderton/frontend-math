@@ -1,0 +1,454 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0cjzrp",
+      "description": "Callanish Stones",
+      "score": 0.5687383,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 170,
+            "y": 1018
+          },
+          {
+            "x": 1020,
+            "y": 1018
+          },
+          {
+            "x": 1020,
+            "y": 1169
+          },
+          {
+            "x": 170,
+            "y": 1169
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 58.199118,
+            "longitude": -6.744862
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/01cbzq",
+      "description": "rock",
+      "score": 0.9437318,
+      "topicality": 0.9437318
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.9079222,
+      "topicality": 0.9079222
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.8763431,
+      "topicality": 0.8763431
+    },
+    {
+      "mid": "/m/056wv",
+      "description": "megalith",
+      "score": 0.86960834,
+      "topicality": 0.86960834
+    },
+    {
+      "mid": "/m/01v4jb",
+      "description": "monolith",
+      "score": 0.8401919,
+      "topicality": 0.8401919
+    },
+    {
+      "mid": "/m/012ww9",
+      "description": "archaeological site",
+      "score": 0.8333748,
+      "topicality": 0.8333748
+    },
+    {
+      "mid": "/m/02ljgl",
+      "description": "monument",
+      "score": 0.8093597,
+      "topicality": 0.8093597
+    },
+    {
+      "mid": "/m/07yr8h",
+      "description": "historic site",
+      "score": 0.80418676,
+      "topicality": 0.80418676
+    },
+    {
+      "mid": "/m/08t9c_",
+      "description": "grass",
+      "score": 0.79921776,
+      "topicality": 0.79921776
+    },
+    {
+      "mid": "/m/0djmp",
+      "description": "ancient history",
+      "score": 0.7809147,
+      "topicality": 0.7809147
+    },
+    {
+      "mid": "/m/0h8lhsd",
+      "description": "outdoor structure",
+      "score": 0.653325,
+      "topicality": 0.653325
+    },
+    {
+      "mid": "/g/11k2xz7mr",
+      "description": "meteorological phenomenon",
+      "score": 0.60288745,
+      "topicality": 0.60288745
+    },
+    {
+      "mid": "/m/03g3w",
+      "description": "history",
+      "score": 0.59998894,
+      "topicality": 0.59998894
+    },
+    {
+      "mid": "/m/07cwvn",
+      "description": "outcrop",
+      "score": 0.59461164,
+      "topicality": 0.59461164
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.58351976,
+      "topicality": 0.58351976
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.54944485,
+      "topicality": 0.54944485
+    },
+    {
+      "mid": "/m/0pb0b",
+      "description": "national trust for places of historic interest or natural beauty",
+      "score": 0.534436,
+      "topicality": 0.534436
+    },
+    {
+      "mid": "/m/03k5cs",
+      "description": "formation",
+      "score": 0.5290395,
+      "topicality": 0.5290395
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 134,
+            "green": 118,
+            "blue": 87
+          },
+          "score": 0.37740034,
+          "pixelFraction": 0.0874
+        },
+        {
+          "color": {
+            "red": 73,
+            "green": 80,
+            "blue": 95
+          },
+          "score": 0.096335135,
+          "pixelFraction": 0.0266
+        },
+        {
+          "color": {
+            "red": 189,
+            "green": 194,
+            "blue": 202
+          },
+          "score": 0.063078865,
+          "pixelFraction": 0.18953334
+        },
+        {
+          "color": {
+            "red": 162,
+            "green": 146,
+            "blue": 114
+          },
+          "score": 0.13975668,
+          "pixelFraction": 0.0442
+        },
+        {
+          "color": {
+            "red": 102,
+            "green": 88,
+            "blue": 58
+          },
+          "score": 0.09592787,
+          "pixelFraction": 0.056533333
+        },
+        {
+          "color": {
+            "red": 81,
+            "green": 83,
+            "blue": 88
+          },
+          "score": 0.056797095,
+          "pixelFraction": 0.037933335
+        },
+        {
+          "color": {
+            "red": 116,
+            "green": 117,
+            "blue": 120
+          },
+          "score": 0.034127384,
+          "pixelFraction": 0.107666664
+        },
+        {
+          "color": {
+            "red": 135,
+            "green": 116,
+            "blue": 71
+          },
+          "score": 0.033557672,
+          "pixelFraction": 0.0060666665
+        },
+        {
+          "color": {
+            "red": 155,
+            "green": 157,
+            "blue": 164
+          },
+          "score": 0.026281653,
+          "pixelFraction": 0.13513333
+        },
+        {
+          "color": {
+            "red": 97,
+            "green": 82,
+            "blue": 32
+          },
+          "score": 0.021709582,
+          "pixelFraction": 0.070933335
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 429
+            },
+            {
+              "x": 1535
+            },
+            {
+              "x": 1535,
+              "y": 1364
+            },
+            {
+              "x": 429,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.7
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 121
+            },
+            {
+              "x": 1514
+            },
+            {
+              "x": 1514,
+              "y": 1364
+            },
+            {
+              "x": 121,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.82
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 162
+            },
+            {
+              "x": 1801
+            },
+            {
+              "x": 1801,
+              "y": 1364
+            },
+            {
+              "x": 162,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.89
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0cjzrp",
+        "score": 11.2448,
+        "description": "Callanish Stones"
+      },
+      {
+        "entityId": "/m/056wv",
+        "score": 0.89442277,
+        "description": "Megalith"
+      },
+      {
+        "entityId": "/m/02ljgl",
+        "score": 0.8857183,
+        "description": "Monument"
+      },
+      {
+        "entityId": "/m/07yr8h",
+        "score": 0.8840576,
+        "description": "Historic site"
+      },
+      {
+        "entityId": "/m/012ww9",
+        "score": 0.8671648,
+        "description": "Archaeological site"
+      },
+      {
+        "entityId": "/m/01v4jb",
+        "score": 0.86086076,
+        "description": "Monolith"
+      },
+      {
+        "entityId": "/m/025s3q0",
+        "score": 0.82203305,
+        "description": "Landscape"
+      },
+      {
+        "entityId": "/m/03g3w",
+        "score": 0.77568036,
+        "description": "History"
+      },
+      {
+        "entityId": "/m/07cwvn",
+        "score": 0.69617414,
+        "description": "Outcrop"
+      },
+      {
+        "entityId": "/m/01bqvp",
+        "score": 0.6242552,
+        "description": "Sky"
+      },
+      {
+        "entityId": "/m/0n68_",
+        "score": 0.6214,
+        "description": "Structure"
+      },
+      {
+        "entityId": "/m/0djmp",
+        "score": 0.6042221,
+        "description": "Ancient history"
+      },
+      {
+        "entityId": "/m/0pb0b",
+        "score": 0.5900992,
+        "description": "National Trust"
+      },
+      {
+        "entityId": "/g/121w64t_",
+        "score": 0.5478,
+        "description": "Fenomen meteorològic"
+      },
+      {
+        "entityId": "/m/02934z",
+        "score": 0.23332,
+        "description": "Callanish"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://arthistoryproject.com/site/assets/files/17109/callanish-standing-stones_trivium-art-history_upload_tmp.400x0.jpg"
+      },
+      {
+        "url": "https://images.robertharding.com/preview/RM/RH/HORIZONTAL/322-5672.jpg"
+      },
+      {
+        "url": "https://craigtravel.com/sites/default/files/images/gallery/scotland_callanishstones_rob.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/0d/4e/1e/callinish-standing-stones.jpg"
+      },
+      {
+        "url": "http://www.adrianashworth.co.uk/wp-content/uploads/2016/01/Callanish-Standing-Stones.jpg"
+      },
+      {
+        "url": "http://4.bp.blogspot.com/-UrJfvJBejx0/VLWnsBrEqgI/AAAAAAAAIC4/21MSAazpTUo/s1600/Standing_Stones_of_Callanish_(Callanish_I)_(9605427).jpg"
+      },
+      {
+        "url": "http://l450v.alamy.com/450v/c48kff/the-callanish-stones-or-callanish-i-clachan-chalanais-or-tursachan-c48kff.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/64/f0/a6/callanish-stone-circle.jpg"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-7umKI0VT-rU/VgEyID4xqZI/AAAAAAAAZ4s/tf9_hsGumywHQeCUo_m09Ji7JryArdTNgCHMYBhgL/P1070070.JPG?imgmax=1024"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/the-callanish-stones-at-isle-of-lewis-scotland-picture-id508850830?s=170667a"
+      },
+      {
+        "url": "http://www.martinlawrencephotography.com/images/made/chrootassets/img/content/gallery/Callanish-I--Calannish-Standing-Stones-Lewis_800_574_assetsimglayoutml-copy.png_0_0_70_l_b_6_-6.jpg"
+      },
+      {
+        "url": "http://www.diamond-investments.net/uploads/1/8/2/9/18296189/2445024_orig.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Callanish_Stones_in_summer_2012_%2812%29.JPG"
+      },
+      {
+        "url": "http://www.megalithia.com/callanish/060501_callanish_img_2397.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/callanish-standing-stones-picture-id170100677?s=612x612"
+      },
+      {
+        "url": "http://www.olvarwood.com.au/wp-content/uploads/2016/11/Callanish_standing_stones_1-1024x456.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "callanish stones"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+water
+sky
+reflection
+tree
+grass
+biome
+lake
+river
+pond
+landscape

@@ -1,0 +1,348 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.94158274,
+      "topicality": 0.94158274
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.8975884,
+      "topicality": 0.8975884
+    },
+    {
+      "mid": "/m/02s3y",
+      "description": "horse like mammal",
+      "score": 0.8975325,
+      "topicality": 0.8975325
+    },
+    {
+      "mid": "/m/0ffhf",
+      "description": "donkey",
+      "score": 0.89057285,
+      "topicality": 0.89057285
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.83359677,
+      "topicality": 0.83359677
+    },
+    {
+      "mid": "/m/0464z4",
+      "description": "pack animal",
+      "score": 0.7986736,
+      "topicality": 0.7986736
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.7883157,
+      "topicality": 0.7883157
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.76906693,
+      "topicality": 0.76906693
+    },
+    {
+      "mid": "/m/03k3r",
+      "description": "horse",
+      "score": 0.7615946,
+      "topicality": 0.7615946
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.75914776,
+      "topicality": 0.75914776
+    },
+    {
+      "mid": "/m/0ch8v",
+      "description": "livestock",
+      "score": 0.6672496,
+      "topicality": 0.6672496
+    },
+    {
+      "mid": "/m/0fy9p2",
+      "description": "mane",
+      "score": 0.60700256,
+      "topicality": 0.60700256
+    },
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.5678288,
+      "topicality": 0.5678288
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 52,
+            "green": 52,
+            "blue": 52
+          },
+          "score": 0.4041681,
+          "pixelFraction": 0.41206667
+        },
+        {
+          "color": {
+            "red": 26,
+            "green": 26,
+            "blue": 26
+          },
+          "score": 0.2663845,
+          "pixelFraction": 0.30673334
+        },
+        {
+          "color": {
+            "red": 81,
+            "green": 81,
+            "blue": 81
+          },
+          "score": 0.18772256,
+          "pixelFraction": 0.16186666
+        },
+        {
+          "color": {
+            "red": 117,
+            "green": 117,
+            "blue": 117
+          },
+          "score": 0.07072676,
+          "pixelFraction": 0.049666665
+        },
+        {
+          "color": {
+            "red": 155,
+            "green": 155,
+            "blue": 155
+          },
+          "score": 0.036037937,
+          "pixelFraction": 0.030466666
+        },
+        {
+          "color": {
+            "red": 192,
+            "green": 192,
+            "blue": 192
+          },
+          "score": 0.026541721,
+          "pixelFraction": 0.0234
+        },
+        {
+          "color": {
+            "red": 230,
+            "green": 230,
+            "blue": 230
+          },
+          "score": 0.008418392,
+          "pixelFraction": 0.0158
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 551
+            },
+            {
+              "x": 551,
+              "y": 679
+            },
+            {
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 685
+            },
+            {
+              "x": 685,
+              "y": 679
+            },
+            {
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 818
+            },
+            {
+              "x": 818,
+              "y": 679
+            },
+            {
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/03k3r",
+        "score": 1.7600112,
+        "description": "Horse"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.91040385,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.8898953,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/0464z4",
+        "score": 0.8761669,
+        "description": "Pack animal"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.8401111,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.829159,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/0ch8v",
+        "score": 0.78780407,
+        "description": "Livestock"
+      },
+      {
+        "entityId": "/m/05mqq3",
+        "score": 0.7579792,
+        "description": "Snout"
+      },
+      {
+        "entityId": "/m/035qhg",
+        "score": 0.7516625,
+        "description": "Fauna"
+      },
+      {
+        "entityId": "/m/0fy9p2",
+        "score": 0.7483286,
+        "description": "Mane"
+      },
+      {
+        "entityId": "/m/0jbk",
+        "score": 0.7243479,
+        "description": "Animal"
+      },
+      {
+        "entityId": "/g/120j33jd",
+        "score": 0.6863,
+        "description": "Donkey"
+      },
+      {
+        "entityId": "/m/01280g",
+        "score": 0.68562686,
+        "description": "Wildlife"
+      },
+      {
+        "entityId": "/m/04rky",
+        "score": 0.4908,
+        "description": "Mammal"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://petterhepso.com/bilder/Photo/pop_up/Plantasjen1.jpg"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2013/08/21/fashion/20130821-lens-yang-slide-51HQ/20130821-lens-yang-slide-51HQ-superJumbo.jpg"
+      },
+      {
+        "url": "http://i0.kym-cdn.com/photos/images/original/000/758/807/486.jpg"
+      },
+      {
+        "url": "http://www.photosofnepal.com.np/wp-content/uploads/2017/03/Bhaktapur-4--768x511.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/bb/89/2f/bb892f3adaa3e89b30a5050610f23a8b.jpg"
+      },
+      {
+        "url": "https://amp.businessinsider.com/images/57153201dd089569448b4a6f-750-375.jpg"
+      },
+      {
+        "url": "https://www.fnc.hu/eng/images/muveszgaleria/cirkuszregen/947661235908841.jpg"
+      },
+      {
+        "url": "https://cdn.theculturetrip.com/wp-content/uploads/2018/02/1024px-ghost_station-1-650x434.jpg"
+      },
+      {
+        "url": "http://i.dailymail.co.uk/i/pix/2017/04/12/08/3F2B4F2900000578-0-image-a-37_1491980465049.jpg"
+      },
+      {
+        "url": "http://img.cache.vevo.com/thumb/cms/f764d5fc-25e8-4d3d-9f0b-57953c48925f.jpg"
+      },
+      {
+        "url": "https://cdn-images-1.medium.com/max/1200/1*fNp3gU6Bruvd35-sLW_K-A.jpeg"
+      },
+      {
+        "url": "https://images.pexels.com/photos/768560/pexels-photo-768560.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb"
+      },
+      {
+        "url": "https://www.magnumphotos.com/wp-content/uploads/2016/04/cortex/nyc16129-teaser-story-big.jpg"
+      },
+      {
+        "url": "https://timedotcom.files.wordpress.com/2015/01/concretecowboys.jpg?quality=85&amp;w=406"
+      },
+      {
+        "url": "https://gregwohead.files.wordpress.com/2015/08/greg3023-rit.jpg?w=1000"
+      },
+      {
+        "url": "https://esthermaycampbell.com/wp-content/uploads/2017/05/5.-DT-FARM-0-768x515.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "donkey"
+      }
+    ]
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0cjzrp",
+      "description": "Callanish Stones",
+      "score": 0.30410802,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 234,
+            "y": 576
+          },
+          {
+            "x": 1010,
+            "y": 576
+          },
+          {
+            "x": 1010,
+            "y": 1105
+          },
+          {
+            "x": 234,
+            "y": 1105
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 58.199118,
+            "longitude": -6.744862
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.952977,
+      "topicality": 0.952977
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.9468831,
+      "topicality": 0.9468831
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9397354,
+      "topicality": 0.9397354
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.90887564,
+      "topicality": 0.90887564
+    },
+    {
+      "mid": "/m/01cbzq",
+      "description": "rock",
+      "score": 0.8656981,
+      "topicality": 0.8656981
+    },
+    {
+      "mid": "/m/01ctsf",
+      "description": "atmosphere",
+      "score": 0.8270987,
+      "topicality": 0.8270987
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.81894493,
+      "topicality": 0.81894493
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7794951,
+      "topicality": 0.7794951
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.7597484,
+      "topicality": 0.7597484
+    },
+    {
+      "mid": "/m/0gjyk",
+      "description": "phenomenon",
+      "score": 0.7547649,
+      "topicality": 0.7547649
+    },
+    {
+      "mid": "/g/11k2xz7mr",
+      "description": "meteorological phenomenon",
+      "score": 0.727532,
+      "topicality": 0.727532
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.66123664,
+      "topicality": 0.66123664
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.6446521,
+      "topicality": 0.6446521
+    },
+    {
+      "mid": "/m/01v4jb",
+      "description": "monolith",
+      "score": 0.5722929,
+      "topicality": 0.5722929
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.55353343,
+      "topicality": 0.55353343
+    },
+    {
+      "mid": "/m/03g3w",
+      "description": "history",
+      "score": 0.5201763,
+      "topicality": 0.5201763
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 52,
+            "green": 52,
+            "blue": 52
+          },
+          "score": 0.34178942,
+          "pixelFraction": 0.23733333
+        },
+        {
+          "color": {
+            "red": 152,
+            "green": 152,
+            "blue": 152
+          },
+          "score": 0.23073125,
+          "pixelFraction": 0.1028
+        },
+        {
+          "color": {
+            "red": 125,
+            "green": 125,
+            "blue": 125
+          },
+          "score": 0.20351876,
+          "pixelFraction": 0.13246667
+        },
+        {
+          "color": {
+            "red": 80,
+            "green": 80,
+            "blue": 80
+          },
+          "score": 0.1405851,
+          "pixelFraction": 0.1644
+        },
+        {
+          "color": {
+            "red": 27,
+            "green": 27,
+            "blue": 27
+          },
+          "score": 0.0773944,
+          "pixelFraction": 0.30946666
+        },
+        {
+          "color": {
+            "red": 181,
+            "green": 181,
+            "blue": 181
+          },
+          "score": 0.0059810816,
+          "pixelFraction": 0.0526
+        },
+        {
+          "color": {
+            "red": 220,
+            "green": 220,
+            "blue": 220
+          },
+          "score": 2.1183287e-10,
+          "pixelFraction": 0.00093333336
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 429
+            },
+            {
+              "x": 1535
+            },
+            {
+              "x": 1535,
+              "y": 1364
+            },
+            {
+              "x": 429,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.61
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 306
+            },
+            {
+              "x": 1678
+            },
+            {
+              "x": 1678,
+              "y": 1364
+            },
+            {
+              "x": 306,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.74
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 162
+            },
+            {
+              "x": 1801
+            },
+            {
+              "x": 1801,
+              "y": 1364
+            },
+            {
+              "x": 162,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0cjzrp",
+        "score": 11.2224,
+        "description": "Callanish Stones"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.9113466,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.90539336,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.8844664,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/0csby",
+        "score": 0.86621857,
+        "description": "Cloud"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.8399272,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/01bqvp",
+        "score": 0.8311717,
+        "description": "Sky"
+      },
+      {
+        "entityId": "/m/01ctsf",
+        "score": 0.7820424,
+        "description": "Atmosphere"
+      },
+      {
+        "entityId": "/m/0gjyk",
+        "score": 0.7547385,
+        "description": "Phenomenon"
+      },
+      {
+        "entityId": "/m/01v4jb",
+        "score": 0.7138036,
+        "description": "Monolith"
+      },
+      {
+        "entityId": "/m/01kyr8",
+        "score": 0.7093296,
+        "description": "Darkness"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.66343755,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/g/121w64t_",
+        "score": 0.6436,
+        "description": "Fenomen meteorològic"
+      },
+      {
+        "entityId": "/m/07j7r",
+        "score": 0.5313685,
+        "description": "Tree"
+      },
+      {
+        "entityId": "/m/02934z",
+        "score": 0.2256,
+        "description": "Callanish"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://www.shuttershot.co.uk/wpimages/e80fa54a9da4.jpg"
+      },
+      {
+        "url": "http://amazon.clikpic.com/rontear/images/Calanish%20Stones.%20copy.jpg"
+      },
+      {
+        "url": "http://www.photoartbytonymills.com/images/Callanish2b1024.jpg"
+      },
+      {
+        "url": "https://www.ephotozine.com/articles/10-top-standing-stones---stone-circle-shots-22555/images/Callanish.jpg"
+      },
+      {
+        "url": "https://www.ephotozine.com/articles/10-top-standing-stones---stone-circle-shots-22555/images/Callanish-standing-stones.jpg"
+      },
+      {
+        "url": "https://imgc.artprintimages.com/img/print/simon-marsden-the-callanish-stones-isle-of-lewis-outer-hebrides-scotland_u-l-p3ff7t0.jpg?src=gp&amp;w=300&amp;h=300"
+      },
+      {
+        "url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/callanish-stones-2-dave-bowman.jpg"
+      },
+      {
+        "url": "https://2.bp.blogspot.com/-oU6-v8_LWCs/WO4Zd4EzOLI/AAAAAAAAELk/pW97USTVGF0cJtKsPNr8DTytrD7CrhA_wCLcB/s1600/mheb059.jpg"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/a758d0e7d3834ce9bf87795d60e9f35f/callanish-i-stone-circle-at-callanish-isle-of-lewis-outer-hebrides-e7p3e6.jpg"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0900/3454/products/L00006_DSC7594-Calanish_BW_1024x1024.jpg?v=1437413226"
+      },
+      {
+        "url": "https://c1.staticflickr.com/2/1716/25302227375_a90734de04_b.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/callanish-standing-stones-isle-of-lewis-picture-id169981373?s=170667a"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/cb/94/c1/cb94c1eb6418f0df8f023f45fb49239e.jpg"
+      },
+      {
+        "url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/callanish-stones-dave-bowman.jpg"
+      },
+      {
+        "url": "https://img00.deviantart.net/5e97/i/2015/193/3/6/callanish_stones_by_ambr0-d90yw5a.jpg"
+      },
+      {
+        "url": "https://amazon.clikpic.com/jcg23/images/37.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "callanish stones"
+      }
+    ]
+  }
+}

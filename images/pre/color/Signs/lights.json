@@ -1,0 +1,978 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/088fh",
+      "description": "yellow",
+      "score": 0.9561739,
+      "topicality": 0.9561739
+    },
+    {
+      "mid": "/m/015qff",
+      "description": "traffic light",
+      "score": 0.90863687,
+      "topicality": 0.90863687
+    },
+    {
+      "mid": "/m/01mqdt",
+      "description": "traffic sign",
+      "score": 0.8482201,
+      "topicality": 0.8482201
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.82324916,
+      "topicality": 0.82324916
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "signage",
+      "score": 0.80827963,
+      "topicality": 0.80827963
+    },
+    {
+      "mid": "/m/07q3ylx",
+      "description": "signaling device",
+      "score": 0.76283485,
+      "topicality": 0.76283485
+    },
+    {
+      "mid": "/m/019sc6",
+      "description": "lighting",
+      "score": 0.74830806,
+      "topicality": 0.74830806
+    },
+    {
+      "mid": "/m/08jpwt",
+      "description": "light fixture",
+      "score": 0.72158283,
+      "topicality": 0.72158283
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.6981918,
+      "topicality": 0.6981918
+    },
+    {
+      "mid": "/m/03scnj",
+      "description": "line",
+      "score": 0.663253,
+      "topicality": 0.663253
+    },
+    {
+      "mid": "/m/03y18t",
+      "description": "product design",
+      "score": 0.5835973,
+      "topicality": 0.5835973
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 239,
+            "green": 144,
+            "blue": 4
+          },
+          "score": 0.42768186,
+          "pixelFraction": 0.15282574
+        },
+        {
+          "color": {
+            "red": 212,
+            "green": 35,
+            "blue": 37
+          },
+          "score": 0.108297706,
+          "pixelFraction": 0.00910518
+        },
+        {
+          "color": {
+            "red": 7,
+            "green": 150,
+            "blue": 77
+          },
+          "score": 0.074810214,
+          "pixelFraction": 0.011067504
+        },
+        {
+          "color": {
+            "red": 83,
+            "green": 46,
+            "blue": 32
+          },
+          "score": 0.030951692,
+          "pixelFraction": 0.02323391
+        },
+        {
+          "color": {
+            "red": 168,
+            "green": 106,
+            "blue": 22
+          },
+          "score": 0.0120755425,
+          "pixelFraction": 0.008241759
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 69,
+            "blue": 24
+          },
+          "score": 0.009807791,
+          "pixelFraction": 0.007849294
+        },
+        {
+          "color": {
+            "red": 174,
+            "green": 42,
+            "blue": 38
+          },
+          "score": 0.0056196097,
+          "pixelFraction": 0.0007849294
+        },
+        {
+          "color": {
+            "red": 38,
+            "green": 108,
+            "blue": 60
+          },
+          "score": 0.0045075887,
+          "pixelFraction": 0.0011773941
+        },
+        {
+          "color": {
+            "red": 129,
+            "green": 50,
+            "blue": 47
+          },
+          "score": 0.004419773,
+          "pixelFraction": 0.0015698588
+        },
+        {
+          "color": {
+            "red": 229,
+            "green": 148,
+            "blue": 10
+          },
+          "score": 0.11082515,
+          "pixelFraction": 0.0489011
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 374
+            },
+            {
+              "x": 374,
+              "y": 469
+            },
+            {
+              "y": 469
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.97999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 374
+            },
+            {
+              "x": 374,
+              "y": 379
+            },
+            {
+              "y": 379
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.93
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 374
+            },
+            {
+              "x": 374,
+              "y": 314
+            },
+            {
+              "y": 314
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.81
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/015qff",
+        "score": 0.8167,
+        "description": "Traffic light"
+      },
+      {
+        "entityId": "/m/01mqdt",
+        "score": 0.7093,
+        "description": "Traffic sign"
+      },
+      {
+        "entityId": "/m/02c428",
+        "score": 0.7044,
+        "description": "Warning sign"
+      },
+      {
+        "entityId": "/m/0btp2",
+        "score": 0.7019,
+        "description": "Traffic"
+      },
+      {
+        "entityId": "/m/06zsq",
+        "score": 0.6668,
+        "description": "Sign"
+      },
+      {
+        "entityId": "/m/03nllth",
+        "score": 0.6323,
+        "description": "Red light camera"
+      },
+      {
+        "entityId": "/m/02pv19",
+        "score": 0.5971,
+        "description": "Stop sign"
+      },
+      {
+        "entityId": "/m/06k2cw",
+        "score": 0.5658,
+        "description": "Yield sign"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.5645,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/03g09t",
+        "score": 0.5456,
+        "description": "Clip art"
+      },
+      {
+        "entityId": "/m/04tm38",
+        "score": 0.5193,
+        "description": "Manual on Uniform Traffic Control Devices"
+      },
+      {
+        "entityId": "/m/07yst1",
+        "score": 0.5177,
+        "description": "Royalty-free"
+      },
+      {
+        "entityId": "/m/06gfj",
+        "score": 0.5033,
+        "description": "Road"
+      },
+      {
+        "entityId": "/m/08jz0c",
+        "score": 0.4978,
+        "description": "Regulatory sign"
+      },
+      {
+        "entityId": "/m/0kw6d",
+        "score": 0.4599,
+        "description": "Driving"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://photos2.fotosearch.com/bthumb/UNS/UNS088/road-sign-traffic-signals-ahead-sign-stock-photo__u21478864.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Traffic_lights_ahead_THA_T-9.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/2000px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-TJn8EAiBBZ4/VnJCDC3ZE3I/AAAAAAAADpo/D1dz-35ZKyE/s1600/IMG_1367.PNG"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/traffic-light-sign-21821029.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-KXm2hiJ1SMA/WLpXqt2o5AI/AAAAAAABmf0/xKW68J0NZ2Y9LarTstke5jjlYwnmAF27gCLcB/s1600/Nova%2BImagem.bmp"
+      },
+      {
+        "url": "https://image.shutterstock.com/z/stock-photo-traffic-light-sign-412736095.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/1200px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Indonesia_New_Road_Sign_4a1.png"
+      },
+      {
+        "url": "http://lnpbrandprintingsolutions.co.za/wp/wp-content/uploads/2017/07/Indonesia_New_Road_Sign_4a1.png"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/warning-sign-traffic-lights-signal-thailand-33425079.jpg"
+      },
+      {
+        "url": "http://wilsontimes.com/uploads/original/1520564075_d15b.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/1024px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Traffic_lights_ahead_THA_T-9.png/1024px-Traffic_lights_ahead_THA_T-9.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jamaica_road_sign_W15.svg/1000px-Jamaica_road_sign_W15.svg.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/1000px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "https://image.slidesharecdn.com/segurdadvialenvenezuela-120816121646-phpapp02/95/segurdad-vial-en-venezuela-14-728.jpg?cb=1345119745"
+      },
+      {
+        "url": "https://t1.ftcdn.net/jpg/00/93/70/44/1000_F_93704496_pC4aA4YIDgQDAVqYHh4QZQtVxryFYhZD.jpg"
+      },
+      {
+        "url": "http://slideplayer.com/8425301/26/images/17/Symbolic+Communication.jpg"
+      },
+      {
+        "url": "http://datechguyblog.com/wp-content/uploads/2015/03/Red-light-camera-e1482495630579.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jamaica_road_sign_W15.svg/815px-Jamaica_road_sign_W15.svg.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/768px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Traffic_lights_ahead_THA_T-9.png/768px-Traffic_lights_ahead_THA_T-9.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Indonesia_New_Road_Sign_4a1.png/767px-Indonesia_New_Road_Sign_4a1.png"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/b/traffic-light-sign-2918522.jpg"
+      },
+      {
+        "url": "http://clipart-library.com/images/gce5K6rcd.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/682px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "https://steamuserimages-a.akamaihd.net/ugc/320123098202714489/0C8556216547AB600BAE87992B3FF9508F31FD7B/"
+      },
+      {
+        "url": "http://www.kursusmengemudibooim.com/img/2.png"
+      },
+      {
+        "url": "http://1.bp.blogspot.com/-3DaV_eVX9Fk/WMEgg2jGAsI/AAAAAAAApRI/8eUWmos2hnwCO3m-ZDxK71Fbplg2ZysdgCK4B/s1600/640px-Indonesia_New_Road_Sign_4a1-778394.png"
+      },
+      {
+        "url": "https://ak5.picdn.net/shutterstock/videos/24356885/thumb/3.jpg"
+      },
+      {
+        "url": "https://sc01.alicdn.com/kf/HTB1qf.MHpXXXXcOXFXXq6xXFXXX3/Highway-Traffic-Supply-Stop-Sign-Engineer-Grade.jpg"
+      },
+      {
+        "url": "https://suntimesmedia.files.wordpress.com/2016/11/red_light_cameras_chicago_52430859.jpg?w=763"
+      },
+      {
+        "url": "http://www.9yjk.com/img_biz/MFKC2JDEXPD9NaaCASv51icx5MSh9BqsaGTfuzk5PCSFd4rWSKic7o7HeZo4gNrYcoHsfTHQccDxlQTmznEUSjOw.jpg"
+      },
+      {
+        "url": "http://rambulalulintas.alamcloud.com/asset/images/rambu.png"
+      },
+      {
+        "url": "https://www.proprofs.com/flashcards/upload/q10775301.png"
+      },
+      {
+        "url": "http://www.proprofs.com/quiz-school/upload/yuiupload/2129848654.jpg"
+      },
+      {
+        "url": "http://img1.iaweg.com/pic/2ltZzAucGguMTI2Lm5ldC8yY3hzeHoxbTMyLV9Da2doaU03RUt3PT0vMjk4MzYzNDc1MzIzMjk3NDkzNC5qcGclog"
+      },
+      {
+        "url": "http://pic1.jigouxinxi.com/tupian/HTTP2ltZ3NyYy5iYWlkdS5jb20vZm9ydW0vdyUzRDU4MC9zaWduPWJmMmY2ZDk1Njk2MDBjMzNmMDc5ZGVjMDJhNGQ1MTM0L2RmZDhmNDAzNzM4ZGE5NzdlZDVlMjhhYWIyNTFmODE5ODcxOGUzODMuanBn.jpg"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/46a35b9da711425bb0b1b83af7cea015/ajd42860-road-sign-traffic-signals-ahead-sign-ac6p1c.jpg"
+      },
+      {
+        "url": "https://www.reviewjournal.com/wp-content/uploads/2016/05/web1_bakersignal_052316_07_6.jpg"
+      },
+      {
+        "url": "https://s.cafebazaar.ir/1/icons/ir.gavahi.online_512x512.png"
+      },
+      {
+        "url": "https://cafebazaar.ir/media/upload/icons/ir.gavahi.online.png"
+      },
+      {
+        "url": "http://s.driving-tests.org/wp-content/uploads/autotest/MUTCD_W3-3.svg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jamaica_road_sign_W15.svg/500px-Jamaica_road_sign_W15.svg.png"
+      },
+      {
+        "url": "https://www.alphabetsigns.com/mm5/graphics/00000044/signal-ahead-symbol-w3-3.png"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/MUTCD_W3-3.svg/500px-MUTCD_W3-3.svg.png"
+      },
+      {
+        "url": "http://dottrafficsigns.com/image/cache/data/Category%20Photos/Warning_Signs/W3-3SRA27-500x500.jpg"
+      },
+      {
+        "url": "https://mariannerauch.files.wordpress.com/2007/09/senal.jpg"
+      },
+      {
+        "url": "https://3.bp.blogspot.com/-DdONaTvx8wg/WqtDW2KqjSI/AAAAAAAAubY/Nszh1A9O8j4YXQKxrowDvyCdx94qzLUwgCLcBGAs/s1600/Road%2BSigns%2Bwall%2Bdecal%2B%2B7.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Indonesia_New_Road_Sign_4a1.png/480px-Indonesia_New_Road_Sign_4a1.png"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.reviewjournal.com/traffic/baker-gets-its-first-traffic-signal/",
+        "pageTitle": "Baker gets its first &lt;b&gt;traffic signal&lt;/b&gt; – Las Vegas Review-Journal",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.reviewjournal.com/wp-content/uploads/2016/05/web1_bakersignal_052316_07_6.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shutterstock.com/image-vector/warning-traffic-sign-intersection-light-204377404",
+        "pageTitle": "Warning Traffic &lt;b&gt;Sign&lt;/b&gt; Intersection &lt;b&gt;Traffic Light&lt;/b&gt; Stock Vector ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumb9.shutterstock.com/display_pic_with_logo/1266568/780547912/stock-vector-traffic-signal-symbol-sign-stop-ahead-signs-traffic-light-ahead-warning-vector-illustration-780547912.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.azdot.gov/business/engineering-and-construction/traffic/manual-of-approved-signs/warning-signs-and-object-markers",
+        "pageTitle": "Warning &lt;b&gt;Signs&lt;/b&gt; and Object Markers - ADOT",
+        "partialMatchingImages": [
+          {
+            "url": "https://apps.azdot.gov/files/traffic/moas/thumbgif/w/w03-003.gif"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shutterstock.com/image-illustration/traffic-lights-sign-154285295",
+        "pageTitle": "&lt;b&gt;Traffic Lights Sign&lt;/b&gt; Stock Illustration 154285295 - Shutterstock",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumb1.shutterstock.com/display_pic_with_logo/1153076/331864160/stock-photo-light-traffic-sign-331864160.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://wilsontimes.com/stories/our-opinion-red-light-ripoff-greenville-flouts-court-on-cameras,116651",
+        "pageTitle": "Our Opinion | &lt;b&gt;Red&lt;/b&gt;-&lt;b&gt;light&lt;/b&gt; ripoff: Greenville flouts court on cameras ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://wilsontimes.com/uploads/original/1520564075_d15b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://chicago.suntimes.com/news/city-council-approves-speed-red-light-camera-settlement/",
+        "pageTitle": "City Council approves speed, &lt;b&gt;red&lt;/b&gt;-&lt;b&gt;light&lt;/b&gt; camera settlement | Chicago ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://suntimesmedia.files.wordpress.com/2016/11/red_light_cameras_chicago_52430859.jpg?w=763"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/stock-photography-traffic-light-sign-image2918522",
+        "pageTitle": "&lt;b&gt;Traffic light sign&lt;/b&gt; stock photo. Image of city, stoplight - 2918522",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/b/traffic-light-sign-2918522.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.freeart.com/art/prints/traffic-light-sign/all/",
+        "pageTitle": "Free &lt;b&gt;Traffic Light Sign&lt;/b&gt; Art Prints and Wall Art | FreeArt",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-thumbs.freeart.com/traffic-light-sign_fa766180.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dreamstime.com/royalty-free-stock-images-warning-sign-traffic-lights-signal-thailand-image33425079",
+        "pageTitle": "Warning &lt;b&gt;Sign Traffic Lights Signal&lt;/b&gt; Stock Illustration - Illustration of ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/z/warning-sign-traffic-lights-signal-thailand-33425079.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.trafficsign.us/warnsign.html",
+        "pageTitle": "Manual of &lt;b&gt;Traffic Signs&lt;/b&gt; - Warning &lt;b&gt;Signs&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.trafficsign.us/50/warn/w3-3.gif"
+          }
+        ]
+      },
+      {
+        "url": "http://dottrafficsigns.com/product/632/Warning%20&amp;amp;%20Safety/traffic-light-symbol-36-x-36-36x36",
+        "pageTitle": "&lt;b&gt;Traffic Light Symbol&lt;/b&gt; 36&amp;quot; x 36&amp;quot; - Traffic &lt;b&gt;Signs&lt;/b&gt; - DOT Compliant",
+        "partialMatchingImages": [
+          {
+            "url": "http://dottrafficsigns.com/image/cache/data/Category%20Photos/Warning_Signs/W3-3SRA27HIA-120x120.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://wilsontimes.com/stories/red-light-ripoff-greenville-flouts-court-on-cameras,116651",
+        "pageTitle": "Our Opinion | &lt;b&gt;Red&lt;/b&gt;-&lt;b&gt;light&lt;/b&gt; ripoff: Greenville flouts court on cameras ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://wilsontimes.com/uploads/original/1520564075_d15b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Traffic_signal-related_warning_road_signs",
+        "pageTitle": "Category:&lt;b&gt;Traffic signal&lt;/b&gt;-related warning road &lt;b&gt;signs&lt;/b&gt; - Wikimedia ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Indonesia_New_Road_Sign_4a1.png/120px-Indonesia_New_Road_Sign_4a1.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dmv-written-test.com/california/practice-test-6.html",
+        "pageTitle": "DMV California Practice Test #6 - Free DMV Written Test",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.dmv-written-test.com/images-car/california-traffic_signal_ahead.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.alamy.com/stock-photo/traffic-light-ahead-warning-sign.html",
+        "pageTitle": "&lt;b&gt;Traffic Light&lt;/b&gt; Ahead Warning &lt;b&gt;Sign&lt;/b&gt; Stock Photos and Images - Alamy",
+        "partialMatchingImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/3bc2d5af99a14143b6d4276ec95eb45d/traffic-light-road-sign-ek81h7.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.alamy.com/stock-photo/traffic-light-warning-sign.html",
+        "pageTitle": "&lt;b&gt;Traffic Light&lt;/b&gt; Warning &lt;b&gt;Sign&lt;/b&gt; Stock Photos and Images - Alamy",
+        "partialMatchingImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/3bc2d5af99a14143b6d4276ec95eb45d/traffic-light-road-sign-ek81h7.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.trafficsign.us/w3.html",
+        "pageTitle": "Manual of &lt;b&gt;Traffic Signs&lt;/b&gt; - W3 Series &lt;b&gt;Signs&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.trafficsign.us/100/warn/w3-3.gif"
+          }
+        ]
+      },
+      {
+        "url": "http://clipart-library.com/picture-of-a-stop-light.html",
+        "pageTitle": "Picture Of A &lt;b&gt;Stop Light&lt;/b&gt; | Free Download Clip Art | Free Clip Art | on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://clipart-library.com/images/gce5K6rcd.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.canstockphoto.com/vatican-street-sign-and-traffic-light-19150367.html",
+        "pageTitle": "Vatican street &lt;b&gt;sign&lt;/b&gt; and &lt;b&gt;traffic light&lt;/b&gt; with &lt;b&gt;red light&lt;/b&gt;. stock image ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn.xl.thumbs.canstockphoto.com/traffic-light-sign-stock-photography_csp0766180.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.canstockphoto.com/traffic-light-sign-1693887.html",
+        "pageTitle": "&lt;b&gt;Traffic light sign&lt;/b&gt; isolated over white background picture - Search ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn.xl.thumbs.canstockphoto.com/traffic-light-sign-stock-photography_csp0766180.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://clipart-library.com/stop-light-images.html",
+        "pageTitle": "&lt;b&gt;Stop Light&lt;/b&gt; Images | Free Download Clip Art | Free Clip Art | on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://clipart-library.com/images/gce5K6rcd.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thelibrary.org/blogs/article.cfm?aid=1726",
+        "pageTitle": "New &lt;b&gt;Traffic Signals&lt;/b&gt; in 1925 - Springfield-Greene County Library",
+        "partialMatchingImages": [
+          {
+            "url": "https://thelibrary.org/lochist/userfiles/images/resized/traffic_175x175.gif"
+          }
+        ]
+      },
+      {
+        "url": "https://www.amazon.com/Street-Traffic-Sign-Wall-Decals/dp/B004G5IJBC",
+        "pageTitle": "Amazon.com: Street &amp;amp; &lt;b&gt;Traffic Sign&lt;/b&gt; Wall Decals - &lt;b&gt;Stop&lt;/b&gt; Ahead &lt;b&gt;Symbol&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/41v9IIAMCBL._SX463_.jpg"
+          },
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/41v9IIAMCBL.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/bcrcmptraffic?lang=en",
+        "pageTitle": "BCRCMP &lt;b&gt;Traffic&lt;/b&gt; (@BCRCMPTraffic) | Twitter",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DTrXjB4XkAA4y2g.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.freeart.com/artwork/art-print/traffic-signal-light_fa1289456.html",
+        "pageTitle": "&lt;b&gt;Traffic signal light&lt;/b&gt; - FreeArt",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-thumbs.freeart.com/traffic-light-sign_fa766180.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://napiwko.info/picture-of-a-stop-light.html",
+        "pageTitle": "Picture Of A &lt;b&gt;Stop Light&lt;/b&gt; | Free Download Clip Art | Free Clip Art | on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://napiwko.info/images/gce5K6rcd.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Traffic_lights_ahead_THA_T-9.png",
+        "pageTitle": "File:&lt;b&gt;Traffic lights&lt;/b&gt; ahead THA T-9.png - Wikimedia Commons",
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Traffic_lights_ahead_THA_T-9.png/768px-Traffic_lights_ahead_THA_T-9.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Traffic_lights_ahead_THA_T-9.png/1024px-Traffic_lights_ahead_THA_T-9.png"
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Traffic_lights_ahead_THA_T-9.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.nwa.gov.jm/news/santa-cruz-pass-traffic-signals-be-put-back-operation",
+        "pageTitle": "Santa Cruz By-pass &lt;b&gt;traffic signals&lt;/b&gt; to be put back in operation ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.nwa.gov.jm/sites/default/files/styles/news_article/public/news/Traffic%20Signal_7.jpg?itok=D8NKacsz"
+          }
+        ]
+      },
+      {
+        "url": "https://www.dmv-written-test.com/wisconsin/practice-test-13.html",
+        "pageTitle": "DMV Wisconsin Practice Test #13 - Free DMV Written Test",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.dmv-written-test.com/images-car/Idaho-traffic_signal_ahead.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.napiwko.info/stop-light-images.html",
+        "pageTitle": "&lt;b&gt;Stop Light&lt;/b&gt; Images | Free Download Clip Art | Free Clip Art | on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.napiwko.info/images/gce5K6rcd.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.fotosearch.com/UNS088/u19745964/",
+        "pageTitle": "Stock Photo of road &lt;b&gt;sign&lt;/b&gt;, &lt;b&gt;Traffic Signals&lt;/b&gt; Ahead &lt;b&gt;sign&lt;/b&gt;, approaching ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://fscomps.fotosearch.com/compc/UNS/UNS088/road-sign-traffic-signals-ahead-sign-stock-photo__u19745964.jpg"
+          },
+          {
+            "url": "http://photos2.fotosearch.com/bthumb/UNS/UNS088/road-sign-traffic-signals-ahead-sign-stock-photo__u21478864.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://nextdoor.com/agency/nj/voorhees-township/voorhees-township-police/traffic-signalpower-outage-26408113/",
+        "pageTitle": "&lt;b&gt;Traffic signal&lt;/b&gt;/power outage (Voorhees Police Department) | Nextdoor",
+        "partialMatchingImages": [
+          {
+            "url": "https://d3926qxcw0e1bh.cloudfront.net/post_photos/19/d2/19d2fbc99fd5f89c7190fecccb888d72.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.amazon.com/Wallmonkeys-Street-Traffic-Wall-Decals/dp/B004G5IJ6C",
+        "pageTitle": "Amazon.com: Wallmonkeys Street and &lt;b&gt;Traffic Sign&lt;/b&gt; Wall Decals ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://images-na.ssl-images-amazon.com/images/I/41v9IIAMCBL._SX463_.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://chicago.suntimes.com/news/red-light-cameras-relocating-to-the-loop/",
+        "pageTitle": "&lt;b&gt;Red light&lt;/b&gt; cameras relocating to the Loop | Chicago Sun-Times",
+        "partialMatchingImages": [
+          {
+            "url": "https://suntimesmedia.files.wordpress.com/2016/11/red_light_cameras_chicago_52430859.jpg?w=763"
+          }
+        ]
+      },
+      {
+        "url": "http://www.kwik-fitinsurance.co.uk/hub/driving-abroad/driving-america/american-road-signs",
+        "pageTitle": "American Road &lt;b&gt;Signs&lt;/b&gt; | Kwik-Fit Insurance Services",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.kwik-fitinsurance.co.uk/sites/files/1_2.png"
+          }
+        ]
+      },
+      {
+        "url": "https://us.traffic-rules.com/en/driving-license-theory/traffic-signs-warning",
+        "pageTitle": "Warning &lt;b&gt;signs&lt;/b&gt; - &lt;b&gt;Traffic signs&lt;/b&gt;: USA",
+        "partialMatchingImages": [
+          {
+            "url": "https://us.traffic-rules.com/img/north-america/us/traffic-signs/warning/warning-traffic-lights.png"
+          }
+        ]
+      },
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=japanese&amp;id=624564911",
+        "pageTitle": "Steam コミュニティ :: ガイド :: Understanding Road &lt;b&gt;Signs&lt;/b&gt; and Road ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://steamuserimages-a.akamaihd.net/ugc/320123098202714489/0C8556216547AB600BAE87992B3FF9508F31FD7B/"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebay.ca/sch/i.html?_sacat=0&amp;_nkw=stop+on+red+sign&amp;_frs=1",
+        "pageTitle": "&lt;b&gt;stop&lt;/b&gt; on &lt;b&gt;red sign&lt;/b&gt; | eBay",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ebayimg.com/thumbs/images/g/-U0AAOSwZqZaJJb0/s-l225.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://id.traffic-rules.com/en/driving-license-theory/traffic-signs-warning",
+        "pageTitle": "Warning &lt;b&gt;signs&lt;/b&gt; - &lt;b&gt;Traffic signs&lt;/b&gt;: Indonesia",
+        "partialMatchingImages": [
+          {
+            "url": "https://id.traffic-rules.com/img/asia/id/traffic-signs/warning/warning-traffic-lights.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mydrlynx.info/box/traffic-light-ahead.php",
+        "pageTitle": "&lt;b&gt;Traffic Light&lt;/b&gt; Ahead | MyDrLynx",
+        "partialMatchingImages": [
+          {
+            "url": "http://fscomps.fotosearch.com/compc/UNS/UNS088/road-sign-traffic-signals-ahead-sign-stock-photo__u19745964.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://wiki2.org/en/Road_signs_in_Indonesia",
+        "pageTitle": "Road &lt;b&gt;signs&lt;/b&gt; in Indonesia — Wikipedia Republished // WIKI 2",
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Indonesia_New_Road_Sign_4a1.png/120px-Indonesia_New_Road_Sign_4a1.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.nwa.gov.jm/news/two-more-signalised-intersections-spanish-town",
+        "pageTitle": "Two more signalised intersections for Spanish Town | National ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.nwa.gov.jm/sites/default/files/styles/news_article/public/news/Traffic%20Signal_2.jpg?itok=F4oOQ23w"
+          }
+        ]
+      },
+      {
+        "url": "http://www.mydrlynx.info/box/traffic-signal-ahead-sign.php",
+        "pageTitle": "&lt;b&gt;Traffic Signal&lt;/b&gt; Ahead &lt;b&gt;Sign&lt;/b&gt; | MyDrLynx",
+        "partialMatchingImages": [
+          {
+            "url": "http://fscomps.fotosearch.com/compc/UNS/UNS088/road-sign-traffic-signals-ahead-sign-stock-photo__u19745964.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=624564911",
+        "pageTitle": "Steam Community :: Guide :: Understanding Road &lt;b&gt;Signs&lt;/b&gt; and Road ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://steamuserimages-a.akamaihd.net/ugc/320123098202714489/0C8556216547AB600BAE87992B3FF9508F31FD7B/"
+          }
+        ]
+      },
+      {
+        "url": "https://www.aabcosign.com/warning-signs/",
+        "pageTitle": "&lt;b&gt;Traffic&lt;/b&gt; Warning &lt;b&gt;Signs&lt;/b&gt; | Washington | AABCO Barricade And &lt;b&gt;Sign&lt;/b&gt; Co.",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.aabcosign.com/wp-content/uploads/sites/6579/2018/01/w3-32.gif"
+          }
+        ]
+      },
+      {
+        "url": "https://quizlet.com/76521905/bmv-practice-test-3-flash-cards/",
+        "pageTitle": "BMV Practice Test 3 Flashcards | Quizlet",
+        "partialMatchingImages": [
+          {
+            "url": "http://s.driving-tests.org/wp-content/uploads/autotest/MUTCD_W3-3.svg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.proprofs.com/quiz-school/story.php?title=missouri-drivers-test-study-guide",
+        "pageTitle": "Missouri Drivers Test Study Guide - ProProfs Quiz",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.proprofs.com/quiz-school/upload/yuiupload/2129848654.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.bigstockphoto.com/search/prepare-to-stop-sign/",
+        "pageTitle": "Prepare To &lt;b&gt;Stop Sign&lt;/b&gt; Images, Illustrations, Vectors - Prepare To ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.bigstockphoto.com/0/0/1/large2/100738433.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://more-cliparts.net/cliparts/picture-of-a-stop-light.html",
+        "pageTitle": "Picture Of A &lt;b&gt;Stop Light&lt;/b&gt; - Free Clip Art Collection",
+        "partialMatchingImages": [
+          {
+            "url": "http://more-cliparts.net/images/gce5K6rcd.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thepinsta.com/traffic-light-ahead-sign_DBV0kElUGRW54N3o1paYYHRxXafg2YN*NXQYw3cRbNw/",
+        "pageTitle": "&lt;b&gt;Traffic Light&lt;/b&gt; Ahead &lt;b&gt;Sign&lt;/b&gt; Pictures to Pin on Pinterest - ThePinsta",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumbs.dreamstime.com/z/traffic-light-sign-21821029.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://l7.alamy.com/zooms/5fb90c977915476795a1b901f3e7ae40/ajd42861-road-sign-traffic-signals-ahead-sign-ac6p1f.jpg"
+      },
+      {
+        "url": "https://thumb10.shutterstock.com/display_pic_with_logo/69318/69318,1166551995,3/stock-photo-traffic-sign-traffic-lights-2350064.jpg"
+      },
+      {
+        "url": "https://image.shutterstock.com/z/stock-photo-sign-of-traffic-lights-isolated-on-white-background-or-symbol-on-the-road-658139146.jpg"
+      },
+      {
+        "url": "https://thumb9.shutterstock.com/display_pic_with_logo/173219108/605007752/stock-vector-sign-traffic-light-605007752.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/b/traffic-light-sign-2918522.jpg"
+      },
+      {
+        "url": "https://thumb9.shutterstock.com/display_pic_with_logo/245026/154285295/stock-photo-traffic-lights-sign-154285295.jpg"
+      },
+      {
+        "url": "https://thumb1.shutterstock.com/display_pic_with_logo/2716795/286228778/stock-photo-yellow-traffic-square-shaped-traffic-lights-ahead-sign-with-post-on-white-background-286228778.jpg"
+      },
+      {
+        "url": "https://images.cdn1.stockunlimited.net/clipart450/traffic-lights-ahead-road-sign_1560267.jpg"
+      },
+      {
+        "url": "https://us.123rf.com/450wm/issumbosi/issumbosi1406/issumbosi140600135/28987827-stock-vector-traffic-lights-ahead-road-sign-isolated-on-white-background.jpg?ver=6"
+      },
+      {
+        "url": "https://www.css-signs.ie//wp-content/gallery/roadworks-chapter-8/2WK060-Temporary-traffic-lights.jpg"
+      },
+      {
+        "url": "https://thumb10.shutterstock.com/display_pic_with_logo/909532/176188127/stock-vector-traffic-light-sign-vector-icon-176188127.jpg"
+      },
+      {
+        "url": "https://images.cdn1.stockunlimited.net/clipart450/traffic-light-sign_1561123.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "traffic light sign traffic light",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+blue
+text
+line
+square
+font
+angle

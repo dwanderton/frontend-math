@@ -1,0 +1,9 @@
+text
+line
+font
+design
+angle
+square
+product
+pattern
+rectangle

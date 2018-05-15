@@ -1,0 +1,449 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0j2kx",
+      "description": "waterfall",
+      "score": 0.9812606,
+      "topicality": 0.9812606
+    },
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.95782566,
+      "topicality": 0.95782566
+    },
+    {
+      "mid": "/m/05h0n",
+      "description": "nature",
+      "score": 0.949498,
+      "topicality": 0.949498
+    },
+    {
+      "mid": "/m/03ktm1",
+      "description": "body of water",
+      "score": 0.93542725,
+      "topicality": 0.93542725
+    },
+    {
+      "mid": "/m/0swq_",
+      "description": "nature reserve",
+      "score": 0.91659045,
+      "topicality": 0.91659045
+    },
+    {
+      "mid": "/m/015s2f",
+      "description": "water resources",
+      "score": 0.8997009,
+      "topicality": 0.8997009
+    },
+    {
+      "mid": "/m/03kj4q",
+      "description": "watercourse",
+      "score": 0.88609886,
+      "topicality": 0.88609886
+    },
+    {
+      "mid": "/m/06gl1",
+      "description": "rapid",
+      "score": 0.8174737,
+      "topicality": 0.8174737
+    },
+    {
+      "mid": "/m/0j6m2",
+      "description": "stream",
+      "score": 0.81272954,
+      "topicality": 0.81272954
+    },
+    {
+      "mid": "/m/090j23",
+      "description": "water feature",
+      "score": 0.80225027,
+      "topicality": 0.80225027
+    },
+    {
+      "mid": "/m/035j27",
+      "description": "chute",
+      "score": 0.7524661,
+      "topicality": 0.7524661
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.72993785,
+      "topicality": 0.72993785
+    },
+    {
+      "mid": "/m/06cnp",
+      "description": "river",
+      "score": 0.72856045,
+      "topicality": 0.72856045
+    },
+    {
+      "mid": "/m/040h04",
+      "description": "hill station",
+      "score": 0.71852344,
+      "topicality": 0.71852344
+    },
+    {
+      "mid": "/m/021krv",
+      "description": "state park",
+      "score": 0.60133046,
+      "topicality": 0.60133046
+    },
+    {
+      "mid": "/m/01tg1x",
+      "description": "wasserfall",
+      "score": 0.596927,
+      "topicality": 0.596927
+    },
+    {
+      "mid": "/m/0d8cn",
+      "description": "rainforest",
+      "score": 0.5825923,
+      "topicality": 0.5825923
+    },
+    {
+      "mid": "/m/03ybsm",
+      "description": "creek",
+      "score": 0.5770811,
+      "topicality": 0.5770811
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.5609435,
+      "topicality": 0.5609435
+    },
+    {
+      "mid": "/m/01cbzq",
+      "description": "rock",
+      "score": 0.5376458,
+      "topicality": 0.5376458
+    },
+    {
+      "mid": "/m/02zr8",
+      "description": "forest",
+      "score": 0.5099179,
+      "topicality": 0.5099179
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 154,
+            "green": 155,
+            "blue": 162
+          },
+          "score": 0.30774558,
+          "pixelFraction": 0.087936506
+        },
+        {
+          "color": {
+            "red": 46,
+            "green": 57,
+            "blue": 31
+          },
+          "score": 0.0026390592,
+          "pixelFraction": 0.0731746
+        },
+        {
+          "color": {
+            "red": 190,
+            "green": 192,
+            "blue": 199
+          },
+          "score": 0.243416,
+          "pixelFraction": 0.10253968
+        },
+        {
+          "color": {
+            "red": 122,
+            "green": 122,
+            "blue": 129
+          },
+          "score": 0.18579091,
+          "pixelFraction": 0.08095238
+        },
+        {
+          "color": {
+            "red": 226,
+            "green": 230,
+            "blue": 236
+          },
+          "score": 0.12723623,
+          "pixelFraction": 0.10642857
+        },
+        {
+          "color": {
+            "red": 83,
+            "green": 84,
+            "blue": 86
+          },
+          "score": 0.07326782,
+          "pixelFraction": 0.09777778
+        },
+        {
+          "color": {
+            "red": 56,
+            "green": 56,
+            "blue": 55
+          },
+          "score": 0.048342075,
+          "pixelFraction": 0.1884127
+        },
+        {
+          "color": {
+            "red": 29,
+            "green": 29,
+            "blue": 28
+          },
+          "score": 0.0031425431,
+          "pixelFraction": 0.11674603
+        },
+        {
+          "color": {
+            "red": 72,
+            "green": 83,
+            "blue": 58
+          },
+          "score": 0.0022359139,
+          "pixelFraction": 0.01468254
+        },
+        {
+          "color": {
+            "red": 169,
+            "green": 170,
+            "blue": 188
+          },
+          "score": 0.0016063178,
+          "pixelFraction": 0.00015873015
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 531
+            },
+            {
+              "x": 1473
+            },
+            {
+              "x": 1473,
+              "y": 1151
+            },
+            {
+              "x": 531,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.63
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 633
+            },
+            {
+              "x": 1801
+            },
+            {
+              "x": 1801,
+              "y": 1151
+            },
+            {
+              "x": 633,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.74
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 449
+            },
+            {
+              "x": 1821
+            },
+            {
+              "x": 1821,
+              "y": 1151
+            },
+            {
+              "x": 449,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/03ktm1",
+        "score": 1.4888086,
+        "description": "Body of water"
+      },
+      {
+        "entityId": "/m/0j2kx",
+        "score": 0.9279128,
+        "description": "Waterfall"
+      },
+      {
+        "entityId": "/m/0swq_",
+        "score": 0.9041762,
+        "description": "Nature reserve"
+      },
+      {
+        "entityId": "/m/0j6m2",
+        "score": 0.89887875,
+        "description": "Stream"
+      },
+      {
+        "entityId": "/m/015s2f",
+        "score": 0.87313735,
+        "description": "Water resources"
+      },
+      {
+        "entityId": "/m/03kj4q",
+        "score": 0.85416824,
+        "description": "Watercourse"
+      },
+      {
+        "entityId": "/m/06cnp",
+        "score": 0.85223776,
+        "description": "River"
+      },
+      {
+        "entityId": "/m/090j23",
+        "score": 0.7634741,
+        "description": "Water feature"
+      },
+      {
+        "entityId": "/m/0838f",
+        "score": 0.7621056,
+        "description": "Water"
+      },
+      {
+        "entityId": "/m/02zr8",
+        "score": 0.736789,
+        "description": "Forest"
+      },
+      {
+        "entityId": "/m/025s3q0",
+        "score": 0.7333474,
+        "description": "Landscape"
+      },
+      {
+        "entityId": "/m/05h0n",
+        "score": 0.6993075,
+        "description": "Nature"
+      },
+      {
+        "entityId": "/m/0d8cn",
+        "score": 0.65919137,
+        "description": "Rainforest"
+      },
+      {
+        "entityId": "/m/021krv",
+        "score": 0.63975894,
+        "description": "State park"
+      },
+      {
+        "entityId": "/m/07j7r",
+        "score": 0.6139776,
+        "description": "Tree"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://hawaii.kauai.com/images/waterfall-picninc-ride-87.jpg"
+      },
+      {
+        "url": "http://www.kansastravel.org/blog090509e.JPG"
+      },
+      {
+        "url": "https://www.quebecoriginal.com/en/listing/images/800x600/2033b713-1c19-4252-be77-feb896294185/matapedia-nature-aventure-sur-le-sentier-internationale-des-appalaches.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Minyon_Falls_%26_rhyolite.jpg/250px-Minyon_Falls_%26_rhyolite.jpg"
+      },
+      {
+        "url": "https://www.accessatlanta.com/rf/image_large/Pub/p7/AJC/2016/08/15/Videos/5083621351001.vpx.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/c5/cb/03/machtig.jpg"
+      },
+      {
+        "url": "http://www.gowaterfalling.com/waterfalls/images/full/ny/holleycanalfalls4.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Antrim_Hills_waterfall.jpg"
+      },
+      {
+        "url": "https://www.gannett-cdn.com/-mm-/6b18550d4253b4fc127f98068412825d1989f369/c=0-209-1080-1021&amp;r=x408&amp;c=540x405/local/-/media/2017/10/13/Poughkeepsie/Poughkeepsie/636434961572884139-IMG-0984.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Williamsville_-_Glen_Falls.jpg/1200px-Williamsville_-_Glen_Falls.jpg"
+      },
+      {
+        "url": "http://www.wagonmasterranch.com/images/Waterfall_Sep.jpg"
+      },
+      {
+        "url": "http://farm5.static.flickr.com/4092/5072694110_8165dd4c0e.jpg"
+      },
+      {
+        "url": "http://www.wra.gov.jm/sites/all/themes/responsive/images/slide-image-3.jpg"
+      },
+      {
+        "url": "https://www.waterfallsnorthwest.com/pictures/Boulder_Creek_Falls_237.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10154427813662011"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dhzur-Dhzur1.JPG/1200px-Dhzur-Dhzur1.JPG"
+      },
+      {
+        "url": "https://www.vancouvertrails.com/images/photos/widgeon-falls-5.jpg"
+      },
+      {
+        "url": "https://www.waterfallsnorthwest.com/pictures/1472419188-Spray-Falls-MRNP-WA-3.jpg"
+      },
+      {
+        "url": "http://www.waterfallsnorthwest.com/pictures/1312586899-Yosemite-Falls-CA-45-4.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/MillstreamFalls_4467.jpg/1200px-MillstreamFalls_4467.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "waterfall"
+      }
+    ]
+  }
+}

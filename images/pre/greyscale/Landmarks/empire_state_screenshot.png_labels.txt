@@ -1,0 +1,10 @@
+landmark
+metropolitan area
+skyline
+architecture
+metropolis
+city
+skyscraper
+tower
+building
+tower block

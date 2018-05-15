@@ -1,0 +1,10 @@
+landmark
+historic site
+sky
+tourist attraction
+archaeological site
+cloud
+grass
+monolith
+reflection
+monument

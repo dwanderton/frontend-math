@@ -1,0 +1,10 @@
+tower
+landmark
+nature
+sky
+tree
+woody plant
+leaf
+spire
+tourist attraction
+spruce

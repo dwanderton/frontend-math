@@ -1,0 +1,7 @@
+leaf
+fauna
+art
+textile
+sky
+pattern
+tree

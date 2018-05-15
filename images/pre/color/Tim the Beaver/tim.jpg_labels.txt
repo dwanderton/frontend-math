@@ -1,0 +1,6 @@
+mammal
+vertebrate
+mascot
+snout
+dog like mammal
+recreation

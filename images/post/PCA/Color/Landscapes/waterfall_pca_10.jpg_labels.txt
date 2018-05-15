@@ -1,0 +1,7 @@
+mammal
+fauna
+wildlife
+tree
+grass
+snout
+plant

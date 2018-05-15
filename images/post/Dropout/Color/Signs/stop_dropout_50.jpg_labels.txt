@@ -1,0 +1,5 @@
+sky
+tree
+daytime
+leaf
+cloud

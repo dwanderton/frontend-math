@@ -1,0 +1,10 @@
+car
+street
+vehicle
+city
+advertising
+street art
+flag
+mural
+graffiti
+facade

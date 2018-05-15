@@ -1,0 +1,10 @@
+skyscraper
+metropolitan area
+tower
+building
+landmark
+daytime
+metropolis
+city
+skyline
+urban area

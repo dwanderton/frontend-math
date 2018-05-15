@@ -1,0 +1,10 @@
+tower
+landmark
+tourist attraction
+sky
+tree
+spire
+metropolitan area
+steeple
+city
+building

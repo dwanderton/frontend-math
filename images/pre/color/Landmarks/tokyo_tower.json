@@ -1,0 +1,475 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0132_x",
+      "description": "Tokyo Tower",
+      "score": 0.5710271,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 314,
+            "y": 291
+          },
+          {
+            "x": 623,
+            "y": 291
+          },
+          {
+            "x": 623,
+            "y": 1343
+          },
+          {
+            "x": 314,
+            "y": 1343
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 35.65822,
+            "longitude": 139.745728
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/01fdzj",
+      "description": "tower",
+      "score": 0.97197765,
+      "topicality": 0.97197765
+    },
+    {
+      "mid": "/m/05_5t0l",
+      "description": "landmark",
+      "score": 0.96557117,
+      "topicality": 0.96557117
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.9377828,
+      "topicality": 0.9377828
+    },
+    {
+      "mid": "/m/0pgl9",
+      "description": "tourist attraction",
+      "score": 0.8840328,
+      "topicality": 0.8840328
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.82096016,
+      "topicality": 0.82096016
+    },
+    {
+      "mid": "/m/01c6yl",
+      "description": "spire",
+      "score": 0.80804616,
+      "topicality": 0.80804616
+    },
+    {
+      "mid": "/m/09t49",
+      "description": "leaf",
+      "score": 0.78569,
+      "topicality": 0.78569
+    },
+    {
+      "mid": "/m/051rmm",
+      "description": "steeple",
+      "score": 0.7720572,
+      "topicality": 0.7720572
+    },
+    {
+      "mid": "/m/0j_s4",
+      "description": "metropolitan area",
+      "score": 0.63600266,
+      "topicality": 0.63600266
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.57569915,
+      "topicality": 0.57569915
+    },
+    {
+      "mid": "/m/0134l",
+      "description": "autumn",
+      "score": 0.5299541,
+      "topicality": 0.5299541
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 71,
+            "green": 152,
+            "blue": 232
+          },
+          "score": 0.18883002,
+          "pixelFraction": 0.07232143
+        },
+        {
+          "color": {
+            "red": 213,
+            "green": 75,
+            "blue": 41
+          },
+          "score": 0.025508618,
+          "pixelFraction": 0.0032738096
+        },
+        {
+          "color": {
+            "red": 180,
+            "green": 93,
+            "blue": 89
+          },
+          "score": 0.015515317,
+          "pixelFraction": 0.006845238
+        },
+        {
+          "color": {
+            "red": 150,
+            "green": 109,
+            "blue": 122
+          },
+          "score": 0.01459554,
+          "pixelFraction": 0.0118452385
+        },
+        {
+          "color": {
+            "red": 59,
+            "green": 130,
+            "blue": 213
+          },
+          "score": 0.16372052,
+          "pixelFraction": 0.11434524
+        },
+        {
+          "color": {
+            "red": 53,
+            "green": 120,
+            "blue": 214
+          },
+          "score": 0.118452564,
+          "pixelFraction": 0.13660714
+        },
+        {
+          "color": {
+            "red": 94,
+            "green": 158,
+            "blue": 218
+          },
+          "score": 0.09147216,
+          "pixelFraction": 0.045059524
+        },
+        {
+          "color": {
+            "red": 74,
+            "green": 124,
+            "blue": 183
+          },
+          "score": 0.035053574,
+          "pixelFraction": 0.03672619
+        },
+        {
+          "color": {
+            "red": 204,
+            "green": 80,
+            "blue": 60
+          },
+          "score": 0.022447107,
+          "pixelFraction": 0.00375
+        },
+        {
+          "color": {
+            "red": 157,
+            "green": 43,
+            "blue": 25
+          },
+          "score": 0.019939227,
+          "pixelFraction": 0.0036904763
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1279
+            },
+            {
+              "x": 1279,
+              "y": 1596
+            },
+            {
+              "y": 1596
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.97999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1279
+            },
+            {
+              "x": 1279,
+              "y": 1287
+            },
+            {
+              "y": 1287
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1279
+            },
+            {
+              "x": 1279,
+              "y": 1064
+            },
+            {
+              "y": 1064
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71999997
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0132_x",
+        "score": 249.7792,
+        "description": "Tokyo Tower"
+      },
+      {
+        "entityId": "/m/01xhpx",
+        "score": 30.0288,
+        "description": "Adachi"
+      },
+      {
+        "entityId": "/m/02j81",
+        "score": 2.8104,
+        "description": "Eiffel Tower"
+      },
+      {
+        "entityId": "/m/01fdzj",
+        "score": 0.91646856,
+        "description": "Tower"
+      },
+      {
+        "entityId": "/t/23rtf3_fnzdqc",
+        "score": 0.7074
+      },
+      {
+        "entityId": "/m/05_5t0l",
+        "score": 0.5054146,
+        "description": "Landmark"
+      },
+      {
+        "entityId": "/m/0pgl9",
+        "score": 0.49225357,
+        "description": "Tourist attraction"
+      },
+      {
+        "entityId": "/m/04l25n",
+        "score": 0.4684,
+        "description": ".la"
+      },
+      {
+        "entityId": "/m/02ljgl",
+        "score": 0.2913,
+        "description": "Monument"
+      },
+      {
+        "entityId": "/t/26zxvlq_mt61d",
+        "score": 0.2706
+      },
+      {
+        "entityId": "/m/0wxwn0b",
+        "score": 0.2406,
+        "description": "Wolfram Language"
+      },
+      {
+        "entityId": "/g/12lnhn10f",
+        "score": 0.056384005,
+        "description": "Tokyo"
+      },
+      {
+        "entityId": "/m/01rcb4",
+        "score": 0.041472003,
+        "description": "Special wards of Tokyo"
+      },
+      {
+        "entityId": "/m/07dfk",
+        "score": 0.000009150401,
+        "description": "Tokyo"
+      },
+      {
+        "entityId": "/m/03_3d",
+        "score": 2.8296006e-7,
+        "description": "Japan"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+      },
+      {
+        "url": "http://d1d8seedcbldgm.cloudfront.net/image/listed_places/items/000/004/214/34236c8d811e0247e04533337f6db4300b13a0d3/small.jpg?1484103331"
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+      },
+      {
+        "url": "http://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01-294x450.png"
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://gigazine.net/gsc_news/en/20150527-wolfram-language-image-identification-project",
+        "pageTitle": "Internet service &amp;quot;The Wolfram Language Image Identification Project ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/2011/03/23/les-merveilles-du-japon-la-tour-de-tokyo/",
+        "pageTitle": "Les merveilles du &lt;b&gt;Japon&lt;/b&gt;: La &lt;b&gt;Tour&lt;/b&gt; de Tokyo - Blog de voyage ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01-294x450.png"
+          },
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/pays/japon/",
+        "pageTitle": "&lt;b&gt;Japon&lt;/b&gt; Archives - Blog de voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/2015/11/20/tourisme-les-monuments-les-plus-celebres-de-tokyo/",
+        "pageTitle": "Atelier &lt;b&gt;Japon&lt;/b&gt; » Blog Archive » [TOURISME] Les monuments les plus ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+          }
+        ]
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/page/2/",
+        "pageTitle": "Atelier &lt;b&gt;Japon&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+          }
+        ]
+      },
+      {
+        "url": "http://placehub.co/lists/2594",
+        "pageTitle": "【東京】絶対外さない&amp;quot;鉄板&amp;quot;デートスポット60選!思い出に残るデートになる ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://d1d8seedcbldgm.cloudfront.net/image/listed_places/items/000/004/214/34236c8d811e0247e04533337f6db4300b13a0d3/small.jpg?1484103331"
+          }
+        ]
+      },
+      {
+        "url": "https://gigazine.net/news/20150527-wolfram-language-image-identification-project/",
+        "pageTitle": "写真に写っているものを特定して名前と関連情報を表示するネット ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://img1.svstatic.com/japon/les-japonais-adorent-la-france-et-paris-les-clins-d-oeil-a-la-capitale-francaises-sont-nombreux-comme-cette-presque-replique-de-la-tour-eiffel-a-tokyo_9425_w620.jpg"
+      },
+      {
+        "url": "http://p3.storage.canalblog.com/35/70/58047/107816223.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/t/tour-de-tokyo-proche-dedans-%C3%A0-tokyo-japon-74663067.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/tour-de-kobe-899568.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/b/tour-japon-de-tokyo-14929745.jpg"
+      },
+      {
+        "url": "https://www.wonders-of-the-world.net/Eiffel-Tower/images/Repliques/Replique-Japon-TobuWorldSquare.jpg"
+      },
+      {
+        "url": "https://cewax.files.wordpress.com/2015/02/img_9342.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/b/tour-japon-de-tokyo-56580951.jpg"
+      },
+      {
+        "url": "https://cdn.xl.thumbs.canstockphoto.fr/kobe-port-tour-dans-kobe-hyogo-japon-image-sous-licence_csp45589869.jpg"
+      },
+      {
+        "url": "http://www.arenatours.com/wp-content/uploads/japan/arenatours-japon-camino-de-kumano-13-noches/arenatours-japon-camino-de-kumano-13-noches-11-0-600x303.jpeg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/tour-japon-de-tokyo-56580925.jpg"
+      },
+      {
+        "url": "http://media.asie360.com/guidespays/japon/85-japon-tour-de-tokyo.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "tour du japon",
+        "languageCode": "fr"
+      }
+    ]
+  }
+}

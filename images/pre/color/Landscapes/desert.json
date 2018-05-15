@@ -1,0 +1,553 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0194v4",
+      "description": "singing sand",
+      "score": 0.9539343,
+      "topicality": 0.9539343
+    },
+    {
+      "mid": "/m/0d79jq",
+      "description": "erg",
+      "score": 0.94913965,
+      "topicality": 0.94913965
+    },
+    {
+      "mid": "/m/04gvhhy",
+      "description": "aeolian landform",
+      "score": 0.9274952,
+      "topicality": 0.9274952
+    },
+    {
+      "mid": "/m/0284w",
+      "description": "desert",
+      "score": 0.9219964,
+      "topicality": 0.9219964
+    },
+    {
+      "mid": "/m/026dd",
+      "description": "dune",
+      "score": 0.883219,
+      "topicality": 0.883219
+    },
+    {
+      "mid": "/m/099fz",
+      "description": "sand",
+      "score": 0.8657329,
+      "topicality": 0.8657329
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.86499625,
+      "topicality": 0.86499625
+    },
+    {
+      "mid": "/m/01w1vt",
+      "description": "sahara",
+      "score": 0.82683355,
+      "topicality": 0.82683355
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.801631,
+      "topicality": 0.801631
+    },
+    {
+      "mid": "/m/02_ktj",
+      "description": "morning",
+      "score": 0.7521407,
+      "topicality": 0.7521407
+    },
+    {
+      "mid": "/m/0d1n2",
+      "description": "horizon",
+      "score": 0.74904203,
+      "topicality": 0.74904203
+    },
+    {
+      "mid": "/m/0cblv",
+      "description": "ecoregion",
+      "score": 0.735237,
+      "topicality": 0.735237
+    },
+    {
+      "mid": "/m/036hv",
+      "description": "geology",
+      "score": 0.7103763,
+      "topicality": 0.7103763
+    },
+    {
+      "mid": "/m/03k5cs",
+      "description": "formation",
+      "score": 0.58952916,
+      "topicality": 0.58952916
+    },
+    {
+      "mid": "/m/01b3kg",
+      "description": "dawn",
+      "score": 0.5892544,
+      "topicality": 0.5892544
+    },
+    {
+      "mid": "/m/01b2q6",
+      "description": "sunrise",
+      "score": 0.56789905,
+      "topicality": 0.56789905
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.5483609,
+      "topicality": 0.5483609
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 154,
+            "green": 107,
+            "blue": 81
+          },
+          "score": 0.5291152,
+          "pixelFraction": 0.1614
+        },
+        {
+          "color": {
+            "red": 79,
+            "green": 76,
+            "blue": 73
+          },
+          "score": 0.012330577,
+          "pixelFraction": 0.185
+        },
+        {
+          "color": {
+            "red": 209,
+            "green": 187,
+            "blue": 160
+          },
+          "score": 0.011937839,
+          "pixelFraction": 0.07846667
+        },
+        {
+          "color": {
+            "red": 161,
+            "green": 107,
+            "blue": 76
+          },
+          "score": 0.40916553,
+          "pixelFraction": 0.06773333
+        },
+        {
+          "color": {
+            "red": 131,
+            "green": 105,
+            "blue": 86
+          },
+          "score": 0.017343145,
+          "pixelFraction": 0.045333333
+        },
+        {
+          "color": {
+            "red": 178,
+            "green": 158,
+            "blue": 136
+          },
+          "score": 0.008599887,
+          "pixelFraction": 0.03313333
+        },
+        {
+          "color": {
+            "red": 63,
+            "green": 62,
+            "blue": 60
+          },
+          "score": 0.003582673,
+          "pixelFraction": 0.22553334
+        },
+        {
+          "color": {
+            "red": 97,
+            "green": 79,
+            "blue": 64
+          },
+          "score": 0.0031712607,
+          "pixelFraction": 0.081133336
+        },
+        {
+          "color": {
+            "red": 118,
+            "green": 87,
+            "blue": 71
+          },
+          "score": 0.0019761105,
+          "pixelFraction": 0.05733333
+        },
+        {
+          "color": {
+            "red": 139,
+            "green": 123,
+            "blue": 118
+          },
+          "score": 0.0011555331,
+          "pixelFraction": 0.0172
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 429
+            },
+            {
+              "x": 982
+            },
+            {
+              "x": 982,
+              "y": 682
+            },
+            {
+              "x": 429,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.87
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 326
+            },
+            {
+              "x": 1012
+            },
+            {
+              "x": 1012,
+              "y": 682
+            },
+            {
+              "x": 326,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.90999997
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 80
+            },
+            {
+              "x": 900
+            },
+            {
+              "x": 900,
+              "y": 682
+            },
+            {
+              "x": 80,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.93
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/09p4rm",
+        "score": 7.4832,
+        "description": "Algodones Dunes"
+      },
+      {
+        "entityId": "/m/01jp2c",
+        "score": 5.3304,
+        "description": "Mojave Desert"
+      },
+      {
+        "entityId": "/m/01w1vt",
+        "score": 2.9123313,
+        "description": "Sahara"
+      },
+      {
+        "entityId": "/m/06k0ppp",
+        "score": 1.9676,
+        "description": "California Desert Protection Act of 1994"
+      },
+      {
+        "entityId": "/m/04lg1qv",
+        "score": 1.4208,
+        "description": "Deserts of California"
+      },
+      {
+        "entityId": "/m/0284w",
+        "score": 1.0707302,
+        "description": "Desert"
+      },
+      {
+        "entityId": "/m/05_jhy",
+        "score": 0.9686,
+        "description": "Yuma Desert"
+      },
+      {
+        "entityId": "/m/026dd",
+        "score": 0.70743376,
+        "description": "Dune"
+      },
+      {
+        "entityId": "/m/0d79jq",
+        "score": 0.5933466,
+        "description": "Erg"
+      },
+      {
+        "entityId": "/m/0194v4",
+        "score": 0.58236605,
+        "description": "Singing sand"
+      },
+      {
+        "entityId": "/m/099fz",
+        "score": 0.56688637,
+        "description": "Sand"
+      },
+      {
+        "entityId": "/m/025s3q0",
+        "score": 0.5579906,
+        "description": "Landscape"
+      },
+      {
+        "entityId": "/m/07kbyg1",
+        "score": 0.5489,
+        "description": "Desert climate"
+      },
+      {
+        "entityId": "/m/060c_6",
+        "score": 0.4742,
+        "description": "Desert ecology"
+      },
+      {
+        "entityId": "/m/01n7q",
+        "score": 0.0028072002,
+        "description": "California"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266.jpg"
+      },
+      {
+        "url": "https://farm4.staticflickr.com/3193/2816816266_a085e8dc10_b.jpg"
+      },
+      {
+        "url": "http://wilderness.org/sites/default/files/styles/slide/public/slide_images/California-Desert--Parker-Michael-Knight-Flickr.jpg"
+      },
+      {
+        "url": "http://www.liligo.com/travel-edition/content/uploads/us/sites/6/2017/01/Yuma-Desert-e1485185558734.jpg"
+      },
+      {
+        "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266-450x300.jpg"
+      },
+      {
+        "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+      },
+      {
+        "url": "https://cdn.thinglink.me/api/image/Gr7d22hTHGg2mPFHZPSjP8LK9VyedhM2i7Emnk5uZGjMGmPgvaZt5MGY4s4cFEngtCVYbr5RuHY5uHVh9i6Bj5JrZw83tm3E9bSqi7P2eyaaUHRBbK2VxL1T2D3Sohxt16WV3h8AQBYwNCXMKzaDvEibWaSA11yiMK9mfgf4BCx3LH3ppaJ/320/320/scaledown"
+      },
+      {
+        "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266-200x200.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://wilderness.org/article/why-california-desert",
+        "pageTitle": "Why the &lt;b&gt;California Desert&lt;/b&gt; | Wilderness.org",
+        "fullMatchingImages": [
+          {
+            "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "https://wilderness.org/article/california-desert-protection-act",
+        "pageTitle": "&lt;b&gt;California Desert&lt;/b&gt; Protection Act | Wilderness.org",
+        "fullMatchingImages": [
+          {
+            "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "http://www.liligo.com/travel-edition/top-10-star-wars-film-locations-you-can-actually-visit-6965.html",
+        "pageTitle": "Top 10 Star Wars Film Locations You Can Actually Visit - LILIGO.com",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.liligo.com/travel-edition/content/uploads/us/sites/6/2017/01/Yuma-Desert-e1485185558734.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thinglink.com/scene/572132738610495488",
+        "pageTitle": "&lt;b&gt;California&amp;#39;s Regions&lt;/b&gt; - ThingLink",
+        "fullMatchingImages": [
+          {
+            "url": "http://wilderness.org/sites/default/files/styles/slide/public/slide_images/California-Desert--Parker-Michael-Knight-Flickr.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thinglink.com/scene/572131524225269760",
+        "pageTitle": "&lt;b&gt;California&amp;#39;s Regions&lt;/b&gt; - ThingLink",
+        "fullMatchingImages": [
+          {
+            "url": "http://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          },
+          {
+            "url": "https://cdn.thinglink.me/api/image/Gr7d22hTHGg2mPFHZPSjP8LK9VyedhM2i7Emnk5uZGjMGmPgvaZt5MGY4s4cFEngtCVYbr5RuHY5uHVh9i6Bj5JrZw83tm3E9bSqi7P2eyaaUHRBbK2VxL1T2D3Sohxt16WV3h8AQBYwNCXMKzaDvEibWaSA11yiMK9mfgf4BCx3LH3ppaJ/320/320/scaledown"
+          }
+        ]
+      },
+      {
+        "url": "http://desert.bolegapakistan.com/climate-in-desert-region-of-california/",
+        "pageTitle": "Climate In &lt;b&gt;Desert Region&lt;/b&gt; Of &lt;b&gt;California&lt;/b&gt; - The Best &lt;b&gt;Desert&lt;/b&gt; In 2018",
+        "fullMatchingImages": [
+          {
+            "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "http://jacket.bolegapakistan.com/recreation-in-the-desert-region-of-california/",
+        "pageTitle": "Recreation In The &lt;b&gt;Desert Region&lt;/b&gt; Of &lt;b&gt;California&lt;/b&gt; - The Best Of &lt;b&gt;Desert&lt;/b&gt; ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "http://desert.approvegood.site/yuma-desert/",
+        "pageTitle": "Yuma &lt;b&gt;Desert&lt;/b&gt; - The Best &lt;b&gt;Desert&lt;/b&gt; Of 2018",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.liligo.com/travel-edition/content/uploads/us/sites/6/2017/01/Yuma-Desert-e1485185558734.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/california-desert-climate_*FaZe4r48mCQCqdWZaBnJCRCkZRt4Cuj*nhHYguGepo/",
+        "pageTitle": "&lt;b&gt;California Desert&lt;/b&gt; Climate Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "http://highonpoems.com/36993/english-poems/short-poem/desert-2",
+        "pageTitle": "&lt;b&gt;Desert&lt;/b&gt; | Short Poem By Subhani Rath • High On Poems",
+        "fullMatchingImages": [
+          {
+            "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266-450x300.jpg"
+          },
+          {
+            "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266-200x200.jpg"
+          },
+          {
+            "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://highonpoems.com/2827/english-poems/short-poem/desert-melancholy",
+        "pageTitle": "&lt;b&gt;Desert&lt;/b&gt; Melancholy | Short Poem By Jesus Diaz Llorico • High On ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://cdn.highonpoems.com/wp-content/uploads/2016/12/Desert-36993-2816816266.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@AOOLRRTZL/blank",
+        "pageTitle": "TOTO, we&amp;#39;re not in Kansas anymore... - Emaze",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm4.staticflickr.com/3193/2816816266_a085e8dc10_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/northern-california-deserts_7gvQ32j%7CNNdMKI8St39zx4VIg97mn4UNDgdF6oJOb1Q/",
+        "pageTitle": "Northern &lt;b&gt;California Deserts&lt;/b&gt; Pictures to Pin on Pinterest - PinsDaddy",
+        "fullMatchingImages": [
+          {
+            "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+          }
+        ]
+      },
+      {
+        "url": "http://www.keywordlister.com/a29yeSBjbGFya2U/",
+        "pageTitle": "Kory Clarke Related Keywords &amp;amp; Suggestions - Kory Clarke Long ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.liligo.com/travel-edition/content/uploads/us/sites/6/2017/01/Yuma-Desert-e1485185558734.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://wilderness.org/sites/default/files/styles/blog_full/public/California-Desert--Parker-Michael-Knight-Flickr.jpg?itok=nSjTEH3_"
+      },
+      {
+        "url": "http://www.pewtrusts.org/~/media/Post-Launch-Images/2015/11/Cadiz-Valley-and-Iron-Mountains-Bob-Wick-BLM.jpg?mh=365&amp;mw=650"
+      },
+      {
+        "url": "https://statesymbolsusa.org/sites/statesymbolsusa.org/files/primary-images/CaliforniaDesertDunes.jpg"
+      },
+      {
+        "url": "http://1.bp.blogspot.com/_8IcO1ehweFs/ScVFwv8zYSI/AAAAAAAAEW4/5aqyPdJ78fE/s400/mojave.jpg"
+      },
+      {
+        "url": "http://www.lightfoottravel.com/wp-content/uploads/2015/02/Destinations_mexico_baja_california_desert-e1424853189808-288x240.jpg"
+      },
+      {
+        "url": "http://www.totalescape.com/outside/wp-content/uploads/2016/11/RVoffroaders.jpg"
+      },
+      {
+        "url": "http://www.alpenglowimagesphotography.com/blog/wp-content/uploads/2018/02/little-chuckwalla-mountains-evening1.jpg"
+      },
+      {
+        "url": "https://afreelancewriter.files.wordpress.com/2013/06/kalahari-14.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "california's desert region",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+text
+screenshot
+font
+tree
+angle
+brand
+graphics
+grass

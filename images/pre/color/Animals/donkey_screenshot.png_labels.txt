@@ -1,0 +1,10 @@
+fauna
+donkey
+horse like mammal
+text
+livestock
+pack animal
+mane
+organism
+snout
+product

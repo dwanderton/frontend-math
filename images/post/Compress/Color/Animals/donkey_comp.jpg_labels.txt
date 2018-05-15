@@ -1,0 +1,10 @@
+donkey
+horse
+mammal
+vertebrate
+horse like mammal
+pack animal
+fauna
+livestock
+mane
+mule

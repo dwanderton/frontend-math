@@ -1,0 +1,10 @@
+white
+black
+dog
+mammal
+dog like mammal
+vertebrate
+black and white
+infrastructure
+road
+street

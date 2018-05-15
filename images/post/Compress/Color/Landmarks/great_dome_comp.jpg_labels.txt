@@ -1,0 +1,10 @@
+landmark
+architecture
+building
+classical architecture
+structure
+sky
+tree
+biome
+facade
+tourist attraction

@@ -1,0 +1,10 @@
+signage
+mode of transport
+tree
+sign
+traffic sign
+area
+grass
+road
+street sign
+recreation

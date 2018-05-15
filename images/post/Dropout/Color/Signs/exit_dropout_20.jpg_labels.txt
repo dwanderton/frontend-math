@@ -1,0 +1,5 @@
+green
+text
+font
+number
+signage

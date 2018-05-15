@@ -1,0 +1,10 @@
+mammal
+donkey
+vertebrate
+mode of transport
+fauna
+horse like mammal
+goats
+livestock
+grass
+cattle like mammal

@@ -1,0 +1,397 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9249594,
+      "topicality": 0.9249594
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.8127429,
+      "topicality": 0.8127429
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7316951,
+      "topicality": 0.7316951
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.72325325,
+      "topicality": 0.72325325
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.6117712,
+      "topicality": 0.6117712
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "signage",
+      "score": 0.5717971,
+      "topicality": 0.5717971
+    },
+    {
+      "mid": "/m/0mwc",
+      "description": "angle",
+      "score": 0.54550064,
+      "topicality": 0.54550064
+    },
+    {
+      "mid": "/m/03w43x",
+      "description": "computer wallpaper",
+      "score": 0.5032746,
+      "topicality": 0.5032746
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 154,
+            "green": 154,
+            "blue": 154
+          },
+          "score": 0.87200725,
+          "pixelFraction": 0.124066666
+        },
+        {
+          "color": {
+            "red": 17,
+            "green": 17,
+            "blue": 17
+          },
+          "score": 0.031968586,
+          "pixelFraction": 0.41926667
+        },
+        {
+          "color": {
+            "red": 124,
+            "green": 124,
+            "blue": 124
+          },
+          "score": 0.043037187,
+          "pixelFraction": 0.015866667
+        },
+        {
+          "color": {
+            "red": 51,
+            "green": 51,
+            "blue": 51
+          },
+          "score": 0.023408793,
+          "pixelFraction": 0.331
+        },
+        {
+          "color": {
+            "red": 81,
+            "green": 81,
+            "blue": 81
+          },
+          "score": 0.023337757,
+          "pixelFraction": 0.10813333
+        },
+        {
+          "color": {
+            "red": 178,
+            "green": 178,
+            "blue": 178
+          },
+          "score": 0.00624042,
+          "pixelFraction": 0.0016666667
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 572
+            },
+            {
+              "x": 1678
+            },
+            {
+              "x": 1678,
+              "y": 1364
+            },
+            {
+              "x": 572,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 449
+            },
+            {
+              "x": 1821
+            },
+            {
+              "x": 1821,
+              "y": 1364
+            },
+            {
+              "x": 449,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 285
+            },
+            {
+              "x": 1944
+            },
+            {
+              "x": 1944,
+              "y": 1364
+            },
+            {
+              "x": 285,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/014xcs",
+        "score": 0.8868,
+        "description": "Pedestrian crossing"
+      },
+      {
+        "entityId": "/m/017r8p",
+        "score": 0.6094,
+        "description": "Pedestrian"
+      },
+      {
+        "entityId": "/m/04rlf",
+        "score": 0.5763,
+        "description": "Music"
+      },
+      {
+        "entityId": "/t/23r8h3kqx_cdc",
+        "score": 0.5481
+      },
+      {
+        "entityId": "/m/08q1tg",
+        "score": 0.4532,
+        "description": "Traffic collision"
+      },
+      {
+        "entityId": "/m/01mqdt",
+        "score": 0.4381,
+        "description": "Traffic sign"
+      },
+      {
+        "entityId": "/m/06gfj",
+        "score": 0.4379,
+        "description": "Road"
+      },
+      {
+        "entityId": "/m/0svml3_",
+        "score": 0.433
+      },
+      {
+        "entityId": "/t/26_m_1_ypvmtp",
+        "score": 0.4223
+      },
+      {
+        "entityId": "/m/06d0mv",
+        "score": 0.4146,
+        "description": "Hit and run"
+      },
+      {
+        "entityId": "/m/074ft",
+        "score": 0.3989,
+        "description": "Song"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.3973,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/t/25kf1z7bvn0kw",
+        "score": 0.3929
+      },
+      {
+        "entityId": "/m/068jd",
+        "score": 0.3432,
+        "description": "Photograph"
+      },
+      {
+        "entityId": "/t/24mypdx4svpvn",
+        "score": 0.326
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_b.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/pedestrian-crossing-sign-blue-sky-picture-id157285948?s=170667a"
+      },
+      {
+        "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_m.jpg"
+      },
+      {
+        "url": "https://i4.ytimg.com/vi/cVbBziWxOXA/default.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.gettyimages.com/detail/photo/road-sign-black-and-yellow-circle-pedestrian-royalty-free-image/120534374",
+        "pageTitle": "Road Sign Black And Yellow Circle &lt;b&gt;Pedestrian Crossing&lt;/b&gt; Stock ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.gettyimages.com/photos/pedestrian-crossing-sign-blue-sky-picture-id157285948?s=170667a"
+          }
+        ]
+      },
+      {
+        "url": "https://www.flickr.com/photos/hfiguiere/9146013475",
+        "pageTitle": "X-ing | &lt;b&gt;Pedestrian crossing&lt;/b&gt; sign on Glenlyon Parkway along t… | Flickr",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_m.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.gettyimages.com/detail/photo/crosswalk-sign-royalty-free-image/184281318",
+        "pageTitle": "Crosswalk Sign Stock Photo | Getty Images",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.gettyimages.com/photos/pedestrian-crossing-sign-blue-sky-picture-id157285948?s=170667a"
+          }
+        ]
+      },
+      {
+        "url": "https://www.stokesinjurylawyers.com/woman-arrested-connection-fatal-hit-run-accident/",
+        "pageTitle": "Woman Arrested in Connection to Fatal Hit-and ... - Stokes &amp;amp; Kopitsky",
+        "partialMatchingImages": [
+          {
+            "url": "https://farm3.staticflickr.com/2881/9146013475_4d501c2d94_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://latestpunjabisongs.wapelf.com/site-2.html?get-id=vgYxMVMnHsw&amp;get-name=---------Mix--26-10-2013--Dj-Spiros-Kantas--Dj---------------------------",
+        "pageTitle": "Ξένα Mix 26 10 2013 (Dj Spiros Kantas Dj Σπύρος Κάντας ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://ytimg.googleusercontent.com/vi/cVbBziWxOXA/default.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://curvetube.com/Subways-Rock_&amp;_Roll_Queen_@_A38_2012/kkAkzOiOzX0.video",
+        "pageTitle": "Subways - Rock &amp;amp; Roll Queen @ A38 2012",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/cVbBziWxOXA/default.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emp3e.com/mp3/greek-mix-anevasmena.html",
+        "pageTitle": "Greek Mix Anevasmena » Free MP3 Songs Download - eMP3e.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://ytimg.googleusercontent.com/vi/cVbBziWxOXA/default.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://lsdmusic.ru/music/elliniko-rock",
+        "pageTitle": "Elliniko Rock - Слушать музыку онлайн - 2018 - LSDMusic",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/cVbBziWxOXA/default.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=cVbBziWxOXA",
+        "pageTitle": "Διαφορα Αγαπημενα ξενα Rock κοματια (Mix) - YouTube",
+        "partialMatchingImages": [
+          {
+            "url": "https://i4.ytimg.com/vi/cVbBziWxOXA/default.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://st2.depositphotos.com/4601361/7027/i/950/depositphotos_70279349-stock-photo-road-pedestrian-crossing-sign-black.jpg"
+      },
+      {
+        "url": "http://c8.alamy.com/comp/M207CK/parking-space-for-mothers-and-children-sign-on-asphalt-mother-and-M207CK.jpg"
+      },
+      {
+        "url": "https://www.viewbug.com/media/images/contests/contest8469_banner.jpg"
+      },
+      {
+        "url": "http://timothykurek.com/wp-content/uploads/2017/10/zebra-crossing-sign-transparent-png-svg-vector-on-symbol-of-zebra-crossing.png"
+      },
+      {
+        "url": "https://st.depositphotos.com/1006472/3395/i/950/depositphotos_33951227-stockafbeelding-voetgangers-oversteken-van-de-straat.jpg"
+      },
+      {
+        "url": "https://st.depositphotos.com/1005929/3102/v/950/depositphotos_31026171-stock-illustration-pedestrian-symbol-vector.jpg"
+      },
+      {
+        "url": "http://l450v.alamy.com/450v/cn7p5j/parental-guidance-concept-pedestrian-sign-on-the-pavementsidewalk-cn7p5j.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/doingthingsdifferently.org/wp-content/uploads/2016/08/DSC_0138-e1509968368346.jpg?fit=4000%2C6000&amp;ssl=1"
+      },
+      {
+        "url": "http://c8.alamy.com/comp/EDA0NT/white-pedestrian-crossing-sign-on-asphalt-EDA0NT.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "Pedestrian crossing"
+      }
+    ]
+  }
+}

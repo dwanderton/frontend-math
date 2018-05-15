@@ -1,0 +1,10 @@
+green
+light
+atmosphere
+reflection
+phenomenon
+grass
+sunlight
+line
+tree
+texture

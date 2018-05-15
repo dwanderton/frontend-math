@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Dimension Entity Detection</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="vendor/simple-line-icons/css/simple-line-icons.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href="device-mockups/device-mockups.min.css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/new-age.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Dimension - Entity Detection</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#download">Compress</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#features">Results</a>
+            </li>
+            <!--
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#contact">Share</a>
+            </li> -->
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <header class="masthead">
+      <div class="container h-100">
+        <div class="row h-100">
+          <div class="col-lg-7 my-auto">
+            <div class="header-content mx-auto">
+              <h1 class="mb-5">Dimension is a simple web app to explore how the dimensionality of images impacts entity recognition.</h1>
+              <a href="#download" class="btn btn-outline btn-xl js-scroll-trigger">Pick a Photo to explore!</a>
+            </div>
+          </div>
+          <div class="col-lg-5 my-auto">
+            <!-- TODO: two random photos -->
+
+            <img id="title1" class="rounded float-left" style="max-height:300px; max-width:400px;"> <!--grey -->
+            <img id="title2" class="rounded float-right" style="max-height:300px; max-width:400px; margin-top:25px"> <!--color -->
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="download bg-primary text-center" id="download" style="padding: 100px 0!important;">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 mx-auto">
+            <h2 class="section-heading">Dimensions?<br/>What dimensions?</h2>
+            <p>Choose your image:</p>
+            <br/>
+            <div class="row">
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_1" href="#compress"><div class="rounded float-left image_0" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_2" href="#compress"><div class="rounded float-left image_1" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_3" href="#compress"><div class="rounded float-left image_2" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+            </div>
+            <br/>
+            <div class="row" id="compress">
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_4" href="#compress"><div class="rounded float-left image_3" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_5" href="#compress"><div class="rounded float-left image_4" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+              <div class="col-sm-4"><a class="js-scroll-trigger" name="image_6" href="#compress"><div class="rounded float-left image_5" style="width:100%;padding-bottom:100%;background-repeat: no-repeat; background-size: cover;"></div></a></div>
+            </div>
+            <br/>
+            <br/>
+            <p>Now select how to compress your image below:</p>
+            <br/>
+            <div class="badges">
+              <!--TODO: success on click -->
+              <a href="#features" class="btn btn-outline btn-info btn-xl js-scroll-trigger">COMPRESS</a>
+              <a href="#features" class="btn btn-outline btn-info btn-xl js-scroll-trigger">DROPOUT</a>
+              <a href="#features" class="btn btn-outline btn-info btn-xl js-scroll-trigger">POOLING</a>
+            </br>
+              <a href="#features" class="btn btn-outline btn-info btn-xl js-scroll-trigger">PCA</a>
+              <a href="#features" class="btn btn-outline btn-success btn-xl js-scroll-trigger">POSTERIZE</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="features" id="features">
+      <div class="container">
+        <div class="section-heading text-center" style="margin-bottom:0;">
+          <h2>Results</h2>
+          <p class="text-muted">Check out what the <a href="https://cloud.google.com/vision/" target="_blank">Google Cloud Vision API</a> saw in each image:</p>
+          <hr>
+        </div>
+        <div class="row">
+          <div class="col-lg-12 my-auto">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <img id="original" class="rounded float-left" style="width:100%; padding-bottom:100%; margin-bottom:30px; background-repeat: no-repeat; background-size: cover;">
+
+                    <h3 style="padding-bottom:20px;">Original Image</h3>
+                    <span style="text-align:left;">
+                      <p class="text-muted">Size: <span class="pull-right" style="color:black;">68kb</span></p>
+                      <p class="text-muted">Dimensions: <span class="pull-right" style="color:black;">1800px by 1300px</span></p>
+                      <p class="text-muted">Labels:</p>
+                      <button type="button" class="btn btn-block btn-success" style="cursor:default;">Match!</button>
+                      <button type="button" class="btn btn-block btn-outline-secondary" style="cursor:default;">Light</button>
+                      <button type="button" class="btn btn-block btn-outline-secondary" style="cursor:default;">Light</button>
+                      <button type="button" class="btn btn-block btn-outline-secondary" style="cursor:default;">Light</button>
+                    </span>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="feature-item">
+                    <img id="compressed" class="rounded float-left" style="width:100%; padding-bottom:100%; margin-bottom:30px; background-color:#ddd; background-repeat: no-repeat; background-size: cover;">
+
+                    <h3 style="padding-bottom:20px;">Compressed Image</h3>
+                    <span style="text-align:left;">
+                      <!--<p class="text-muted">Select a compression method above to continue and view details.</p>-->
+
+                      <p class="text-muted">Size: <span class="pull-right" style="color:black;">72kb</span></p>
+                      <p class="text-muted">Dimensions: <span class="pull-right" style="color:black;">1800px by 1300px</span></p>
+                      <p class="text-muted">Labels:</p>
+                      <button type="button" class="btn btn-block btn-success" style="cursor:default;">Match</button>
+                      <button type="button" class="btn btn-block btn-outline-light" style="cursor:default;">Light</button>
+                      <button type="button" class="btn btn-block btn-outline-light" style="cursor:default;">Light</button>
+                      <button type="button" class="btn btn-block btn-outline-light" style="cursor:default;">Light</button>
+
+                    </span>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  <!--     <section class="cta">
+      <div class="cta-content">
+        <div class="container">
+          <h2>Stop waiting.<br>Start building.</h2>
+          <a href="#contact" class="btn btn-outline btn-xl js-scroll-trigger">Let's Get Started!</a>
+        </div>
+      </div>
+      <div class="overlay"></div>
+    </section>
+
+ <section class="contact bg-primary" id="contact">
+      <div class="container">
+        <h2>Share
+          <i class="fa fa-heart"></i>
+          new friends!</h2>
+        <ul class="list-inline list-social">
+          <li class="list-inline-item social-twitter">
+            <a href="#">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item social-facebook">
+            <a href="#">
+              <i class="fa fa-facebook"></i>
+            </a>
+          </li>
+          <li class="list-inline-item social-google-plus">
+            <a href="#">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>-->
+
+    <footer>
+      <div class="container"><!--
+        <p>&copy; Your Website 2018. All Rights Reserved.</p>
+        <ul class="list-inline">
+          <li class="list-inline-item">
+            <a href="#">Privacy</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">Terms</a>
+          </li>
+          <li class="list-inline-item">
+            <a href="#">FAQ</a>
+          </li>
+        </ul> -->
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/new-age.min.js"></script>
+
+    <script>
+    var title1 = [
+      "images/pre/greyscale/Animals/cat.jpg",
+      "images/pre/greyscale/Animals/donkey.jpg",
+      "images/pre/greyscale/Animals/gerbil.jpg",
+      "images/pre/greyscale/Animals/sheep.jpg",
+      "images/pre/greyscale/Animals/tiger.jpg",
+      "images/pre/greyscale/Landmarks/callandish_stones.jpg",
+      "images/pre/greyscale/Landmarks/empire_state.jpg",
+      "images/pre/greyscale/Landmarks/taj_mahal.jpg",
+      "images/pre/greyscale/Landmarks/tokyo_tower.jpg",
+      "images/pre/greyscale/Landmarks/picadilly.jpg",
+      "images/pre/greyscale/Landmarks/great_dome.jpg",
+      "images/pre/greyscale/Landscapes/desert.jpg",
+      "images/pre/greyscale/Landscapes/forest.jpg",
+      "images/pre/greyscale/Landscapes/mountains.jpg",
+      "images/pre/greyscale/Landscapes/ocean.jpg",
+      "images/pre/greyscale/Landscapes/waterfall.jpg",
+      "images/pre/greyscale/Signs/deer.jpg",
+      "images/pre/greyscale/Signs/exit.jpg",
+      "images/pre/greyscale/Signs/lights.jpg",
+      "images/pre/greyscale/Signs/stop.jpg",
+      "images/pre/greyscale/Tim the Beaver/tim.jpg"
+    ];
+    var title3 = [
+      {'imgUrl':"images/pre/color/Animals/cat.jpg", 'imgPath' : 'Animals/cat.jpg', 'filename':'cat.jpg'},
+      {'imgUrl':"images/pre/color/Animals/donkey.jpg", 'imgPath' : 'Animals/donkey.jpg', 'filename':'donkey.jpg'},
+      {'imgUrl':"images/pre/color/Animals/gerbil.jpg", 'imgPath' : 'Animals/gerbil.jpg', 'filename':'gerbil.jpg'},
+      {'imgUrl':"images/pre/color/Animals/sheep.jpg", 'imgPath' : 'Animals/sheep.jpg', 'filename':'sheep.jpg'},
+      {'imgUrl':"images/pre/color/Animals/tiger.jpg", 'imgPath' : 'Animals/tiger.jpg', 'filename':'tiger.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/callanish_stones.jpg", 'imgPath' : 'Landmarks/callanish_stones.jpg', 'filename':'callanish_stones.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/empire_state.jpg", 'imgPath' : 'Landmarks/empire_state.jpg', 'filename':'empire_state.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/taj_mahal.jpg", 'imgPath' : 'Landmarks/taj_mahal.jpg', 'filename':'taj_mahal.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/tokyo_tower.jpg", 'imgPath' : 'Landmarks/tokyo_tower.jpg', 'filename':'tokyo_tower.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/picadilly.jpg", 'imgPath' : 'Landmarks/picadilly.jpg', 'filename':'picadilly.jpg'},
+      {'imgUrl':"images/pre/color/Landmarks/great_dome.jpg", 'imgPath' : 'Landmarks/great_dome.jpg', 'filename':'great_dome.jpg'},
+      {'imgUrl':"images/pre/color/Landscapes/desert.jpg", 'imgPath' : 'Landscapes/desert.jpg', 'filename':'desert.jpg'},
+      {'imgUrl':"images/pre/color/Landscapes/forest.jpg", 'imgPath' : 'Landscapes/forest.jpg', 'filename':'forest.jpg'},
+      {'imgUrl':"images/pre/color/Landscapes/mountains.jpg", 'imgPath' : 'Landscapes/mountains.jpg', 'filename':'mountains.jpg'},
+      {'imgUrl':"images/pre/color/Landscapes/ocean.jpg", 'imgPath' : 'Landscapes/ocean.jpg', 'filename':'ocean.jpg'},
+      {'imgUrl':"images/pre/color/Landscapes/waterfall.jpg", 'imgPath' : 'Landscapes/waterfall.jpg', 'filename':'waterfall.jpg'},
+      {'imgUrl':"images/pre/color/Signs/deer.jpg", 'imgPath' : 'Signs/deer.jpg', 'filename':'deer.jpg'},
+      {'imgUrl':"images/pre/color/Signs/exit.jpg", 'imgPath' : 'Signs/exit.jpg', 'filename':'exit.jpg'},
+      {'imgUrl':"images/pre/color/Signs/lights.jpg", 'imgPath' : 'Signs/lights.jpg', 'filename':'lights.jpg'},
+      {'imgUrl':"images/pre/color/Signs/stop.jpg", 'imgPath' : 'Signs/stop.jpg', 'filename':'stop.jpg'},
+      {'imgUrl':"images/pre/color/Tim%20the%20Beaver/tim.jpg", 'imgPath' : 'Tim the Beaver/tim.jpg', 'filename':'tim.jpg'},
+      {'imgUrl':"images/pre/greyscale/Animals/cat.jpg", 'imgPath' : 'Animals/cat.jpg', 'filename':'cat.jpg'},
+      {'imgUrl':"images/pre/greyscale/Animals/donkey.jpg", 'imgPath' : 'Animals/donkey.jpg', 'filename':'donkey.jpg'},
+      {'imgUrl':"images/pre/greyscale/Animals/gerbil.jpg", 'imgPath' : 'Animals/gerbil.jpg', 'filename':'gerbil.jpg'},
+      {'imgUrl':"images/pre/greyscale/Animals/sheep.jpg", 'imgPath' : 'Animals/sheep.jpg', 'filename':'sheep.jpg'},
+      {'imgUrl':"images/pre/greyscale/Animals/tiger.jpg", 'imgPath' : 'Animals/tiger.jpg', 'filename':'tiger.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/callanish_stones.jpg", 'imgPath' : 'Landmarks/callanish_stones.jpg', 'filename':'callanish_stones.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/empire_state.jpg", 'imgPath' : 'Landmarks/empire_state.jpg', 'filename':'empire_state.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/taj_mahal.jpg", 'imgPath' : 'Landmarks/taj_mahal.jpg', 'filename':'taj_mahal.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/tokyo_tower.jpg", 'imgPath' : 'Landmarks/tokyo_tower.jpg', 'filename':'tokyo_tower.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/picadilly.jpg", 'imgPath' : 'Landmarks/picadilly.jpg', 'filename':'picadilly.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landmarks/great_dome.jpg", 'imgPath' : 'Landmarks/great_dome.jpg', 'filename':'great_dome.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landscapes/desert.jpg", 'imgPath' : 'Landscapes/desert.jpg', 'filename':'desert.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landscapes/forest.jpg", 'imgPath' : 'Landscapes/forest.jpg', 'filename':'forest.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landscapes/mountains.jpg", 'imgPath' : 'Landscapes/mountains.jpg', 'filename':'mountains.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landscapes/ocean.jpg", 'imgPath' : 'Landscapes/ocean.jpg', 'filename':'ocean.jpg'},
+      {'imgUrl':"images/pre/greyscale/Landscapes/waterfall.jpg", 'imgPath' : 'Landscapes/waterfall.jpg', 'filename':'waterfall.jpg'},
+      {'imgUrl':"images/pre/greyscale/Signs/deer.jpg", 'imgPath' : 'Signs/deer.jpg', 'filename':'deer.jpg'},
+      {'imgUrl':"images/pre/greyscale/Signs/exit.jpg", 'imgPath' : 'Signs/exit.jpg', 'filename':'exit.jpg'},
+      {'imgUrl':"images/pre/greyscale/Signs/lights.jpg", 'imgPath' : 'Signs/lights.jpg', 'filename':'lights.jpg'},
+      {'imgUrl':"images/pre/greyscale/Signs/stop.jpg", 'imgPath' : 'Signs/stop.jpg', 'filename':'stop.jpg'},
+      {'imgUrl':"images/pre/greyscale/Tim%20the%20Beaver/tim.jpg", 'imgPath' : 'Tim the Beaver/tim.jpg', 'filename':'tim.jpg'},
+
+    ];
+
+    var title2 = [
+      "images/pre/color/Animals/cat.jpg",
+      "images/pre/color/Animals/donkey.jpg",
+      "images/pre/color/Animals/gerbil.jpg",
+      "images/pre/color/Animals/sheep.jpg",
+      "images/pre/color/Animals/tiger.jpg",
+      "images/pre/color/Landmarks/callanish_stones.jpg",
+      "images/pre/color/Landmarks/empire_state.jpg",
+      "images/pre/color/Landmarks/taj_mahal.jpg",
+      "images/pre/color/Landmarks/picadilly.jpg",
+      "images/pre/color/Landmarks/great_dome.jpg",
+      "images/pre/color/Landscapes/desert.jpg",
+      "images/pre/color/Landscapes/forest.jpg",
+      "images/pre/color/Landscapes/mountains.jpg",
+      "images/pre/color/Landscapes/ocean.jpg",
+      "images/pre/color/Landscapes/waterfall.jpg",
+      "images/pre/color/Signs/deer.jpg",
+      "images/pre/color/Signs/exit.jpg",
+      "images/pre/color/Signs/stop.jpg",
+      "images/pre/color/Tim the Beaver/tim.jpg"
+    ];
+
+    var size3 = title3.length
+    var size2 = title2.length
+    var x = Math.floor(size2*Math.random())
+    var y = Math.floor(size2*Math.random())
+    if(x==y){
+      var y = Math.floor(size2*Math.random())
+    }
+    document.getElementById('title1').src=title2[x]; // title1 for b&w
+    document.getElementById('title2').src=title2[y];
+
+    Array1 = []
+    for(i=0;i<6;i++){
+      var z = Math.floor(size3 * Math.random())
+      $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      if(Array1.includes(z)){
+        var z = Math.floor(size3 * Math.random())
+        $('.image_'+i).css('background-image', 'url(' + title3[z].imgUrl + ')');
+      }
+      Array1.push(z);
+    }
+
+
+    // one time set intial image to first image
+    $('#original').css('background-image', 'url(' + title3[Array1[0]].imgUrl + ')');
+
+
+    </script>
+
+  </body>
+
+</html>

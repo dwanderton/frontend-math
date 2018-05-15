@@ -1,0 +1,9 @@
+tower
+sky
+landmark
+spire
+steeple
+tourist attraction
+tree
+building
+monument

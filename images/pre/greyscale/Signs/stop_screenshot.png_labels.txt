@@ -1,0 +1,10 @@
+text
+product
+font
+technology
+product
+brand
+multimedia
+website
+screenshot
+logo

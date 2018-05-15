@@ -1,0 +1,9 @@
+text
+product
+screenshot
+font
+product
+website
+angle
+brand
+multimedia

@@ -1,0 +1,10 @@
+car
+advertising
+transport
+vehicle
+motor vehicle
+city
+metropolitan area
+signage
+billboard
+street

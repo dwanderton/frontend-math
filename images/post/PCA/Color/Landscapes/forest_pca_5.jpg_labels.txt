@@ -1,0 +1,7 @@
+yellow
+light
+sunlight
+wood
+texture
+tree
+pattern

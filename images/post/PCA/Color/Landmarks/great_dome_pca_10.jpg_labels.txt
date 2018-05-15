@@ -1,0 +1,10 @@
+reflection
+landmark
+sky
+architecture
+building
+daytime
+corporate headquarters
+symmetry
+tourist attraction
+metropolis

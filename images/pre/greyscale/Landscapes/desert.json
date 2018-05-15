@@ -1,0 +1,383 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.9600374,
+      "topicality": 0.9600374
+    },
+    {
+      "mid": "/m/083jv",
+      "description": "white",
+      "score": 0.959561,
+      "topicality": 0.959561
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9503526,
+      "topicality": 0.9503526
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.92959756,
+      "topicality": 0.92959756
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.85934293,
+      "topicality": 0.85934293
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.84906864,
+      "topicality": 0.84906864
+    },
+    {
+      "mid": "/m/04k84",
+      "description": "light",
+      "score": 0.82799745,
+      "topicality": 0.82799745
+    },
+    {
+      "mid": "/m/01ctsf",
+      "description": "atmosphere",
+      "score": 0.79678065,
+      "topicality": 0.79678065
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7804814,
+      "topicality": 0.7804814
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.7509777,
+      "topicality": 0.7509777
+    },
+    {
+      "mid": "/m/02_ktj",
+      "description": "morning",
+      "score": 0.73943174,
+      "topicality": 0.73943174
+    },
+    {
+      "mid": "/m/0d1n2",
+      "description": "horizon",
+      "score": 0.68181545,
+      "topicality": 0.68181545
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.5384384,
+      "topicality": 0.5384384
+    },
+    {
+      "mid": "/m/03w43x",
+      "description": "computer wallpaper",
+      "score": 0.52767795,
+      "topicality": 0.52767795
+    },
+    {
+      "mid": "/m/099fz",
+      "description": "sand",
+      "score": 0.5235425,
+      "topicality": 0.5235425
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.5121269,
+      "topicality": 0.5121269
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.50815725,
+      "topicality": 0.50815725
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 46,
+            "green": 46,
+            "blue": 46
+          },
+          "score": 0.81129485,
+          "pixelFraction": 0.26906666
+        },
+        {
+          "color": {
+            "red": 118,
+            "green": 118,
+            "blue": 118
+          },
+          "score": 0.010520895,
+          "pixelFraction": 0.07153333
+        },
+        {
+          "color": {
+            "red": 26,
+            "green": 26,
+            "blue": 26
+          },
+          "score": 0.16710304,
+          "pixelFraction": 0.5819333
+        },
+        {
+          "color": {
+            "red": 89,
+            "green": 89,
+            "blue": 89
+          },
+          "score": 0.010047642,
+          "pixelFraction": 0.053733334
+        },
+        {
+          "color": {
+            "red": 147,
+            "green": 147,
+            "blue": 147
+          },
+          "score": 0.0010335556,
+          "pixelFraction": 0.023733333
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 429
+            },
+            {
+              "x": 982
+            },
+            {
+              "x": 982,
+              "y": 682
+            },
+            {
+              "x": 429,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.83
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 326
+            },
+            {
+              "x": 1012
+            },
+            {
+              "x": 1012,
+              "y": 682
+            },
+            {
+              "x": 326,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.89
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 173
+            },
+            {
+              "x": 1002
+            },
+            {
+              "x": 1002,
+              "y": 682
+            },
+            {
+              "x": 173,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.93
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/04k84",
+        "score": 1.5793355,
+        "description": "Light"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.91403306,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.9100435,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.89167523,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.86078113,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/01bqvp",
+        "score": 0.84589034,
+        "description": "Sky"
+      },
+      {
+        "entityId": "/m/083jv",
+        "score": 0.81512606,
+        "description": "White"
+      },
+      {
+        "entityId": "/m/019sc",
+        "score": 0.81103927,
+        "description": "Black"
+      },
+      {
+        "entityId": "/m/01kyr8",
+        "score": 0.7527093,
+        "description": "Darkness"
+      },
+      {
+        "entityId": "/m/0d1n2",
+        "score": 0.73673,
+        "description": "Horizon"
+      },
+      {
+        "entityId": "/m/01ctsf",
+        "score": 0.71275145,
+        "description": "Atmosphere"
+      },
+      {
+        "entityId": "/m/03w43x",
+        "score": 0.6744211,
+        "description": "Desktop Wallpaper"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.66440016,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/099fz",
+        "score": 0.6059454,
+        "description": "Sand"
+      },
+      {
+        "entityId": "/m/01m3v",
+        "score": 0.5109,
+        "description": "Computer"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://www.mercedes-benz.com/wp-content/uploads/sites/3/2016/12/01-mercedes-benz-next-advanced-engineering-digital-light-s-class-w-222-680x379-680x379.jpg"
+      },
+      {
+        "url": "https://cdn.80.lv/80.lv/uploads/2017/12/image2-2.png"
+      },
+      {
+        "url": "https://creators-images.vice.com/content-images/contentimage/no-slug/8b3b1f863087cbe9c2cda9ad12826277.jpg"
+      },
+      {
+        "url": "https://united-visual-artists.s3.amazonaws.com/uploads/713a6523-3a9f-43ac-9df2-21b29188bcfd/momentum_JM-1369_full.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/d1/f4/ba/d1f4ba958523b21acd852037fa1f6a25.jpg"
+      },
+      {
+        "url": "http://st.motortrend.com/uploads/sites/5/2018/03/2019-Mercedes-Maybach-S-Class-Digital-Light-demo-08.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/c6/27/57/c627570389e26a3035d4794534374eb3.jpg"
+      },
+      {
+        "url": "http://www.samsungdlight.com/global/asset/img/cover/sim_blur_bg.jpg"
+      },
+      {
+        "url": "https://img.purch.com/h/1000/aHR0cDovL3d3dy5zcGFjZS5jb20vaW1hZ2VzL2kvMDAwLzAyMy8yMDIvb3JpZ2luYWwvZWFydGgyX2Nhc3NpbmkuanBn"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/4e/e3/a6/4ee3a6af690726e45eaa22465501d893--drame-tadao-ando.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/d9/4d/07/d94d07f200fe1b08a42237ecac3e005c--train-tunnel-light-in-the-dark.jpg"
+      },
+      {
+        "url": "https://cdn-images.farfetch-contents.com/12/17/60/47/12176047_10286462_322.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Monochrome_Dunes.png"
+      },
+      {
+        "url": "http://sk.ru/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-60-11/402561main_5F00_cassini20091113_2D00_full.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5071b34ce4b03adec6658201/5771864be3df283b444e52fa/5771864de3df283b444e5313/1467057918124/11Plane+III+Sky.jpg"
+      },
+      {
+        "url": "http://www.alternativephotography.com/wp-content/gallery/chris-byrnes/Pinhole-Camera-Obscura-abstract-light-paper-neg.jpg"
+      },
+      {
+        "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/63309234326071.56cca348bfe94.jpg"
+      },
+      {
+        "url": "http://www.kw-berlin.de/files/170424_kw_mccall_0768-bearbeitet_lq-580x387.jpg"
+      },
+      {
+        "url": "https://cdn.shutterstock.com/shutterstock/videos/19754914/thumb/1.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/53a2b3a1e4b0a5020bebe676/t/57610825c2ea515f2b2b1781/1465979843952/shadow-street-photography?format=750w"
+      },
+      {
+        "url": "http://s3.amazonaws.com/quietus_production/images/articles/14811/jon-porras-light-divide-300x300_1395677252.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "monochrome photography"
+      }
+    ]
+  }
+}

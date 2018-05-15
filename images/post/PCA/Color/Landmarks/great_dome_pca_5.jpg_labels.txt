@@ -1,0 +1,10 @@
+reflection
+landmark
+sky
+architecture
+daytime
+wall
+urban area
+symmetry
+building
+metropolis

@@ -1,0 +1,385 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/088fh",
+      "description": "yellow",
+      "score": 0.9452339,
+      "topicality": 0.9452339
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.9425689,
+      "topicality": 0.9425689
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.882317,
+      "topicality": 0.882317
+    },
+    {
+      "mid": "/m/01mqdt",
+      "description": "traffic sign",
+      "score": 0.83980083,
+      "topicality": 0.83980083
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "signage",
+      "score": 0.8336627,
+      "topicality": 0.8336627
+    },
+    {
+      "mid": "/m/04jph85",
+      "description": "street sign",
+      "score": 0.79405487,
+      "topicality": 0.79405487
+    },
+    {
+      "mid": "/m/03scnj",
+      "description": "line",
+      "score": 0.6733577,
+      "topicality": 0.6733577
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 254,
+            "green": 188,
+            "blue": 4
+          },
+          "score": 0.5077173,
+          "pixelFraction": 0.06973334
+        },
+        {
+          "color": {
+            "red": 67,
+            "green": 156,
+            "blue": 207
+          },
+          "score": 0.012923683,
+          "pixelFraction": 0.122
+        },
+        {
+          "color": {
+            "red": 45,
+            "green": 132,
+            "blue": 190
+          },
+          "score": 0.00996757,
+          "pixelFraction": 0.30746666
+        },
+        {
+          "color": {
+            "red": 145,
+            "green": 120,
+            "blue": 25
+          },
+          "score": 0.006600083,
+          "pixelFraction": 0.0024
+        },
+        {
+          "color": {
+            "red": 247,
+            "green": 197,
+            "blue": 5
+          },
+          "score": 0.29300812,
+          "pixelFraction": 0.0434
+        },
+        {
+          "color": {
+            "red": 106,
+            "green": 87,
+            "blue": 30
+          },
+          "score": 0.0026327576,
+          "pixelFraction": 0.0016666667
+        },
+        {
+          "color": {
+            "red": 62,
+            "green": 51,
+            "blue": 26
+          },
+          "score": 0.0021031417,
+          "pixelFraction": 0.0031333333
+        },
+        {
+          "color": {
+            "red": 36,
+            "green": 121,
+            "blue": 230
+          },
+          "score": 0.0013183276,
+          "pixelFraction": 0.0014
+        },
+        {
+          "color": {
+            "red": 38,
+            "green": 19,
+            "blue": 54
+          },
+          "score": 0.0011233769,
+          "pixelFraction": 0.0014
+        },
+        {
+          "color": {
+            "red": 248,
+            "green": 178,
+            "blue": 38
+          },
+          "score": 0.029499792,
+          "pixelFraction": 0.0055333334
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 490
+            },
+            {
+              "x": 1596
+            },
+            {
+              "x": 1596,
+              "y": 1364
+            },
+            {
+              "x": 490,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.88
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 367
+            },
+            {
+              "x": 1739
+            },
+            {
+              "x": 1739,
+              "y": 1364
+            },
+            {
+              "x": 367,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.91999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 224
+            },
+            {
+              "x": 1883
+            },
+            {
+              "x": 1883,
+              "y": 1364
+            },
+            {
+              "x": 224,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.95
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01mqdt",
+        "score": 0.8635785,
+        "description": "Traffic sign"
+      },
+      {
+        "entityId": "/m/014xcs",
+        "score": 0.709,
+        "description": "Pedestrian crossing"
+      },
+      {
+        "entityId": "/m/017r8p",
+        "score": 0.7052,
+        "description": "Pedestrian"
+      },
+      {
+        "entityId": "/m/08q1tg",
+        "score": 0.6972,
+        "description": "Traffic collision"
+      },
+      {
+        "entityId": "/m/06d0mv",
+        "score": 0.6119,
+        "description": "Hit and run"
+      },
+      {
+        "entityId": "/m/02r1m3_",
+        "score": 0.5212,
+        "description": "Black Metropolis–Bronzeville District"
+      },
+      {
+        "entityId": "/m/01c8br",
+        "score": 0.4975,
+        "description": "Street"
+      },
+      {
+        "entityId": "/m/0btp2",
+        "score": 0.4517,
+        "description": "Traffic"
+      },
+      {
+        "entityId": "/t/24mypdx4svpvn",
+        "score": 0.4498
+      },
+      {
+        "entityId": "/m/01lh7h",
+        "score": 0.4272,
+        "description": "Safety"
+      },
+      {
+        "entityId": "/g/11b76fyj2r",
+        "score": 0.3337,
+        "description": "Accident"
+      },
+      {
+        "entityId": "/g/1tf7m7sq",
+        "score": 0.3289,
+        "description": "Glenlyon Parkway"
+      },
+      {
+        "entityId": "/m/05ws7",
+        "score": 0.2978,
+        "description": "Police"
+      },
+      {
+        "entityId": "/m/06zsq",
+        "score": 0.29452494,
+        "description": "Sign"
+      },
+      {
+        "entityId": "/m/02y3rj",
+        "score": 0.2045,
+        "description": "Presentation"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_b.jpg"
+      },
+      {
+        "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_m.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://img.haikudeck.com/mg/c026e2ffef_1454434751318.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/588fd36f579fb3e4efb5597a/t/58924719f5e23162cc15f658/1485982569104/3a8779c4-968c-4c19-be66-1503d97b2a39.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.flickr.com/photos/hfiguiere/9146013475",
+        "pageTitle": "X-ing | &lt;b&gt;Pedestrian crossing&lt;/b&gt; sign on Glenlyon Parkway along t… | Flickr",
+        "fullMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_m.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/3/2881/9146013475_4d501c2d94_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.stokesinjurylawyers.com/woman-arrested-connection-fatal-hit-run-accident/",
+        "pageTitle": "Woman Arrested in Connection to Fatal Hit-and ... - Stokes &amp;amp; Kopitsky",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm3.staticflickr.com/2881/9146013475_4d501c2d94_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thaliabrionez.com/radio/",
+        "pageTitle": "Radio — Thalia Brionez",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/588fd36f579fb3e4efb5597a/t/58924719f5e23162cc15f658/1485982569104/3a8779c4-968c-4c19-be66-1503d97b2a39.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.haikudeck.com/fahrenheit-451-abcs-uncategorized-presentation-96c5efb62f",
+        "pageTitle": "Fahrenheit 451 ABC&amp;#39;s by Kelbe Faast - Haiku Deck",
+        "partialMatchingImages": [
+          {
+            "url": "https://img.haikudeck.com/mg/c026e2ffef_1454434751318.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://proprofs-cdn.s3.amazonaws.com/images/FC/user_images/1864640/6021949027.jpg"
+      },
+      {
+        "url": "https://farm4.static.flickr.com/3789/9574439184_522aa410ec_b.jpg"
+      },
+      {
+        "url": "https://fthmb.tqn.com/mHaEEhMItToyFYZgryaOkopoG-0=/735x0/school-crossing-sign-fullsize-56a9daad3df78cf772ab1b15.JPG"
+      },
+      {
+        "url": "https://images.myparkingsign.com/img/lg2/K/k-1999-4.png"
+      },
+      {
+        "url": "https://thumb7.shutterstock.com/display_pic_with_logo/4124191/580059709/stock-photo-yellow-pedestrians-crossing-sign-with-arrow-pointing-left-with-light-poles-behind-sunny-afternoon-580059709.jpg"
+      },
+      {
+        "url": "http://maxpixel.freegreatpicture.com/static/photo/1x/Symbol-Traffic-Crossing-Pedestrian-Sign-Road-2496196.jpg"
+      },
+      {
+        "url": "https://st2.depositphotos.com/3702969/11656/i/450/depositphotos_116562804-stock-photo-pedestrian-crossing-street-sign.jpg"
+      },
+      {
+        "url": "http://l450v.alamy.com/450v/j642wk/pedestrian-crossing-sign-new-south-wales-nsw-australia-j642wk.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "Pedestrian crossing"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+face
+mammal
+vertebrate
+nose
+grass
+fauna
+close up
+eye
+mouth
+plant stem

@@ -1,0 +1,10 @@
+sky
+tower
+landmark
+spire
+skyscraper
+atmosphere
+atmosphere of earth
+daytime
+metropolis
+evening

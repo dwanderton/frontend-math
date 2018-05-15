@@ -1,0 +1,353 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.94599974,
+      "topicality": 0.94599974
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.9166974,
+      "topicality": 0.9166974
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.855929,
+      "topicality": 0.855929
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.8393828,
+      "topicality": 0.8393828
+    },
+    {
+      "mid": "/m/01cbzq",
+      "description": "rock",
+      "score": 0.7997684,
+      "topicality": 0.7997684
+    },
+    {
+      "mid": "/m/01ctsf",
+      "description": "atmosphere",
+      "score": 0.7930927,
+      "topicality": 0.7930927
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.78456414,
+      "topicality": 0.78456414
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.72020036,
+      "topicality": 0.72020036
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.62826514,
+      "topicality": 0.62826514
+    },
+    {
+      "mid": "/g/11k2xz7mr",
+      "description": "meteorological phenomenon",
+      "score": 0.62371117,
+      "topicality": 0.62371117
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.5938382,
+      "topicality": 0.5938382
+    },
+    {
+      "mid": "/m/03rbf6",
+      "description": "macro photography",
+      "score": 0.58866215,
+      "topicality": 0.58866215
+    },
+    {
+      "mid": "/m/03w43x",
+      "description": "computer wallpaper",
+      "score": 0.58842605,
+      "topicality": 0.58842605
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.56483346,
+      "topicality": 0.56483346
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 18,
+            "green": 18,
+            "blue": 18
+          },
+          "score": 0.40304217,
+          "pixelFraction": 0.2004016
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 120,
+            "blue": 120
+          },
+          "score": 0.25379714,
+          "pixelFraction": 0.044016063
+        },
+        {
+          "color": {
+            "red": 85,
+            "green": 85,
+            "blue": 85
+          },
+          "score": 0.13632533,
+          "pixelFraction": 0.25453815
+        },
+        {
+          "color": {
+            "red": 53,
+            "green": 53,
+            "blue": 53
+          },
+          "score": 0.10126334,
+          "pixelFraction": 0.4905221
+        },
+        {
+          "color": {
+            "red": 150,
+            "green": 150,
+            "blue": 150
+          },
+          "score": 0.101148136,
+          "pixelFraction": 0.009879518
+        },
+        {
+          "color": {
+            "red": 182,
+            "green": 182,
+            "blue": 182
+          },
+          "score": 0.004423893,
+          "pixelFraction": 0.00064257026
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 132
+            },
+            {
+              "x": 592
+            },
+            {
+              "x": 592,
+              "y": 563
+            },
+            {
+              "x": 132,
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 572
+            },
+            {
+              "x": 572,
+              "y": 563
+            },
+            {
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 674
+            },
+            {
+              "x": 674,
+              "y": 563
+            },
+            {
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.90999997
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.91345793,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.90793943,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.89002293,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.85368514,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/0csby",
+        "score": 0.8345099,
+        "description": "Cloud"
+      },
+      {
+        "entityId": "/m/01bqvp",
+        "score": 0.8160881,
+        "description": "Sky"
+      },
+      {
+        "entityId": "/m/01ctsf",
+        "score": 0.7843767,
+        "description": "Atmosphere"
+      },
+      {
+        "entityId": "/m/01kyr8",
+        "score": 0.7078945,
+        "description": "Darkness"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.6887865,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/03w43x",
+        "score": 0.6848028,
+        "description": "Desktop Wallpaper"
+      },
+      {
+        "entityId": "/g/121w64t_",
+        "score": 0.6373,
+        "description": "Fenomen meteorològic"
+      },
+      {
+        "entityId": "/m/010f1nbq",
+        "score": 0.5952,
+        "description": "Macro photography"
+      },
+      {
+        "entityId": "/m/04__y",
+        "score": 0.5297,
+        "description": "Meteorology"
+      },
+      {
+        "entityId": "/m/01m3v",
+        "score": 0.5083,
+        "description": "Computer"
+      },
+      {
+        "entityId": "/m/083jv",
+        "score": 0.4869,
+        "description": "White"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://artlogic-res.cloudinary.com/w_1200,h_1000,c_limit,f_auto,fl_lossy/artlogicstorage/artsalon/images/view/532338ed86e330d3d41f62effab80676j/artsalon-glyn-davies-life-in-rock-pools.jpg"
+      },
+      {
+        "url": "http://lightstalkeradventures.com/wp-content/uploads/2017/05/Bow-Fiddle-Rock.jpg"
+      },
+      {
+        "url": "https://static.pexels.com/photos/763103/pexels-photo-763103.jpeg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1549810725043826"
+      },
+      {
+        "url": "http://papers.co/wallpaper/papers.co-mh67-road-to-sky-mountain-hightway-bw-nature-27-wallpaper.jpg"
+      },
+      {
+        "url": "http://vunature.com/wp-content/uploads/2016/10/mountains-volcanoes-eruption-monochrome-smoke-hd-nature-phone-wallpapers.jpg"
+      },
+      {
+        "url": "https://cdn.pixabay.com/photo/2017/05/12/07/06/starry-sky-2306272_640.jpg"
+      },
+      {
+        "url": "https://davidgibbeson.com/wp-content/uploads/2015/12/Blackchurch-Rock-in-North-Devon-1-960x636.jpg"
+      },
+      {
+        "url": "http://thesocieties.net/image_competition-2017/NovHc/Paul_Sanders_Monochrome_November_138178.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/leannecole.com.au/wp-content/uploads/2017/12/deadtrees-infrared-monochrome-cape-otway.jpg?resize=848%2C476"
+      },
+      {
+        "url": "https://joshhouck.files.wordpress.com/2013/06/half-dome-sunset-dark-sky-bw.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1009114222560088"
+      },
+      {
+        "url": "https://tomgrantdotorg1.files.wordpress.com/2015/02/easter-island-gully-area-14.jpg"
+      },
+      {
+        "url": "https://c1.staticflickr.com/4/3742/13589258334_0a3550cd1c_b.jpg"
+      },
+      {
+        "url": "http://bigskyblog.com/wp-content/uploads/2014/09/Going-to-the-Sun-Road.jpg"
+      },
+      {
+        "url": "https://lenscraft.co.uk/wp-content/uploads/2017/05/RWhalley_XT2_2017_02_DSF4650-Pano-small-600x205.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "monochrome photography"
+      }
+    ]
+  }
+}

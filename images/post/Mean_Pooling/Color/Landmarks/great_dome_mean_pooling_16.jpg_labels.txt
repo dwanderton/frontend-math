@@ -1,0 +1,10 @@
+landmark
+green
+ecosystem
+mode of transport
+structure
+residential area
+grass
+plant
+phenomenon
+biome

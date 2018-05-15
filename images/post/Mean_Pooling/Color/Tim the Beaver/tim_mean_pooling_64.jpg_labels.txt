@@ -1,0 +1,8 @@
+text
+line
+font
+design
+angle
+material
+square
+pattern

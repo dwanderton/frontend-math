@@ -1,0 +1,7 @@
+yellow
+orange
+material
+symmetry
+triangle
+square
+window

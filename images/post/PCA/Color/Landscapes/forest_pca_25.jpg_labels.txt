@@ -1,0 +1,10 @@
+tree
+leaf
+forest
+biome
+sunlight
+woodland
+deciduous
+trunk
+old growth forest
+plant

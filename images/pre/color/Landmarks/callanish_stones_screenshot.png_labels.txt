@@ -1,0 +1,10 @@
+rock
+sky
+monolith
+cloud
+megalith
+grass
+archaeological site
+historic site
+monument
+ancient history

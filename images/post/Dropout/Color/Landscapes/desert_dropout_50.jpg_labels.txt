@@ -1,0 +1,10 @@
+sky
+sand
+horizon
+calm
+morning
+sea
+dawn
+sunset
+dune
+sunrise

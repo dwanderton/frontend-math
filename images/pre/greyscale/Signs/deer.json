@@ -1,0 +1,888 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.9708608,
+      "topicality": 0.9708608
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.95665187,
+      "topicality": 0.95665187
+    },
+    {
+      "mid": "/m/05h0n",
+      "description": "nature",
+      "score": 0.95163316,
+      "topicality": 0.95163316
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9491905,
+      "topicality": 0.9491905
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.92630607,
+      "topicality": 0.92630607
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.9154506,
+      "topicality": 0.9154506
+    },
+    {
+      "mid": "/m/02hnx9",
+      "description": "woody plant",
+      "score": 0.9110649,
+      "topicality": 0.9110649
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.8149171,
+      "topicality": 0.8149171
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.8040422,
+      "topicality": 0.8040422
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.78190756,
+      "topicality": 0.78190756
+    },
+    {
+      "mid": "/m/09t49",
+      "description": "leaf",
+      "score": 0.76617646,
+      "topicality": 0.76617646
+    },
+    {
+      "mid": "/m/0b5gs",
+      "description": "branch",
+      "score": 0.64609814,
+      "topicality": 0.64609814
+    },
+    {
+      "mid": "/m/05s2s",
+      "description": "plant",
+      "score": 0.6101418,
+      "topicality": 0.6101418
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.5779482,
+      "topicality": 0.5779482
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.5565762,
+      "topicality": 0.5565762
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.53313947,
+      "topicality": 0.53313947
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "ja",
+      "description": "Jり」) 96\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 678,
+            "y": 1313
+          },
+          {
+            "x": 696,
+            "y": 1313
+          },
+          {
+            "x": 696,
+            "y": 1517
+          },
+          {
+            "x": 678,
+            "y": 1517
+          }
+        ]
+      }
+    },
+    {
+      "description": "Jり",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 1313
+          },
+          {
+            "x": 697,
+            "y": 1415
+          },
+          {
+            "x": 679,
+            "y": 1415
+          },
+          {
+            "x": 679,
+            "y": 1313
+          }
+        ]
+      }
+    },
+    {
+      "description": "」",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 1421
+          },
+          {
+            "x": 697,
+            "y": 1425
+          },
+          {
+            "x": 679,
+            "y": 1425
+          },
+          {
+            "x": 679,
+            "y": 1421
+          }
+        ]
+      }
+    },
+    {
+      "description": ")",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 1448
+          },
+          {
+            "x": 697,
+            "y": 1452
+          },
+          {
+            "x": 679,
+            "y": 1452
+          },
+          {
+            "x": 679,
+            "y": 1448
+          }
+        ]
+      }
+    },
+    {
+      "description": "96",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 697,
+            "y": 1469
+          },
+          {
+            "x": 697,
+            "y": 1517
+          },
+          {
+            "x": 679,
+            "y": 1517
+          },
+          {
+            "x": 679,
+            "y": 1469
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 47,
+            "green": 47,
+            "blue": 47
+          },
+          "score": 0.6293086,
+          "pixelFraction": 0.26247787
+        },
+        {
+          "color": {
+            "red": 239,
+            "green": 239,
+            "blue": 239
+          },
+          "score": 0.06189941,
+          "pixelFraction": 0.22094396
+        },
+        {
+          "color": {
+            "red": 22,
+            "green": 22,
+            "blue": 22
+          },
+          "score": 0.19706048,
+          "pixelFraction": 0.4015929
+        },
+        {
+          "color": {
+            "red": 82,
+            "green": 82,
+            "blue": 82
+          },
+          "score": 0.06690616,
+          "pixelFraction": 0.06017699
+        },
+        {
+          "color": {
+            "red": 115,
+            "green": 115,
+            "blue": 115
+          },
+          "score": 0.031198744,
+          "pixelFraction": 0.026725663
+        },
+        {
+          "color": {
+            "red": 154,
+            "green": 154,
+            "blue": 154
+          },
+          "score": 0.00851771,
+          "pixelFraction": 0.01339233
+        },
+        {
+          "color": {
+            "red": 194,
+            "green": 194,
+            "blue": 194
+          },
+          "score": 0.00510889,
+          "pixelFraction": 0.014690265
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 60
+            },
+            {
+              "x": 1309
+            },
+            {
+              "x": 1309,
+              "y": 1535
+            },
+            {
+              "x": 60,
+              "y": 1535
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.66999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 19
+            },
+            {
+              "x": 1575
+            },
+            {
+              "x": 1575,
+              "y": 1535
+            },
+            {
+              "x": 19,
+              "y": 1535
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.82
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 80
+            },
+            {
+              "x": 1924
+            },
+            {
+              "x": 1924,
+              "y": 1535
+            },
+            {
+              "x": 80,
+              "y": 1535
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.93
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "property": {
+          "detectedLanguages": [
+            {
+              "languageCode": "ja",
+              "confidence": 1
+            }
+          ]
+        },
+        "width": 2048,
+        "height": 1536,
+        "blocks": [
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 697,
+                  "y": 1313
+                },
+                {
+                  "x": 697,
+                  "y": 1517
+                },
+                {
+                  "x": 679,
+                  "y": 1517
+                },
+                {
+                  "x": 679,
+                  "y": 1313
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 697,
+                      "y": 1313
+                    },
+                    {
+                      "x": 697,
+                      "y": 1517
+                    },
+                    {
+                      "x": 679,
+                      "y": 1517
+                    },
+                    {
+                      "x": 679,
+                      "y": 1313
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 697,
+                          "y": 1313
+                        },
+                        {
+                          "x": 697,
+                          "y": 1415
+                        },
+                        {
+                          "x": 679,
+                          "y": 1415
+                        },
+                        {
+                          "x": 679,
+                          "y": 1313
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1313
+                            },
+                            {
+                              "x": 697,
+                              "y": 1358
+                            },
+                            {
+                              "x": 679,
+                              "y": 1358
+                            },
+                            {
+                              "x": 679,
+                              "y": 1313
+                            }
+                          ]
+                        },
+                        "text": "J",
+                        "confidence": 0.35
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1370
+                            },
+                            {
+                              "x": 697,
+                              "y": 1415
+                            },
+                            {
+                              "x": 679,
+                              "y": 1415
+                            },
+                            {
+                              "x": 679,
+                              "y": 1370
+                            }
+                          ]
+                        },
+                        "text": "り",
+                        "confidence": 0.04
+                      }
+                    ],
+                    "confidence": 0.19
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 697,
+                          "y": 1421
+                        },
+                        {
+                          "x": 697,
+                          "y": 1425
+                        },
+                        {
+                          "x": 679,
+                          "y": 1425
+                        },
+                        {
+                          "x": 679,
+                          "y": 1421
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1421
+                            },
+                            {
+                              "x": 697,
+                              "y": 1425
+                            },
+                            {
+                              "x": 679,
+                              "y": 1425
+                            },
+                            {
+                              "x": 679,
+                              "y": 1421
+                            }
+                          ]
+                        },
+                        "text": "」",
+                        "confidence": 0.33
+                      }
+                    ],
+                    "confidence": 0.33
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 697,
+                          "y": 1448
+                        },
+                        {
+                          "x": 697,
+                          "y": 1452
+                        },
+                        {
+                          "x": 679,
+                          "y": 1452
+                        },
+                        {
+                          "x": 679,
+                          "y": 1448
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "SPACE"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1448
+                            },
+                            {
+                              "x": 697,
+                              "y": 1452
+                            },
+                            {
+                              "x": 679,
+                              "y": 1452
+                            },
+                            {
+                              "x": 679,
+                              "y": 1448
+                            }
+                          ]
+                        },
+                        "text": ")",
+                        "confidence": 0.05
+                      }
+                    ],
+                    "confidence": 0.05
+                  },
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "ja"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 697,
+                          "y": 1469
+                        },
+                        {
+                          "x": 697,
+                          "y": 1517
+                        },
+                        {
+                          "x": 679,
+                          "y": 1517
+                        },
+                        {
+                          "x": 679,
+                          "y": 1469
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1469
+                            },
+                            {
+                              "x": 697,
+                              "y": 1490
+                            },
+                            {
+                              "x": 679,
+                              "y": 1490
+                            },
+                            {
+                              "x": 679,
+                              "y": 1469
+                            }
+                          ]
+                        },
+                        "text": "9",
+                        "confidence": 0.03
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "ja"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 697,
+                              "y": 1496
+                            },
+                            {
+                              "x": 697,
+                              "y": 1517
+                            },
+                            {
+                              "x": 679,
+                              "y": 1517
+                            },
+                            {
+                              "x": 679,
+                              "y": 1496
+                            }
+                          ]
+                        },
+                        "text": "6",
+                        "confidence": 0.09
+                      }
+                    ],
+                    "confidence": 0.06
+                  }
+                ],
+                "confidence": 0.14
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.14
+          }
+        ]
+      }
+    ],
+    "text": "Jり」) 96\n"
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.9136804,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.90692395,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/02hnx9",
+        "score": 0.90375483,
+        "description": "Woody plant"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.8829115,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.85291785,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/07j7r",
+        "score": 0.84099615,
+        "description": "Tree"
+      },
+      {
+        "entityId": "/m/0b5gs",
+        "score": 0.79710114,
+        "description": "Branch"
+      },
+      {
+        "entityId": "/m/05s2s",
+        "score": 0.7732067,
+        "description": "Plant"
+      },
+      {
+        "entityId": "/m/019sc",
+        "score": 0.76335037,
+        "description": "Black"
+      },
+      {
+        "entityId": "/m/01bqvp",
+        "score": 0.7472075,
+        "description": "Sky"
+      },
+      {
+        "entityId": "/m/01kyr8",
+        "score": 0.7117001,
+        "description": "Darkness"
+      },
+      {
+        "entityId": "/m/09t49",
+        "score": 0.6989302,
+        "description": "Leaf"
+      },
+      {
+        "entityId": "/m/036jvk",
+        "score": 0.64794314,
+        "description": "Stock photography"
+      },
+      {
+        "entityId": "/m/05h0n",
+        "score": 0.59209675,
+        "description": "Nature"
+      },
+      {
+        "entityId": "/m/083vt",
+        "score": 0.4999,
+        "description": "Wood"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://www.nancyajohnsonphoto.com/wp-content/uploads/2012/11/NYC10-Edit3.jpg"
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1505508046969-4ccd113492b6?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=c3520f624f4eaea3fb552eff733b2c4b&amp;w=1000&amp;q=80"
+      },
+      {
+        "url": "https://cdn.pixabay.com/photo/2017/02/14/22/00/blackandwhite-2067137_960_720.jpg"
+      },
+      {
+        "url": "http://lebarnhotel.com/img/thebarn-bw.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10154583584022234"
+      },
+      {
+        "url": "https://cdn.pixabay.com/photo/2017/05/08/07/39/landscape-2294653_960_720.jpg"
+      },
+      {
+        "url": "http://www.kesato.com/blog/wp-content/uploads/2015/03/Ansel-adams-photography-12.jpg"
+      },
+      {
+        "url": "http://www.natureblink.com/UV/nabrezi1_n.jpg"
+      },
+      {
+        "url": "https://steemitimages.com/0x0/https://ipfs.busy.org/ipfs/QmcQ6rfSnHWZeXTTkyg35Vny6QaUwRycZfTrHX5nbBy2DC"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/54/f8/e4/54f8e42b396656e7a0e42454d352b439.jpg"
+      },
+      {
+        "url": "http://static.squarespace.com/static/4f393c5b875415a6736e90fc/4feb3fb9e4b03725783e89af/4feb3fb9e4b03725783e89ee/1336737275273/1000w"
+      },
+      {
+        "url": "http://cdn-static.denofgeek.com/sites/denofgeek/files/2015/11/a_monster_calls.jpg"
+      },
+      {
+        "url": "https://static2.tripoto.com/media/filter/nl/gen/22495/TripDocument/10702052_852823988062738_3608333528382423050_n.jpg"
+      },
+      {
+        "url": "http://www.blueskygallery.org/gallery/528/jonathan-sharlin-ardfornish-castle-scotland-1995.jpg"
+      },
+      {
+        "url": "http://cdn.audubon.org/cdn/farfuture/FwWkwZLH9qE05o5B1ukGEK8p0Z1mKhjN7ATA0gDIlug/mtime:1499814175/sites/default/files/styles/grid_gallery_lightbox/public/grid_gallery/web_birdblinds_spinski_15.jpg?itok=TEPcIjk1"
+      },
+      {
+        "url": "https://learn.zoner.com/wp-content/uploads/2017/12/before-bw-683x456.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "sky"
+      }
+    ]
+  }
+}

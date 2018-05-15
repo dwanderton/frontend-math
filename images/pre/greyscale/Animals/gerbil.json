@@ -1,0 +1,399 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01c53d",
+      "description": "gerbil",
+      "score": 0.9640906,
+      "topicality": 0.9640906
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.95621246,
+      "topicality": 0.95621246
+    },
+    {
+      "mid": "/m/06lk1",
+      "description": "rat",
+      "score": 0.94808006,
+      "topicality": 0.94808006
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9466651,
+      "topicality": 0.9466651
+    },
+    {
+      "mid": "/m/01l7qd",
+      "description": "whiskers",
+      "score": 0.9462295,
+      "topicality": 0.9462295
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.9319125,
+      "topicality": 0.9319125
+    },
+    {
+      "mid": "/m/04rmv",
+      "description": "mouse",
+      "score": 0.929945,
+      "topicality": 0.929945
+    },
+    {
+      "mid": "/m/04k_6h",
+      "description": "muridae",
+      "score": 0.92936337,
+      "topicality": 0.92936337
+    },
+    {
+      "mid": "/m/04rky",
+      "description": "mammal",
+      "score": 0.9259551,
+      "topicality": 0.9259551
+    },
+    {
+      "mid": "/m/02h9rm",
+      "description": "muroidea",
+      "score": 0.9057858,
+      "topicality": 0.9057858
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.8716338,
+      "topicality": 0.8716338
+    },
+    {
+      "mid": "/m/028lhq",
+      "description": "dormouse",
+      "score": 0.8304544,
+      "topicality": 0.8304544
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.8012452,
+      "topicality": 0.8012452
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.8011797,
+      "topicality": 0.8011797
+    },
+    {
+      "mid": "/m/06hps",
+      "description": "rodent",
+      "score": 0.77885574,
+      "topicality": 0.77885574
+    },
+    {
+      "mid": "/m/03qrc",
+      "description": "hamster",
+      "score": 0.7775128,
+      "topicality": 0.7775128
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7570932,
+      "topicality": 0.7570932
+    },
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.72874826,
+      "topicality": 0.72874826
+    },
+    {
+      "mid": "/m/02cqfm",
+      "description": "close up",
+      "score": 0.70753086,
+      "topicality": 0.70753086
+    },
+    {
+      "mid": "/m/03rbf6",
+      "description": "macro photography",
+      "score": 0.6583979,
+      "topicality": 0.6583979
+    },
+    {
+      "mid": "/m/05nnm",
+      "description": "organism",
+      "score": 0.65117717,
+      "topicality": 0.65117717
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.62850755,
+      "topicality": 0.62850755
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 83,
+            "green": 83,
+            "blue": 83
+          },
+          "score": 0.5072655,
+          "pixelFraction": 0.121133335
+        },
+        {
+          "color": {
+            "red": 54,
+            "green": 54,
+            "blue": 54
+          },
+          "score": 0.4090204,
+          "pixelFraction": 0.18626666
+        },
+        {
+          "color": {
+            "red": 111,
+            "green": 111,
+            "blue": 111
+          },
+          "score": 0.067624964,
+          "pixelFraction": 0.043266665
+        },
+        {
+          "color": {
+            "red": 27,
+            "green": 27,
+            "blue": 27
+          },
+          "score": 0.014298829,
+          "pixelFraction": 0.6488
+        },
+        {
+          "color": {
+            "red": 142,
+            "green": 142,
+            "blue": 142
+          },
+          "score": 0.0017903233,
+          "pixelFraction": 0.00053333334
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 214
+            },
+            {
+              "x": 767
+            },
+            {
+              "x": 767,
+              "y": 684
+            },
+            {
+              "x": 214,
+              "y": 684
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.90999997
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 203
+            },
+            {
+              "x": 900
+            },
+            {
+              "x": 900,
+              "y": 684
+            },
+            {
+              "x": 203,
+              "y": 684
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.96
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 193
+            },
+            {
+              "x": 1023
+            },
+            {
+              "x": 1023,
+              "y": 684
+            },
+            {
+              "x": 193,
+              "y": 684
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01c53d",
+        "score": 3.5894752,
+        "description": "Gerbil"
+      },
+      {
+        "entityId": "/m/06hps",
+        "score": 1.6816121,
+        "description": "Rodent"
+      },
+      {
+        "entityId": "/m/06lk1",
+        "score": 1.6307557,
+        "description": "Rat"
+      },
+      {
+        "entityId": "/m/03qrc",
+        "score": 1.5591943,
+        "description": "Hamster"
+      },
+      {
+        "entityId": "/m/028lhq",
+        "score": 1.4720328,
+        "description": "Dormouse"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.91085815,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.8964795,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.88169646,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/01l7qd",
+        "score": 0.82129467,
+        "description": "Whiskers"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.797125,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/04rky",
+        "score": 0.7399387,
+        "description": "Mammal"
+      },
+      {
+        "entityId": "/m/035qhg",
+        "score": 0.72740763,
+        "description": "Fauna"
+      },
+      {
+        "entityId": "/m/05mqq3",
+        "score": 0.7270611,
+        "description": "Snout"
+      },
+      {
+        "entityId": "/m/04k_6h",
+        "score": 0.17718568,
+        "description": "Murids"
+      },
+      {
+        "entityId": "/m/02h9rm",
+        "score": 0.09041507,
+        "description": "Muroidea"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://www.joelsartore.com/assets/stock/ANI012/ANI012-00222-400x266.jpg?x21176"
+      },
+      {
+        "url": "https://t00.deviantart.net/k6ba5lQ4zqrjwTWnsP3id4HkJEs=/fit-in/150x150/filters:no_upscale():origin()/pre00/29e5/th/pre/i/2010/123/a/c/gerbil_face_by_andzryan.jpg"
+      },
+      {
+        "url": "https://img00.deviantart.net/e212/i/2008/277/5/5/cute_gerbil_timon_by_belabarbie.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/32/04/9a/32049a00443726efe3c2b377402b1cc2--blue-beautiful.jpg"
+      },
+      {
+        "url": "https://farm3.static.flickr.com/2924/33664217162_c6cec21549_b.jpg"
+      },
+      {
+        "url": "https://crashmacduff.files.wordpress.com/2015/02/rat.png"
+      },
+      {
+        "url": "https://farm8.static.flickr.com/7164/6743179947_6b63d7c936_b.jpg"
+      },
+      {
+        "url": "http://farm6.static.flickr.com/5548/30561166310_07cd0c3bd5.jpg"
+      },
+      {
+        "url": "https://i.amz.mshcdn.com/Mq7cEoeT1iQjHqMiFfvrXiFTajU=/1200x627/2015%2F02%2F24%2Fb5%2Fgerbil.14763.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/f2/e9/7d/f2e97dfcaabcb8f5c2edd6f939e0cbda--animal-faces-pet-rats.jpg"
+      },
+      {
+        "url": "http://farm6.static.flickr.com/5735/30825804066_b9fcba5a79.jpg"
+      },
+      {
+        "url": "https://farm6.static.flickr.com/5718/30825804596_7221d052aa_b.jpg"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-fXL81GwOHv0/UadTn161ktI/AAAAAAAAC8w/M0YE9RMdtiQ/s1600/IMG_20130527_201622.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/ec/12/04/ec1204e6e2f8e37d02316e1a20bc8830--my-house-what-is.jpg"
+      },
+      {
+        "url": "https://t00.deviantart.net/Ze8VBaUfJCncd-fUlvFBZLVavrk=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/7fd4/th/pre/f/2011/157/c/f/struppi_by_kreatur_im_spiegel-d3i7e56.jpg"
+      },
+      {
+        "url": "https://www.joelsartore.com/assets/stock/ANI012/ANI012-00054-400x266.jpg?x21176"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "gerbil",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

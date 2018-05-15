@@ -1,0 +1,422 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.96686816,
+      "topicality": 0.96686816
+    },
+    {
+      "mid": "/m/05h0n",
+      "description": "nature",
+      "score": 0.9558176,
+      "topicality": 0.9558176
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.94653827,
+      "topicality": 0.94653827
+    },
+    {
+      "mid": "/m/03ktm1",
+      "description": "body of water",
+      "score": 0.9348742,
+      "topicality": 0.9348742
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.91429114,
+      "topicality": 0.91429114
+    },
+    {
+      "mid": "/m/0j2kx",
+      "description": "waterfall",
+      "score": 0.8877714,
+      "topicality": 0.8877714
+    },
+    {
+      "mid": "/m/01cbzq",
+      "description": "rock",
+      "score": 0.8338153,
+      "topicality": 0.8338153
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.82641786,
+      "topicality": 0.82641786
+    },
+    {
+      "mid": "/m/07sn5gn",
+      "description": "geological phenomenon",
+      "score": 0.81580657,
+      "topicality": 0.81580657
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.8006256,
+      "topicality": 0.8006256
+    },
+    {
+      "mid": "/m/03kj4q",
+      "description": "watercourse",
+      "score": 0.79024136,
+      "topicality": 0.79024136
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7800077,
+      "topicality": 0.7800077
+    },
+    {
+      "mid": "/m/090j23",
+      "description": "water feature",
+      "score": 0.75371706,
+      "topicality": 0.75371706
+    },
+    {
+      "mid": "/m/06gl1",
+      "description": "rapid",
+      "score": 0.74905336,
+      "topicality": 0.74905336
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.740266,
+      "topicality": 0.740266
+    },
+    {
+      "mid": "/m/015s2f",
+      "description": "water resources",
+      "score": 0.6916769,
+      "topicality": 0.6916769
+    },
+    {
+      "mid": "/m/06cnp",
+      "description": "river",
+      "score": 0.6797525,
+      "topicality": 0.6797525
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.6342986,
+      "topicality": 0.6342986
+    },
+    {
+      "mid": "/m/036hv",
+      "description": "geology",
+      "score": 0.5866953,
+      "topicality": 0.5866953
+    },
+    {
+      "mid": "/m/09d_r",
+      "description": "mountain",
+      "score": 0.53912103,
+      "topicality": 0.53912103
+    },
+    {
+      "mid": "/m/03k5cs",
+      "description": "formation",
+      "score": 0.5222494,
+      "topicality": 0.5222494
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 83,
+            "green": 83,
+            "blue": 83
+          },
+          "score": 0.28147694,
+          "pixelFraction": 0.07587302
+        },
+        {
+          "color": {
+            "red": 118,
+            "green": 118,
+            "blue": 118
+          },
+          "score": 0.21195464,
+          "pixelFraction": 0.06531746
+        },
+        {
+          "color": {
+            "red": 55,
+            "green": 55,
+            "blue": 55
+          },
+          "score": 0.18331726,
+          "pixelFraction": 0.08865079
+        },
+        {
+          "color": {
+            "red": 153,
+            "green": 153,
+            "blue": 153
+          },
+          "score": 0.11162638,
+          "pixelFraction": 0.05936508
+        },
+        {
+          "color": {
+            "red": 197,
+            "green": 197,
+            "blue": 197
+          },
+          "score": 0.10274336,
+          "pixelFraction": 0.09380952
+        },
+        {
+          "color": {
+            "red": 22,
+            "green": 22,
+            "blue": 22
+          },
+          "score": 0.07751194,
+          "pixelFraction": 0.606746
+        },
+        {
+          "color": {
+            "red": 225,
+            "green": 225,
+            "blue": 225
+          },
+          "score": 0.03136948,
+          "pixelFraction": 0.010238095
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 531
+            },
+            {
+              "x": 1473
+            },
+            {
+              "x": 1473,
+              "y": 1151
+            },
+            {
+              "x": 531,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 654
+            },
+            {
+              "x": 1801
+            },
+            {
+              "x": 1801,
+              "y": 1151
+            },
+            {
+              "x": 654,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71999997
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 449
+            },
+            {
+              "x": 1842
+            },
+            {
+              "x": 1842,
+              "y": 1151
+            },
+            {
+              "x": 449,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.82
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/03ktm1",
+        "score": 1.2637199,
+        "description": "Body of water"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.9109637,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.90553874,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/0j2kx",
+        "score": 0.8944949,
+        "description": "Waterfall"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.8512705,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/036hv",
+        "score": 0.84337556,
+        "description": "Geology"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.82712704,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/06cnp",
+        "score": 0.8080441,
+        "description": "River"
+      },
+      {
+        "entityId": "/m/0838f",
+        "score": 0.77802163,
+        "description": "Water"
+      },
+      {
+        "entityId": "/m/03kj4q",
+        "score": 0.75863993,
+        "description": "Watercourse"
+      },
+      {
+        "entityId": "/m/090j23",
+        "score": 0.7554269,
+        "description": "Water feature"
+      },
+      {
+        "entityId": "/m/025s3q0",
+        "score": 0.75523466,
+        "description": "Landscape"
+      },
+      {
+        "entityId": "/m/05h0n",
+        "score": 0.71467835,
+        "description": "Nature"
+      },
+      {
+        "entityId": "/m/015s2f",
+        "score": 0.69602966,
+        "description": "Water resources"
+      },
+      {
+        "entityId": "/m/0gjyk",
+        "score": 0.5384,
+        "description": "Phenomenon"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=450572234948"
+      },
+      {
+        "url": "https://camerongillie.files.wordpress.com/2012/05/img_1021.jpg?w=700&amp;h=467"
+      },
+      {
+        "url": "https://farm5.static.flickr.com/4295/36001443356_95ef44e0c6_b.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/8e/cb/2b/8ecb2b170a7b9c2b94f02defe7b19624.jpg"
+      },
+      {
+        "url": "http://wallpaperswide.com/download/amazing_waterfall_monochrome-wallpaper-2560x1440.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/57f4178746c3c4b4ece88987/t/5855d6199de4bb0a69e8469e/1482020416715/"
+      },
+      {
+        "url": "https://img00.deviantart.net/f160/i/2013/289/0/b/sunrise_sky__black_and_white_by_antoninan-d6o0a3w.jpg"
+      },
+      {
+        "url": "http://www.miguelclaro.com/wp/wp-content/uploads/2014/06/CascataAgarez-VilaReal-BW-net-600x900.jpg"
+      },
+      {
+        "url": "http://www.adamhardtke.com/images/Yosemite.jpg"
+      },
+      {
+        "url": "https://media.gettyimages.com/photos/low-angle-view-of-trees-against-sky-picture-id758635749?s=612x612"
+      },
+      {
+        "url": "http://eric-lombardi.com/wp-content/uploads/Earth-Sky-and-Beyond.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/53c8c403e4b06d1cfa9b14d9/53cb8c36e4b003bdba51365b/540f6ed9e4b09a04d20ad2b8/1410297564667/Waterfall+Yosemite+B%2BW.jpg?format=500w"
+      },
+      {
+        "url": "https://i.pinimg.com/564x/d8/40/e4/d840e4567d56876710eb63be2449ac47--national-parks-the-national.jpg"
+      },
+      {
+        "url": "https://cdn4.eyeem.com/thumb/60777337bb12c2bcbe511b64913f2db98b570ea5-1460917085258/w/400"
+      },
+      {
+        "url": "http://mine-photolife.com/wp-content/uploads/2013/08/BW-Waterfall.jpg"
+      },
+      {
+        "url": "https://www.borgamarmi.it/sito/wp-content/uploads/2017/03/sky-falls.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1547067798706761"
+      },
+      {
+        "url": "https://i1.wp.com/www.thiswaytoparadise.com/wp-content/uploads/2017/11/IMG_2883.jpg"
+      },
+      {
+        "url": "https://media.giphy.com/media/Xsi5nCX81Kpy0/giphy.gif"
+      },
+      {
+        "url": "https://www.bryanhanna.com/wp-content/uploads/2012/02/MG_1475.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "nature"
+      }
+    ]
+  }
+}

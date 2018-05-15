@@ -1,0 +1,1138 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/02nd_",
+      "description": "Empire State Building",
+      "score": 0.87936133,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 12,
+            "y": 136
+          },
+          {
+            "x": 933,
+            "y": 136
+          },
+          {
+            "x": 933,
+            "y": 662
+          },
+          {
+            "x": 12,
+            "y": 662
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 40.71455,
+            "longitude": -74.007118
+          }
+        }
+      ]
+    },
+    {
+      "mid": "/m/02nd_",
+      "description": "New York City",
+      "score": 0.8732845,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 54,
+            "y": 154
+          },
+          {
+            "x": 966,
+            "y": 154
+          },
+          {
+            "x": 966,
+            "y": 656
+          },
+          {
+            "x": 54,
+            "y": 656
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 40.748433,
+            "longitude": -73.985753
+          }
+        }
+      ]
+    },
+    {
+      "mid": "/m/02nd_",
+      "description": "Empire State Building",
+      "score": 0.6739502,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 227,
+            "y": 291
+          },
+          {
+            "x": 979,
+            "y": 291
+          },
+          {
+            "x": 979,
+            "y": 580
+          },
+          {
+            "x": 227,
+            "y": 580
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 40.748508,
+            "longitude": -73.985495
+          }
+        }
+      ]
+    },
+    {
+      "mid": "/m/02nd_",
+      "description": "Empire State Building",
+      "score": 0.46615398,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 485,
+            "y": 154
+          },
+          {
+            "x": 754,
+            "y": 154
+          },
+          {
+            "x": 754,
+            "y": 454
+          },
+          {
+            "x": 485,
+            "y": 454
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 40.760846,
+            "longitude": -73.984251
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/0j_s4",
+      "description": "metropolitan area",
+      "score": 0.97544336,
+      "topicality": 0.97544336
+    },
+    {
+      "mid": "/m/079cl",
+      "description": "skyscraper",
+      "score": 0.96157426,
+      "topicality": 0.96157426
+    },
+    {
+      "mid": "/m/056mk",
+      "description": "metropolis",
+      "score": 0.94326276,
+      "topicality": 0.94326276
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.9431997,
+      "topicality": 0.9431997
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.941555,
+      "topicality": 0.941555
+    },
+    {
+      "mid": "/m/05_5t0l",
+      "description": "landmark",
+      "score": 0.9403291,
+      "topicality": 0.9403291
+    },
+    {
+      "mid": "/m/0204fg",
+      "description": "skyline",
+      "score": 0.925068,
+      "topicality": 0.925068
+    },
+    {
+      "mid": "/m/034z7h",
+      "description": "cityscape",
+      "score": 0.9149103,
+      "topicality": 0.9149103
+    },
+    {
+      "mid": "/m/039jbq",
+      "description": "urban area",
+      "score": 0.9121908,
+      "topicality": 0.9121908
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.9109431,
+      "topicality": 0.9109431
+    },
+    {
+      "mid": "/m/0cgh4",
+      "description": "building",
+      "score": 0.88029414,
+      "topicality": 0.88029414
+    },
+    {
+      "mid": "/m/01fdzj",
+      "description": "tower",
+      "score": 0.8727832,
+      "topicality": 0.8727832
+    },
+    {
+      "mid": "/m/02q7ylj",
+      "description": "daytime",
+      "score": 0.83380246,
+      "topicality": 0.83380246
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.77452916,
+      "topicality": 0.77452916
+    },
+    {
+      "mid": "/m/0vlys",
+      "description": "tower block",
+      "score": 0.75635064,
+      "topicality": 0.75635064
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7358091,
+      "topicality": 0.7358091
+    },
+    {
+      "mid": "/m/01l7t2",
+      "description": "downtown",
+      "score": 0.6847711,
+      "topicality": 0.6847711
+    },
+    {
+      "mid": "/m/01c6yl",
+      "description": "spire",
+      "score": 0.6606366,
+      "topicality": 0.6606366
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 196,
+            "green": 196,
+            "blue": 196
+          },
+          "score": 0.7495258,
+          "pixelFraction": 0.40346667
+        },
+        {
+          "color": {
+            "red": 50,
+            "green": 50,
+            "blue": 50
+          },
+          "score": 0.07677876,
+          "pixelFraction": 0.11246666
+        },
+        {
+          "color": {
+            "red": 217,
+            "green": 217,
+            "blue": 217
+          },
+          "score": 0.07135175,
+          "pixelFraction": 0.09386667
+        },
+        {
+          "color": {
+            "red": 83,
+            "green": 83,
+            "blue": 83
+          },
+          "score": 0.036346406,
+          "pixelFraction": 0.0674
+        },
+        {
+          "color": {
+            "red": 28,
+            "green": 28,
+            "blue": 28
+          },
+          "score": 0.030239968,
+          "pixelFraction": 0.12753333
+        },
+        {
+          "color": {
+            "red": 117,
+            "green": 117,
+            "blue": 117
+          },
+          "score": 0.020462997,
+          "pixelFraction": 0.037
+        },
+        {
+          "color": {
+            "red": 156,
+            "green": 156,
+            "blue": 156
+          },
+          "score": 0.015294334,
+          "pixelFraction": 0.15826666
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 316
+            },
+            {
+              "x": 869
+            },
+            {
+              "x": 869,
+              "y": 682
+            },
+            {
+              "x": 316,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.7
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 285
+            },
+            {
+              "x": 982
+            },
+            {
+              "x": 982,
+              "y": 682
+            },
+            {
+              "x": 285,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.85999995
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 173
+            },
+            {
+              "x": 1002
+            },
+            {
+              "x": 1002,
+              "y": 682
+            },
+            {
+              "x": 173,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.94
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/02nd_",
+        "score": 1748.5824,
+        "description": "Empire State Building"
+      },
+      {
+        "entityId": "/m/0163ff",
+        "score": 1222.656,
+        "description": "Rockefeller Center"
+      },
+      {
+        "entityId": "/m/0czc1h",
+        "score": 276.736,
+        "description": "One World Trade Center"
+      },
+      {
+        "entityId": "/m/0cgh4",
+        "score": 0.7081,
+        "description": "Building"
+      },
+      {
+        "entityId": "/m/079cl",
+        "score": 0.5971,
+        "description": "Skyscraper"
+      },
+      {
+        "entityId": "/t/2brw7wfzd2qjl",
+        "score": 0.597
+      },
+      {
+        "entityId": "/t/26tx7xy9_tgvr",
+        "score": 0.5648
+      },
+      {
+        "entityId": "/t/26zxvlq_mt61d",
+        "score": 0.5405
+      },
+      {
+        "entityId": "/m/02wv839",
+        "score": 0.5397,
+        "description": "Observation deck"
+      },
+      {
+        "entityId": "/m/05_5t0l",
+        "score": 0.4945,
+        "description": "Landmark"
+      },
+      {
+        "entityId": "/m/01s0rb",
+        "score": 0.0140928,
+        "description": "Midtown Manhattan"
+      },
+      {
+        "entityId": "/m/0cc56",
+        "score": 0.00014333442,
+        "description": "Manhattan"
+      },
+      {
+        "entityId": "/m/02_286",
+        "score": 4.531201e-9,
+        "description": "New York City"
+      },
+      {
+        "entityId": "/m/059rby",
+        "score": 1.0417602e-10,
+        "description": "New York"
+      },
+      {
+        "entityId": "/m/09c7w0",
+        "score": 2.2304008e-12,
+        "description": "United States"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://c.pxhere.com/photos/31/f0/photo-92099.jpg!d"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/58599610ff7c508d9c7f2fcf/58599776d1758e6ea457c4c8/585999758419c2ef73ab1af7/1496570252813/Emprie+State+Building-4.jpg?format=1000w"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://rebeccaoghenriette.files.wordpress.com/2013/02/cimg3962.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/eventyrlysten.com/wp-content/uploads/2015/03/DSC_0055.jpg"
+      },
+      {
+        "url": "https://www.lifestar.it/wp-content/uploads/2016/07/8f6b463088d17b240b75ccb32eaa8ff8.jpg"
+      },
+      {
+        "url": "http://img.voidcn.com/vcimg/000/003/093/372_b8c_b59.jpg"
+      },
+      {
+        "url": "http://i.imgur.com/odtKxmT.jpg?1"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-pIANG8aJb54/UG7SneZVgcI/AAAAAAAAAzM/hKNITttTM28/s1600/DSC06071.jpg"
+      },
+      {
+        "url": "http://www.goguide.bg/upload/ckfinder/images/Empire-State-Building-in-black-and-white.jpg"
+      },
+      {
+        "url": "http://www.david-schreiber.com/wp-content/uploads/Empire-State-Building_2017_web.jpg"
+      },
+      {
+        "url": "http://radiatefashion.com/wp-content/uploads/2016/11/new-york-city-spring-photography-empire-state.png"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/516f004ce4b01384bca2a72c/593cd69a1e5b6ca18caffa65/593cd6abff7c50b39bdb692a/1497159341115/New+York-3.jpg"
+      },
+      {
+        "url": "http://chinese.fansshare.com/images/empirestatebuilding/tumblr-static-empire-state-building-in-black-and-white-black-and-white-1725466813.jpg"
+      },
+      {
+        "url": "https://thumbor.forbes.com/thumbor/1280x868/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_2175%2Fpt_2175_3320_o.jpg%3Ft%3D1363718456"
+      },
+      {
+        "url": "http://blog.namfah.com/wp-content/uploads/2013/09/photo-swipe-image-gallery-for-mobile-devices-03.png"
+      },
+      {
+        "url": "https://dailygeekshow.com/wp-content/uploads/2015/11/empire-state-building.jpg"
+      },
+      {
+        "url": "https://assets3.thrillist.com/v1/image/1350381/size/tmg-facebook_social.jpg"
+      },
+      {
+        "url": "http://www.hotel41nyc.com/wp-content/uploads/2015/02/the_empire_state_building-1024x683.jpg"
+      },
+      {
+        "url": "http://www.cheapflightslab.com/wp-content/uploads/2012/10/6817607251_53e3438b20_b.jpg"
+      },
+      {
+        "url": "http://trendy-innovation.com/wp-content/uploads/2016/03/6817607251_53e3438b20_b.jpg"
+      },
+      {
+        "url": "https://farm6.staticflickr.com/5608/32442899816_5e402e01bf_b.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-Vwi5mkapjiE/WMDelfIP-YI/AAAAAAAAN9o/dd6D7xhDC8MTH4iCG384mnIogSEbeDL7ACLcB/s1600/6817607251_59acfe1365_o.jpg"
+      },
+      {
+        "url": "http://farm6.staticflickr.com/5187/5863114381_53b95aeaae_b.jpg"
+      },
+      {
+        "url": "https://c1.staticflickr.com/8/7153/6817607251_53e3438b20_b.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%22I_believe_in_the_country_America_used_to_be%22.JPG/1024px-%22I_believe_in_the_country_America_used_to_be%22.JPG"
+      },
+      {
+        "url": "http://cdn.playbuzz.com/cdn/0e6b0127-b4bd-4aa6-8719-5797934ae504/4dfae2fe-4af1-4768-bd3e-e6d3466f78be.jpg"
+      },
+      {
+        "url": "https://assets3.thrillist.com/v1/image/1350381/size/tmg-slideshow_l.jpg"
+      },
+      {
+        "url": "https://newyorkmonamour.fr/wp-content/uploads/2015/02/5e_avenue_de_Manhattan_BONSPLANS_NEWYORK_NYMA.png"
+      },
+      {
+        "url": "http://yuuma7.com/wp-content/uploads/2015/06/am3-1000x669.jpg"
+      },
+      {
+        "url": "http://meumoleskine.com/wp-content/uploads/2016/04/NYC-187.jpg"
+      },
+      {
+        "url": "http://part-timeworldtraveler.com/wp-content/uploads/2015/07/DSC_0283c.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5264f7c9e4b0a3247c641860/55c08911e4b05af69cbcc079/55c0899de4b0eb102a038d35/1462343758131/julia+trotti_new+york_71.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-16fyFjGaSBY/VwFhDyMENAI/AAAAAAAABG8/wiq9DCB7XKE9k9s5u4boaE8OV5t0eoxTQ/s800-c/Screen%2BShot%2B2016-03-08%2Bat%2B21.36.54.jpg"
+      },
+      {
+        "url": "https://ir.sputniknews.com/images/117/98/1179882.jpg"
+      },
+      {
+        "url": "http://upmediawebmag.upmedia.mg/upload/ck/6817607251_59acfe1365_o.jpg"
+      },
+      {
+        "url": "https://bigroom.azureedge.net/s/6e9fc3ca40c9.jpg"
+      },
+      {
+        "url": "https://caandersson.com/wp-content/uploads/2015/01/manhattan.jpg"
+      },
+      {
+        "url": "http://www.urlaubsfuller.de/wp-content/uploads/2015/04/DSC_5688-904x500.jpg"
+      },
+      {
+        "url": "http://www.travelideas.gr/wp-content/uploads/2014/03/%CE%BD%CE%B5%CE%B1-%CF%85%CE%BF%CF%81%CE%BA%CE%B7-%CF%84%CE%B1%CE%BE%CE%B9%CE%B4%CE%B9-2-empire-state-building.jpg"
+      },
+      {
+        "url": "http://img.online-station.net/_content/2017/0303/gallery/1488532783.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/562da98de4b0f8ea94a3d616/t/58b396d9197aea63fbd8a56e/1488164666395/"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1830030743909464"
+      },
+      {
+        "url": "https://d26lpennugtm8s.cloudfront.net/stores/402/642/products/catalogo-16-a6144aa7173221285414985921936059-640-0.jpg"
+      },
+      {
+        "url": "http://www.art676.com/uploadfile/2017/0626/20170626035534182.jpg"
+      },
+      {
+        "url": "https://img00.deviantart.net/02a1/i/2009/107/8/4/black_and_white_skyline_by_gestianpoet21.jpg"
+      },
+      {
+        "url": "https://inspire.ceros.com/wp-content/uploads/2017/09/CerosTemplatesMicrocontent.jpg"
+      },
+      {
+        "url": "https://www.ilfoglio.it/resizer/770/550/false/1481046857541.jpg--.jpg?1481046857000"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/29/92/44/29924435c46d129b8f4be015f7c92bf0--amazing-hotels-empire-state-building.jpg"
+      },
+      {
+        "url": "https://generationvoyage.fr/wp-content/uploads/2015/12/faits-anecdotes-empire-state-building.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/www.viajo.org/wp-content/uploads/2015/10/empire-state-building-portada.jpg?fit=720%2C480"
+      },
+      {
+        "url": "http://ohmynewsachieve.com/demo/attachment/q43.jpg"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/ef23528bfb064a448c102910886928bf/aerial-night-view-of-manhattan-skyline-new-york-usa-f6d2ce.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://www.architravel.com/architravel/building/empire-state-building/",
+        "pageTitle": "&lt;b&gt;Empire State Building&lt;/b&gt; | ArchiTravel",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.architravel.com/architravel_wp/wp-content/uploads/2015/12/Empire-State-Building_4.jpg?w=454&amp;h=303&amp;crop"
+          }
+        ]
+      },
+      {
+        "url": "https://www.mnn.com/money/sustainable-business-practices/photos/8-historic-buildings-that-are-environmentally-friendly/8-historic-buildings-that-are-environmentally-friendly-3",
+        "pageTitle": "The &lt;b&gt;Empire State Building&lt;/b&gt;, New York City | 8 historic buildings that ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.mnn.com/assets/images/2013/10/OldGreenBuildings03_EmpireS.jpg.638x0_q80_crop-smart.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://factsforkids.net/empire-state-building-facts-kids/",
+        "pageTitle": "&lt;b&gt;Empire State Building&lt;/b&gt; Facts for Kids",
+        "partialMatchingImages": [
+          {
+            "url": "http://factsforkids.net/wp-content/uploads/2016/04/Empire-State-Building-Empire-state-building-facts-for-kids-550x371.jpg"
+          },
+          {
+            "url": "http://factsforkids.net/wp-content/uploads/2016/04/Empire-State-Building-Empire-state-building-facts-for-kids.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.hotel41nyc.com/must-see-new-york/the-empire-state-building/",
+        "pageTitle": "The &lt;b&gt;Empire State Building&lt;/b&gt; - Hotel 41 at Times Square - New York City",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.hotel41nyc.com/wp-content/uploads/2015/02/the_empire_state_building.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thrillist.com/travel/nation/landmarks-with-fatal-attraction-niagara-falls-and-ellis-island-top-our-list",
+        "pageTitle": "Landmarks with Fatal Attraction - Niagara Falls and Ellis Island Top ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://assets3.thrillist.com/v1/image/1294949/size/tmg-article_default_mobile;jpeg_quality=20.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.flickr.com/photos/ijansch/6817607251",
+        "pageTitle": "The &lt;b&gt;Empire State Building&lt;/b&gt; | Surrounded by many tall building… | Flickr",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/8/7153/6817607251_53e3438b20_b.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/8/7153/6817607251_53e3438b20_n.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.hotel41nyc.com/must-see-new-york/",
+        "pageTitle": "Must See in New York - Hotel 41 at Times Square",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.hotel41nyc.com/wp-content/uploads/2015/02/the_empire_state_building.jpg"
+          },
+          {
+            "url": "http://www.hotel41nyc.com/wp-content/uploads/2015/02/the_empire_state_building-1024x683.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.lonelyplanet.com/news/2014/10/15/new-york-high-life-tallest-residential-condo-building-opens-96-levels/",
+        "pageTitle": "New York high: tallest residential &lt;b&gt;building&lt;/b&gt; has 96 levels",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lonelyplanet.com/news/wp-content/uploads/2014/10/Empire-State-Building.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://hyperallergic.com/177576/artrx-nyc-31/",
+        "pageTitle": "ArtRx NYC - Hyperallergic",
+        "partialMatchingImages": [
+          {
+            "url": "https://hyperallergic.com/wp-content/uploads/2015/01/6817607251_59acfe1365_o1-146x90.jpg"
+          },
+          {
+            "url": "http://hyperallergic.com/wp-content/uploads/2015/01/6817607251_59acfe1365_o.jpg"
+          },
+          {
+            "url": "https://hyperallergic.com/wp-content/uploads/2015/01/6817607251_59acfe1365_o1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://search.aol.com/aol/imageDetails?query=empire+state+building&amp;imgc=white&amp;width=135&amp;imgl=fmsuc&amp;fr2=p%3As%2Cv%3Ai",
+        "pageTitle": "&lt;b&gt;empire state building&lt;/b&gt; - AOL Image Search Results",
+        "partialMatchingImages": [
+          {
+            "url": "https://c2.staticflickr.com/8/7153/6817607251_53e3438b20_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.alamy.com/stock-photo/silhouette-empire-state-building.html",
+        "pageTitle": "Silhouette &lt;b&gt;Empire State Building&lt;/b&gt; Stock Photos and Images - Alamy",
+        "partialMatchingImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/ef23528bfb064a448c102910886928bf/aerial-night-view-of-manhattan-skyline-new-york-usa-f6d2ce.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/363032419936058116/",
+        "pageTitle": "The &lt;b&gt;Empire State Building&lt;/b&gt; - Pinterest",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/17/53/d1/1753d177492a3d902fd3159d6092d650.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.carrentals.com/blog/new-york-historic-buildings/",
+        "pageTitle": "3 Historic Buildings You Must Visit on Fifth Avenue | CarRentals.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.carrentals.com/blog/wp-content/uploads/2015/07/Empire-State-Building-NYC.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/344314333989026634/",
+        "pageTitle": "Must See in New York | &lt;b&gt;Empire state building&lt;/b&gt;, Empire state and ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/736x/29/92/44/29924435c46d129b8f4be015f7c92bf0--amazing-hotels-empire-state-building.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.huffingtonpost.com/thrillist/americas-7-deadliest-land_b_5723680.html",
+        "pageTitle": "America&amp;#39;s 7 Deadliest Landmarks | HuffPost",
+        "partialMatchingImages": [
+          {
+            "url": "https://images.huffingtonpost.com/2014-08-27-DeadliestLandmarks_4-thumb.jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://buildingdesignexpert.com/the-most-famous-steel-buildings/",
+        "pageTitle": "&lt;b&gt;Building&lt;/b&gt; Design Expert The Most Famous Steel Buildings",
+        "partialMatchingImages": [
+          {
+            "url": "https://farm8.staticflickr.com/7153/6817607251_53e3438b20.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@AILZLRTW",
+        "pageTitle": "&lt;b&gt;empire state&lt;/b&gt; - Emaze",
+        "partialMatchingImages": [
+          {
+            "url": "https://c2.staticflickr.com/8/7153/6817607251_53e3438b20_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://bigroom.com/liyan/a67123a332cb",
+        "pageTitle": "Early Spring in NYC | BigRoom",
+        "partialMatchingImages": [
+          {
+            "url": "https://bigroom.azureedge.net/s/6e9fc3ca40c9.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wpromote.com/blog/learnings-linkedin-content-marketing-masterclass/",
+        "pageTitle": "Learnings From The LinkedIn Content Marketing Masterclass ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.wpromote.com/blog/wp-content/uploads/2018/03/180305_blog_linked.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.dodgyknees.com/usa/2017/2/25/three-days-in-new-york",
+        "pageTitle": "Three Days in New York — Dodgy Knees",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/562da98de4b0f8ea94a3d616/t/58b396d9197aea63fbd8a56e/1488164666395/"
+          }
+        ]
+      },
+      {
+        "url": "https://www.frommers.com/slideshows/848125-what-to-do-in-new-york-city-if-you-don-t-have-much-time",
+        "pageTitle": "What to Do in New York City If You Don&amp;#39;t Have Much Time - Frommer&amp;#39;s",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.frommers.com/system/media_items/attachments/000/857/056/s500/Empire_State_Building.jpg?1473184160"
+          }
+        ]
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:%22I_believe_in_the_country_America_used_to_be%22.JPG",
+        "pageTitle": "File:&amp;quot;I believe in the country America used to be&amp;quot;.JPG - Wikimedia ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%22I_believe_in_the_country_America_used_to_be%22.JPG/1024px-%22I_believe_in_the_country_America_used_to_be%22.JPG"
+          }
+        ]
+      },
+      {
+        "url": "https://andyfalconerphotography.com/",
+        "pageTitle": "Andy Falconer Photography",
+        "fullMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/58599610ff7c508d9c7f2fcf/58599776d1758e6ea457c4c8/585999758419c2ef73ab1af7/1496570252813/Emprie+State+Building-4.jpg?format=1000w"
+          }
+        ]
+      },
+      {
+        "url": "https://www.lonelyplanet.com/news/2015/04/29/moves-to-protect-new-york-tourists-from-ticket-hawkers/",
+        "pageTitle": "Moves to protect New York tourists from ticket hawkers - Lonely Planet",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lonelyplanet.com/news/wp-content/uploads/2014/10/Empire-State-Building.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.priceoftravel.com/7522/new-york-pass-1-2-3-day-itineraries-get-value/",
+        "pageTitle": "New York Pass: Best 1, 2, and 3-day itineraries for most value - Price ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.priceoftravel.com/wp-content/uploads/2016/06/EmpireStateBuilding.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://visihow.com/Best_Historical_Sites_in_the_MidAtlantic_States_Part_One",
+        "pageTitle": "Best Historical Sites in the Mid-Atlantic States Part One In New York ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://visihow.com/images/a/a1/Best_Historical_Sites_in_the_MidAtlantic_States_Part_One_52231.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://part-timeworldtraveler.com/2015/07/04/rockefeller-center/",
+        "pageTitle": "NYC Day 1: Rockefeller Center",
+        "partialMatchingImages": [
+          {
+            "url": "http://part-timeworldtraveler.com/wp-content/uploads/2015/07/DSC_0283c.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ashtonwoods.com/inspiringspaces/the-studio/the-evolution-from-design-center-to-design-studio-a-new-generation-2",
+        "pageTitle": "The Evolution from Design Center to Design Studio: A New ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ashtonwoods.com/inspiringspaces/wp-content/uploads/2015/09/6817607251_53e3438b20_z.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.icanvas.com/canvas-art-prints/artist/hakan-strand",
+        "pageTitle": "Canvas Wall Art by Håkan Strand — iCanvas",
+        "partialMatchingImages": [
+          {
+            "url": "https://images.icanvas.com/3d/square-1/400-auto-ffffff/HAK29.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.playbuzz.com/vacationsbymarriott10/how-well-do-you-know-new-york-city",
+        "pageTitle": "How Well Do You Know New York City? | Playbuzz",
+        "partialMatchingImages": [
+          {
+            "url": "http://img.playbuzz.com/image/upload/f_auto,fl_lossy,q_auto/cdn/0e6b0127-b4bd-4aa6-8719-5797934ae504/e5c0931d-00a0-4558-9c25-e9fbdf1a49b0.jpg"
+          },
+          {
+            "url": "http://cdn.playbuzz.com/cdn/0e6b0127-b4bd-4aa6-8719-5797934ae504/4dfae2fe-4af1-4768-bd3e-e6d3466f78be.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.cheaperluxury.com/category/entertainment/",
+        "pageTitle": "Entertainment Deals - Cheaper Luxury",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.cheaperluxury.com/wp-content/uploads/2017/02/6817607251_53e3438b20_empire-state-360x200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.flickr.com/photos/95401975@N04/galleries/72157633378737217/",
+        "pageTitle": "Running Mix - a gallery on Flickr",
+        "partialMatchingImages": [
+          {
+            "url": "https://farm8.staticflickr.com/7153/6817607251_53e3438b20_z.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://fitzvillafuerte.com/top-5-places-to-see-and-visit-in-new-york.html",
+        "pageTitle": "Top 5 Places To See and Visit in New York - Fitz Villafuerte",
+        "partialMatchingImages": [
+          {
+            "url": "https://fitzvillafuerte.com/wp-content/uploads/2015/03/new-york-5.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.aluxurytravelblog.com/2014/01/11/top-10-tips-for-your-first-trip-to-new-york/",
+        "pageTitle": "Top 10 tips for your first trip to New York - A Luxury Travel Blog : A ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://23444-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2014/01/Empire-State-Building.jpg.optimal.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://factsforkids.net/category/geography/",
+        "pageTitle": "Geography Archives - - Facts for Kids",
+        "partialMatchingImages": [
+          {
+            "url": "http://factsforkids.net/wp-content/uploads/2016/04/Empire-State-Building-Empire-state-building-facts-for-kids-600x385.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.co.uk/dabw78/just-stuff/",
+        "pageTitle": "451 best Just stuff images on Pinterest | Concrete jungle, New york ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/736x/29/92/44/29924435c46d129b8f4be015f7c92bf0--amazing-hotels-empire-state-building.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.icanvas.com/canvas-art-prints/tag/black-and-white-cityscapes",
+        "pageTitle": "Black And White Cityscapes Canvas Art — iCanvas",
+        "partialMatchingImages": [
+          {
+            "url": "https://images.icanvas.com/3d/square-1/400-auto-ffffff/HAK29.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://radiatefashion.com/photography-new-york-city-spring-2016/new-york-city-spring-photography-empire-state/",
+        "pageTitle": "new-york-city-spring-photography-&lt;b&gt;empire&lt;/b&gt;-&lt;b&gt;state&lt;/b&gt; - Radiate Fashion",
+        "partialMatchingImages": [
+          {
+            "url": "http://radiatefashion.com/wp-content/uploads/2016/11/new-york-city-spring-photography-empire-state.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thrillist.com/entertainment/new-york/nyc-myths-urban-legends-wives-tales",
+        "pageTitle": "NYC Myths Urban Legends Wives Tales - Thrillist",
+        "partialMatchingImages": [
+          {
+            "url": "https://assets3.thrillist.com/v1/image/1350381/size/tmg-facebook_social.jpg"
+          },
+          {
+            "url": "https://assets3.thrillist.com/v1/image/1350381/size/tmg-article_default_mobile.jpg"
+          },
+          {
+            "url": "https://assets3.thrillist.com/v1/image/1350381/size/tmg-slideshow_l.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.cheaperluxury.com/2015/08/18/langham-place-5th-avenue-nyc-5-star-hotel/",
+        "pageTitle": "Langham Place 5th Avenue NYC 5-Star Hotel - Cheaper Luxury",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.cheaperluxury.com/wp-content/uploads/2017/02/6817607251_53e3438b20_empire-state-360x200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://gestianpoet21.deviantart.com/art/Black-and-White-Skyline-119549594",
+        "pageTitle": "Black and White Skyline by GestianPoet21 on DeviantArt",
+        "partialMatchingImages": [
+          {
+            "url": "https://img00.deviantart.net/02a1/i/2009/107/8/4/black_and_white_skyline_by_gestianpoet21.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.carabin.org/empire-state-building-for-students",
+        "pageTitle": "&lt;b&gt;Empire State Building&lt;/b&gt; For Students — Mediwiki - Wiki des ECN ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://factsforkids.net/wp-content/uploads/2016/04/Empire-State-Building-Empire-state-building-facts-for-kids.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/empire-state-building-2017_x9Rje7wiXLQMPeYEHxfNutuSGKMrjgpnP7h1KQ3HZC4/",
+        "pageTitle": "&lt;b&gt;Empire State Building&lt;/b&gt; 2017 Pictures to Pin on Pinterest - PinsDaddy",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.david-schreiber.com/wp-content/uploads/Empire-State-Building_2017_web.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/empire-state-building-opening_GKGWbHtorZ61W9PaSAhTSpPPKHBPGBY1yL1TNt6RpAQ/",
+        "pageTitle": "&lt;b&gt;Empire State Building&lt;/b&gt; Opening Pictures to Pin on Pinterest ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.david-schreiber.com/wp-content/uploads/Empire-State-Building_2017_web.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tumblr.com/tagged/NOIR-NYC",
+        "pageTitle": "noir nyc | Tumblr",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.tumblr.com/f53a36e9ba7274edae282aeba9c583dd/wnihejq/98Qn57h4m/tumblr_static_tumblr_static__640.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.constructafrica.com/column/tall-buildings-past-and-present-trends",
+        "pageTitle": "Column Single | ConstructAfrica",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.constructafrica.com/sites/default/files/resize/NYC_lowres-450x424.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.internationalculinarycenter.com/viewbook/california.html",
+        "pageTitle": "California - International Culinary Center",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.internationalculinarycenter.com/viewbook/img/ICC_about_ny.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://canacopegdl.com/keyword/nyc-tumblr.html",
+        "pageTitle": "List of Synonyms and Antonyms of the Word: nyc tumblr",
+        "partialMatchingImages": [
+          {
+            "url": "https://static.tumblr.com/f53a36e9ba7274edae282aeba9c583dd/wnihejq/98Qn57h4m/tumblr_static_tumblr_static__640.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.sergeramelliphotos.com/usa/",
+        "pageTitle": "USA — Serge Ramelli",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/516f004ce4b01384bca2a72c/593cd69a1e5b6ca18caffa65/593cd6abff7c50b39bdb692a/1497159341115/New+York-3.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.ptarmiganmedia.com/new-york/",
+        "pageTitle": "Ptarmigan Media",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ptarmiganmedia.com/media/assets/52/440a6646184e70485dd38f1d6fd41d839ef4c6.png"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://wallpaperswide.com/download/empire_state_building-wallpaper-1152x768.jpg"
+      },
+      {
+        "url": "http://antonyz.com/wp-content/uploads/2014/12/empire-state-building-and-downtown-view-manhattan-NYC-New-York-City-black-and-white.jpg"
+      },
+      {
+        "url": "https://www.mrsmithworldphotography.com/photos/Empire-State-Building-1.jpg"
+      },
+      {
+        "url": "https://images.adsttc.com/media/images/5576/ecae/e58e/cef4/6900/0105/large_jpg/PlanB-ESB-skyline_50346.jpg?1433857184"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/b9/3c/b5/b93cb5c09963170d6dbab7d471b1e141.jpg"
+      },
+      {
+        "url": "https://i2.wp.com/www.drivingfordeco.com/wp-content/uploads/2016/04/Empire-State-Building_Looking-South_1931.jpg"
+      },
+      {
+        "url": "https://static.ticketbar.eu/newyork/Classificaties/attractions/empire-state-building-observation-deck/EMPIRE-STATE__1680x770-1509111451.jpg"
+      },
+      {
+        "url": "http://raredelights.com/wp-content/uploads/2012/08/Multiple-People-Shot-Near-Empire-State-Building-1.jpg"
+      },
+      {
+        "url": "http://finalcutassistant.info/wp-content/uploads/2017/12/empire-state-building-pictures-black-and-white-empire-state-building-pictures-black-and-white-lovely-the-charm-of-the-empire-state-building-new-york.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "empire state building"
+      }
+    ]
+  }
+}

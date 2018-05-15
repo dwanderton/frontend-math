@@ -1,0 +1,7 @@
+text
+advertising
+product
+photo caption
+brand
+snout
+font

@@ -1,0 +1,10 @@
+yellow
+leaf
+tree
+sky
+flora
+plant
+spring
+grass
+autumn
+shrub

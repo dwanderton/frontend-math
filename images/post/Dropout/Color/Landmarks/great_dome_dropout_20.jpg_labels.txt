@@ -1,0 +1,10 @@
+nature
+landmark
+sky
+tree
+daytime
+architecture
+grass
+tourist attraction
+biome
+plant

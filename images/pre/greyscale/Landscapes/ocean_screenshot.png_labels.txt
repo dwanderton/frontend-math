@@ -1,0 +1,7 @@
+text
+screenshot
+organism
+font
+multimedia
+website
+editing

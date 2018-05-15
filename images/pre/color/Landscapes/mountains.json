@@ -1,0 +1,1189 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0dqhk_",
+      "description": "Hamnøy",
+      "score": 0.96155185,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 482,
+            "y": 138
+          },
+          {
+            "x": 1095,
+            "y": 138
+          },
+          {
+            "x": 1095,
+            "y": 757
+          },
+          {
+            "x": 482,
+            "y": 757
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 67.946254,
+            "longitude": 13.133332999999999
+          }
+        }
+      ]
+    },
+    {
+      "mid": "/m/0dp7jy",
+      "description": "Reine",
+      "score": 0.95245725,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 759,
+            "y": 40
+          },
+          {
+            "x": 1548,
+            "y": 40
+          },
+          {
+            "x": 1548,
+            "y": 735
+          },
+          {
+            "x": 759,
+            "y": 735
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 67.93000030517578,
+            "longitude": 13.08446
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/05h0n",
+      "description": "nature",
+      "score": 0.9573774,
+      "topicality": 0.9573774
+    },
+    {
+      "mid": "/m/09d_r",
+      "description": "mountain",
+      "score": 0.93984,
+      "topicality": 0.93984
+    },
+    {
+      "mid": "/m/023bbt",
+      "description": "wilderness",
+      "score": 0.91586775,
+      "topicality": 0.91586775
+    },
+    {
+      "mid": "/m/0drv1h",
+      "description": "mount scenery",
+      "score": 0.9117378,
+      "topicality": 0.9117378
+    },
+    {
+      "mid": "/g/11jxkqbpp",
+      "description": "mountainous landforms",
+      "score": 0.91041714,
+      "topicality": 0.91041714
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.9013505,
+      "topicality": 0.9013505
+    },
+    {
+      "mid": "/m/02l215",
+      "description": "reflection",
+      "score": 0.89394414,
+      "topicality": 0.89394414
+    },
+    {
+      "mid": "/m/03cjrt",
+      "description": "highland",
+      "score": 0.8750181,
+      "topicality": 0.8750181
+    },
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.8743032,
+      "topicality": 0.8743032
+    },
+    {
+      "mid": "/m/0by0z",
+      "description": "fjord",
+      "score": 0.86751556,
+      "topicality": 0.86751556
+    },
+    {
+      "mid": "/m/04h4w",
+      "description": "lake",
+      "score": 0.8347241,
+      "topicality": 0.8347241
+    },
+    {
+      "mid": "/m/0280nh",
+      "description": "fell",
+      "score": 0.8118573,
+      "topicality": 0.8118573
+    },
+    {
+      "mid": "/m/02r3_7_",
+      "description": "promontory",
+      "score": 0.7952101,
+      "topicality": 0.7952101
+    },
+    {
+      "mid": "/m/04wxr",
+      "description": "mountain range",
+      "score": 0.7701078,
+      "topicality": 0.7701078
+    },
+    {
+      "mid": "/m/025tn5c",
+      "description": "terrain",
+      "score": 0.6986544,
+      "topicality": 0.6986544
+    },
+    {
+      "mid": "/m/01lxd",
+      "description": "coast",
+      "score": 0.68855816,
+      "topicality": 0.68855816
+    },
+    {
+      "mid": "/m/05gz5",
+      "description": "national park",
+      "score": 0.67969966,
+      "topicality": 0.67969966
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.6550684,
+      "topicality": 0.6550684
+    },
+    {
+      "mid": "/m/093shy",
+      "description": "reservoir",
+      "score": 0.6526344,
+      "topicality": 0.6526344
+    },
+    {
+      "mid": "/m/04ggh49",
+      "description": "bay",
+      "score": 0.6526083,
+      "topicality": 0.6526083
+    },
+    {
+      "mid": "/m/06npx",
+      "description": "sea",
+      "score": 0.63861203,
+      "topicality": 0.63861203
+    },
+    {
+      "mid": "/m/05t0z3q",
+      "description": "bank",
+      "score": 0.6334638,
+      "topicality": 0.6334638
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.63344693,
+      "topicality": 0.63344693
+    },
+    {
+      "mid": "/m/0lcd",
+      "description": "alps",
+      "score": 0.6235628,
+      "topicality": 0.6235628
+    },
+    {
+      "mid": "/m/055s40",
+      "description": "glacial landform",
+      "score": 0.596482,
+      "topicality": 0.596482
+    },
+    {
+      "mid": "/m/018vpr",
+      "description": "cliff",
+      "score": 0.58941483,
+      "topicality": 0.58941483
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.5737197,
+      "topicality": 0.5737197
+    },
+    {
+      "mid": "/m/02519_",
+      "description": "crater lake",
+      "score": 0.55945396,
+      "topicality": 0.55945396
+    },
+    {
+      "mid": "/m/0223d3",
+      "description": "sound",
+      "score": 0.54913604,
+      "topicality": 0.54913604
+    },
+    {
+      "mid": "/m/02hdxc",
+      "description": "inlet",
+      "score": 0.52948856,
+      "topicality": 0.52948856
+    },
+    {
+      "mid": "/m/080byt0",
+      "description": "cape",
+      "score": 0.51047844,
+      "topicality": 0.51047844
+    },
+    {
+      "mid": "/m/04p25",
+      "description": "loch",
+      "score": 0.50983554,
+      "topicality": 0.50983554
+    },
+    {
+      "mid": "/m/05v3nz",
+      "description": "elevation",
+      "score": 0.50131774,
+      "topicality": 0.50131774
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 66,
+            "green": 85,
+            "blue": 108
+          },
+          "score": 0.19551596,
+          "pixelFraction": 0.11333334
+        },
+        {
+          "color": {
+            "red": 103,
+            "green": 119,
+            "blue": 138
+          },
+          "score": 0.16173899,
+          "pixelFraction": 0.12801588
+        },
+        {
+          "color": {
+            "red": 39,
+            "green": 58,
+            "blue": 87
+          },
+          "score": 0.11619373,
+          "pixelFraction": 0.055079363
+        },
+        {
+          "color": {
+            "red": 111,
+            "green": 120,
+            "blue": 125
+          },
+          "score": 0.108672574,
+          "pixelFraction": 0.08055556
+        },
+        {
+          "color": {
+            "red": 140,
+            "green": 156,
+            "blue": 175
+          },
+          "score": 0.05683181,
+          "pixelFraction": 0.07206349
+        },
+        {
+          "color": {
+            "red": 81,
+            "green": 90,
+            "blue": 96
+          },
+          "score": 0.056747667,
+          "pixelFraction": 0.041904762
+        },
+        {
+          "color": {
+            "red": 54,
+            "green": 80,
+            "blue": 123
+          },
+          "score": 0.04822333,
+          "pixelFraction": 0.0073809526
+        },
+        {
+          "color": {
+            "red": 147,
+            "green": 152,
+            "blue": 157
+          },
+          "score": 0.047009908,
+          "pixelFraction": 0.050873015
+        },
+        {
+          "color": {
+            "red": 32,
+            "green": 56,
+            "blue": 96
+          },
+          "score": 0.026082825,
+          "pixelFraction": 0.003015873
+        },
+        {
+          "color": {
+            "red": 185,
+            "green": 195,
+            "blue": 216
+          },
+          "score": 0.019746192,
+          "pixelFraction": 0.078650795
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 415
+            },
+            {
+              "x": 1151
+            },
+            {
+              "x": 1151,
+              "y": 899
+            },
+            {
+              "x": 415,
+              "y": 899
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.51
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 335
+            },
+            {
+              "x": 1247
+            },
+            {
+              "x": 1247,
+              "y": 899
+            },
+            {
+              "x": 335,
+              "y": 899
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.62
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 239
+            },
+            {
+              "x": 1311
+            },
+            {
+              "x": 1311,
+              "y": 899
+            },
+            {
+              "x": 239,
+              "y": 899
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.72999996
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0dqhk_",
+        "score": 14.7904,
+        "description": "Hamnøy"
+      },
+      {
+        "entityId": "/m/02ykns",
+        "score": 4.9904,
+        "description": "Lofoten"
+      },
+      {
+        "entityId": "/m/06y57",
+        "score": 1.9932,
+        "description": "Sydney"
+      },
+      {
+        "entityId": "/m/07c8b1",
+        "score": 1.1982,
+        "description": "Banteay Chhmar"
+      },
+      {
+        "entityId": "/m/018bts",
+        "score": 0.81983995,
+        "description": "Moskenes"
+      },
+      {
+        "entityId": "/m/0svml3_",
+        "score": 0.7006
+      },
+      {
+        "entityId": "/m/09jcvs",
+        "score": 0.7004,
+        "description": "YouTube"
+      },
+      {
+        "entityId": "/m/0c3mgr",
+        "score": 0.585,
+        "description": "Serei Saophoan"
+      },
+      {
+        "entityId": "/m/078x4m",
+        "score": 0.4197,
+        "description": "Location"
+      },
+      {
+        "entityId": "/m/01lqm",
+        "score": 0.4096,
+        "description": "Khmer"
+      },
+      {
+        "entityId": "/m/0s9chxk",
+        "score": 0.3641
+      },
+      {
+        "entityId": "/m/0jg24",
+        "score": 0.3521,
+        "description": "Image"
+      },
+      {
+        "entityId": "/m/0f0q9",
+        "score": 0.3362,
+        "description": "Village"
+      },
+      {
+        "entityId": "/t/24mypdx4svpvn",
+        "score": 0.3061
+      },
+      {
+        "entityId": "/m/05b4w",
+        "score": 0.0000014388002,
+        "description": "Norway"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "http://file.moneta.co.kr/web_file/images4/blog_new/637/sign9300/7/6[20120815110334]sign9300_edit.jpg"
+      },
+      {
+        "url": "https://www.wallpaperflare.com/static/705/720/938/gray-mountain-com-mountain-lake-wallpaper.jpg"
+      },
+      {
+        "url": "https://block-changer.de/wp-content/uploads/2018/03/15228957152_2d1913b916_o.jpg"
+      },
+      {
+        "url": "https://farm6.staticflickr.com/5562/15228957152_2653d0d0e7_h_d.jpg"
+      },
+      {
+        "url": "https://www.vanillamagazine.it/wp-content/uploads/2014/06/35-luoghi-da-visitare-per-sentirsi-protagonisti-di-un-sogno26.jpg"
+      },
+      {
+        "url": "http://www.rendezvenyetterem.hu/wp-content/uploads/2016/06/15228957152_aa3fbc582b_z.jpg"
+      },
+      {
+        "url": "https://farm6.staticflickr.com/5562/15228957152_aa3fbc582b_z.jpg"
+      },
+      {
+        "url": "https://www.wallpaperflare.com/static/705/720/938/gray-mountain-com-mountain-lake-wallpaper-thumb.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/emazecom/image/fetch/c_limit,a_ignore,w_200,h_120/https%3A%2F%2Ffarm6.staticflickr.com%2F5562%2F15228957152_aa3fbc582b_b.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/aARegvxNoN0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLBkbQLCrG9VeIdJ32T83qv1JCNj8w"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "http://wallpapercraft.site/uploads/posts/images/103990-rocky-mountains__1728.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.ru/image/gory_ostrye_piki_skaly_oblaka_dom_vysota_uedinenie_62668_3840x2400.jpg"
+      },
+      {
+        "url": "http://wallsdesk.com/wp-content/uploads/2016/12/Rocky-Mountains-Computer-Wallpaper.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.com/image/mountains_sharp_peaks_rocks_clouds_house_height_privacy_62668_3840x2160.jpg"
+      },
+      {
+        "url": "http://www.uft.com.ua/images/Trekking.Lofotens/p18mpdem6d1j1123p13g1erebi6u.jpg"
+      },
+      {
+        "url": "http://www.10wallpaper.com/wallpaper/2560x1600/1303/mountains_sharp_peaks_rocks-Natural_scenery_HD_wallpaper_2560x1600.jpg"
+      },
+      {
+        "url": "https://wallpapertag.com/wallpaper/full/6/8/b/665339-beautiful-mountain-wallpaper-2560x1600-for-macbook.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.ru/image/gory_ostrye_piki_skaly_oblaka_dom_vysota_uedinenie_62668_2560x1600.jpg"
+      },
+      {
+        "url": "https://cdn.chip.gen.tr/images/galeri/2013071218510222172.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/af/d1/35/afd135864ec7603d609a77b78f76a53d.jpg"
+      },
+      {
+        "url": "https://i1.wp.com/www.synegrate.com/wp-content/uploads/2017/01/Mountains1.jpg?fit=2560%2C1600&amp;ssl=1"
+      },
+      {
+        "url": "http://www.bhmpics.com/wallpapers/beautiful_mountains_lake-2560x1600.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.com/image/mountains_sharp_peaks_rocks_clouds_house_height_privacy_62668_2560x1440.jpg"
+      },
+      {
+        "url": "http://frosper.ru/img/4/gory_ostrye_piki_skaly_oblaka_dom_vysota_uedinenie_2560x1600.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/2000x1333/11430/mountains-clouds-landscapes-lakes-2000x1333-wallpaper.jpg"
+      },
+      {
+        "url": "https://wallpaperstock.net/peaks-blue-river-hill-house-wallpapers_49730_1920x1200.jpg"
+      },
+      {
+        "url": "https://lh5.googleusercontent.com/-Ur-71d-4q9M/VFB0-s2OcTI/AAAAAAAAK10/q0OOD3lhgRA/w1920-h1200/Nature%2BLandscape%2B%25285%2529.jpg"
+      },
+      {
+        "url": "http://hintergrundbild.org/wallpaper/full/2/c/3/27467-popular-landschaft-hintergrundbilder-hd-1920x1200.jpg"
+      },
+      {
+        "url": "http://pic.bizhi360.com/bpic/80/4280.jpg"
+      },
+      {
+        "url": "https://images5.alphacoders.com/292/thumb-1920-292029.jpg"
+      },
+      {
+        "url": "https://img.tulaoshi.com/image/20150520/8516f740623cd596f1ecdbaac75859ad.jpg"
+      },
+      {
+        "url": "https://img-article.pchome.net/01/62/91/21/pic_lib/wm/Zhuoku05822.jpg"
+      },
+      {
+        "url": "https://www.walldevil.com/wallpapers/a33/wallpaper-kutro-panoramio-scenic-norway-moskenes-wallpapers-desktop-images-nordland.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.ru/image/gory_ostrye_piki_skaly_oblaka_dom_vysota_uedinenie_62668_1920x1200.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/1920x1200/11430/mountains-clouds-landscapes-lakes-1920x1200-wallpaper.jpg"
+      },
+      {
+        "url": "https://zellox.com/wp-content/uploads/2017/06/Norway-Beautiful-Scenery-Wallpaper-HD.jpg"
+      },
+      {
+        "url": "http://pic.7kk.com/upload/a/f6/0f2f096d9e27c8383507b050e7cc6.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/WnEZURGS_6s/maxresdefault.jpg"
+      },
+      {
+        "url": "https://www.wallpaperu3.com/wp-content/mywallpapers/reine-wallpaper.jpg"
+      },
+      {
+        "url": "http://hintergrundbild.org/wallpaper/full/2/2/c/48597-landschaft-hintergrundbilder-hd-1920x1080-1920x1080-fuer-tablet.jpg"
+      },
+      {
+        "url": "https://wallpaperscraft.com/image/rocks_mountains_house_height_eminence_day_sea_45982_1920x1080.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/FBMx2oBIBj0/maxresdefault.jpg"
+      },
+      {
+        "url": "http://rsload.net/images4/vin/65/18.jpg"
+      },
+      {
+        "url": "http://i.imgur.com/6Qb3GlD.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/1680x1050/11430/mountains-clouds-landscapes-lakes-1680x1050-wallpaper.jpg"
+      },
+      {
+        "url": "http://www.wallpaperbetter.com/wallpaper/121/651/724/ocean-mountains-landscape-hd-720P-wallpaper.jpg"
+      },
+      {
+        "url": "http://www.ganzhenjun.com/data/out/60/wp-image-720975369-fjord-wallpapers.jpg"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-Rs4kJf_Bkp4/UjcMJqdo6OI/AAAAAAAAcT0/jfvL5BHj2sk/s1600/Hamnoy.jpg"
+      },
+      {
+        "url": "http://2.bp.blogspot.com/-FoZzwR0eETo/Vp2Q1nF47bI/AAAAAAAAErg/CqTPTe4pGM4/s1600/aovernature.com-720.jpg"
+      },
+      {
+        "url": "http://st.gde-fon.com/wallpapers_original/376834_ford_dom_gory_1680x1050_www.Gde-Fon.com.jpg"
+      },
+      {
+        "url": "http://4.bp.blogspot.com/-yVk4VbtiL6U/US2KPuoMXWI/AAAAAAAAXxM/y4RAuHdS1io/s1600/hamnoy-lofoten.jpg"
+      },
+      {
+        "url": "http://2.bp.blogspot.com/-FxeXO8car9s/VhPMNhcCDeI/AAAAAAAADo8/cctcWEIr620/s1600/34086-1920x1200.jpg"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-8TEskKd8u7s/UWp93tm0CMI/AAAAAAAANd4/J0Immd5vUxA/s1600/Best_Wallpapers_Latest_www.Froomple.com_102.jpg"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-MP-e-MfeIHo/Uyv9t51owsI/AAAAAAAAFtQ/LI3Ko8195Zc/s1600/harmony-lofoten-wallpapers-1.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/1600x900/11430/mountains-clouds-landscapes-lakes-1600x900-wallpaper.jpg"
+      },
+      {
+        "url": "https://www.wallpaperu3.com/wp-content/mywallpapers/reine-wallpaper-1600x900.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/1440x960/11430/mountains-clouds-landscapes-lakes-1440x960-wallpaper.jpg"
+      },
+      {
+        "url": "http://hindi.fansshare.com/image/beautifulwallpapers/mountains-sharp-peaks-rocks-beautiful-natural-scenery-wallpaper-beautiful-scenery-wallpapers-2084060388.jpg"
+      },
+      {
+        "url": "https://www.wallpaperu3.com/wp-content/mywallpapers/reine-wallpaper-1440x900.jpg"
+      },
+      {
+        "url": "https://cdn.allwallpaper.in/wallpapers/1440x900/11430/mountains-clouds-landscapes-lakes-1440x900-wallpaper.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://www.chinabuddhismencyclopedia.com/en/index.php/Seasons,_the_cosmic_clock,_and_health_Dr._Pasang_Y._Arya",
+        "pageTitle": "Seasons, the cosmic clock, and health Dr. Pasang &lt;b&gt;Y&lt;/b&gt;. Arya - Chinese ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.chinabuddhismencyclopedia.com/en/images/thumb/4/45/5708_128.jpg/250px-5708_128.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://es-la.facebook.com/Gidas-Nerijus-675039722612167/",
+        "pageTitle": "Gidas Nerijus - Inicio | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=675042619278544"
+          }
+        ]
+      },
+      {
+        "url": "https://www.synegrate.com/services/compute/",
+        "pageTitle": "Services - Compute - Synegrate.com - Trusted Cloud Technology ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i1.wp.com/www.synegrate.com/wp-content/uploads/2017/01/Mountains1.jpg?fit=2560%2C1600&amp;ssl=1"
+          }
+        ]
+      },
+      {
+        "url": "https://www.helloforos.com/t/hermosa-reflexion/106552",
+        "pageTitle": "Hermosa Reflexión - Poemas &lt;b&gt;y&lt;/b&gt; Pensamientos - HelloForos.com - Tu ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-wecKsXX0qjo/Uiz_vjzFu8I/AAAAAAAB44Q/sO5wn1d4bFw/s1600/fondos-gratis-casita-en-el-lago-de-las-monta%C3%B1as-lake-and-mountains-1680x1050.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://siciarz.net/24-days-rust-diesel/",
+        "pageTitle": "24 days of Rust - diesel | siciarz.net",
+        "fullMatchingImages": [
+          {
+            "url": "http://siciarz.net/media/articles/2016/12/17/15228957152_2653d0d0e7_h.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.omnihealthandlifestyle.com/",
+        "pageTitle": "GRAY ESTRADA",
+        "partialMatchingImages": [
+          {
+            "url": "https://static1.squarespace.com/static/58ed58e2ff7c5082bce7dc38/t/58efc257bf629a9dbf527a59/1494879205845/NATURE.jpg"
+          },
+          {
+            "url": "https://static1.squarespace.com/static/58ed58e2ff7c5082bce7dc38/t/58efc257bf629a9dbf527a59/1494879205845/NATURE.jpg?format=300w"
+          }
+        ]
+      },
+      {
+        "url": "https://github.com/webismymind/wimmviewer",
+        "pageTitle": "GitHub - webismymind/wimmviewer: A simple, lightweight jquery ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm6.staticflickr.com/5562/15228957152_2653d0d0e7_h_d.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.bancodeimagenesgratis.com/2013/09/casita-junto-al-lago-de-las-montanas.html",
+        "pageTitle": "Banco de Imágenes para Ver, Disfrutar &lt;b&gt;y&lt;/b&gt; Compartir...: Casita junto al ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-wecKsXX0qjo/Uiz_vjzFu8I/AAAAAAAB44Q/sO5wn1d4bFw/s1600/fondos-gratis-casita-en-el-lago-de-las-monta%C3%B1as-lake-and-mountains-1680x1050.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.wattpad.com/user/Bookworm_Beauty96",
+        "pageTitle": "Kass   (@Bookworm_Beauty96) - Wattpad",
+        "partialMatchingImages": [
+          {
+            "url": "https://d.wattpad.com/story_parts/355084890/images/1497945c86634d3a377858690879.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pandotrip.com/top-10-things-to-see-and-do-in-norway-18883/",
+        "pageTitle": "Top 10 Things to See and Do in Norway | Places To See In Your ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.pandotrip.com/wp-content/uploads/2015/06/Top-10-Norway-Hamnoy-740x463.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pandotrip.com/top-10-vibrant-island-cities-18040/",
+        "pageTitle": "Top 10 Vibrant Island Cities | Places To See In Your Lifetime",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.pandotrip.com/wp-content/uploads/2015/05/Top-Island-Cities-Hamnoy2-740x463.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pandotrip.com/hamnoy-the-oldest-and-most-picturesque-fishing-village-in-lofoten-norway-16785/",
+        "pageTitle": "Hamnøy - the Oldest and Most Picturesque Fishing Village in ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.pandotrip.com/wp-content/uploads/2015/03/Hamnoy-740x463.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.chinabuddhismencyclopedia.com/en/index.php/Water_Element",
+        "pageTitle": "Water Element - Chinese Buddhist Encyclopedia",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.chinabuddhismencyclopedia.com/en/images/thumb/4/45/5708_128.jpg/250px-5708_128.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://es-es.facebook.com/2ndChance4Kelly/",
+        "pageTitle": "Support A Second Chance for Kelly Dara - Inicio | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1534171806695290"
+          }
+        ]
+      },
+      {
+        "url": "http://tywkiwdbi.blogspot.com/2013/09/nice-view.html",
+        "pageTitle": "TYWKIWDBI (&amp;quot;Tai-Wiki-Widbee&amp;quot;): Nice view",
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-Rs4kJf_Bkp4/UjcMJqdo6OI/AAAAAAAAcT0/jfvL5BHj2sk/s1600/Hamnoy.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://memolition.com/2013/12/20/stunning-photos-showing-great-beauty-of-our-planet-50-pictures/",
+        "pageTitle": "Stunning Photos Showing Great Beauty of Our Planet (50 pictures ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i0.wp.com/memolition.com/wp-content/uploads/2013/12/Hamn%C3%B8y-Nordland-Norway-930x581.jpg?fit=930%2C581"
+          }
+        ]
+      },
+      {
+        "url": "https://creativeoverflow.net/24-massive-majestic-mountain-photos/",
+        "pageTitle": "24 Massive &amp;amp; Majestic Mountain Photos | Creativeoverflow",
+        "partialMatchingImages": [
+          {
+            "url": "http://creativeoverflow.net/wp-content/uploads/2016/11/mountain-9.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=xGHYhm-dmug",
+        "pageTitle": "Alternative Music | Scenery Amazing Sydney City - YouTube",
+        "fullMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/aARegvxNoN0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLBkbQLCrG9VeIdJ32T83qv1JCNj8w"
+          }
+        ]
+      },
+      {
+        "url": "http://www.zgjm-org.com/group/beautiful-mountain-wallpaper/",
+        "pageTitle": "Beautiful Mountain Wallpapers Group (86+) - Top Wallpapers",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.zgjm-org.com/data/out/8/IMG_292557.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.chinabuddhismencyclopedia.com/en/index.php?title=Water_Element",
+        "pageTitle": "Water Element - Chinese Buddhist Encyclopedia",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.chinabuddhismencyclopedia.com/en/images/thumb/4/45/5708_128.jpg/250px-5708_128.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.facebook.com/2ndChance4Kelly/",
+        "pageTitle": "Support A Second Chance for Kelly Dara - Home | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1534171806695290"
+          }
+        ]
+      },
+      {
+        "url": "https://themysteriouspast.wordpress.com/tag/shaolin/",
+        "pageTitle": "Shaolin | The Mysterious Past",
+        "partialMatchingImages": [
+          {
+            "url": "https://themysteriouspast.files.wordpress.com/2013/11/beautiful_mountains_lake-1280x800.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://themysteriouspast.wordpress.com/category/philosophy-2/",
+        "pageTitle": "Philosophy | The Mysterious Past",
+        "partialMatchingImages": [
+          {
+            "url": "https://themysteriouspast.files.wordpress.com/2013/11/beautiful_mountains_lake-1280x800.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.flickr.com/photos/145356815@N04/galleries/72157670409297580/",
+        "pageTitle": "Mountains - a gallery on Flickr",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm6.staticflickr.com/5562/15228957152_aa3fbc582b_z.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@ATWICLZF",
+        "pageTitle": "Early ChinaFamilies - Emaze",
+        "fullMatchingImages": [
+          {
+            "url": "https://res.cloudinary.com/emazecom/image/fetch/c_limit,a_ignore,w_200,h_120/https%3A%2F%2Ffarm6.staticflickr.com%2F5562%2F15228957152_aa3fbc582b_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vKXhvZ9JaFQ",
+        "pageTitle": "Amazing Banteay Chhmar - Banteay Chhmar Cambodia - YouTube",
+        "fullMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/aARegvxNoN0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&amp;rs=AOn4CLBkbQLCrG9VeIdJ32T83qv1JCNj8w"
+          }
+        ]
+      },
+      {
+        "url": "http://ozon4life.com/fjord-wallpapers.html",
+        "pageTitle": "Fjord Wallpapers - Ozon4LIFE",
+        "partialMatchingImages": [
+          {
+            "url": "http://ozon4life.com/data/out/60/image-159980826.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://infidel753.blogspot.com/2013/09/",
+        "pageTitle": "Infidel753: September 2013",
+        "partialMatchingImages": [
+          {
+            "url": "http://3.bp.blogspot.com/-Rs4kJf_Bkp4/UjcMJqdo6OI/AAAAAAAAcT0/jfvL5BHj2sk/s1600/Hamnoy.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.socwall.com/wallpapers/tagged:nordland/",
+        "pageTitle": "Nordland Wallpaper - Desktop Wallpaper - Social Wallpapering",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.socwall.com/images/wallpapers/34086-1920x1200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://borjavillenero05.wordpress.com/tag/wordpress/",
+        "pageTitle": "WORDPRESS | AprendoDeCineBorja",
+        "partialMatchingImages": [
+          {
+            "url": "https://borjavillenero05.files.wordpress.com/2015/10/720-montanas-en-noruega.jpg?w=640"
+          }
+        ]
+      },
+      {
+        "url": "https://www.snowaddiction.org/2015/07/top-10-things-to-see-and-do-in-norway.html",
+        "pageTitle": "Top 10 Things to See and Do in Norway - Snow Addiction - News ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://2.bp.blogspot.com/-son-3HFaQYs/VZZ4xw7QAWI/AAAAAAAAc7c/k0DfI-myxys/s1600/10.%2BHamn%25C3%25B8y%252C%2BMoskenes%2B-%2BTop%2B10%2BThings%2Bto%2BSee%2Band%2BDo%2Bin%2BNorway%2521%2521.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://wallpaper-house.com/group/beautiful-mountain-wallpaper/index.php",
+        "pageTitle": "Beautiful Mountain Wallpapers Group (86+)",
+        "partialMatchingImages": [
+          {
+            "url": "https://wallpaper-house.com/data/out/8/wallpaper2you_292557.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://es-la.facebook.com/AllianseniNordland/",
+        "pageTitle": "Alliansen i Nordland - Inicio | Facebook",
+        "partialMatchingImages": [
+          {
+            "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=579647568904132"
+          }
+        ]
+      },
+      {
+        "url": "http://blog.panoramio.com/2012/02/panoramio-contest-of-december-2011_2712.html",
+        "pageTitle": "Panoramio - Google Maps: Panoramio Contest of December 2011 ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://static.panoramio.com/photos/medium/64144753.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/635992778599875167/",
+        "pageTitle": "Balsam Lake | Nature&amp;#39;s Wonder | Pinterest | Lakes",
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/2f/af/1b/2faf1b1597a4f196a9cb4b93f5d35616.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://borjavillenero05.wordpress.com/",
+        "pageTitle": "AprendoDeCineBorja | Aprendo de cine con mi gran profesor ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://borjavillenero05.files.wordpress.com/2015/10/720-montanas-en-noruega.jpg?w=640"
+          }
+        ]
+      },
+      {
+        "url": "http://tophomeaccessories.com/best-air-purifiers-at-any-budget/",
+        "pageTitle": "Best Air Purifiers at Any Budget | Top Home Accessories",
+        "partialMatchingImages": [
+          {
+            "url": "http://tophomeaccessories.com/wp-content/uploads/2016/10/15228957152_aa3fbc582b_c-800x400.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/766526799047221259/",
+        "pageTitle": "Beautiful Mountain Wallpaper Desktop Background #6TW - Pinterest",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.pinimg.com/originals/4d/08/ae/4d08aed690cb64dcb2cf5ff9abff1a4f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.latitudes-extremes.travel/Voyages_Groupes.html/Europe/Norvege/Tout_le_pays/Circuits/Magie_du_Nord_Fjords_Cap_Nord_et_iles_Lofoten",
+        "pageTitle": "Magie du Nord, Fjords, Cap Nord et Îles Lofoten - Latitudes Extremes",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.latitudes-extremes.travel/images.php?fichier=14999548983716.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://borjavillenero05.wordpress.com/2015/10/29/tipos-de-planos-hechos-por-mi/",
+        "pageTitle": "TIPOS DE PLANOS HECHOS POR MI | AprendoDeCineBorja",
+        "partialMatchingImages": [
+          {
+            "url": "https://borjavillenero05.files.wordpress.com/2015/10/720-montanas-en-noruega.jpg?w=640"
+          }
+        ]
+      },
+      {
+        "url": "http://www.modafinilsale.com/beautiful-mountain-wallpapers.html",
+        "pageTitle": "Beautiful Mountain Wallpapers - ModaFinilsale",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.modafinilsale.com/data/out/24/230934260-beautiful-mountain-wallpapers.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://sbasavarajireland.deviantart.com/",
+        "pageTitle": "sbasavarajireland (S BasavaRaj Ireland) | DeviantArt",
+        "partialMatchingImages": [
+          {
+            "url": "https://t00.deviantart.net/VU1kPvMg1i3MwzJyChg-FbFEUz8=/fit-in/700x350/filters:fixed_height(100,100):origin()/pre00/fcf6/th/pre/f/2016/076/6/5/s_basavaraj_ireland___beautiful_mountains_lake_by_sbasavarajireland-d9viezv.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://wallpaper-gallery.net/gallery/beautiful-mountains-wallpaper.html",
+        "pageTitle": "Beautiful Mountains Wallpaper - Wallpaper-Gallery.net",
+        "partialMatchingImages": [
+          {
+            "url": "http://wallpaper-gallery.net/images/beautiful-mountains-wallpaper/beautiful-mountains-wallpaper-24.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.vanillamagazine.it/35-luoghi-da-visitare-per-essere-protagonisti-di-un-sogno/",
+        "pageTitle": "35 luoghi da visitare per essere protagonisti di un sogno – Creatività ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.vanillamagazine.it/wp-content/uploads/2014/06/35-luoghi-da-visitare-per-sentirsi-protagonisti-di-un-sogno26.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://wall.alphacoders.com/by_sub_category.php?id=168646&amp;name=Landscape+Wallpapers&amp;page=2",
+        "pageTitle": "2691 Landscape HD Wallpapers | Background Images - Wallpaper ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://images5.alphacoders.com/292/thumb-1920-292029.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=WnEZURGS_6s",
+        "pageTitle": "Classical Music - Far Away From Home - YouTube",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.ytimg.com/vi/WnEZURGS_6s/maxresdefault.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://wap.yfbxw.com/photo/",
+        "pageTitle": "图片中心-盐阜百姓网~微事通",
+        "partialMatchingImages": [
+          {
+            "url": "http://wap.yfbxw.com/UploadFile/photo/2016/01-12/20160112142330_46670f.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://sbasavarajireland.deviantart.com/art/S-basavaraj-Ireland-beautiful-nature-photography-599477948",
+        "pageTitle": "S.basavaraj Ireland - beautiful-nature-photography by ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://t00.deviantart.net/h0WbtDLsDPfwaZKQBJanldNQaOs=/300x200/filters:fixed_height(100,100):origin()/pre00/fcf6/th/pre/f/2016/076/6/5/s_basavaraj_ireland___beautiful_mountains_lake_by_sbasavarajireland-d9viezv.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://canacopegdl.com/keyword/moskenes.html",
+        "pageTitle": "List of Synonyms and Antonyms of the Word: moskenes",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.socwall.com/images/wallpapers/34086-1920x1200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://uteart.blogspot.com.es/2014/07/casita-junto-al-lago-de-las-montanas.html?m=0",
+        "pageTitle": "Casita junto al lago de las montañas nevadas 1680x1050px ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://1.bp.blogspot.com/-wecKsXX0qjo/Uiz_vjzFu8I/AAAAAAAB44Q/sO5wn1d4bFw/s1600/fondos-gratis-casita-en-el-lago-de-las-monta%C3%B1as-lake-and-mountains-1680x1050.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "http://3.bp.blogspot.com/-ellpBSAqcAA/VfhYbpw8hDI/AAAAAAAAEBU/hE9HTBhDSLY/s1600/Beautiful%2BMountain%2BHD%2BPhoto%2B%252836%2529.jpg"
+      },
+      {
+        "url": "https://i0.wp.com/gambar-pemandangan.com/wp-content/uploads/2017/06/Gambar-Pemandangan-Alam-Danau-1517.jpg?fit=2000%2C1125&amp;ssl=1"
+      },
+      {
+        "url": "http://www.transientlight.co.uk/images/large/Hamnoy-Harbour-ntl.jpg"
+      },
+      {
+        "url": "https://www.wallpaperflare.com/static/649/778/423/hamn%C3%B8y-brown-mountain-beach-iphoneography-wallpaper.jpg"
+      },
+      {
+        "url": "https://farm9.static.flickr.com/8854/27856534613_9089e60c48_b.jpg"
+      },
+      {
+        "url": "https://photos.smugmug.com/Travel/Lofoten-Islands-2017/South/i-bb8gDXh/0/120f58a7/M/170827-1-Hamnoy-031-P-M.jpg"
+      },
+      {
+        "url": "https://static.panoramio.com.storage.googleapis.com/photos/large/55062867.jpg"
+      },
+      {
+        "url": "https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_702,q_65,w_1200/v1/clients/norway/hamnoy_nordland_409f9247-9f98-4510-b735-d27bc5770d5a.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "hamnøy"
+      }
+    ]
+  }
+}

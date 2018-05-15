@@ -1,0 +1,6 @@
+mammal
+street
+snout
+fur
+road
+recreation

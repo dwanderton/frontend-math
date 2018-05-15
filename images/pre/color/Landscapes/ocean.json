@@ -1,0 +1,383 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0l_br",
+      "description": "coral reef",
+      "score": 0.95852184,
+      "topicality": 0.95852184
+    },
+    {
+      "mid": "/m/01jypq",
+      "description": "reef",
+      "score": 0.9430149,
+      "topicality": 0.9430149
+    },
+    {
+      "mid": "/m/0ctsx",
+      "description": "coral",
+      "score": 0.9064681,
+      "topicality": 0.9064681
+    },
+    {
+      "mid": "/m/01sfb5",
+      "description": "underwater",
+      "score": 0.87725997,
+      "topicality": 0.87725997
+    },
+    {
+      "mid": "/m/03njrd",
+      "description": "stony coral",
+      "score": 0.87225497,
+      "topicality": 0.87225497
+    },
+    {
+      "mid": "/m/050vn",
+      "description": "marine biology",
+      "score": 0.85714465,
+      "topicality": 0.85714465
+    },
+    {
+      "mid": "/m/06npx",
+      "description": "sea",
+      "score": 0.8509991,
+      "topicality": 0.8509991
+    },
+    {
+      "mid": "/m/05nnm",
+      "description": "organism",
+      "score": 0.7320267,
+      "topicality": 0.7320267
+    },
+    {
+      "mid": "/m/03hl4l9",
+      "description": "marine invertebrates",
+      "score": 0.66579765,
+      "topicality": 0.66579765
+    },
+    {
+      "mid": "/m/05kq4",
+      "description": "ocean",
+      "score": 0.6592185,
+      "topicality": 0.6592185
+    },
+    {
+      "mid": "/m/02c9_23",
+      "description": "coastal and oceanic landforms",
+      "score": 0.602783,
+      "topicality": 0.602783
+    },
+    {
+      "mid": "/m/076t48l",
+      "description": "coral reef fish",
+      "score": 0.5055366,
+      "topicality": 0.5055366
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 37,
+            "green": 133,
+            "blue": 155
+          },
+          "score": 0.3047535,
+          "pixelFraction": 0.14634538
+        },
+        {
+          "color": {
+            "red": 73,
+            "green": 85,
+            "blue": 84
+          },
+          "score": 0.04826781,
+          "pixelFraction": 0.07975904
+        },
+        {
+          "color": {
+            "red": 35,
+            "green": 50,
+            "blue": 65
+          },
+          "score": 0.03363815,
+          "pixelFraction": 0.017349398
+        },
+        {
+          "color": {
+            "red": 28,
+            "green": 140,
+            "blue": 177
+          },
+          "score": 0.11637689,
+          "pixelFraction": 0.0988755
+        },
+        {
+          "color": {
+            "red": 54,
+            "green": 155,
+            "blue": 177
+          },
+          "score": 0.06229277,
+          "pixelFraction": 0.042088352
+        },
+        {
+          "color": {
+            "red": 101,
+            "green": 160,
+            "blue": 132
+          },
+          "score": 0.000541615,
+          "pixelFraction": 0.00016064256
+        },
+        {
+          "color": {
+            "red": 27,
+            "green": 157,
+            "blue": 195
+          },
+          "score": 0.0476176,
+          "pixelFraction": 0.22257029
+        },
+        {
+          "color": {
+            "red": 116,
+            "green": 162,
+            "blue": 152
+          },
+          "score": 0.039228067,
+          "pixelFraction": 0.031405624
+        },
+        {
+          "color": {
+            "red": 84,
+            "green": 130,
+            "blue": 122
+          },
+          "score": 0.037091997,
+          "pixelFraction": 0.024096385
+        },
+        {
+          "color": {
+            "red": 158,
+            "green": 197,
+            "blue": 191
+          },
+          "score": 0.03358229,
+          "pixelFraction": 0.011164659
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 265
+            },
+            {
+              "x": 726
+            },
+            {
+              "x": 726,
+              "y": 563
+            },
+            {
+              "x": 265,
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.48999998
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 214
+            },
+            {
+              "x": 787
+            },
+            {
+              "x": 787,
+              "y": 563
+            },
+            {
+              "x": 214,
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 152
+            },
+            {
+              "x": 838
+            },
+            {
+              "x": 838,
+              "y": 563
+            },
+            {
+              "x": 152,
+              "y": 563
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.7
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0l_br",
+        "score": 0.9219772,
+        "description": "Coral reef"
+      },
+      {
+        "entityId": "/m/0ctsx",
+        "score": 0.90351015,
+        "description": "Coral"
+      },
+      {
+        "entityId": "/m/050vn",
+        "score": 0.8972103,
+        "description": "Marine biology"
+      },
+      {
+        "entityId": "/m/01sfb5",
+        "score": 0.88631654,
+        "description": "Underwater"
+      },
+      {
+        "entityId": "/m/05kq4",
+        "score": 0.8612454,
+        "description": "Ocean"
+      },
+      {
+        "entityId": "/m/03hl4l9",
+        "score": 0.8544545,
+        "description": "Marine invertebrates"
+      },
+      {
+        "entityId": "/m/06npx",
+        "score": 0.82411027,
+        "description": "Sea"
+      },
+      {
+        "entityId": "/m/076t48l",
+        "score": 0.82232296,
+        "description": "Coral reef fish"
+      },
+      {
+        "entityId": "/m/03njrd",
+        "score": 0.80149513,
+        "description": "Scleractinia"
+      },
+      {
+        "entityId": "/m/05nnm",
+        "score": 0.70196116,
+        "description": "Organism"
+      },
+      {
+        "entityId": "/m/01jypq",
+        "score": 0.6548787,
+        "description": "Reef"
+      },
+      {
+        "entityId": "/m/01l56l",
+        "score": 0.6357,
+        "description": "Landform"
+      },
+      {
+        "entityId": "/m/01lxd",
+        "score": 0.5975,
+        "description": "Coast"
+      },
+      {
+        "entityId": "/m/01540",
+        "score": 0.4926,
+        "description": "Biology"
+      },
+      {
+        "entityId": "/m/03xxp",
+        "score": 0.4236,
+        "description": "Invertebrate"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1028x675/format/jpg/quality/85/http%3A%2F%2Fhss-prod.hss.aol.com%2Fhss%2Fstorage%2Fadam%2F58f854f326a2ca08064559fff7919f6a%2F175311022.jpeg"
+      },
+      {
+        "url": "https://www.bbhub.io/dotorg/sites/2/2017/05/50-Reefs-Healthy-Image-03-POSSIBLE-INSIDE-COVER-800x450.jpeg"
+      },
+      {
+        "url": "https://www.sciencedaily.com/images/2015/04/150421105352_1_540x360.jpg"
+      },
+      {
+        "url": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/news-and-blogs/october-2013-news-blogs/borokua-explore21-coral/1079233-1-eng-US/borokua-explore21-coral_large.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Coral_Reef_in_the_Red_Sea.JPG"
+      },
+      {
+        "url": "http://kurtarrigo.com/wp-content/uploads/2015/10/D801954.jpg"
+      },
+      {
+        "url": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAzMS81OTQvb3JpZ2luYWwvZ3JlYXQtYmFycmllci03LWhvcnNlc2hvZS1oZWFsdGh5LmpwZw=="
+      },
+      {
+        "url": "https://img1.coastalliving.timeinc.net/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2017/04/main/sea-turtle-over-coral-reef-175348980.jpg?itok=uspXRODt"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2016/01/26/science/26TURTLES/26TURTLES-superJumbo.jpg"
+      },
+      {
+        "url": "https://static01.nyt.com/images/2012/05/01/science/01JPPERM1_SPAN/01JPPERM1-jumbo.jpg"
+      },
+      {
+        "url": "https://cdn.cnn.com/cnnnext/dam/assets/160420155155-coral-bleaching-great-barrier-reef-4-super-169.jpg"
+      },
+      {
+        "url": "https://naturalsciences.org/calendar/wp-content/uploads/2017/09/U352_2017_203.jpg"
+      },
+      {
+        "url": "http://marineplanning.org/wp-content/uploads/2018/01/Sawu-Sea-1080x675.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/RRxBtL35MuU/maxresdefault.jpg"
+      },
+      {
+        "url": "https://19mvmv3yn2qc2bdb912o1t2n-wpengine.netdna-ssl.com/science/files/2015/07/tnc_17267562-1260x708.jpg"
+      },
+      {
+        "url": "https://i.ytimg.com/vi/ak3qeib7EDc/maxresdefault.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "coral reef"
+      }
+    ]
+  }
+}

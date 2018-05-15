@@ -1,0 +1,404 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01yrx",
+      "description": "cat",
+      "score": 0.9922231,
+      "topicality": 0.9922231
+    },
+    {
+      "mid": "/m/01l7qd",
+      "description": "whiskers",
+      "score": 0.9705548,
+      "topicality": 0.9705548
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.95775086,
+      "topicality": 0.95775086
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.95555097,
+      "topicality": 0.95555097
+    },
+    {
+      "mid": "/m/04rky",
+      "description": "mammal",
+      "score": 0.92566925,
+      "topicality": 0.92566925
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.920593,
+      "topicality": 0.920593
+    },
+    {
+      "mid": "/m/07k6w8",
+      "description": "small to medium sized cats",
+      "score": 0.9089239,
+      "topicality": 0.9089239
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.89939106,
+      "topicality": 0.89939106
+    },
+    {
+      "mid": "/m/014sv8",
+      "description": "eye",
+      "score": 0.86295176,
+      "topicality": 0.86295176
+    },
+    {
+      "mid": "/m/0307l",
+      "description": "cat like mammal",
+      "score": 0.8596314,
+      "topicality": 0.8596314
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.8336372,
+      "topicality": 0.8336372
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.81692404,
+      "topicality": 0.81692404
+    },
+    {
+      "mid": "/m/02cqfm",
+      "description": "close up",
+      "score": 0.78177506,
+      "topicality": 0.78177506
+    },
+    {
+      "mid": "/m/012c9l",
+      "description": "domestic short haired cat",
+      "score": 0.77609164,
+      "topicality": 0.77609164
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7696956,
+      "topicality": 0.7696956
+    },
+    {
+      "mid": "/m/013y0j",
+      "description": "organ",
+      "score": 0.6600331,
+      "topicality": 0.6600331
+    },
+    {
+      "mid": "/m/03dj64",
+      "description": "black cat",
+      "score": 0.6598212,
+      "topicality": 0.6598212
+    },
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.6532159,
+      "topicality": 0.6532159
+    },
+    {
+      "mid": "/m/0cnmr",
+      "description": "fur",
+      "score": 0.5517587,
+      "topicality": 0.5517587
+    },
+    {
+      "mid": "/m/01nq_x",
+      "description": "wild cat",
+      "score": 0.54521924,
+      "topicality": 0.54521924
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 120,
+            "green": 120,
+            "blue": 120
+          },
+          "score": 0.24267235,
+          "pixelFraction": 0.051866665
+        },
+        {
+          "color": {
+            "red": 22,
+            "green": 22,
+            "blue": 22
+          },
+          "score": 0.16753611,
+          "pixelFraction": 0.3224
+        },
+        {
+          "color": {
+            "red": 154,
+            "green": 154,
+            "blue": 154
+          },
+          "score": 0.20410366,
+          "pixelFraction": 0.027733333
+        },
+        {
+          "color": {
+            "red": 85,
+            "green": 85,
+            "blue": 85
+          },
+          "score": 0.16524626,
+          "pixelFraction": 0.137
+        },
+        {
+          "color": {
+            "red": 52,
+            "green": 52,
+            "blue": 52
+          },
+          "score": 0.11152873,
+          "pixelFraction": 0.43833333
+        },
+        {
+          "color": {
+            "red": 192,
+            "green": 192,
+            "blue": 192
+          },
+          "score": 0.08035998,
+          "pixelFraction": 0.012466666
+        },
+        {
+          "color": {
+            "red": 233,
+            "green": 233,
+            "blue": 233
+          },
+          "score": 0.02855289,
+          "pixelFraction": 0.0102
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 429
+            },
+            {
+              "x": 1535
+            },
+            {
+              "x": 1535,
+              "y": 1364
+            },
+            {
+              "x": 429,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.76
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 531
+            },
+            {
+              "x": 1924
+            },
+            {
+              "x": 1924,
+              "y": 1364
+            },
+            {
+              "x": 531,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 347
+            },
+            {
+              "x": 2006
+            },
+            {
+              "x": 2006,
+              "y": 1364
+            },
+            {
+              "x": 347,
+              "y": 1364
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.9
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01yrx",
+        "score": 1.8581872,
+        "description": "Cat"
+      },
+      {
+        "entityId": "/m/01nq_x",
+        "score": 1.4541347,
+        "description": "Wildcat"
+      },
+      {
+        "entityId": "/m/01l7qd",
+        "score": 0.9146315,
+        "description": "Whiskers"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.904818,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.9046189,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/012c9l",
+        "score": 0.8776846,
+        "description": "Domestic short-haired cat"
+      },
+      {
+        "entityId": "/m/05wkw",
+        "score": 0.870891,
+        "description": "Photography"
+      },
+      {
+        "entityId": "/m/04rky",
+        "score": 0.82691735,
+        "description": "Mammal"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.79306966,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/01280g",
+        "score": 0.77029335,
+        "description": "Wildlife"
+      },
+      {
+        "entityId": "/m/0cnmr",
+        "score": 0.75531155,
+        "description": "Fur"
+      },
+      {
+        "entityId": "/m/03dj64",
+        "score": 0.751935,
+        "description": "Black cat"
+      },
+      {
+        "entityId": "/m/05mqq3",
+        "score": 0.74175197,
+        "description": "Snout"
+      },
+      {
+        "entityId": "/m/0jbk",
+        "score": 0.73089683,
+        "description": "Animal"
+      },
+      {
+        "entityId": "/m/035qhg",
+        "score": 0.7276518,
+        "description": "Fauna"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://cdn2.eyeem.com/thumb/3a950d863913f5b7bda8da073f2b4d643ea15efd-1504084849918/w/900"
+      },
+      {
+        "url": "https://pictures-of-cats.org/wp-content/uploads/2014/02/maine-coon-with-large-whiskers-1.jpg"
+      },
+      {
+        "url": "http://www.scottshotphoto.champagnedeveloper.com/wp-content/uploads/2014/06/pet-gallery-photo-one.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/53/3f/a8/533fa8e84b19e1d23aa10ef1b9fa7732.jpg"
+      },
+      {
+        "url": "https://cdn.pixabay.com/photo/2016/05/01/00/24/cat-1364253_960_720.jpg"
+      },
+      {
+        "url": "https://drmartybecker.com/wp-content/uploads/2017/11/bigstock-Cheshire-smile-of-a-cat-108973181.jpg"
+      },
+      {
+        "url": "https://thumb7.shutterstock.com/display_pic_with_logo/2452877/383344477/stock-photo-a-close-up-selective-color-shot-of-a-domestic-cat-with-green-eyes-383344477.jpg"
+      },
+      {
+        "url": "https://www.publicdomainpictures.net/pictures/20000/velka/cats-eye-122451296678402umj.jpg"
+      },
+      {
+        "url": "https://cdn.eyeem.com/thumb/0436c966ba4ab6a1688c51e9773566cd8da82e00-1475828629925/w/700"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/f9b129093c0c47389d7d5d6b23233eb3/close-up-of-a-snow-leopard-hnpnpb.jpg"
+      },
+      {
+        "url": "https://farm3.static.flickr.com/2845/8922094625_b9c6d09010_b.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/seregraff/seregraff1610/seregraff161000142/65883107-close-up-fluffy-american-curl-kitty-with-twisted-ears-and-magic-eyes-isolated-black-background-front.jpg"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/b3113a7c38c14a428f8c63aff80d9dc5/close-up-of-a-snow-leopard-hnprm1.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/8d/a7/0a/8da70a6024e5caabcd1cb581c24a9c48.jpg"
+      },
+      {
+        "url": "https://get.pxhere.com/photo/nature-black-and-white-animal-wild-zoo-cat-feline-mammal-black-monochrome-fauna-close-up-wild-animal-nose-eyes-whiskers-snout-eye-animals-vertebrate-wildcat-wild-cat-monochrome-photography-pallas-cat-fauvre-small-to-medium-sized-cats-cat-like-mammal-661791.jpg"
+      },
+      {
+        "url": "https://w-dog.net/wallpapers/5/19/466621834701241/kitten-cat-cat-string-foot-mustache-snout-view-black-and-white.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "whiskers"
+      }
+    ]
+  }
+}

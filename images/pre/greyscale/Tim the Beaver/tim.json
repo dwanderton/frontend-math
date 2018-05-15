@@ -1,0 +1,661 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/083jv",
+      "description": "white",
+      "score": 0.9649633,
+      "topicality": 0.9649633
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.9605653,
+      "topicality": 0.9605653
+    },
+    {
+      "mid": "/m/068jd",
+      "description": "photograph",
+      "score": 0.95874566,
+      "topicality": 0.95874566
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.94205093,
+      "topicality": 0.94205093
+    },
+    {
+      "mid": "/m/04rky",
+      "description": "mammal",
+      "score": 0.9253882,
+      "topicality": 0.9253882
+    },
+    {
+      "mid": "/m/09686",
+      "description": "vertebrate",
+      "score": 0.90370363,
+      "topicality": 0.90370363
+    },
+    {
+      "mid": "/m/017kvv",
+      "description": "infrastructure",
+      "score": 0.9006562,
+      "topicality": 0.9006562
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.8858245,
+      "topicality": 0.8858245
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.84868914,
+      "topicality": 0.84868914
+    },
+    {
+      "mid": "/m/06pg22",
+      "description": "snapshot",
+      "score": 0.8176745,
+      "topicality": 0.8176745
+    },
+    {
+      "mid": "/m/06gfj",
+      "description": "road",
+      "score": 0.80516016,
+      "topicality": 0.80516016
+    },
+    {
+      "mid": "/m/01c8br",
+      "description": "street",
+      "score": 0.8043893,
+      "topicality": 0.8043893
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7659578,
+      "topicality": 0.7659578
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.6941101,
+      "topicality": 0.6941101
+    },
+    {
+      "mid": "/m/0k4j",
+      "description": "car",
+      "score": 0.67971563,
+      "topicality": 0.67971563
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.63885075,
+      "topicality": 0.63885075
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.56256056,
+      "topicality": 0.56256056
+    },
+    {
+      "mid": "/m/01d74z",
+      "description": "night",
+      "score": 0.5487829,
+      "topicality": 0.5487829
+    },
+    {
+      "mid": "/m/012yh1",
+      "description": "style",
+      "score": 0.53225875,
+      "topicality": 0.53225875
+    },
+    {
+      "mid": "/m/06bm2",
+      "description": "recreation",
+      "score": 0.53019017,
+      "topicality": 0.53019017
+    },
+    {
+      "mid": "/m/05r655",
+      "description": "girl",
+      "score": 0.50381655,
+      "topicality": 0.50381655
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 15,
+            "green": 15,
+            "blue": 15
+          },
+          "score": 0.34052655,
+          "pixelFraction": 0.4858916
+        },
+        {
+          "color": {
+            "red": 150,
+            "green": 150,
+            "blue": 150
+          },
+          "score": 0.28696564,
+          "pixelFraction": 0.03146424
+        },
+        {
+          "color": {
+            "red": 239,
+            "green": 239,
+            "blue": 239
+          },
+          "score": 0.02791585,
+          "pixelFraction": 0.039763298
+        },
+        {
+          "color": {
+            "red": 121,
+            "green": 121,
+            "blue": 121
+          },
+          "score": 0.182813,
+          "pixelFraction": 0.061773833
+        },
+        {
+          "color": {
+            "red": 87,
+            "green": 87,
+            "blue": 87
+          },
+          "score": 0.07906333,
+          "pixelFraction": 0.19354838
+        },
+        {
+          "color": {
+            "red": 49,
+            "green": 49,
+            "blue": 49
+          },
+          "score": 0.061616343,
+          "pixelFraction": 0.16937289
+        },
+        {
+          "color": {
+            "red": 188,
+            "green": 188,
+            "blue": 188
+          },
+          "score": 0.021099301,
+          "pixelFraction": 0.018185755
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 79
+            },
+            {
+              "x": 579
+            },
+            {
+              "x": 579,
+              "y": 626
+            },
+            {
+              "x": 79,
+              "y": 626
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 629
+            },
+            {
+              "x": 629,
+              "y": 626
+            },
+            {
+              "y": 626
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.71
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 109
+            },
+            {
+              "x": 859
+            },
+            {
+              "x": 859,
+              "y": 626
+            },
+            {
+              "x": 109,
+              "y": 626
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.81
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/04rwx",
+        "score": 5.7448,
+        "description": "Massachusetts Institute of Technology"
+      },
+      {
+        "entityId": "/m/0gm4v",
+        "score": 1.1798,
+        "description": "Rose-Hulman Institute of Technology"
+      },
+      {
+        "entityId": "/m/0153bq",
+        "score": 0.7039,
+        "description": "Mascot"
+      },
+      {
+        "entityId": "/m/01bm_",
+        "score": 0.648,
+        "description": "Brown University"
+      },
+      {
+        "entityId": "/m/07tf8",
+        "score": 0.6305,
+        "description": "University"
+      },
+      {
+        "entityId": "/m/02p0qmm",
+        "score": 0.6267,
+        "description": "College"
+      },
+      {
+        "entityId": "/g/121d1r7z",
+        "score": 0.4821,
+        "description": "MIT Engineers"
+      },
+      {
+        "entityId": "/m/02rmxtw",
+        "score": 0.4706,
+        "description": "Tim the Beaver"
+      },
+      {
+        "entityId": "/m/06zdj",
+        "score": 0.435,
+        "description": "School"
+      },
+      {
+        "entityId": "/m/02jfc",
+        "score": 0.4022,
+        "description": "Education"
+      },
+      {
+        "entityId": "/g/12156pny",
+        "score": 0.3539,
+        "description": "Institute of technology"
+      },
+      {
+        "entityId": "/m/029r0f",
+        "score": 0.33,
+        "description": "College and university rankings"
+      },
+      {
+        "entityId": "/m/01_x9",
+        "score": 0.3264,
+        "description": "Campus"
+      },
+      {
+        "entityId": "/m/0131vsj8",
+        "score": 0.09608,
+        "description": "Maia Weinstock"
+      },
+      {
+        "entityId": "/m/01qh7",
+        "score": 0.014232001,
+        "description": "Cambridge"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://pbs.twimg.com/media/CojdTzEWgAAPLBj.jpg"
+      },
+      {
+        "url": "https://cdn.clien.net/web/api/file//F01/5653412/96be061d416b4807964.JPG"
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w1000-h627/tim-beaver-mit-mascot-summer-2014.png"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DCd9VLKW0AE7PIl.jpg"
+      },
+      {
+        "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg"
+      },
+      {
+        "url": "http://media.timponline.ro/uploads/2015/08/MIT-4.jpg"
+      },
+      {
+        "url": "https://www.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/uploads/4/41%20-%20Massachusetts%20Institute%20of%20Technology%2C%20Cambridge%2C%20Mass.-facebook.jpg?itok=8OkPZ2ht&amp;timestamp=1473188244"
+      },
+      {
+        "url": "https://www.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/2017/09/28/35.jpg?itok=hIpEVRbM&amp;timestamp=1507143330"
+      },
+      {
+        "url": "http://forbes.uol.com.br/wp-content/uploads/2016/09/5-Massachussetts-Institute-of-Technology-MIT-rep-800x533.jpg"
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w800-h800/tim-beaver-mit-mascot-summer-2014.png"
+      },
+      {
+        "url": "https://cdn.clien.net/web/api/file/F01/5653412/96be061d416b4807964.JPG?w=780&amp;h=30000"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w530-h332-n/tim-beaver-mit-mascot-summer-2014.png"
+      },
+      {
+        "url": "https://lh3.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w530-h332-p/tim-beaver-mit-mascot-summer-2014.png"
+      },
+      {
+        "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w506-h750/tim-beaver-mit-mascot-summer-2014.png"
+      },
+      {
+        "url": "http://i0.wp.com/bigsportsfanandmoreblog.com/wp-content/uploads/2014/11/Tom-The-Beaver2.jpg?resize=284%2C178?w=206"
+      },
+      {
+        "url": "http://i0.wp.com/bigsportsfanandmoreblog.com/wp-content/uploads/2014/11/Tom-The-Beaver2.jpg?resize=284%2C178"
+      },
+      {
+        "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_m.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.flickr.com/photos/pixbymaia/26153070894",
+        "pageTitle": "tim-beaver-&lt;b&gt;mit&lt;/b&gt;-&lt;b&gt;mascot&lt;/b&gt;-summer-2014 | Maia Weinstock | Flickr",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_b.jpg"
+          },
+          {
+            "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://sovietbooks.info/newkeywords/m/mit-mascot.new",
+        "pageTitle": "&lt;b&gt;Mit Mascot&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg?f52f78"
+          }
+        ]
+      },
+      {
+        "url": "https://www.cheatsheet.com/money-career/colleges-that-boost-your-career-earnings-the-most.html/13/",
+        "pageTitle": "13 Colleges That Get You Paid the Highest Salary - Page 13",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/mit/status/875806459157721090",
+        "pageTitle": "Massachusetts Institute of Technology (&lt;b&gt;MIT&lt;/b&gt;) on Twitter: &amp;quot;Happy ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/DCd9VLKW0AE7PIl.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://twitter.com/mit/status/759100081098424322",
+        "pageTitle": "Massachusetts Institute of Technology (&lt;b&gt;MIT&lt;/b&gt;) on Twitter: &amp;quot;Happy ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://pbs.twimg.com/media/CojdTzEWgAAPLBj.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.cheatsheet.com/money-career/colleges-that-boost-your-career-earnings-the-most.html/?a=viewall",
+        "pageTitle": "13 Colleges That Get You Paid the Highest Salary - The Cheat Sheet",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://letoan.co/mit-mascot-and-colors.html",
+        "pageTitle": "&lt;b&gt;Mit Mascot&lt;/b&gt; And Colors Dumbest Mascots In Sports - Free Printable ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://keywordsuggest.org/gallery/1064770.html",
+        "pageTitle": "Image Gallery &lt;b&gt;Mit Mascot&lt;/b&gt; - keywordsuggest.org",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://keywordsuggest.org/gallery/1064765.html",
+        "pageTitle": "Image Gallery &lt;b&gt;Mit Mascot&lt;/b&gt; - Keywordsuggest.org",
+        "partialMatchingImages": [
+          {
+            "url": "https://c1.staticflickr.com/2/1575/26153070894_b5251754da_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thepinsta.com/mit-college-mascot_WGBtabJrXgTxKsvqGyKmfwo1wLWLnBvJ*gkj*qa9hhs/",
+        "pageTitle": "&lt;b&gt;Mit&lt;/b&gt; College &lt;b&gt;Mascot&lt;/b&gt; Pictures to Pin on Pinterest - ThePinsta",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg?f52f78"
+          }
+        ]
+      },
+      {
+        "url": "http://www.keywordlister.com/bWl0IG1hc2NvdA/",
+        "pageTitle": "&lt;b&gt;Mit Mascot&lt;/b&gt; Related Keywords &amp;amp; Suggestions - &lt;b&gt;Mit Mascot&lt;/b&gt; Long Tail ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg?f52f78"
+          }
+        ]
+      },
+      {
+        "url": "https://plus.google.com/+mit/posts/Ng2evvfuF1i",
+        "pageTitle": "Massachusetts Institute of Technology (&lt;b&gt;MIT&lt;/b&gt;) - Google+ - Google Plus",
+        "partialMatchingImages": [
+          {
+            "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w1000-h627/tim-beaver-mit-mascot-summer-2014.png"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w530-h332-p/tim-beaver-mit-mascot-summer-2014.png"
+          },
+          {
+            "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w800-h800/tim-beaver-mit-mascot-summer-2014.png"
+          },
+          {
+            "url": "https://lh3.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w530-h332-n/tim-beaver-mit-mascot-summer-2014.png"
+          },
+          {
+            "url": "https://lh6.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaQ/SLwDF-CC-_4/w506-h750/tim-beaver-mit-mascot-summer-2014.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/massachusetts-institute-of-technology-mascot_5pRFQLa5LGKCnxbRXdNMRViEh37Hcsaz4Djjb1hGjPcql*rnS2drOHE%7Ca15k655lmi9Mcbf8oRCMOoMD%7CVUFkA/",
+        "pageTitle": "Massachusetts Institute Of Technology &lt;b&gt;Mascot&lt;/b&gt; Pictures to Pin on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg?f52f78"
+          }
+        ]
+      },
+      {
+        "url": "https://plus.google.com/+mit/posts/7MU7iBXtwBd",
+        "pageTitle": "Tim says, &amp;quot;Happy summer Friday!&amp;quot; #onlyatMIT - Google Plus",
+        "partialMatchingImages": [
+          {
+            "url": "https://lh3.googleusercontent.com/-IfoX1wItnwY/U-UKjS8vjJI/AAAAAAAALaM/FkZ4HYwVrBU/w530-h332-n/tim-beaver-mit-mascot-summer-2014.png"
+          }
+        ]
+      },
+      {
+        "url": "http://bigsportsfanandmoreblog.com/category/mascots/",
+        "pageTitle": "&lt;b&gt;Mascots&lt;/b&gt; | bigsportsfanandmoreblog",
+        "partialMatchingImages": [
+          {
+            "url": "http://i0.wp.com/bigsportsfanandmoreblog.com/wp-content/uploads/2014/11/Tom-The-Beaver2.jpg?resize=284%2C178"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thedailymeal.com/travel/75-best-colleges-food-2017/slide-2",
+        "pageTitle": "#75 Franklin and Marshal College (Lancaster, Pa.) from 75 Best ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/2017/09/28/35.jpg?itok=hIpEVRbM&amp;timestamp=1507143330"
+          }
+        ]
+      },
+      {
+        "url": "https://www.thedailymeal.com/travel/80-best-colleges-food-america-2016-0/slide-68",
+        "pageTitle": "#13 Vanderbilt University, Nashville, Tenn. from 80 Best Colleges for ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.thedailymeal.com/sites/default/files/styles/hero_image_breakpoints_theme_tdmr_lg_1x/public/uploads/4/41%20-%20Massachusetts%20Institute%20of%20Technology%2C%20Cambridge%2C%20Mass.-facebook.jpg?itok=8OkPZ2ht&amp;timestamp=1473188244"
+          }
+        ]
+      },
+      {
+        "url": "http://www.pinsdaddy.com/rose-hulman-institute-of-technology-mascot_n0jBnzyDrrBHXaH*xoG6xREtr4ZNjduTP3aaYWZY4B2GXge9M3dBpbJVK8QK92v3LhVExOUvR*HrLkIqXPdZ*g/",
+        "pageTitle": "Rose Hulman Institute Of Technology &lt;b&gt;Mascot&lt;/b&gt; Pictures to Pin on ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cheatsheet.com/wp-content/uploads/2016/08/MIT.jpg?x24346"
+          }
+        ]
+      },
+      {
+        "url": "http://bigsportsfanandmoreblog.com/category/photos/",
+        "pageTitle": "Photos | bigsportsfanandmoreblog",
+        "partialMatchingImages": [
+          {
+            "url": "http://i0.wp.com/bigsportsfanandmoreblog.com/wp-content/uploads/2014/11/Tom-The-Beaver2.jpg?resize=284%2C178?w=206"
+          }
+        ]
+      },
+      {
+        "url": "https://www.timponline.ro/cum-arata-si-cat-costa-studiile-la-mit-universitatea-aleasa-de-rares-buhai/",
+        "pageTitle": "Cum arată şi cât costă studiile la &lt;b&gt;MIT&lt;/b&gt;, universitatea în care va învăţa ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://media.timponline.ro/uploads/2015/08/MIT-4.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://forbes.uol.com.br/listas/2016/09/50-universidades-dos-eua-que-mais-aceitam-estrangeiros/",
+        "pageTitle": "50 universidades dos EUA que mais aceitam estrangeiros – Forbes ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://forbes.uol.com.br/wp-content/uploads/2016/09/5-Massachussetts-Institute-of-Technology-MIT-rep-800x533.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.clien.net/service/board/park/10636191",
+        "pageTitle": "칼텍과 &lt;b&gt;MIT&lt;/b&gt;학생들이 좋아하는 가수 : 클리앙",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn.clien.net/web/api/file/F01/5653412/96be061d416b4807964.JPG?w=780&amp;h=30000"
+          },
+          {
+            "url": "https://cdn.clien.net/web/api/file//F01/5653412/96be061d416b4807964.JPG"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://c8.alamy.com/compde/e0mb9h/10-juli-1954-wird-071054-zoo-ziege-neue-maskottchen-des-welsh-regiment-zeremonie-im-londoner-zoo-ubergeben-taffy-den-zehnten-eine-junge-ziege-aus-den-londoner-zoo-wurde-ziege-major-john-tullet-zu-dem-neuen-regiments-maskottchen-des-i-bataillons-der-welsh-regiment-ubergeben-sein-vorganger-starb-im-vergangenen-jahr-wahrend-seiner-zeit-mit-dem-bataillon-in-hong-kong-anlasslich-der-heutigen-gekommen-goat-major-tullet-ganz-aus-hong-kong-wo-das-regiment-jetzt-ist-die-sammlung-taffy-und-weisen-sie-ihn-in-seinen-regiments-aufgaben-bevor-das-regiment-nach-grossbritannien-am-ende-des-jahres-kehrt-e0mb9h.jpg"
+      },
+      {
+        "url": "https://c8.alamy.com/compde/e0xw74/sept-27-1967-regiments-maskottchen-fur-die-irish-guards-einen-10-monate-alten-irish-wolfhound-fionn-gestern-wurde-das-neue-regiment-maskottchen-der-ersten-bataillon-irish-guards-an-pirbright-surrey-fionn-wurde-von-einem-anderen-irish-wolfhound-shaun-ubernahme-die-mit-vollen-militarischen-ehren-nach-seinem-vollen-sieben-dienstjahren-demobilisiert-werden-war-field-marshal-earl-alexander-nach-tunis-oberst-des-regiments-war-dort-um-shaun-einen-klaps-auf-den-kopf-und-sagen-auf-wiedersehen-alter-freund-shaun-wird-nach-schottland-ausrangiert-werden-foto-zeigt-die-gesamte-1-e0xw74.jpg"
+      },
+      {
+        "url": "http://c8.alamy.com/compde/e140nn/31-marz-2012-royal-welch-maskottchen-in-bermuda-sehr-intelligent-sehr-stolz-bilix-steht-die-ziege-maskottchen-der-royal-welch-fusiliars-stolz-aufmerksamkeit-mit-seinem-grossen-ziege-in-hamilton-bermuda-die-fusiliere-waren-in-jamaika-stationiert-und-flogen-nach-bermuda-helfen-die-sicherheitsarbeit-fur-die-vorgeschlagenen-big-three-konferenzen-teilnehmen-die-meisten-anwender-eine-hand-stuck-mit-der-aufschrift-bill-das-geschenk-dieser-majestat-konig-george-vi-royal-welch-fusiliers-e140nn.jpg"
+      },
+      {
+        "url": "https://c8.alamy.com/compde/cwyahp/3-etappe-der-tour-of-britain-2011-kommt-zu-stoke-on-trent-matt-stephens-mit-dem-skoda-yeti-maskottchen-2011-fruhzeitig-beenden-cwyahp.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/d0/86/91/d086917c1517ac8852fc6644832b046c--brest-german-submarines.jpg"
+      },
+      {
+        "url": "https://www.lindner-arbeitsschutz.de/images/product_images/gallery_images/GENOVA_7JSugIE53w.jpg"
+      },
+      {
+        "url": "https://c8.alamy.com/compde/e0mb85/7-juli-1954-wird-zoo-ziege-neue-maskottchen-des-welsh-regiment-ubergabe-zeremonie-im-londoner-zoo-taffy-den-zehnten-eine-junge-ziege-aus-den-londoner-zoo-ziege-ubergeben-wurde-major-john-tullet-um-das-neue-regiments-maskottchen-des-i-bataillons-des-regiments-welch-zu-werden-sein-vorganger-starb-im-vergangenen-jahr-wahrend-seiner-zeit-mit-dem-bataillon-in-hone-kong-fot-heutigen-anlass-grosse-tullet-ziege-ganz-aus-hong-kong-gekommen-wo-das-regiment-soll-jetzt-sammeln-taffy-und-weisen-sie-ihn-in-seinen-regiments-aufgaben-bevor-das-regiment-nach-grossbritannien-am-ende-des-jahres-kehrt-zuruck-e0mb85.jpg"
+      },
+      {
+        "url": "http://c8.alamy.com/compde/b54m07/unterhaltung-fernsehen-cartoons-humor-walt-disney-figuren-die-durch-das-land-reisen-heute-verlassen-ihre-van-bei-watford-junction-und-reiste-mit-dem-zug-nach-euston-wie-winnie-the-pooh-geben-sie-die-normalen-personenwagen-zu-dick-war-hat-sie-die-reise-in-die-wachen-van-zu-machen-bei-der-ankunft-am-euston-wurden-sie-erfullt-von-der-bahnhofsbetreiber-stenographie-maschinenschreiber-19-jahre-alten-zwillinge-diana-und-ihre-schwester-susan-wheatley-von-links-nach-rechts-winnie-the-pooh-susan-in-den-armen-von-heffalump-tigger-und-diana-wheatley-november-1969-z11187-b54m07.jpg"
+      },
+      {
+        "url": "http://www.eclipsed.de/sites/default/files/CD-Cover%2004-16.jpg"
+      },
+      {
+        "url": "https://harvardmagazine.com/lib/03so/images/stad-059_Image_0003.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "mit mascot",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

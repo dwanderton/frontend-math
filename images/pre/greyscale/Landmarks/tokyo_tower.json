@@ -1,0 +1,574 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0132_x",
+      "description": "Tokyo Tower",
+      "score": 0.41690838,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 441,
+            "y": 788
+          },
+          {
+            "x": 703,
+            "y": 788
+          },
+          {
+            "x": 703,
+            "y": 1102
+          },
+          {
+            "x": 441,
+            "y": 1102
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 35.65822,
+            "longitude": 139.745728
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/01fdzj",
+      "description": "tower",
+      "score": 0.96144086,
+      "topicality": 0.96144086
+    },
+    {
+      "mid": "/m/05_5t0l",
+      "description": "landmark",
+      "score": 0.9559816,
+      "topicality": 0.9559816
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.94692147,
+      "topicality": 0.94692147
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.94151485,
+      "topicality": 0.94151485
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.92536587,
+      "topicality": 0.92536587
+    },
+    {
+      "mid": "/m/01d74z",
+      "description": "night",
+      "score": 0.827811,
+      "topicality": 0.827811
+    },
+    {
+      "mid": "/m/01c6yl",
+      "description": "spire",
+      "score": 0.82587093,
+      "topicality": 0.82587093
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.8184302,
+      "topicality": 0.8184302
+    },
+    {
+      "mid": "/m/03nfmq",
+      "description": "architecture",
+      "score": 0.81425273,
+      "topicality": 0.81425273
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.81378335,
+      "topicality": 0.81378335
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.79028326,
+      "topicality": 0.79028326
+    },
+    {
+      "mid": "/m/01ctsf",
+      "description": "atmosphere",
+      "score": 0.76758206,
+      "topicality": 0.76758206
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.7524046,
+      "topicality": 0.7524046
+    },
+    {
+      "mid": "/m/051rmm",
+      "description": "steeple",
+      "score": 0.70413667,
+      "topicality": 0.70413667
+    },
+    {
+      "mid": "/m/056mk",
+      "description": "metropolis",
+      "score": 0.6654421,
+      "topicality": 0.6654421
+    },
+    {
+      "mid": "/m/0cgh4",
+      "description": "building",
+      "score": 0.6409947,
+      "topicality": 0.6409947
+    },
+    {
+      "mid": "/m/034z7h",
+      "description": "cityscape",
+      "score": 0.61431456,
+      "topicality": 0.61431456
+    },
+    {
+      "mid": "/m/04mx32",
+      "description": "evening",
+      "score": 0.59528095,
+      "topicality": 0.59528095
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.57304865,
+      "topicality": 0.57304865
+    },
+    {
+      "mid": "/m/0csby",
+      "description": "cloud",
+      "score": 0.5235593,
+      "topicality": 0.5235593
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.5208625,
+      "topicality": 0.5208625
+    },
+    {
+      "mid": "/m/079cl",
+      "description": "skyscraper",
+      "score": 0.5158814,
+      "topicality": 0.5158814
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 82,
+            "green": 82,
+            "blue": 82
+          },
+          "score": 0.46682492,
+          "pixelFraction": 0.16071428
+        },
+        {
+          "color": {
+            "red": 54,
+            "green": 54,
+            "blue": 54
+          },
+          "score": 0.35268095,
+          "pixelFraction": 0.42160714
+        },
+        {
+          "color": {
+            "red": 112,
+            "green": 112,
+            "blue": 112
+          },
+          "score": 0.07462898,
+          "pixelFraction": 0.042023808
+        },
+        {
+          "color": {
+            "red": 25,
+            "green": 25,
+            "blue": 25
+          },
+          "score": 0.070141785,
+          "pixelFraction": 0.3567857
+        },
+        {
+          "color": {
+            "red": 156,
+            "green": 156,
+            "blue": 156
+          },
+          "score": 0.018035006,
+          "pixelFraction": 0.01
+        },
+        {
+          "color": {
+            "red": 193,
+            "green": 193,
+            "blue": 193
+          },
+          "score": 0.015543299,
+          "pixelFraction": 0.007142857
+        },
+        {
+          "color": {
+            "red": 227,
+            "green": 227,
+            "blue": 227
+          },
+          "score": 0.0021450578,
+          "pixelFraction": 0.0017261904
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1279
+            },
+            {
+              "x": 1279,
+              "y": 1596
+            },
+            {
+              "y": 1596
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.97999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {},
+            {
+              "x": 1279
+            },
+            {
+              "x": 1279,
+              "y": 1287
+            },
+            {
+              "y": 1287
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "y": 273
+            },
+            {
+              "x": 1279,
+              "y": 273
+            },
+            {
+              "x": 1279,
+              "y": 1356
+            },
+            {
+              "y": 1356
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.76
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0132_x",
+        "score": 126.528,
+        "description": "Tokyo Tower"
+      },
+      {
+        "entityId": "/m/0ds3yc",
+        "score": 4.4496,
+        "description": "Sunshine City, Tokyo"
+      },
+      {
+        "entityId": "/m/02j81",
+        "score": 2.8016,
+        "description": "Eiffel Tower"
+      },
+      {
+        "entityId": "/m/01fdzj",
+        "score": 0.9126376,
+        "description": "Tower"
+      },
+      {
+        "entityId": "/m/05_5t0l",
+        "score": 0.4202068,
+        "description": "Landmark"
+      },
+      {
+        "entityId": "/m/0cgh4",
+        "score": 0.41901472,
+        "description": "Building"
+      },
+      {
+        "entityId": "/m/04l25n",
+        "score": 0.3837,
+        "description": ".la"
+      },
+      {
+        "entityId": "/m/0rzf793",
+        "score": 0.3801
+      },
+      {
+        "entityId": "/m/070wxn",
+        "score": 0.367,
+        "description": "Ebookers"
+      },
+      {
+        "entityId": "/t/2gs7ddsgnsbws",
+        "score": 0.3463
+      },
+      {
+        "entityId": "/m/02wv839",
+        "score": 0.3062,
+        "description": "Observation deck"
+      },
+      {
+        "entityId": "/m/024bqj",
+        "score": 0.11017601,
+        "description": "Minato"
+      },
+      {
+        "entityId": "/m/026pn2d",
+        "score": 0.067940004,
+        "description": "Tachū Naitō"
+      },
+      {
+        "entityId": "/g/12lnhn10f",
+        "score": 0.0028284001,
+        "description": "Tokyo"
+      },
+      {
+        "entityId": "/m/07dfk",
+        "score": 0.0000028088002,
+        "description": "Tokyo"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+      },
+      {
+        "url": "http://d1d8seedcbldgm.cloudfront.net/image/listed_places/items/000/004/214/34236c8d811e0247e04533337f6db4300b13a0d3/small.jpg?1484103331"
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+      },
+      {
+        "url": "http://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01-294x450.png"
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/2011/03/23/les-merveilles-du-japon-la-tour-de-tokyo/",
+        "pageTitle": "Les merveilles du Japon: La &lt;b&gt;Tour de Tokyo&lt;/b&gt; - Blog de voyage ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01-294x450.png"
+          },
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/pays/japon/",
+        "pageTitle": "Japon Archives - Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/archive/page/32/",
+        "pageTitle": "Archive Archives - Page 32 sur 60 - Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/tag/tokyo/",
+        "pageTitle": "&lt;b&gt;Tokyo&lt;/b&gt; | Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/2010/08/06/le-musee-ghibli-a-tokyo/",
+        "pageTitle": "Le Musée Ghibli à &lt;b&gt;Tokyo&lt;/b&gt; - Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/2015/11/20/tourisme-les-monuments-les-plus-celebres-de-tokyo/",
+        "pageTitle": "[TOURISME] Les monuments les plus célèbres &lt;b&gt;de Tokyo&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/tag/tach-nait/",
+        "pageTitle": "Tachū Naitō Archives - Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/actualites/page/7/",
+        "pageTitle": "Actualités Archives - Page 7 sur 12 - Blog &lt;b&gt;de&lt;/b&gt; voyage ebookers.ch",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.ebookers.ch/blog-voyage/2011/03/17/les-merveilles-du-japon-kyoto-et-ses-temples/",
+        "pageTitle": "Les merveilles &lt;b&gt;du&lt;/b&gt; Japon: Kyoto et ses temples - Blog &lt;b&gt;de&lt;/b&gt; voyage ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.ebookers.ch/blog-voyage/wp-content/uploads/2011/03/LesMerveillesDuJaponLaTourDeTokyo-01.png"
+          }
+        ]
+      },
+      {
+        "url": "http://lewebpedagogique.com/collegesaintandiol/page/2/",
+        "pageTitle": "Atelier Japon",
+        "partialMatchingImages": [
+          {
+            "url": "http://lewebpedagogique.com/collegesaintandiol/files/2015/11/21.png"
+          }
+        ]
+      },
+      {
+        "url": "https://gigazine.net/gsc_news/en/20150527-wolfram-language-image-identification-project",
+        "pageTitle": "Internet service &amp;quot;The Wolfram Language Image Identification Project ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://placehub.co/lists/2594",
+        "pageTitle": "【東京】絶対外さない&amp;quot;鉄板&amp;quot;デートスポット60選!思い出に残るデートになる ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://d1d8seedcbldgm.cloudfront.net/image/listed_places/items/000/004/214/34236c8d811e0247e04533337f6db4300b13a0d3/small.jpg?1484103331"
+          }
+        ]
+      },
+      {
+        "url": "https://gigazine.net/news/20150527-wolfram-language-image-identification-project/",
+        "pageTitle": "写真に写っているものを特定して名前と関連情報を表示するネット ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://en.gigazine.net/news/20150527-wolfram-language-image-identification-project/",
+        "pageTitle": "写真に写っているものを特定して名前と関連情報を表示するネット ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://i.gzn.jp/img/2015/05/27/wolfram-language-image-identification-project/000_m.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://st2.depositphotos.com/1030808/8768/i/950/depositphotos_87688558-stock-photo-night-tokyo-skyline.jpg"
+      },
+      {
+        "url": "https://st3.depositphotos.com/1030808/15119/i/1600/depositphotos_151191472-stock-photo-tokyo-tower-and-urban-skyline.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/b/vue-de-tour-de-tokyo-de-roppongi-hills-50233337.jpg"
+      },
+      {
+        "url": "https://st3.depositphotos.com/6230792/16603/i/1600/depositphotos_166034782-stock-photo-tokyo-tower-as-seen-with.jpg"
+      },
+      {
+        "url": "https://st3.depositphotos.com/1030808/13124/i/1600/depositphotos_131247692-stock-photo-tokyo-tower-as-the-city.jpg"
+      },
+      {
+        "url": "https://thumbs.dreamstime.com/z/vue-de-tour-de-tokyo-de-roppongi-hills-50233337.jpg"
+      },
+      {
+        "url": "https://st3.depositphotos.com/1030808/16414/i/1600/depositphotos_164141656-stock-photo-tokyo-tower-and-temple.jpg"
+      },
+      {
+        "url": "https://imgs-akamai.mnstatic.com/0f/89/0f8966f9bcbd0ac7a70c3cec8030ff6c.jpg?output-quality=75&amp;output-format=progressive-jpeg&amp;interpolation=lanczos-none&amp;downsize=%2A%3A300px"
+      },
+      {
+        "url": "https://c8.alamy.com/compfr/e6fk8d/la-tour-de-tokyo-avec-un-toit-de-temple-au-premier-plan-e6fk8d.jpg"
+      },
+      {
+        "url": "https://photo980x880.mnstatic.com/dab43e016488090b595aae2e16484a26/torre-de-tokyo_472331.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "tour de tokyo",
+        "languageCode": "fr"
+      }
+    ]
+  }
+}

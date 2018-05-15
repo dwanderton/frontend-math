@@ -1,0 +1,10 @@
+text
+fauna
+livestock
+grass
+organism
+snout
+sheep
+screenshot
+font
+black and white

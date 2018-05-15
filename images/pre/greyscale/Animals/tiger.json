@@ -1,0 +1,682 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.9746088,
+      "topicality": 0.9746088
+    },
+    {
+      "mid": "/m/07dm6",
+      "description": "tiger",
+      "score": 0.96646035,
+      "topicality": 0.96646035
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.95409805,
+      "topicality": 0.95409805
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.9530266,
+      "topicality": 0.9530266
+    },
+    {
+      "mid": "/m/04rky",
+      "description": "mammal",
+      "score": 0.92677975,
+      "topicality": 0.92677975
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.9145403,
+      "topicality": 0.9145403
+    },
+    {
+      "mid": "/m/01l7qd",
+      "description": "whiskers",
+      "score": 0.84508014,
+      "topicality": 0.84508014
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.8270043,
+      "topicality": 0.8270043
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.82323354,
+      "topicality": 0.82323354
+    },
+    {
+      "mid": "/m/0cdnk",
+      "description": "big cats",
+      "score": 0.815968,
+      "topicality": 0.815968
+    },
+    {
+      "mid": "/m/04cvmfc",
+      "description": "roar",
+      "score": 0.7889024,
+      "topicality": 0.7889024
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7751734,
+      "topicality": 0.7751734
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.7176393,
+      "topicality": 0.7176393
+    },
+    {
+      "mid": "/m/0fbf1m",
+      "description": "terrestrial animal",
+      "score": 0.6918844,
+      "topicality": 0.6918844
+    },
+    {
+      "mid": "/m/01lrl",
+      "description": "carnivoran",
+      "score": 0.6827716,
+      "topicality": 0.6827716
+    },
+    {
+      "mid": "/m/0307l",
+      "description": "cat like mammal",
+      "score": 0.682257,
+      "topicality": 0.682257
+    },
+    {
+      "mid": "/m/05nnm",
+      "description": "organism",
+      "score": 0.6288466,
+      "topicality": 0.6288466
+    },
+    {
+      "mid": "/m/036jvk",
+      "description": "stock photography",
+      "score": 0.5263135,
+      "topicality": 0.5263135
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 83,
+            "green": 83,
+            "blue": 83
+          },
+          "score": 0.2666353,
+          "pixelFraction": 0.14777778
+        },
+        {
+          "color": {
+            "red": 54,
+            "green": 54,
+            "blue": 54
+          },
+          "score": 0.21465576,
+          "pixelFraction": 0.3472222
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 120,
+            "blue": 120
+          },
+          "score": 0.20198672,
+          "pixelFraction": 0.05063492
+        },
+        {
+          "color": {
+            "red": 153,
+            "green": 153,
+            "blue": 153
+          },
+          "score": 0.14497656,
+          "pixelFraction": 0.024365079
+        },
+        {
+          "color": {
+            "red": 21,
+            "green": 21,
+            "blue": 21
+          },
+          "score": 0.0962872,
+          "pixelFraction": 0.41896826
+        },
+        {
+          "color": {
+            "red": 189,
+            "green": 189,
+            "blue": 189
+          },
+          "score": 0.057711974,
+          "pixelFraction": 0.008730159
+        },
+        {
+          "color": {
+            "red": 236,
+            "green": 236,
+            "blue": 236
+          },
+          "score": 0.01774651,
+          "pixelFraction": 0.0023015873
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 531
+            },
+            {
+              "x": 1473
+            },
+            {
+              "x": 1473,
+              "y": 1151
+            },
+            {
+              "x": 531,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.69
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 551
+            },
+            {
+              "x": 1719
+            },
+            {
+              "x": 1719,
+              "y": 1151
+            },
+            {
+              "x": 551,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.81
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 306
+            },
+            {
+              "x": 1678
+            },
+            {
+              "x": 1678,
+              "y": 1151
+            },
+            {
+              "x": 306,
+              "y": 1151
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84999996
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/02nf1k",
+        "score": 1.4008,
+        "description": "Siberian Tiger"
+      },
+      {
+        "entityId": "/m/04vhxj",
+        "score": 1.3938,
+        "description": "Sumatran tiger"
+      },
+      {
+        "entityId": "/m/08prtg",
+        "score": 1.3432,
+        "description": "Malayan tiger"
+      },
+      {
+        "entityId": "/m/01g8p4",
+        "score": 1.2598,
+        "description": "Bengal tiger"
+      },
+      {
+        "entityId": "/m/084sq",
+        "score": 1.156,
+        "description": "Gray wolf"
+      },
+      {
+        "entityId": "/m/015pzz",
+        "score": 1.0876,
+        "description": "Project Tiger"
+      },
+      {
+        "entityId": "/m/016126",
+        "score": 0.6541,
+        "description": "Big cat"
+      },
+      {
+        "entityId": "/m/01280g",
+        "score": 0.6379,
+        "description": "Wildlife"
+      },
+      {
+        "entityId": "/m/02f6jg",
+        "score": 0.5488,
+        "description": "Species reintroduction"
+      },
+      {
+        "entityId": "/m/0d4y5",
+        "score": 0.5475,
+        "description": "Extinction"
+      },
+      {
+        "entityId": "/m/0dxm5",
+        "score": 0.5365,
+        "description": "Poaching"
+      },
+      {
+        "entityId": "/m/02pxwgl",
+        "score": 0.513,
+        "description": "Wildlife trade"
+      },
+      {
+        "entityId": "/m/0jbk",
+        "score": 0.47,
+        "description": "Animal"
+      },
+      {
+        "entityId": "/m/05fblh",
+        "score": 0.4499,
+        "description": "Habitat"
+      },
+      {
+        "entityId": "/m/07dm6",
+        "score": 0.00019982002,
+        "description": "Tiger"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+      },
+      {
+        "url": "http://www.tisztajovo.hu/media/2017/09/tiger1.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-1020x610.jpg"
+      },
+      {
+        "url": "http://www.nat-geo.ru/upload/iblock/c8d/c8d95cd186abf39b86316622477707a2.jpg"
+      },
+      {
+        "url": "http://www.abc.net.au/radionational/image/8751870-1x1-700x700.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-889x500.jpg"
+      },
+      {
+        "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o-768x512.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-600x480.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-706x369.jpg"
+      },
+      {
+        "url": "http://www.enallaktikos.gr/img79984_435754bf21bebcf6dfa4c1f2d394a23e.jpg"
+      },
+      {
+        "url": "https://thejaguarandallies.files.wordpress.com/2017/07/sumatran-tiger-turner-2014.jpg?w=365&amp;h=365&amp;crop=1"
+      },
+      {
+        "url": "http://livelongled.com/wp-content/uploads/2017/09/Tiger2-889x500-370x240.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-254x250.jpg"
+      },
+      {
+        "url": "https://farm4.staticflickr.com/3756/14081027648_683de4a370_m.jpg"
+      },
+      {
+        "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o-100x100.jpg"
+      },
+      {
+        "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-1020x400.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://inhabitat.com/wild-tigers-are-returning-to-kazakhstan-after-70-year-absence/",
+        "pageTitle": "&lt;b&gt;Wild tigers&lt;/b&gt; are returning to Kazakhstan after 70-year absence ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-706x369.jpg"
+          },
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-1020x610.jpg"
+          },
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          },
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-600x480.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://news.mongabay.com/2017/12/deforestation-in-sumatra-carves-up-tiger-habitats-into-ever-smaller-patches/",
+        "pageTitle": "Deforestation in Sumatra carves up &lt;b&gt;tiger&lt;/b&gt; habitats into ever smaller ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o.jpg"
+          },
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o-768x512.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://news.mongabay.com/2018/03/villagers-cite-self-defense-in-tiger-killing-but-missing-body-parts-point-to-the-illegal-wildlife-trade/",
+        "pageTitle": "Villagers cite self-defense in &lt;b&gt;tiger&lt;/b&gt; killing, but missing body parts ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o.jpg"
+          },
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o-768x512.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://inhabitat.com/tag/tiger/",
+        "pageTitle": "&lt;b&gt;Tiger&lt;/b&gt; | Inhabitat - Green Design, Innovation, Architecture, Green ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://livelongled.com/wild-tigers-are-returning-to-kazakhstan-after-70-year-absence/",
+        "pageTitle": "&lt;b&gt;Wild tigers&lt;/b&gt; are returning to Kazakhstan after 70-year absence | Live ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thejaguarandallies.com/tag/tiger/",
+        "pageTitle": "&lt;b&gt;tiger&lt;/b&gt; – The Jaguar",
+        "partialMatchingImages": [
+          {
+            "url": "https://thejaguarandallies.files.wordpress.com/2017/07/sumatran-tiger-turner-2014.jpg?w=365&amp;h=365&amp;crop=1"
+          }
+        ]
+      },
+      {
+        "url": "http://www.abc.net.au/radionational/programs/breakfast/international-tiger-day/8751822",
+        "pageTitle": "International &lt;b&gt;Tiger&lt;/b&gt; Day - RN Breakfast - ABC Radio National ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.abc.net.au/radionational/image/8751870-1x1-700x700.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.buycottarizona.com/tiger-symbolism-buddhism.html",
+        "pageTitle": "&lt;b&gt;Tiger&lt;/b&gt; Symbolism Buddhism Choice Image - Symbol and Sign Ideas",
+        "partialMatchingImages": [
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://thejaguarandallies.com/tag/poaching/",
+        "pageTitle": "poaching – The Jaguar",
+        "partialMatchingImages": [
+          {
+            "url": "https://thejaguarandallies.files.wordpress.com/2017/07/sumatran-tiger-turner-2014.jpg?w=365&amp;h=365&amp;crop=1"
+          }
+        ]
+      },
+      {
+        "url": "http://lion.jungglelive.site/tiger-habitat-information/",
+        "pageTitle": "&lt;b&gt;Tiger&lt;/b&gt; Habitat Information – Best Lion And &lt;b&gt;Tiger&lt;/b&gt; 2018",
+        "partialMatchingImages": [
+          {
+            "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2017/11/17031138/14081027648_5120e41274_o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://toproadrunner5.info/uaezcrv-wwf-tiger-project.asp",
+        "pageTitle": "Wwf &lt;b&gt;Tiger&lt;/b&gt; Project | Info",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.shothotspot.com/hotspots/?nelng=-6.2814&amp;nelat=53.3762&amp;swlat=53.3157&amp;swlng=-6.4168&amp;searchType=tpe",
+        "pageTitle": "Top 9 places to take photos in , for landscapes &amp;amp; shoots",
+        "partialMatchingImages": [
+          {
+            "url": "https://farm4.staticflickr.com/3756/14081027648_683de4a370_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://southafricatoday.net/environment/villagers-cite-self-defense-in-tiger-killing-but-missing-body-parts-point-to-the-illegal-wildlife-trade/attachment/14081027648_5120e41274_o-jpg/",
+        "pageTitle": "14081027648_5120e41274_o.jpg | South Africa Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://southafricatoday.net/wp-content/uploads/2018/03/14081027648_5120e41274_o.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shothotspot.com/hotspot/ireland/dublin-zoo-car-park",
+        "pageTitle": "Photography tips at Dublin Zoo Car Park, a guide of best photo ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://farm4.staticflickr.com/3756/14081027648_683de4a370_m.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://tiger.bolegapakistan.com/green-tigers/",
+        "pageTitle": "Green &lt;b&gt;Tigers&lt;/b&gt; - The Best &lt;b&gt;Tiger&lt;/b&gt; Of 2017",
+        "partialMatchingImages": [
+          {
+            "url": "https://inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.abc.net.au/radionational/programs/breakfast/2017-07-28/8751444",
+        "pageTitle": "Friday 28 July 2017 - RN Breakfast - ABC Radio National (Australian ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.abc.net.au/radionational/image/8751870-1x1-700x700.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://livelongled.com/16-last-minute-gifts-for-the-green-procrastinator/",
+        "pageTitle": "16 last minute gifts for the green procrastinator – Live Long LED",
+        "partialMatchingImages": [
+          {
+            "url": "http://livelongled.com/wp-content/uploads/2017/09/Tiger2-889x500-370x240.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.bloglikes.com/tag/poaching",
+        "pageTitle": "Tag: Poaching - Bloglikes",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-889x500.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://programdlapolski.info/meb/asset-tiger.awp",
+        "pageTitle": "Asset &lt;b&gt;Tiger&lt;/b&gt; - polski trend - Programdlapolski Info",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://cheers.ws/radar/www/www.slashfilm.com/blade-runner-2049-tv-spot-hunted",
+        "pageTitle": "Movies blade runner tv spot ryan gosling harrison ford being hunted ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-889x500.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://cheers.ws/radar/www/djbooth.net/tracks/review/09087-sam-trump-spain-sharmonjarmon",
+        "pageTitle": "Hip Hop listen sam trump spain ft sharmonjarmon | Cheers ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2017/09/Tiger2-889x500.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.pinterest.com/pin/349521621072020168/",
+        "pageTitle": "&lt;b&gt;Wild tigers&lt;/b&gt; are returning to Kazakhstan after 70-year absence | &lt;b&gt;Wild&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://s-media-cache-ak0.pinimg.com/originals/6e/7e/9f/6e7e9fbe5247a88614a870130e29c455.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.nat-geo.ru/nature/886852-tigr-napal-na-zhenshchinu-v-zapovednike-video/",
+        "pageTitle": "Тигр напал на женщину в заповеднике: видео — National ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.nat-geo.ru/upload/iblock/c8d/c8d95cd186abf39b86316622477707a2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.tisztajovo.hu/kornyezetvedelem/2017/09/10/70-ev-utan-tigriseket-telepitenek-vissza-kazahsztanba",
+        "pageTitle": "70 év után tigriseket telepítenek vissza Kazahsztánba - Tisztajövő",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.tisztajovo.hu/media/2017/09/tiger1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.tisztajovo.hu/cimkek/benzin",
+        "pageTitle": "benzin - Tisztajövő",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.tisztajovo.hu/media/2017/09/tiger1.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.enallaktikos.gr/ar36165el-wwf-kathe-xrono-i-agria-zwi-syrriknwnetai-kata-2.html",
+        "pageTitle": "WWF: Κάθε χρόνο η άγρια ζωή συρρικνώνεται κατά 2% - Enallaktikos",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.enallaktikos.gr/img79984_435754bf21bebcf6dfa4c1f2d394a23e.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.enallaktikos.gr/ar35089el-oi-agries-tigreis-epistrefoyn-sto-kazakstan-meta-apo-70-xronia-apoysias.html",
+        "pageTitle": "Οι άγριες τίγρεις επιστρέφουν στο Καζακστάν μετά από 70 χρόνια ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.enallaktikos.gr/img79984_435754bf21bebcf6dfa4c1f2d394a23e.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://static.pexels.com/photos/577187/pexels-photo-577187.jpeg"
+      },
+      {
+        "url": "http://maxpixel.freegreatpicture.com/static/photo/640/Blue-Tiger-Animal-Nature-Cat-White-Eyes-Wildlife-2304784.jpg"
+      },
+      {
+        "url": "http://www.imagesyoulike.com/images/v/32x24/v3516.jpg"
+      },
+      {
+        "url": "http://simplywallpapers.com/walls/animals/black-and-white-tiger-2047-1920x1080.jpg"
+      },
+      {
+        "url": "http://siudy.net/wp-content/uploads/thon/photo-of-big-cat-free-tiger-photography-black-and-white-stock-photo-of-animal-big-cat-sketch-wild-in-picture-sketch-tiger-1024x600.jpg"
+      },
+      {
+        "url": "http://wild-impressions.co.nz/gallery/wildlife/paintings/amur_tigers_scratchboard.jpg"
+      },
+      {
+        "url": "https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/s640x640/sh0.08/e35/12534425_1654176114856344_1277714764_n.jpg"
+      },
+      {
+        "url": "http://animalli.com/wp-content/uploads/2016/09/cats-tiger-cat-wild-desktop-images-1920x1080.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "tiger wild",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

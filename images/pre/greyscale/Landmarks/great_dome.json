@@ -1,0 +1,1056 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/05_5t0l",
+      "description": "landmark",
+      "score": 0.95957303,
+      "topicality": 0.95957303
+    },
+    {
+      "mid": "/m/019sc",
+      "description": "black",
+      "score": 0.9497412,
+      "topicality": 0.9497412
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.94437575,
+      "topicality": 0.94437575
+    },
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.93035537,
+      "topicality": 0.93035537
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.8969557,
+      "topicality": 0.8969557
+    },
+    {
+      "mid": "/m/017kvv",
+      "description": "infrastructure",
+      "score": 0.8800713,
+      "topicality": 0.8800713
+    },
+    {
+      "mid": "/m/0n68_",
+      "description": "structure",
+      "score": 0.8546689,
+      "topicality": 0.8546689
+    },
+    {
+      "mid": "/m/039jbq",
+      "description": "urban area",
+      "score": 0.8484457,
+      "topicality": 0.8484457
+    },
+    {
+      "mid": "/m/03nfmq",
+      "description": "architecture",
+      "score": 0.8456643,
+      "topicality": 0.8456643
+    },
+    {
+      "mid": "/m/01_m7",
+      "description": "column",
+      "score": 0.81770575,
+      "topicality": 0.81770575
+    },
+    {
+      "mid": "/m/01d74z",
+      "description": "night",
+      "score": 0.8112616,
+      "topicality": 0.8112616
+    },
+    {
+      "mid": "/m/05wkw",
+      "description": "photography",
+      "score": 0.80382806,
+      "topicality": 0.80382806
+    },
+    {
+      "mid": "/m/0cgh4",
+      "description": "building",
+      "score": 0.77818805,
+      "topicality": 0.77818805
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.7760193,
+      "topicality": 0.7760193
+    },
+    {
+      "mid": "/m/02q7ylj",
+      "description": "daytime",
+      "score": 0.7644856,
+      "topicality": 0.7644856
+    },
+    {
+      "mid": "/m/01kyr8",
+      "description": "darkness",
+      "score": 0.7628394,
+      "topicality": 0.7628394
+    },
+    {
+      "mid": "/m/056mk",
+      "description": "metropolis",
+      "score": 0.7343453,
+      "topicality": 0.7343453
+    },
+    {
+      "mid": "/m/07j7r",
+      "description": "tree",
+      "score": 0.7072174,
+      "topicality": 0.7072174
+    },
+    {
+      "mid": "/m/016br2",
+      "description": "dome",
+      "score": 0.64530206,
+      "topicality": 0.64530206
+    },
+    {
+      "mid": "/m/04mx32",
+      "description": "evening",
+      "score": 0.6077754,
+      "topicality": 0.6077754
+    },
+    {
+      "mid": "/m/01x314",
+      "description": "facade",
+      "score": 0.60344666,
+      "topicality": 0.60344666
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.58530587,
+      "topicality": 0.58530587
+    },
+    {
+      "mid": "/m/0f28m",
+      "description": "symmetry",
+      "score": 0.5446346,
+      "topicality": 0.5446346
+    },
+    {
+      "mid": "/m/02q3d5",
+      "description": "memorial",
+      "score": 0.53761876,
+      "topicality": 0.53761876
+    },
+    {
+      "mid": "/m/03g3w",
+      "description": "history",
+      "score": 0.53637505,
+      "topicality": 0.53637505
+    },
+    {
+      "mid": "/m/038t8_",
+      "description": "estate",
+      "score": 0.5301509,
+      "topicality": 0.5301509
+    },
+    {
+      "mid": "/m/0g02q",
+      "description": "courthouse",
+      "score": 0.52181834,
+      "topicality": 0.52181834
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 82,
+            "green": 82,
+            "blue": 82
+          },
+          "score": 0.23258781,
+          "pixelFraction": 0.11438712
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 120,
+            "blue": 120
+          },
+          "score": 0.18424976,
+          "pixelFraction": 0.024501774
+        },
+        {
+          "color": {
+            "red": 155,
+            "green": 155,
+            "blue": 155
+          },
+          "score": 0.17723204,
+          "pixelFraction": 0.012080262
+        },
+        {
+          "color": {
+            "red": 52,
+            "green": 52,
+            "blue": 52
+          },
+          "score": 0.16526726,
+          "pixelFraction": 0.15943216
+        },
+        {
+          "color": {
+            "red": 24,
+            "green": 24,
+            "blue": 24
+          },
+          "score": 0.13759921,
+          "pixelFraction": 0.6815452
+        },
+        {
+          "color": {
+            "red": 191,
+            "green": 191,
+            "blue": 191
+          },
+          "score": 0.091032125,
+          "pixelFraction": 0.0073027574
+        },
+        {
+          "color": {
+            "red": 222,
+            "green": 222,
+            "blue": 222
+          },
+          "score": 0.012031796,
+          "pixelFraction": 0.00075075077
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 207
+            },
+            {
+              "x": 719
+            },
+            {
+              "x": 719,
+              "y": 631
+            },
+            {
+              "x": 207,
+              "y": 631
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 150
+            },
+            {
+              "x": 795
+            },
+            {
+              "x": 795,
+              "y": 631
+            },
+            {
+              "x": 150,
+              "y": 631
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.94
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 84
+            },
+            {
+              "x": 852
+            },
+            {
+              "x": 852,
+              "y": 631
+            },
+            {
+              "x": 84,
+              "y": 631
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.96
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/01hr11",
+        "score": 9.8272,
+        "description": "MIT Sloan School of Management"
+      },
+      {
+        "entityId": "/m/022st_",
+        "score": 1.4212,
+        "description": "American Academy of Arts and Sciences"
+      },
+      {
+        "entityId": "/m/016fly",
+        "score": 0.7017,
+        "description": "Professor"
+      },
+      {
+        "entityId": "/m/06mq7",
+        "score": 0.6717,
+        "description": "Science"
+      },
+      {
+        "entityId": "/t/26tx7xy9_tgvr",
+        "score": 0.6456
+      },
+      {
+        "entityId": "/m/01yslh",
+        "score": 0.6353,
+        "description": "Graduate University"
+      },
+      {
+        "entityId": "/m/02ky346",
+        "score": 0.612,
+        "description": "Engineering"
+      },
+      {
+        "entityId": "/m/021q0l",
+        "score": 0.5964,
+        "description": "Fellow"
+      },
+      {
+        "entityId": "/m/01mkq",
+        "score": 0.5839,
+        "description": "Computer Science"
+      },
+      {
+        "entityId": "/m/06zdj",
+        "score": 0.5772,
+        "description": "School"
+      },
+      {
+        "entityId": "/m/06cs1",
+        "score": 0.572,
+        "description": "Research"
+      },
+      {
+        "entityId": "/m/04rwx",
+        "score": 0.56632,
+        "description": "Massachusetts Institute of Technology"
+      },
+      {
+        "entityId": "/m/0134hp",
+        "score": 0.5517,
+        "description": "Academy"
+      },
+      {
+        "entityId": "/m/04f42xj",
+        "score": 0.12402,
+        "description": "Daniela L. Rus"
+      },
+      {
+        "entityId": "/m/09c7w0",
+        "score": 0.00024992003,
+        "description": "United States"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://news.mit.edu/media-download?download_file=MIT-Gift-PRESS.jpg"
+      },
+      {
+        "url": "https://www.povertyactionlab.org/sites/default/files/2017.07.11-micromasters-wbur.jpg"
+      },
+      {
+        "url": "https://spectrum.mit.edu/wp-content/uploads/a-community-of-trust-01.jpg"
+      },
+      {
+        "url": "https://spectrum.mit.edu/wp-content/uploads/a-community-of-trust-01-1260x840.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DUWJPgzUQAA3JXq.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DPGcs8DX4AAs4QO.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-_mGC1fYjIB8/Wm21cCsZoCI/AAAAAAAABLU/pwaYLPYlNysdYThx8VoIzkyrHnPBqMf1QCLcBGAs/s1600/MIT-Gift-01_0.jpg"
+      },
+      {
+        "url": "http://207.198.106.192/info/attachments/2018/02/442926_2018020118374188qnN.jpg"
+      },
+      {
+        "url": "http://www.rdamoretonbay.org.au/wp-content/uploads/2017/10/bootcamp.jpg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20180202/b3a27cafbd154ac1983f4353a8caed2e.jpeg"
+      },
+      {
+        "url": "https://kenh14cdn.com/2018/mit-gift-010-1516435710240.jpg"
+      },
+      {
+        "url": "https://assets.chinamoneynetwork.com/wp-content/uploads/20180301080649/MIT.jpg"
+      },
+      {
+        "url": "https://cdn.trailsay.com/wp-content/uploads/2018/02/03114647/1517629607-raLGon.jpeg"
+      },
+      {
+        "url": "https://post-phinf.pstatic.net/MjAxODAxMjRfMTEy/MDAxNTE2NzYxNDIxMzIz.AY3_o7plpEU5-TAKYfezBy0TFET-nc2xz8V5xVbKUgUg.qEoAu74wronQfFboZoRIx-R1OXuZ-pur7ZTOzmp3WRYg.JPEG/MIT-Gift-01_0.jpg?type=w1200"
+      },
+      {
+        "url": "http://i1.wp.com/blog.impactpreneurs.com/wp-content/uploads/2017/09/MIT-Gift-01_0.jpg?fit=948%2C633"
+      },
+      {
+        "url": "https://kenh14cdn.com/2018/3/25/christopherharting-2-dome2-15219610216641496852898.jpg"
+      },
+      {
+        "url": "http://computer-great.com/wp-content/uploads/2017/12/jobs-for-computer-science-2.jpg"
+      },
+      {
+        "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2017/ChristopherHarting-2-Dome_4.jpg"
+      },
+      {
+        "url": "https://openlearning.mit.edu/sites/default/files/news-images/ChristopherHarting-2-Dome_3.jpg"
+      },
+      {
+        "url": "https://img.qunba.com/ebaecbdddd944b58aea10fe433559080.png"
+      },
+      {
+        "url": "http://wpc.72c72.betacdn.net/8072C72/lvi-images/sites/default/files/styles/landscape_1020_560/public/nota_periodistica/MIT.jpg"
+      },
+      {
+        "url": "https://static.cdn.pleno.news/2017/11/MIT-e1511436841739.jpg"
+      },
+      {
+        "url": "https://www.designnews.com/sites/default/files/styles/slideshow_-_full/public/MIT_8.jpg?itok=yFdCkkSF"
+      },
+      {
+        "url": "http://i1.wp.com/blog.impactpreneurs.com/wp-content/uploads/2017/09/MIT-Gift-01_0.jpg?resize=948%2C509"
+      },
+      {
+        "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/media/sizes/full/figure1-6.jpg"
+      },
+      {
+        "url": "https://4.bp.blogspot.com/-_mGC1fYjIB8/Wm21cCsZoCI/AAAAAAAABLU/pwaYLPYlNysdYThx8VoIzkyrHnPBqMf1QCLcBGAs/w1200-h630-p-k-no-nu/MIT-Gift-01_0.jpg"
+      },
+      {
+        "url": "https://img.gestion.pe/files/article_main/uploads/2018/03/06/5a9ed0c9a9cb3.jpeg"
+      },
+      {
+        "url": "http://news.ifmo.ru/images/news/big/726705.jpg"
+      },
+      {
+        "url": "http://t1.daumcdn.net/liveboard/scientist/d079d60aa6f34e508a00780058da79d2.jpeg"
+      },
+      {
+        "url": "https://www.youthensnews.com/wp-content/uploads/2018/03/mit-top-5-business-school.jpg"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/DYFy8yGW0AIHBJy.jpg"
+      },
+      {
+        "url": "https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/liveboard/scientist/d079d60aa6f34e508a00780058da79d2.jpeg"
+      },
+      {
+        "url": "https://pic1.zhimg.com/50/v2-40621d0a9439268601a56c1ff4bf4ce6_hd.jpg"
+      },
+      {
+        "url": "http://up-study.net/files/articles/2018-02/0.38_up_study.jpg"
+      },
+      {
+        "url": "http://gobiznext.com/wp-content/uploads/2017/11/MIT-int.jpg"
+      },
+      {
+        "url": "https://infocity.az/wp-content/uploads/2017/11/MIT.jpg"
+      },
+      {
+        "url": "http://kenh14cdn.com/thumb_w/660/2018/mit-gift-010-1516435710240.jpg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20171014/7e31e80aa1064652bba629d2a65dd36f.jpeg"
+      },
+      {
+        "url": "http://www.amerealtygroup.com/uploads/allimg/170919/1-1F91910261bA.jpg"
+      },
+      {
+        "url": "http://web.popo8.com/201711/27/5/94689f6539.jpg"
+      },
+      {
+        "url": "http://inews.gtimg.com/newsapp_match/0/2358328265/0"
+      },
+      {
+        "url": "https://inews.gtimg.com/newsapp_bt/0/2358328265/1000"
+      },
+      {
+        "url": "http://i1.wp.com/inews.gtimg.com/newsapp_bt/0/2358328265/641"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20171128/b4adec7d22d64473a0b3af6c7d9a9e16.jpeg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20171129/0c7964f96bee44bf9fc7ff45c4859c33.jpeg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20171127/557bef3397444918ad94a246180d6d5e.jpeg"
+      },
+      {
+        "url": "http://5b0988e595225.cdn.sohucs.com/images/20180101/8b90b5f6bdd64c27857a96e384ee4e31.jpeg"
+      },
+      {
+        "url": "http://p9.pstatp.com/large/50a300007eb8be7d23f7"
+      },
+      {
+        "url": "https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_750/images/20180103/038282d2d86b478090b875d6b0bd3b8a.webp"
+      },
+      {
+        "url": "http://toutiaoabc.com/fangimg.php?url=https://mmbiz.qpic.cn/mmbiz_jpg/WeHbLzK1s8BpffdRms1iajiaWWfRQk6A4rEuNOBDFKGec239eYWLXzrdybLn4hTckOsX7ibBicNyrnaHCwDhu68bdw/640?wx_fmt=jpeg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://news.mit.edu/2017/eleven-from-mit-elected-american-academy-arts-and-sciences-0412",
+        "pageTitle": "Eleven from MIT elected to &lt;b&gt;American Academy of Arts and Sciences&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2017/ChristopherHarting-2-Dome_0.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2017/ChristopherHarting-2-Dome.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/og/public/images/2017/ChristopherHarting-2-Dome.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2017/ChristopherHarting-2-Dome_0.jpg?itok=Yyv8xRYH"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eecs.mit.edu/news-events/announcements/54",
+        "pageTitle": "Wireless - Announcements | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.eecs.mit.edu/homepage?page=5&amp;mobile=edholfmpdvr",
+        "pageTitle": "Homepage | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.eecs.mit.edu/research/10The",
+        "pageTitle": "Research | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/electrical-engineering-computer-science-eecs?page=6",
+        "pageTitle": "Electrical Engineering &amp;amp; Computer &lt;b&gt;Science&lt;/b&gt; (eecs) | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/architecture-and-planning?page=5",
+        "pageTitle": "&lt;b&gt;School&lt;/b&gt; of Architecture + Planning | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/department/civil-and-environmental-engineering?page=2",
+        "pageTitle": "Civil and Environmental Engineering | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2017/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eecs.mit.edu/research/10",
+        "pageTitle": "Research | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/csail?page=3",
+        "pageTitle": "Computer &lt;b&gt;Science&lt;/b&gt; and Artificial Intelligence Laboratory (CSAIL ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "http://www.eecs.mit.edu/homepage?page=10&amp;height=sngrjnnhvlaeug",
+        "pageTitle": "Homepage | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/department/physics?page=3",
+        "pageTitle": "Physics | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "https://eapsweb.mit.edu/news/2017/natural-wonders-2018",
+        "pageTitle": "Wishing you a 2018 filled with natural wonders | MIT Department of ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eecs.mit.edu/research/54",
+        "pageTitle": "Research | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2013/fink-whitehead-biology-aaas",
+        "pageTitle": "Whitehead, biology&amp;#39;s Gerald Fink chosen to serve as AAAS ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome.jpg?itok=V2N04HN_"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/physics?page=3",
+        "pageTitle": "Physics | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome.jpg?itok=JA-FiqQ8"
+          }
+        ]
+      },
+      {
+        "url": "http://www.eecs.mit.edu/homepage?page=7&amp;height=ntwkojliireyk",
+        "pageTitle": "Homepage | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/chancellor",
+        "pageTitle": "Chancellor | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2017/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.eecs.mit.edu/news-events/announcements?page=4&amp;TB_iframe=true",
+        "pageTitle": "News &amp;amp; Events - Announcements | MIT EECS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/school-science",
+        "pageTitle": "&lt;b&gt;School&lt;/b&gt; of &lt;b&gt;Science&lt;/b&gt; | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/management",
+        "pageTitle": "Sloan &lt;b&gt;School&lt;/b&gt; of Management | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2018/graduate-engineering-business-science-programs-ranked-highly-us-news-0320",
+        "pageTitle": "MIT graduate engineering, business, &lt;b&gt;science&lt;/b&gt; programs ranked ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2018/ChristopherHarting-2-Dome_4.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/og/public/images/2018/ChristopherHarting-2-Dome_3.jpg"
+          },
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/news_article_image_top_slideshow/public/images/2018/ChristopherHarting-2-Dome_4.jpg?itok=CysLwr7B"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/rankings",
+        "pageTitle": "Rankings | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/science",
+        "pageTitle": "&lt;b&gt;School&lt;/b&gt; of &lt;b&gt;Science&lt;/b&gt; | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/computers",
+        "pageTitle": "Computer &lt;b&gt;science&lt;/b&gt; and technology | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_1.jpg?itok=XeDA-SfD"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/international-relations2",
+        "pageTitle": "International relations | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2017/ChristopherHarting-2-Dome_1.jpg?itok=STtFx0s8"
+          }
+        ]
+      },
+      {
+        "url": "http://www.healingpowerofnature.com/index.php/buy/8675/",
+        "pageTitle": "The 10 Best ESL Essay Topic Suggestions To Consider mobile ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.eecs.mit.edu/sites/default/files/announcements/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.stationfinder.it/2017/04/12/eleven-from-mit-elected-to-american-academy-of-arts-and-sciences-for-2017/eleven-from-mit-elected-to-american-academy-of-arts-and-sciences-for-2017-2/",
+        "pageTitle": "Eleven from MIT elected to &lt;b&gt;American Academy of Arts and Sciences&lt;/b&gt; ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.stationfinder.it/wp-content/uploads/2017/10/eleven-from-mit-elected-to-american-academy-of-arts-and-sciences-for-2017.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/mit-news",
+        "pageTitle": "MIT News | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=Ajyg7NH9"
+          }
+        ]
+      },
+      {
+        "url": "https://www.designnews.com/automation/top-15-engineering-schools-salary",
+        "pageTitle": "The Top 15 Engineering Schools by Salary | Design News",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.designnews.com/sites/default/files/styles/slideshow_-_full/public/MIT_8.jpg?itok=yFdCkkSF"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2015/link-brain-to-anatomy-academic-achievement-family-income-0417",
+        "pageTitle": "Study links brain anatomy, academic achievement, and family ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=Ajyg7NH9"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/faculty?page=1",
+        "pageTitle": "Faculty | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome.jpg?itok=QEurOxv0"
+          }
+        ]
+      },
+      {
+        "url": "https://openlearning.mit.edu/news-and-events/news/mit-graduate-engineering-business-science-programs-ranked-highly-us-news-2019",
+        "pageTitle": "MIT graduate engineering, business, &lt;b&gt;science&lt;/b&gt; programs ranked ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://openlearning.mit.edu/sites/default/files/news-images/ChristopherHarting-2-Dome_3.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2005/aandh-0316",
+        "pageTitle": "Awards and Honors | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_1.jpg?itok=5YpHxXYn"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/materialsscienceandengineering",
+        "pageTitle": "Materials &lt;b&gt;Science&lt;/b&gt; and Engineering | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/",
+        "pageTitle": "New tax law attracts &lt;b&gt;science&lt;/b&gt; advocates&amp;#39; scrutiny - Physics Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/media/highlight-12.jpg"
+          },
+          {
+            "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/media/sizes/full/figure1-6.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.eecs.mit.edu/",
+        "pageTitle": "MIT EECS: Homepage",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.eecs.mit.edu/sites/default/files/cards/images-wide/ChristopherHarting-2-Dome_4.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/department/materials-science-and-engineering",
+        "pageTitle": "Materials &lt;b&gt;Science&lt;/b&gt; and Engineering | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2006/shass-heads",
+        "pageTitle": "SHASS announces new department heads | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome.jpg?itok=V2N04HN_"
+          }
+        ]
+      },
+      {
+        "url": "http://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full",
+        "pageTitle": "New tax law attracts &lt;b&gt;science&lt;/b&gt; advocates&amp;#39; scrutiny - Physics Today",
+        "partialMatchingImages": [
+          {
+            "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/media/highlight-12.jpg"
+          },
+          {
+            "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.3.20180102a/full/media/sizes/full/figure1-6.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://news.mit.edu/2003/aandh-0612-0604",
+        "pageTitle": "Awards and honors | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "https://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_1.jpg?itok=5YpHxXYn"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2018/how-often-do-medical-problems-lead-bankruptcy-0321",
+        "pageTitle": "How often do medical problems lead to bankruptcy? | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=Ajyg7NH9"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2017/mit-joins-court-brief-support-dreamers-1102",
+        "pageTitle": "MIT joins court brief in support of “Dreamers” | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2017/ChristopherHarting-2-Dome_2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/diversity-and-inclusion",
+        "pageTitle": "Diversity and inclusion | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2018/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/topic/mindhandheart",
+        "pageTitle": "MindHandHeart | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/images/2018/ChristopherHarting-2-Dome_0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/department/nuclear-science-and-engineering",
+        "pageTitle": "Nuclear &lt;b&gt;Science&lt;/b&gt; and Engineering | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/1998/smoke-1007",
+        "pageTitle": "Smoke boosts positively charged lightning, MIT researcher finds ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_1.jpg?itok=5YpHxXYn"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2018/soft-robotic-fish-swims-alongside-real-ones-coral-reefs-0321",
+        "pageTitle": "Soft robotic fish swims alongside real ones in coral reefs | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=Ajyg7NH9"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/department/electrical-engineering-and-computer-science",
+        "pageTitle": "Electrical Engineering and Computer &lt;b&gt;Science&lt;/b&gt; | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/search_result_image/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=32P4lbEP"
+          }
+        ]
+      },
+      {
+        "url": "http://news.mit.edu/2018/mit-clix-project-receives-unesco-award-0313",
+        "pageTitle": "CLIx project receives UNESCO award | MIT News",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_small/public/images/2018/ChristopherHarting-2-Dome_3.jpg?itok=Ajyg7NH9"
+          }
+        ]
+      },
+      {
+        "url": "https://www.feedspot.com/?followfeedid=4575136",
+        "pageTitle": "MIT News - Machine learning - Feedspot - Rss Feed",
+        "partialMatchingImages": [
+          {
+            "url": "http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/og/public/images/2018/ChristopherHarting-2-Dome_1.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://www.amacad.org/images/home/nortonswoods/ss1/data1/images/atriumbg.jpg"
+      },
+      {
+        "url": "https://www.amacad.org/images/publications/bulletin/spring2017/bulletinSpring2017_LanguageLearning1.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/564x/c0/12/0b/c0120bb794123d7f5a8ae0f4a3cb23d7--great-women-smart-women.jpg"
+      },
+      {
+        "url": "https://images-eu.ssl-images-amazon.com/images/I/51+npDmmwxL._AC_US218_.jpg"
+      },
+      {
+        "url": "https://images.randomhouse.com/cover/9781580934244"
+      },
+      {
+        "url": "http://www1.pictures.zimbio.com/gi/American+Academy+Arts+Sciences+Induction+Ceremony+Zj-mN6tmXD6t.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/236x/ac/4a/0d/ac4a0d7c56ae2d51d35b32addb54c815--professional-women-teacher-librarian.jpg"
+      },
+      {
+        "url": "https://books.google.com/books/content?id=KH0bvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=5"
+      },
+      {
+        "url": "https://i.ebayimg.com/thumbs/images/g/xqIAAOSwr2ZZmr1J/s-l225.jpg"
+      },
+      {
+        "url": "https://www.amacad.org/images/publications/bulletin/winter2016/bulletinWinter2016_Legal.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "american academy of arts and sciences",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

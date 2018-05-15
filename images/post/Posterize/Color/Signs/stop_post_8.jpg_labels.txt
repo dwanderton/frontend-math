@@ -1,0 +1,10 @@
+blue
+sky
+signage
+traffic sign
+stop sign
+sign
+road
+street sign
+font
+flag

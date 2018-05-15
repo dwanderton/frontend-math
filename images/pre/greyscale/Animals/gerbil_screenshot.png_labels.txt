@@ -1,0 +1,10 @@
+rat
+fauna
+mammal
+muridae
+muroidea
+text
+mouse
+gerbil
+organism
+rodent

@@ -1,0 +1,10 @@
+skin
+text
+close up
+wood
+material
+line
+font
+grass
+flooring
+pattern

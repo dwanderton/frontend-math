@@ -1,0 +1,337 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/0ffhf",
+      "description": "donkey",
+      "score": 0.96629745,
+      "topicality": 0.96629745
+    },
+    {
+      "mid": "/m/035qhg",
+      "description": "fauna",
+      "score": 0.9115474,
+      "topicality": 0.9115474
+    },
+    {
+      "mid": "/m/02s3y",
+      "description": "horse like mammal",
+      "score": 0.894675,
+      "topicality": 0.894675
+    },
+    {
+      "mid": "/m/0ch8v",
+      "description": "livestock",
+      "score": 0.7577184,
+      "topicality": 0.7577184
+    },
+    {
+      "mid": "/m/0464z4",
+      "description": "pack animal",
+      "score": 0.73084164,
+      "topicality": 0.73084164
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.70779735,
+      "topicality": 0.70779735
+    },
+    {
+      "mid": "/m/089v3",
+      "description": "zoo",
+      "score": 0.52231944,
+      "topicality": 0.52231944
+    },
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.50429887,
+      "topicality": 0.50429887
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 149,
+            "green": 113,
+            "blue": 83
+          },
+          "score": 0.20239764,
+          "pixelFraction": 0.11093333
+        },
+        {
+          "color": {
+            "red": 180,
+            "green": 149,
+            "blue": 117
+          },
+          "score": 0.087128714,
+          "pixelFraction": 0.083066665
+        },
+        {
+          "color": {
+            "red": 154,
+            "green": 111,
+            "blue": 70
+          },
+          "score": 0.14785917,
+          "pixelFraction": 0.1782
+        },
+        {
+          "color": {
+            "red": 120,
+            "green": 79,
+            "blue": 39
+          },
+          "score": 0.1405307,
+          "pixelFraction": 0.0894
+        },
+        {
+          "color": {
+            "red": 117,
+            "green": 81,
+            "blue": 52
+          },
+          "score": 0.0886041,
+          "pixelFraction": 0.0536
+        },
+        {
+          "color": {
+            "red": 179,
+            "green": 141,
+            "blue": 111
+          },
+          "score": 0.07213603,
+          "pixelFraction": 0.0302
+        },
+        {
+          "color": {
+            "red": 152,
+            "green": 121,
+            "blue": 89
+          },
+          "score": 0.05051364,
+          "pixelFraction": 0.048133332
+        },
+        {
+          "color": {
+            "red": 217,
+            "green": 187,
+            "blue": 155
+          },
+          "score": 0.039395038,
+          "pixelFraction": 0.0324
+        },
+        {
+          "color": {
+            "red": 87,
+            "green": 50,
+            "blue": 14
+          },
+          "score": 0.026069397,
+          "pixelFraction": 0.038733333
+        },
+        {
+          "color": {
+            "red": 185,
+            "green": 142,
+            "blue": 100
+          },
+          "score": 0.02562456,
+          "pixelFraction": 0.031866666
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 214
+            },
+            {
+              "x": 767
+            },
+            {
+              "x": 767,
+              "y": 679
+            },
+            {
+              "x": 214,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.58
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 285
+            },
+            {
+              "x": 971
+            },
+            {
+              "x": 971,
+              "y": 679
+            },
+            {
+              "x": 285,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.72999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 142
+            },
+            {
+              "x": 971
+            },
+            {
+              "x": 971,
+              "y": 679
+            },
+            {
+              "x": 142,
+              "y": 679
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.83
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/03k3r",
+        "score": 1.405,
+        "description": "Horse"
+      },
+      {
+        "entityId": "/m/0464z4",
+        "score": 0.8681699,
+        "description": "Pack animal"
+      },
+      {
+        "entityId": "/m/0ch8v",
+        "score": 0.8413443,
+        "description": "Livestock"
+      },
+      {
+        "entityId": "/m/035qhg",
+        "score": 0.79194677,
+        "description": "Fauna"
+      },
+      {
+        "entityId": "/m/05mqq3",
+        "score": 0.77862465,
+        "description": "Snout"
+      },
+      {
+        "entityId": "/m/0jbk",
+        "score": 0.77209663,
+        "description": "Animal"
+      },
+      {
+        "entityId": "/m/01280g",
+        "score": 0.7048009,
+        "description": "Wildlife"
+      },
+      {
+        "entityId": "/g/120j33jd",
+        "score": 0.6925,
+        "description": "Donkey"
+      },
+      {
+        "entityId": "/m/089v3",
+        "score": 0.604105,
+        "description": "Zoo"
+      },
+      {
+        "entityId": "/m/04rky",
+        "score": 0.5184,
+        "description": "Mammal"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://i.pinimg.com/736x/b0/ee/b4/b0eeb4ee52887b4c9870b3ab88a31df3--abu-dhabi-ain.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/04/af/0c/04af0cda149bf559b767951ece1864e4--deer-zoo.jpg"
+      },
+      {
+        "url": "http://3.bp.blogspot.com/-rG5dJrmI_Ko/T3zk-S4hymI/AAAAAAAABnQ/kVt8ZlQp3PM/s1600/47b6d911b3127cce98548b3a44fa00000017108RZsnDlwzs.jpg"
+      },
+      {
+        "url": "https://c1.staticflickr.com/7/6148/6206492741_4cc3a39719_b.jpg"
+      },
+      {
+        "url": "https://www.chevrolet-club-sachsen.de/images/galerie/2015_09/dsc_4262.jpg"
+      },
+      {
+        "url": "https://www.weekendnotes.com/im/002/08/cimg58851.JPG"
+      },
+      {
+        "url": "http://wdrb.images.worldnow.com/images/14263395_G.jpg?auto=webp&amp;disable=upscale&amp;width=800"
+      },
+      {
+        "url": "https://us.123rf.com/450wm/schan/schan1802/schan180200568/95168341-portrait-of-a-llama-in-a-zoo-.jpg?ver=6"
+      },
+      {
+        "url": "https://assets.isango.com/productimages/product/8014/los-angeles_14311_4.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/2e/77/28/2e772864d30d9e9072b0765519388eff--hee-haw-shrek.jpg"
+      },
+      {
+        "url": "https://p5.focus.de/img/fotos/origs4057094/8599292892-w234-h331-o-q75-p5/banteng-mama-buffy-mit-naya-hellabrunn-2013.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/09/08/29/photo6jpg.jpg"
+      },
+      {
+        "url": "http://s1.germany.travel/media/content/specials_1/freizeitparks_2013/tierpark_zoo/zoologischer_garten/Erdferkel_Zoo_Berlin_300x0.jpg"
+      },
+      {
+        "url": "https://billeder.bazoom.dk/katte/album/28/l/135161/odsherred-zoo.jpg"
+      },
+      {
+        "url": "https://st2.depositphotos.com/6542918/11217/i/450/depositphotos_112172392-stock-photo-zoo-animals-in-zoo-park.jpg"
+      },
+      {
+        "url": "https://ocdn.eu/pulscms-transforms/1/8ibktkqTURBXy9mMTNmMzhjNDA0MmFiMmQ3YzBkNGRmNGQ1MTllZDEzZS5qcGVnkZMCzQMmAA"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/3666e18a616d4d02836e66fb65dd37bd/portrait-of-a-donkey-adult-in-a-fence-cbmpn1.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "donkey"
+      }
+    ]
+  }
+}

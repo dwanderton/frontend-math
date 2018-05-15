@@ -1,0 +1,1527 @@
+{
+  "logoAnnotations": [
+    {
+      "mid": "/g/1tdpfrww",
+      "description": "Emergency exit",
+      "score": 0.36448428,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 279,
+            "y": 349
+          },
+          {
+            "x": 423,
+            "y": 349
+          },
+          {
+            "x": 423,
+            "y": 510
+          },
+          {
+            "x": 279,
+            "y": 510
+          }
+        ]
+      }
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/038hg",
+      "description": "green",
+      "score": 0.9745075,
+      "topicality": 0.9745075
+    },
+    {
+      "mid": "/m/07s6nbt",
+      "description": "text",
+      "score": 0.85227,
+      "topicality": 0.85227
+    },
+    {
+      "mid": "/m/0bkqqh",
+      "description": "signage",
+      "score": 0.83460635,
+      "topicality": 0.83460635
+    },
+    {
+      "mid": "/m/06zsq",
+      "description": "sign",
+      "score": 0.8013777,
+      "topicality": 0.8013777
+    },
+    {
+      "mid": "/m/03gq5hm",
+      "description": "font",
+      "score": 0.67883295,
+      "topicality": 0.67883295
+    },
+    {
+      "mid": "/m/0dwx7",
+      "description": "logo",
+      "score": 0.65071857,
+      "topicality": 0.65071857
+    },
+    {
+      "mid": "/m/01cd9",
+      "description": "brand",
+      "score": 0.6047803,
+      "topicality": 0.6047803
+    },
+    {
+      "mid": "/m/01jfm_",
+      "description": "vehicle registration plate",
+      "score": 0.5902297,
+      "topicality": 0.5902297
+    },
+    {
+      "mid": "/m/05fwb",
+      "description": "number",
+      "score": 0.57737076,
+      "topicality": 0.57737076
+    },
+    {
+      "mid": "/m/0h8ls87",
+      "description": "automotive exterior",
+      "score": 0.56055754,
+      "topicality": 0.56055754
+    },
+    {
+      "mid": "/m/03sp5j",
+      "description": "house numbering",
+      "score": 0.56026775,
+      "topicality": 0.56026775
+    },
+    {
+      "mid": "/m/04jph85",
+      "description": "street sign",
+      "score": 0.55669045,
+      "topicality": 0.55669045
+    },
+    {
+      "mid": "/m/021sdg",
+      "description": "graphics",
+      "score": 0.51740706,
+      "topicality": 0.51740706
+    }
+  ],
+  "textAnnotations": [
+    {
+      "locale": "it",
+      "description": "尽→\nINOTEC\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 257,
+            "y": 277
+          },
+          {
+            "x": 789,
+            "y": 277
+          },
+          {
+            "x": 789,
+            "y": 587
+          },
+          {
+            "x": 257,
+            "y": 587
+          }
+        ]
+      }
+    },
+    {
+      "description": "尽→",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 273,
+            "y": 277
+          },
+          {
+            "x": 788,
+            "y": 306
+          },
+          {
+            "x": 773,
+            "y": 586
+          },
+          {
+            "x": 257,
+            "y": 558
+          }
+        ]
+      }
+    },
+    {
+      "description": "INOTEC",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 698,
+            "y": 534
+          },
+          {
+            "x": 781,
+            "y": 534
+          },
+          {
+            "x": 781,
+            "y": 566
+          },
+          {
+            "x": 698,
+            "y": 566
+          }
+        ]
+      }
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 4,
+            "green": 182,
+            "blue": 48
+          },
+          "score": 0.4135213,
+          "pixelFraction": 0.03681416
+        },
+        {
+          "color": {
+            "red": 4,
+            "green": 144,
+            "blue": 32
+          },
+          "score": 0.2204294,
+          "pixelFraction": 0.036106195
+        },
+        {
+          "color": {
+            "red": 250,
+            "green": 233,
+            "blue": 180
+          },
+          "score": 0.052875973,
+          "pixelFraction": 0.016106194
+        },
+        {
+          "color": {
+            "red": 6,
+            "green": 93,
+            "blue": 22
+          },
+          "score": 0.043064177,
+          "pixelFraction": 0.031858407
+        },
+        {
+          "color": {
+            "red": 217,
+            "green": 199,
+            "blue": 158
+          },
+          "score": 0.01639459,
+          "pixelFraction": 0.011740413
+        },
+        {
+          "color": {
+            "red": 77,
+            "green": 81,
+            "blue": 77
+          },
+          "score": 0.0014994344,
+          "pixelFraction": 0.064424776
+        },
+        {
+          "color": {
+            "red": 49,
+            "green": 82,
+            "blue": 48
+          },
+          "score": 0.0013200246,
+          "pixelFraction": 0.0022418879
+        },
+        {
+          "color": {
+            "red": 15,
+            "green": 163,
+            "blue": 45
+          },
+          "score": 0.044440825,
+          "pixelFraction": 0.005781711
+        },
+        {
+          "color": {
+            "red": 18,
+            "green": 205,
+            "blue": 67
+          },
+          "score": 0.037503343,
+          "pixelFraction": 0.002536873
+        },
+        {
+          "color": {
+            "red": 12,
+            "green": 128,
+            "blue": 35
+          },
+          "score": 0.030841757,
+          "pixelFraction": 0.008731564
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 193
+            },
+            {
+              "x": 818
+            },
+            {
+              "x": 818,
+              "y": 767
+            },
+            {
+              "x": 193,
+              "y": 767
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.98999995
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 121
+            },
+            {
+              "x": 900
+            },
+            {
+              "x": 900,
+              "y": 767
+            },
+            {
+              "x": 121,
+              "y": 767
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 39
+            },
+            {
+              "x": 971
+            },
+            {
+              "x": 971,
+              "y": 767
+            },
+            {
+              "x": 39,
+              "y": 767
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "property": {
+          "detectedLanguages": [
+            {
+              "languageCode": "it",
+              "confidence": 0.75
+            },
+            {
+              "languageCode": "zh",
+              "confidence": 0.25
+            }
+          ]
+        },
+        "width": 1024,
+        "height": 768,
+        "blocks": [
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 273,
+                  "y": 277
+                },
+                {
+                  "x": 788,
+                  "y": 306
+                },
+                {
+                  "x": 773,
+                  "y": 586
+                },
+                {
+                  "x": 257,
+                  "y": 558
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 273,
+                      "y": 277
+                    },
+                    {
+                      "x": 788,
+                      "y": 306
+                    },
+                    {
+                      "x": 773,
+                      "y": 586
+                    },
+                    {
+                      "x": 257,
+                      "y": 558
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "zh"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 273,
+                          "y": 277
+                        },
+                        {
+                          "x": 788,
+                          "y": 306
+                        },
+                        {
+                          "x": 773,
+                          "y": 586
+                        },
+                        {
+                          "x": 257,
+                          "y": 558
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 273,
+                              "y": 277
+                            },
+                            {
+                              "x": 508,
+                              "y": 290
+                            },
+                            {
+                              "x": 492,
+                              "y": 571
+                            },
+                            {
+                              "x": 257,
+                              "y": 558
+                            }
+                          ]
+                        },
+                        "text": "尽",
+                        "confidence": 0.98
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "zh"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 554,
+                              "y": 293
+                            },
+                            {
+                              "x": 789,
+                              "y": 306
+                            },
+                            {
+                              "x": 773,
+                              "y": 587
+                            },
+                            {
+                              "x": 538,
+                              "y": 574
+                            }
+                          ]
+                        },
+                        "text": "→",
+                        "confidence": 0.2
+                      }
+                    ],
+                    "confidence": 0.59
+                  }
+                ],
+                "confidence": 0.59
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.59
+          },
+          {
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 698,
+                  "y": 534
+                },
+                {
+                  "x": 781,
+                  "y": 534
+                },
+                {
+                  "x": 781,
+                  "y": 566
+                },
+                {
+                  "x": 698,
+                  "y": 566
+                }
+              ]
+            },
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 698,
+                      "y": 534
+                    },
+                    {
+                      "x": 781,
+                      "y": 534
+                    },
+                    {
+                      "x": 781,
+                      "y": 566
+                    },
+                    {
+                      "x": 698,
+                      "y": 566
+                    }
+                  ]
+                },
+                "words": [
+                  {
+                    "property": {
+                      "detectedLanguages": [
+                        {
+                          "languageCode": "it"
+                        }
+                      ]
+                    },
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 698,
+                          "y": 534
+                        },
+                        {
+                          "x": 781,
+                          "y": 534
+                        },
+                        {
+                          "x": 781,
+                          "y": 566
+                        },
+                        {
+                          "x": 698,
+                          "y": 566
+                        }
+                      ]
+                    },
+                    "symbols": [
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 698,
+                              "y": 534
+                            },
+                            {
+                              "x": 708,
+                              "y": 534
+                            },
+                            {
+                              "x": 708,
+                              "y": 566
+                            },
+                            {
+                              "x": 698,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "I",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 710,
+                              "y": 534
+                            },
+                            {
+                              "x": 721,
+                              "y": 534
+                            },
+                            {
+                              "x": 721,
+                              "y": 566
+                            },
+                            {
+                              "x": 710,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "N",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 726,
+                              "y": 534
+                            },
+                            {
+                              "x": 738,
+                              "y": 534
+                            },
+                            {
+                              "x": 738,
+                              "y": 566
+                            },
+                            {
+                              "x": 726,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "O",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 741,
+                              "y": 534
+                            },
+                            {
+                              "x": 751,
+                              "y": 534
+                            },
+                            {
+                              "x": 751,
+                              "y": 566
+                            },
+                            {
+                              "x": 741,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "T",
+                        "confidence": 0.99
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ]
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 753,
+                              "y": 534
+                            },
+                            {
+                              "x": 764,
+                              "y": 534
+                            },
+                            {
+                              "x": 764,
+                              "y": 566
+                            },
+                            {
+                              "x": 753,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "E",
+                        "confidence": 1
+                      },
+                      {
+                        "property": {
+                          "detectedLanguages": [
+                            {
+                              "languageCode": "it"
+                            }
+                          ],
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 769,
+                              "y": 534
+                            },
+                            {
+                              "x": 781,
+                              "y": 534
+                            },
+                            {
+                              "x": 781,
+                              "y": 566
+                            },
+                            {
+                              "x": 769,
+                              "y": 566
+                            }
+                          ]
+                        },
+                        "text": "C",
+                        "confidence": 1
+                      }
+                    ],
+                    "confidence": 0.99
+                  }
+                ],
+                "confidence": 0.99
+              }
+            ],
+            "blockType": "TEXT",
+            "confidence": 0.99
+          }
+        ]
+      }
+    ],
+    "text": "尽→\nINOTEC\n"
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/04k84",
+        "score": 1.1092,
+        "description": "Light"
+      },
+      {
+        "entityId": "/m/04v0t6",
+        "score": 0.8386,
+        "description": "Emergency Lighting"
+      },
+      {
+        "entityId": "/m/019sc6",
+        "score": 0.7091,
+        "description": "Lighting"
+      },
+      {
+        "entityId": "/m/025rvy6",
+        "score": 0.7035,
+        "description": "Emergency"
+      },
+      {
+        "entityId": "/m/08l3n0",
+        "score": 0.6233,
+        "description": "Exit sign"
+      },
+      {
+        "entityId": "/m/0c3f7m",
+        "score": 0.6013,
+        "description": "Fire alarm system"
+      },
+      {
+        "entityId": "/m/03_dny",
+        "score": 0.5961,
+        "description": "Emergency exit"
+      },
+      {
+        "entityId": "/m/0hy7s",
+        "score": 0.5436,
+        "description": "Alarm device"
+      },
+      {
+        "entityId": "/m/04myn",
+        "score": 0.5341,
+        "description": "Light-emitting diode"
+      },
+      {
+        "entityId": "/m/08jpwt",
+        "score": 0.5111,
+        "description": "Light fixture"
+      },
+      {
+        "entityId": "/m/02pwryg",
+        "score": 0.4818,
+        "description": "LED lamp"
+      },
+      {
+        "entityId": "/m/03wymq",
+        "score": 0.4746,
+        "description": "Fire safety"
+      },
+      {
+        "entityId": "/m/033rq4",
+        "score": 0.4442,
+        "description": "Street light"
+      },
+      {
+        "entityId": "/m/0dtln",
+        "score": 0.4426,
+        "description": "Lamp"
+      },
+      {
+        "entityId": "/m/062_rj",
+        "score": 0.4252,
+        "description": "Architectural lighting design"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/1/9/1/4/654191-1-eng-GB/Novo-Nordisk-exits-transdermal-deal-for-type-2-diabetes-candidate.jpg"
+      },
+      {
+        "url": "https://www.propertyinvestmentlondon.co.uk/wp-content/uploads/2016/08/Fire-Exit-Sign.jpg"
+      },
+      {
+        "url": "http://skylineelectrical.com.au/wp-content/uploads/2015/08/iStock_000051978672_Medium.jpg"
+      },
+      {
+        "url": "http://kbz-werbetechnik.de/wp-content/uploads/2018/01/Fotolia_133304903_M.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/994a77_4355720b8e11498da0a4b6553493d7bc.jpg"
+      },
+      {
+        "url": "https://image.schrack.com/foto/f_nlkc0103--.jpg"
+      },
+      {
+        "url": "https://www.keselamatankeluarga.com/wp-content/uploads/2016/12/Exit-Sign-e1482991126890.jpg"
+      },
+      {
+        "url": "https://c8.alamy.com/compde/cf7146/ein-notausgangsschild-in-einem-offentlichen-gebaude-in-wien-cf7146.jpg"
+      },
+      {
+        "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg/1280px-Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg"
+      },
+      {
+        "url": "https://www.sec.sk/wp-content/uploads/fly-images/1426/product_166_4895_signalux-novy-maly-stena-20-999999x999999.jpg"
+      },
+      {
+        "url": "https://www.tatacliq.com/que/wp-content/uploads/2016/11/04-brexit-fiascos-of-2016.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1541157802587009"
+      },
+      {
+        "url": "https://image.jimcdn.com/app/cms/image/transf/dimension=1820x1280:format=jpg/path/sa3ca068529599cc8/image/i32467f53ed8bc357/version/1478525062/image.jpg"
+      },
+      {
+        "url": "https://static-eu.insales.ru/images/products/1/3334/121482502/avariynyy-svetovoy-ukazatel-vyhod-ip44-infinity-ii-ac-awex-grey.jpg"
+      },
+      {
+        "url": "https://img.br.de/3a2bcb80-24fe-4b57-a548-e7c72a3e7ffb.jpg?w=1200"
+      },
+      {
+        "url": "https://www.fisco7.it/wp-content/uploads/2016/07/DEMOFISCO711.jpg"
+      },
+      {
+        "url": "http://www.adeelectricalanddata.co.uk/wp-content/uploads/2017/11/lighting.jpg"
+      },
+      {
+        "url": "http://www.nameplateuk.com/wp-content/uploads/2014/07/fire-exit-1-1140x649.jpg"
+      },
+      {
+        "url": "http://media.hotnews.ro/media_server1/image-2016-06-27-21112323-70-brexit.png"
+      },
+      {
+        "url": "http://www.sharpfireandsafety.com/wp-content/uploads/2017/02/Emergency-Lighting-Sharp-Fire-Safety-1024x683.jpg"
+      },
+      {
+        "url": "http://www.officescapellp.co.uk/site/wp-content/uploads/2016/06/Fire-Exit-Sign-1024x682.jpg"
+      },
+      {
+        "url": "https://images.cdn.yle.fi/image/upload/fl_keep_iptc,f_auto,fl_progressive/q_88/w_2197,h_1236,c_crop,x_3,y_0/w_1100/v1516108455/39-4572195a5df99f1cf7d.jpg"
+      },
+      {
+        "url": "https://www.cambioluce.it/wp-content/uploads/2016/12/CLLDKLZ-EMRGNC-BLK-LC-LUCE-DI-EMERGENZIA-LED-3W-IP65-CARTELLO-PIOTTOGRAMMI-2.jpg"
+      },
+      {
+        "url": "http://www.ibnanalytics.com/wp-content/uploads/2017/02/shutterstock_230483536.jpg"
+      },
+      {
+        "url": "https://ecotarius.com/327-thickbox_default/slimline-15w-non-maintained-led-emergency-exit-sign-box.jpg"
+      },
+      {
+        "url": "http://www.lrmelectrics.com/wp-content/uploads/2016/09/emergency-lighting-testing.png"
+      },
+      {
+        "url": "http://www.armoursafe.co.uk/wp-content/uploads/2015/03/iStock_000051978672_Medium-900x599.jpg"
+      },
+      {
+        "url": "https://www.brandschutz-pilzer.de/uploads/767x0_2560x0/GLO-002_kl.jpg"
+      },
+      {
+        "url": "https://www.resume.se/globalassets/exit1.jpg"
+      },
+      {
+        "url": "https://www.fringsgruppe.de/wp-content/uploads/2016/09/Notbeleuchtung-9230483524-0845x590.jpg"
+      },
+      {
+        "url": "http://www.sobel.rs/images/content/ceag/panik%20velika.jpg"
+      },
+      {
+        "url": "http://res.mefair.com/Images/7333061f-d3af-4ff2-918d-bd9422d4772f/800/600/image.jpg"
+      },
+      {
+        "url": "https://www.inotec-licht.it/fileadmin/ipd/produkte/Systemnotleuchte/SNP%20Sicherheits-Notleuchte-Piktogramm/251_ARCH_SNP-1530-D-WA_DSC2476.jpg"
+      },
+      {
+        "url": "http://www.a1electricssw.co.uk/wp-content/uploads/2017/03/emergency_lighting_hp.jpg"
+      },
+      {
+        "url": "https://hajimeteweb.jp/column/color_select/images/img4-2.jpg"
+      },
+      {
+        "url": "http://www.en.tamcontrol.fi/api/thumbnail?img=http://image.schrack.com/foto/f_nlkw0103--.jpg&amp;width=140&amp;height=250"
+      },
+      {
+        "url": "https://www.on-light.de/uploads/pics/rzb_gsun_s_b1.jpg"
+      },
+      {
+        "url": "http://img.directindustry.com/pt/images_di/photo-g/36143-9819521.jpg"
+      },
+      {
+        "url": "http://poleschner.de/fileadmin/user_upload/brandschutz-poleschner/images/notausgang.png"
+      },
+      {
+        "url": "http://www.sinka.cz/images/galerie/cedule/DSC07958_640x480.JPG"
+      },
+      {
+        "url": "https://imgredirect.milanuncios.com/fg/2161/54/materiales-de-construccion/Se%C3%B1ales-de-salida-emergencia-216154450_2.jpg"
+      },
+      {
+        "url": "https://image.slidesharecdn.com/perulanganbentuk-160612112136/95/rupa-dasar-1-bagian-3-15-638.jpg?cb=1465913755"
+      },
+      {
+        "url": "https://media.licdn.com/mpr/mpr/AAIAAgDGAAoAAQAAAAAAAAshAAAAJDg4MmM5NmFiLTQxN2EtNGNlYS05MDIwLTE3OGNjY2NiOGFmNA.jpg"
+      },
+      {
+        "url": "http://www.colegiosje.com/wp-content/uploads/2016/11/simulacro-evacuacion-2016.jpg"
+      },
+      {
+        "url": "https://www.superto.cz/fotografie/837940/0/x/picture.png"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/c9c9043616f447e4beaf1183f5ee7622/emergency-exit-sign-above-a-black-doorway-eap5x0.jpg"
+      },
+      {
+        "url": "http://l7.alamy.com/zooms/b022d0202bda4a0d908a7f5869c1b60b/emergency-exit-sign-above-a-black-doorway-eap5wk.jpg"
+      },
+      {
+        "url": "http://luxreview.com/upload/rich/1493722944_Screen%20Shot%202017-05-02%20at%2012.01.59.png"
+      },
+      {
+        "url": "https://ohmenergy.fr/wp-content/uploads/2018/01/verifications-baes.jpg"
+      },
+      {
+        "url": "https://images.cdn.yle.fi/image/upload/fl_keep_iptc,f_auto,fl_progressive/q_88/w_2197,h_1236,c_crop,x_3,y_0/w_700/v1516108455/39-4572195a5df99f1cf7d.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "http://luxreview.com/article/2017/05/lux-s-top-ten-emergency-lighting-stories",
+        "pageTitle": "Lux&amp;#39;s top ten &lt;b&gt;emergency lighting&lt;/b&gt; stories | Lux Magazine | Luxreview ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://luxreview.com/upload/rich/1493735607_Screen%20Shot%202017-05-02%20at%2015.32.54.png"
+          },
+          {
+            "url": "http://luxreview.com/upload/rich/1493722944_Screen%20Shot%202017-05-02%20at%2012.01.59.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.jimsfiresafety.com.au/emergency-light-standards",
+        "pageTitle": "&lt;b&gt;Emergency Light&lt;/b&gt; Standards | Jim&amp;#39;s Fire Safety",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.jimsfiresafety.com.au/wp-content/uploads/2017/10/JTT_EmergencyLightNormal-e1508804026519-500x383.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.directindustry.com/industrial-manufacturer/emergency-lighting-225305.html",
+        "pageTitle": "&lt;b&gt;Emergency lighting&lt;/b&gt; - All industrial manufacturers - Videos",
+        "partialMatchingImages": [
+          {
+            "url": "http://img.directindustry.com/images_di/photo-m2/36143-7699003.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.sharpfireandsafety.com/fire-safety/emergency-lighting/",
+        "pageTitle": "&lt;b&gt;Emergency Lighting&lt;/b&gt; - Sharp Fire &amp;amp; Safety",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.sharpfireandsafety.com/wp-content/uploads/2017/02/Emergency-Lighting-Sharp-Fire-Safety-1024x683.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.cefs.org.uk/our-services/emergency-lighting/",
+        "pageTitle": "CEFS | &lt;b&gt;Emergency Lighting&lt;/b&gt;",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.cefs.org.uk/media/1461/cefs-8-commercial-and-domestic-electronic-fire-and-security-systems.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://tasvalleyfire.com/fire-alarms-emergency-lighting/",
+        "pageTitle": "Fire Alarms &amp;amp; &lt;b&gt;Emergency Lighting&lt;/b&gt; - - Tas Valley Fire",
+        "partialMatchingImages": [
+          {
+            "url": "http://tasvalleyfire.com/wp/wp-content/uploads/2015/04/download-4.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.adeelectricalanddata.co.uk/emergency-lighting/",
+        "pageTitle": "&lt;b&gt;Emergency Lighting&lt;/b&gt; | ADE",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.adeelectricalanddata.co.uk/wp-content/uploads/2017/11/lighting.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://skylineelectrical.com.au/commercial/emergency-lighting/",
+        "pageTitle": "&lt;b&gt;Emergency Lighting&lt;/b&gt; Installation - Skyline Electrical",
+        "partialMatchingImages": [
+          {
+            "url": "http://skylineelectrical.com.au/wp-content/uploads/2015/08/iStock_000051978672_Medium.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.directindustry.com/prod/cooper-crouse-hinds/product-36143-1533165.html",
+        "pageTitle": "&lt;b&gt;Emergency lighting&lt;/b&gt; / LED / outdoor / maintenance-free - Ex-LITE ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://img.directindustry.com/images_di/photo-g/36143-7699003.jpg"
+          },
+          {
+            "url": "http://img.directindustry.com/images_di/photo-g/36143-9819521.jpg"
+          },
+          {
+            "url": "http://img.directindustry.com/images_di/photo-mg/36143-7699003.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.lrmelectrics.com/lighting-design-and-installation/",
+        "pageTitle": "&lt;b&gt;Lighting&lt;/b&gt; Design and Installation - LRM ELECTRICS",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lrmelectrics.com/wp-content/uploads/2016/09/emergency-lighting-testing.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.ledprofil.net/en/the-emergency-lighting/",
+        "pageTitle": "The &lt;b&gt;Emergency Lighting&lt;/b&gt; – Linear Lighting Systems - LED Profile",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ledprofil.net/wp-content/uploads/2017/07/notbeleuchtung.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.malux.fi/en/tuoteryhmat/lighting/light-fittings-industry-atex/emergency-light-fittings/self-contained-luminaires/ex-lite-n-led",
+        "pageTitle": "Ex-Lite N LED - Malux",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.malux.fi/MediaBinaryLoader.axd?MediaArchive_VersionID=0f1c8824-ba5d-430b-a7bf-5db431393c8f&amp;FileName=12191011001_p.jpg_400_400.Jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.malux.fi/en/tuoteryhmat/lighting/light-fittings-industry-atex/emergency-light-fittings/centrally-supplied-luminaires/ex-lite-led",
+        "pageTitle": "Ex-Lite CG-S LED - Malux",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.malux.fi/MediaBinaryLoader.axd?MediaArchive_VersionID=0f1c8824-ba5d-430b-a7bf-5db431393c8f&amp;FileName=12191011001_p.jpg_400_400.Jpeg"
+          }
+        ]
+      },
+      {
+        "url": "http://firestoppers.co.uk/emergency-lighting/",
+        "pageTitle": "&lt;b&gt;EMERGENCY LIGHTING&lt;/b&gt; – Fire Stoppers East Midlands",
+        "partialMatchingImages": [
+          {
+            "url": "http://firestoppers.co.uk/wp-content/uploads/2017/10/emergency-lighting-installation.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.rmhelectricalltd.com/commercial.php",
+        "pageTitle": "Commercial Services - RMH &lt;b&gt;Lighting&lt;/b&gt; &amp;amp; Electrical",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.rmhelectricalltd.com/img/service-detail/fire-alarm-2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.stroudalarms.com/fire-solutions/",
+        "pageTitle": "Fire Solutions - Stroud Alarms - Gloucestershire",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.stroudalarms.com/_webedit/cached-images/63-0-0-2446-10000-4560-835.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.power-one.co.uk/emergency-lighting/",
+        "pageTitle": "&lt;b&gt;Emergency Lighting&lt;/b&gt; - Power One Electrical Services Ltd",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.power-one.co.uk/wp-content/uploads/2015/12/emergency-lighting-testing.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.tulux.ch/en/products/productdb/group/list/notleuchten-1000018293/",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; luminaires - Tulux AG",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.tulux.ch/fileadmin/produktdatenbank/images/product/1418.JPG"
+          }
+        ]
+      },
+      {
+        "url": "http://torus-led.co.uk/blog/1227/does-your-emergency-lighting-meet-regulations/",
+        "pageTitle": "Does your &lt;b&gt;emergency lighting&lt;/b&gt; meet safety regulations? - Torus LED ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://torus-led.co.uk/wp-content/uploads/2017/06/1280px-Fluchtwegbeschilderung_als_Scheibenleuchte_Inotec_LED_rechts.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.sheetlite.nl/en/the-sign/",
+        "pageTitle": "The Sign - Sheetlite",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.sheetlite.nl/wp-content/uploads/2014/12/signpijlnaarrechts.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://skylineelectrical.com.au/commercial/",
+        "pageTitle": "Commercial Electricians | Skyline Electrical",
+        "partialMatchingImages": [
+          {
+            "url": "http://skylineelectrical.com.au/wp-content/uploads/2015/08/iStock_000051978672_Medium-450x200.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://pmzelectrical.co.uk/",
+        "pageTitle": "PMZ Electrical",
+        "partialMatchingImages": [
+          {
+            "url": "http://pmzelectrical.co.uk/wp-content/uploads/2016/02/shutterstock_195005585-270x172.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.military-technologies.net/2018/01/10/emergency-lighting-market-analysis-market-size-regional-outlook-competitive-strategies-and-forecasts-2018-to-2023-focusing-on-top-key-vendors-philips-schneider-mpn-hubbell-lowes-nv/",
+        "pageTitle": "&lt;b&gt;Emergency Lighting&lt;/b&gt; Market Analysis, Market Size, Regional Outlook ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.satprnews.com/wp-content/uploads/2018/01/Emergency-Lighting.png"
+          }
+        ]
+      },
+      {
+        "url": "http://playstationaction.com/emergency-lighting/",
+        "pageTitle": "Lighting. &lt;b&gt;Emergency Lighting&lt;/b&gt; - Lighting Idea for Your Home ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://playstationaction.com/wp-content/uploads/2018/03/lux-s-top-ten-emergency-lighting-stories-magazine-for-decorations-7.png"
+          }
+        ]
+      },
+      {
+        "url": "http://www.wikiwand.com/en/Exit_sign",
+        "pageTitle": "Exit sign - Wikiwand",
+        "partialMatchingImages": [
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg/240px-Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg"
+          },
+          {
+            "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg/1280px-Fluchtwegbeschilderung_als_Scheibenleuchte%2C_Inotec%2C_LED%2C_rechts.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.a1electricssw.co.uk/",
+        "pageTitle": "A1 Electrics SW Ltd – Southwest Electricians",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.a1electricssw.co.uk/wp-content/uploads/2017/03/emergency_lighting_hp.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.schrack.com/shop/self-contained-luminaire-kc-self-contr-8w-3h-230v-wall-pri-nlkcwp833s.html",
+        "pageTitle": "Self-contained luminaire KC self-contr. 8W/3h 230V wall,pri. - Online ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.schrack.com/340x380/f_nlkc0103--.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.schrack.sa/shop/emergency-luminaire-kc-led-230v-ac-wall-mounting-nlkcwp009.html",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; luminaire KC LED 230V AC wall mounting - Online ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.schrackcdn.com/340x380/f_nlkc0103--.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.123rf.com/stock-photo/exit_sign_lighting.html",
+        "pageTitle": "Exit Sign &lt;b&gt;Lighting&lt;/b&gt; Stock Photos. Royalty Free Business Images",
+        "partialMatchingImages": [
+          {
+            "url": "https://us.123rf.com/450wm/marcoscisetti/marcoscisetti1702/marcoscisetti170200171/72763883-emergency-exit-sign-above-a-black-doorway.jpg?ver=6"
+          }
+        ]
+      },
+      {
+        "url": "https://www.schrack.sa/shop/emergency-luminaire-kw-ert-led-230v-ml-wall-mounting-nlkww039ml.html",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; luminaire KW ERT-LED 230V ML wall mounting - Online ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://image.schrackcdn.com/340x380/f_nlkw0103--.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.123rf.com/stock-photo/emergency_exit_guide_light.html",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; Exit Guide &lt;b&gt;Light&lt;/b&gt; Stock Photos &amp;amp; Pictures. Royalty Free ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://us.123rf.com/450wm/marcoscisetti/marcoscisetti1702/marcoscisetti170200171/72763883-emergency-exit-sign-above-a-black-doorway.jpg?ver=6"
+          }
+        ]
+      },
+      {
+        "url": "http://www.ledprofil.net/en/main-page/",
+        "pageTitle": "Linear &lt;b&gt;Lighting&lt;/b&gt; Systems – Linear &lt;b&gt;Lighting&lt;/b&gt; Solution - LED Profile",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.ledprofil.net/wp-content/uploads/2017/07/notbeleuchtung.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.power-one.co.uk/",
+        "pageTitle": "Power One Electrical",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.power-one.co.uk/wp-content/uploads/2015/12/emergency-lighting-testing.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.fireandsafety.uk.com/",
+        "pageTitle": "Hentland",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.fireandsafety.uk.com/userfiles/slideshows/20-emergency-lighting-shop-banner.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.alamy.com/stock-photo/green-white-illuminated-emergency-exit.html",
+        "pageTitle": "Green White Illuminated &lt;b&gt;Emergency&lt;/b&gt; Exit Stock Photos &amp;amp; Green ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/b022d0202bda4a0d908a7f5869c1b60b/emergency-exit-sign-above-a-black-doorway-eap5wk.jpg"
+          },
+          {
+            "url": "http://l7.alamy.com/zooms/c9c9043616f447e4beaf1183f5ee7622/emergency-exit-sign-above-a-black-doorway-eap5x0.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.en.tamcontrol.fi/products.html?id=38512/&amp;p=7",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; Luminaires | TamControl",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.en.tamcontrol.fi/api/thumbnail?img=http://image.schrack.com/foto/f_nlkc0103--.jpg&amp;width=140&amp;height=250"
+          }
+        ]
+      },
+      {
+        "url": "http://www.lilianduval.com/fire-safety-emergency-lighting/",
+        "pageTitle": "Fire Safety &lt;b&gt;Emergency Lighting&lt;/b&gt; - Lilianduval",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.sharpfireandsafety.com/wp-content/uploads/2017/02/Emergency-Lighting-Sharp-Fire-Safety-1024x683.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.barewalls.com/posters-art-prints/emergency-exits.html",
+        "pageTitle": "4,752 &lt;b&gt;Emergency&lt;/b&gt; exits Posters and Art Prints | Barewalls",
+        "partialMatchingImages": [
+          {
+            "url": "https://cdn-thumbs.barewalls.com/bwc3170267.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shutterstock.com/image-photo/emergency-exit-sign-above-black-doorway-230483536",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; Exit Sign Above Black Doorway Stock Photo 230483536 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumb1.shutterstock.com/display_pic_with_logo/149422/230483536/stock-photo-emergency-exit-sign-above-a-black-doorway-230483536.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/caution-how-you-packaging-your-led-pcb-products-dan-king",
+        "pageTitle": "CAUTION - How are you packaging your LED PCB products? | Dan ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.licdn.com/media-proxy/ext?w=360&amp;h=120&amp;f=t&amp;hash=VPka1ywTwZ8Ub4ZU71jalnz%2FSDQ%3D&amp;ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6nlh8Tw1It6a2FowGz60oISJLOTW3hGTrbi6DxERaYCLauCMPQ1QhBCV1w4X5GDqjBJFXgb9nGdvaLD4QMwfahWuSWbiolOUgMsWFEwOYBMiATm52LIe_8TRl439VfIyWtNA"
+          }
+        ]
+      },
+      {
+        "url": "http://www.en.tamcontrol.fi/products.html?id=38512/517035",
+        "pageTitle": "NLKC0103-- | TamControl",
+        "partialMatchingImages": [
+          {
+            "url": "http://image.schrack.com/foto/f_nlkc0103--.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.shutterstock.com/image-photo/arrow-signage-case-emergency-531452554",
+        "pageTitle": "Arrow Signage Case &lt;b&gt;Emergency&lt;/b&gt; Stock Photo 531452554 ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://thumb9.shutterstock.com/display_pic_with_logo/149422/230483536/stock-photo-emergency-exit-sign-above-a-black-doorway-230483536.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.alamy.com/stock-photo/white-door-emergency-exit-sign.html",
+        "pageTitle": "White Door &lt;b&gt;Emergency&lt;/b&gt; Exit Sign Stock Photos and Images - Alamy",
+        "partialMatchingImages": [
+          {
+            "url": "http://l7.alamy.com/zooms/b022d0202bda4a0d908a7f5869c1b60b/emergency-exit-sign-above-a-black-doorway-eap5wk.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.thinkstockphotos.com/royalty-free/emergency-exit-pictures",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; Exit Stock Photos and Illustrations - Royalty-Free Images ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://media.gettyimages.com/photos/emergency-exit-stock-image-picture-id525454017?s=170x170&amp;w=1007"
+          }
+        ]
+      },
+      {
+        "url": "http://azcodes.com/aXMgZW1lcmdlbmN5IGxpZ2h0aW5nIGEgbGVnYWwgcmVxdWlyZW1lbnQ/",
+        "pageTitle": "Is &lt;b&gt;Emergency Lighting&lt;/b&gt; A Legal Requirement &amp;amp; Some Common ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.lrmelectrics.com/wp-content/uploads/2016/09/emergency-lighting-testing.png"
+          }
+        ]
+      },
+      {
+        "url": "https://www.freeimages.com/photo/emergency-exit-1-1559547",
+        "pageTitle": "Free &lt;b&gt;emergency&lt;/b&gt; exit 1 Stock Photo - FreeImages.com",
+        "partialMatchingImages": [
+          {
+            "url": "https://media.gettyimages.com/photos/emergency-exit-stock-image-picture-id525454017?b=1&amp;k=6&amp;m=525454017&amp;s=170x170&amp;h=0X9f6FD4-aWnHIeH6MoKtIinwBUG2s1zyPA83N7mHsk="
+          }
+        ]
+      },
+      {
+        "url": "http://www.crimsonfireservices.co.uk/",
+        "pageTitle": "Crimson Fire Risk Services Ltd: Fire Risk Assessment East Midlands ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://s3-eu-west-1.amazonaws.com/cdn.webfactore.co.uk/sr_423077.jpg?1476369958"
+          }
+        ]
+      },
+      {
+        "url": "http://www.allreadysafe.com.au/",
+        "pageTitle": "Fire Safety Training, &lt;b&gt;Emergency&lt;/b&gt; &amp;amp; Evacuation Management ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.allreadysafe.com.au/sites/default/files/styles/image_full_width/public/highlighted/exit-sign.jpg?itok=94CjV6uI"
+          }
+        ]
+      },
+      {
+        "url": "http://www.allreadysafe.com.au/emergency-plans-and-documentation",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; Training Plans, Documentation, Management, Program ...",
+        "partialMatchingImages": [
+          {
+            "url": "http://www.allreadysafe.com.au/sites/default/files/styles/image_full_width/public/highlighted/exit-sign.jpg?itok=94CjV6uI"
+          }
+        ]
+      },
+      {
+        "url": "https://depositphotos.com/58143857/stock-photo-emergency-exit-stock-image.html",
+        "pageTitle": "&lt;b&gt;Emergency&lt;/b&gt; exit - Stock Image — Stock Photo © marcoscisetti ...",
+        "partialMatchingImages": [
+          {
+            "url": "https://st2.depositphotos.com/3214223/5814/i/450/depositphotos_58143857-stock-photo-emergency-exit-stock-image.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://gossen-photo.de/wp-content/uploads/2017/06/LMT_Notbeleuchtung_800x800.jpg"
+      },
+      {
+        "url": "http://www.homelifeservices.co.uk/wp-content/uploads/Emergency-Lighting-Preston-Homelifeservices.jpg"
+      },
+      {
+        "url": "https://irp-cdn.multiscreensite.com/1a389443/dms3rep/multi/desktop/emergency-lighting-page-support-02.jpg"
+      },
+      {
+        "url": "http://www.sharpfireandsafety.com/wp-content/uploads/2017/02/Emergency-Lighting-Sharp-Fire-Safety-1024x683.jpg"
+      },
+      {
+        "url": "http://www.pol-me.com/wp-content/uploads/2018/03/who-designed-the-layout-for-emergency-lighting-inspirational-fileexit-light-sign-jpg-wikimedia-mons-idolza.jpg"
+      },
+      {
+        "url": "http://www.abcfireandsafety.co.uk/img/abc-emergency-lights.jpg"
+      },
+      {
+        "url": "http://www.bsaregalelectrical.co.uk/theme/img/services/emergency-lighting.jpg"
+      },
+      {
+        "url": "https://sc02.alicdn.com/kf/UT8yrX.XNtaXXagOFbX3.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "emergency lighting",
+        "languageCode": "en"
+      }
+    ]
+  }
+}

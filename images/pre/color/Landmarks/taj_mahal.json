@@ -1,0 +1,675 @@
+{
+  "landmarkAnnotations": [
+    {
+      "mid": "/m/0l8cb",
+      "description": "Taj Mahal",
+      "score": 0.8554278,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 51,
+            "y": 68
+          },
+          {
+            "x": 556,
+            "y": 68
+          },
+          {
+            "x": 556,
+            "y": 380
+          },
+          {
+            "x": 51,
+            "y": 380
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 27.174698469698683,
+            "longitude": 78.042073
+          }
+        }
+      ]
+    },
+    {
+      "mid": "/m/081jv3",
+      "description": "Amber Fort",
+      "score": 0.22551392,
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 245,
+            "y": 141
+          },
+          {
+            "x": 326,
+            "y": 141
+          },
+          {
+            "x": 326,
+            "y": 286
+          },
+          {
+            "x": 245,
+            "y": 286
+          }
+        ]
+      },
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 26.986056,
+            "longitude": 75.850675
+          }
+        }
+      ]
+    }
+  ],
+  "labelAnnotations": [
+    {
+      "mid": "/m/05_5t0l",
+      "description": "landmark",
+      "score": 0.92976964,
+      "topicality": 0.92976964
+    },
+    {
+      "mid": "/m/07yr8h",
+      "description": "historic site",
+      "score": 0.8867646,
+      "topicality": 0.8867646
+    },
+    {
+      "mid": "/m/07bxq",
+      "description": "tourism",
+      "score": 0.87775725,
+      "topicality": 0.87775725
+    },
+    {
+      "mid": "/m/0pgl9",
+      "description": "tourist attraction",
+      "score": 0.8601207,
+      "topicality": 0.8601207
+    },
+    {
+      "mid": "/m/04g3r",
+      "description": "leisure",
+      "score": 0.7789611,
+      "topicality": 0.7789611
+    },
+    {
+      "mid": "/m/0838f",
+      "description": "water",
+      "score": 0.73271996,
+      "topicality": 0.73271996
+    },
+    {
+      "mid": "/m/08g_yr",
+      "description": "temple",
+      "score": 0.7252279,
+      "topicality": 0.7252279
+    },
+    {
+      "mid": "/m/014dsx",
+      "description": "travel",
+      "score": 0.6842726,
+      "topicality": 0.6842726
+    },
+    {
+      "mid": "/m/06y_bg",
+      "description": "hindu temple",
+      "score": 0.66547316,
+      "topicality": 0.66547316
+    },
+    {
+      "mid": "/m/05y0x",
+      "description": "pilgrimage",
+      "score": 0.657129,
+      "topicality": 0.657129
+    },
+    {
+      "mid": "/m/02nvjx",
+      "description": "place of worship",
+      "score": 0.6517059,
+      "topicality": 0.6517059
+    },
+    {
+      "mid": "/m/06bvp",
+      "description": "religion",
+      "score": 0.6332717,
+      "topicality": 0.6332717
+    },
+    {
+      "mid": "/m/09n1hz",
+      "description": "khanqah",
+      "score": 0.6267475,
+      "topicality": 0.6267475
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.59999615,
+      "topicality": 0.59999615
+    },
+    {
+      "mid": "/m/02jwqh",
+      "description": "vacation",
+      "score": 0.58505243,
+      "topicality": 0.58505243
+    },
+    {
+      "mid": "/m/01n32",
+      "description": "city",
+      "score": 0.5832383,
+      "topicality": 0.5832383
+    },
+    {
+      "mid": "/m/01hmml",
+      "description": "mausoleum",
+      "score": 0.5800896,
+      "topicality": 0.5800896
+    },
+    {
+      "mid": "/m/0cx45",
+      "description": "temple",
+      "score": 0.57985455,
+      "topicality": 0.57985455
+    },
+    {
+      "mid": "/m/06bm2",
+      "description": "recreation",
+      "score": 0.5713027,
+      "topicality": 0.5713027
+    },
+    {
+      "mid": "/m/03qtwd",
+      "description": "crowd",
+      "score": 0.5575781,
+      "topicality": 0.5575781
+    },
+    {
+      "mid": "/m/0ds99lh",
+      "description": "fun",
+      "score": 0.55180824,
+      "topicality": 0.55180824
+    },
+    {
+      "mid": "/m/07s3m",
+      "description": "tours",
+      "score": 0.5342124,
+      "topicality": 0.5342124
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 183,
+            "green": 200,
+            "blue": 220
+          },
+          "score": 0.28044978,
+          "pixelFraction": 0.30746666
+        },
+        {
+          "color": {
+            "red": 119,
+            "green": 69,
+            "blue": 53
+          },
+          "score": 0.018622698,
+          "pixelFraction": 0.007
+        },
+        {
+          "color": {
+            "red": 190,
+            "green": 91,
+            "blue": 30
+          },
+          "score": 0.0097591225,
+          "pixelFraction": 0.00073333335
+        },
+        {
+          "color": {
+            "red": 182,
+            "green": 147,
+            "blue": 64
+          },
+          "score": 0.0067190924,
+          "pixelFraction": 0.0020666667
+        },
+        {
+          "color": {
+            "red": 187,
+            "green": 193,
+            "blue": 200
+          },
+          "score": 0.18853015,
+          "pixelFraction": 0.10473333
+        },
+        {
+          "color": {
+            "red": 211,
+            "green": 195,
+            "blue": 173
+          },
+          "score": 0.08888661,
+          "pixelFraction": 0.12093333
+        },
+        {
+          "color": {
+            "red": 113,
+            "green": 164,
+            "blue": 184
+          },
+          "score": 0.0008563845,
+          "pixelFraction": 0.0006
+        },
+        {
+          "color": {
+            "red": 237,
+            "green": 221,
+            "blue": 200
+          },
+          "score": 0.04782589,
+          "pixelFraction": 0.0258
+        },
+        {
+          "color": {
+            "red": 169,
+            "green": 156,
+            "blue": 134
+          },
+          "score": 0.04365902,
+          "pixelFraction": 0.0816
+        },
+        {
+          "color": {
+            "red": 160,
+            "green": 158,
+            "blue": 155
+          },
+          "score": 0.040482264,
+          "pixelFraction": 0.0448
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 214
+            },
+            {
+              "x": 767
+            },
+            {
+              "x": 767,
+              "y": 682
+            },
+            {
+              "x": 214,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.59999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 152
+            },
+            {
+              "x": 838
+            },
+            {
+              "x": 838,
+              "y": 682
+            },
+            {
+              "x": 152,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.72999996
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 80
+            },
+            {
+              "x": 900
+            },
+            {
+              "x": 900,
+              "y": 682
+            },
+            {
+              "x": 80,
+              "y": 682
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.84
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/0l8cb",
+        "score": 63.9616,
+        "description": "Taj Mahal"
+      },
+      {
+        "entityId": "/m/04798c",
+        "score": 25.6192,
+        "description": "Agra Fort"
+      },
+      {
+        "entityId": "/m/025x0rn",
+        "score": 1.329,
+        "description": "Golden Triangle"
+      },
+      {
+        "entityId": "/m/02636jl",
+        "score": 0.8004,
+        "description": "New7Wonders of the World"
+      },
+      {
+        "entityId": "/m/0pgl9",
+        "score": 0.79401803,
+        "description": "Tourist attraction"
+      },
+      {
+        "entityId": "/m/01hmml",
+        "score": 0.7215471,
+        "description": "Mausoleum"
+      },
+      {
+        "entityId": "/t/21mxcct4492j5",
+        "score": 0.7002
+      },
+      {
+        "entityId": "/m/014dsx",
+        "score": 0.6587952,
+        "description": "Travel"
+      },
+      {
+        "entityId": "/m/06qb9",
+        "score": 0.5142,
+        "description": "Seven Wonders of the Ancient World"
+      },
+      {
+        "entityId": "/m/02ljgl",
+        "score": 0.5106,
+        "description": "Monument"
+      },
+      {
+        "entityId": "/g/120yrv6h",
+        "score": 0.4362,
+        "description": "Tourism"
+      },
+      {
+        "entityId": "/g/125n3xqcv",
+        "score": 0.4257,
+        "description": "Miếu"
+      },
+      {
+        "entityId": "/m/020753",
+        "score": 0.10396,
+        "description": "Mumtaz Mahal"
+      },
+      {
+        "entityId": "/m/01zxx9",
+        "score": 0.00108368,
+        "description": "Agra"
+      },
+      {
+        "entityId": "/m/03rk0",
+        "score": 0.0000026604002,
+        "description": "India"
+      }
+    ],
+    "fullMatchingImages": [
+      {
+        "url": "https://farm3.staticflickr.com/2060/2154751323_f738c57c4c_b.jpg"
+      },
+      {
+        "url": "https://d2uqfpnktc64mn.cloudfront.net/uploads/ckeditor_assets/pictures/16458/content_c4-Image-by-Paul-Asman-and-Jill-Lenoble.-Taj-Mahal.-Agra_-India..jpg"
+      },
+      {
+        "url": "https://catracalivre.com.br/wp-content/uploads/2017/07/2154751323_f738c57c4c_b.jpg"
+      },
+      {
+        "url": "https://anntw-prod.s3.amazonaws.com/assets/images/000/023/736/big/2154751323_f738c57c4c_z.jpg?1448964721"
+      },
+      {
+        "url": "https://www.indiascup.com/wp-content/uploads/2016/07/2154751323_f738c57c4c_z.jpg"
+      },
+      {
+        "url": "https://livingintravels.com/wp-content/uploads/2017/10/tadzh-maxal-isklyuchili-iz-turisticheskogo-bukleta-indijskogo-shtata.jpg"
+      },
+      {
+        "url": "http://www.enjoytrip.com.br/wp-content/uploads/2017/07/image008.jpg"
+      }
+    ],
+    "partialMatchingImages": [
+      {
+        "url": "https://ocdn.eu/pulscms-transforms/1/BdkktkqTURBXy83MmJmY2EwYjE1MmEzOTlhNGQyMTRlNGRiMWJjOTdkMy5qcGVnk5UCzQMUAMLDlQIAzQL4wsOVB9kyL3B1bHNjbXMvTURBXy8xZDc0Y2I0MTcwNTk1MDQzNjYyOWNhYmQ2MDZmNTBmNi5wbmcHwgA"
+      },
+      {
+        "url": "https://www.responsibletravel.com/ImagesClient/famTeens-p2-india.jpg"
+      },
+      {
+        "url": "https://www.responsibletravel.com/ImagesClient/goldenTriangle-p1-agra.jpg"
+      }
+    ],
+    "pagesWithMatchingImages": [
+      {
+        "url": "https://www.indiascup.com/2016/07/19/income-taj-mahal/",
+        "pageTitle": "India&amp;#39;s Cup -The Income of the &lt;b&gt;Taj Mahal&lt;/b&gt; - India&amp;#39;s Cup",
+        "fullMatchingImages": [
+          {
+            "url": "https://www.indiascup.com/wp-content/uploads/2016/07/2154751323_f738c57c4c_z.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://beautifulnow.is/discover/place-time/big-love-inspired-taj-mahal-labor-of-love-built-in-post-mortem-tribute-to-beloved-wife-see-its-glory",
+        "pageTitle": "Big Love Inspired &lt;b&gt;Taj Mahal&lt;/b&gt; | Big Beautiful Labor of Love ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://d2uqfpnktc64mn.cloudfront.net/uploads/ckeditor_assets/pictures/16458/content_c4-Image-by-Paul-Asman-and-Jill-Lenoble.-Taj-Mahal.-Agra_-India..jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://beautifulnow.is/discover/place-time/big-love-inspires-big-beautiful-labors-of-love-the-taj-mahal-built-by-a-man-as-a-loving-tribute-to-his-beloved-deceased-wife-is-one-big-beautiful-example",
+        "pageTitle": "Big Love Inspires Big Beautiful Labors of Love | BeautifulNow",
+        "fullMatchingImages": [
+          {
+            "url": "https://d2uqfpnktc64mn.cloudfront.net/uploads/ckeditor_assets/pictures/16458/content_c4-Image-by-Paul-Asman-and-Jill-Lenoble.-Taj-Mahal.-Agra_-India..jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.responsibletravel.com/holidays/golden-triangle-in-india/travel-guide",
+        "pageTitle": "India&amp;#39;s Golden Triangle travel guide - Responsible Travel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.responsibletravel.com/ImagesClient/goldenTriangle-p1-agra.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.responsiblevacation.com/vacations/golden-triangle-in-india/travel-guide",
+        "pageTitle": "India&amp;#39;s Golden Triangle travel guide - Responsible Travel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.responsiblevacation.com/ImagesClient/goldenTriangle-p1-agra.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.responsibletravel.com/holidays/family-with-teenagers/travel-guide/where-to-go-on-family-holidays-with-teenagers",
+        "pageTitle": "Where to go on family holidays with teenagers - Responsible Travel",
+        "partialMatchingImages": [
+          {
+            "url": "https://www.responsibletravel.com/ImagesClient/famTeens-p2-india.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@AQOFIIII",
+        "pageTitle": "Untitled on emaze",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm3.staticflickr.com/2060/2154751323_f738c57c4c_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://www.emaze.com/@AQOFIIII/untitled",
+        "pageTitle": "TOTO, we&amp;#39;re not in Kansas anymore... - Emaze",
+        "fullMatchingImages": [
+          {
+            "url": "https://farm3.staticflickr.com/2060/2154751323_f738c57c4c_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.resumeformatdownload.com/seba-della-and-sole",
+        "pageTitle": "Seba Della And Sole. Stupas And Merchants Flickr Cc By Greg ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://d2uqfpnktc64mn.cloudfront.net/uploads/ckeditor_assets/pictures/16458/content_c4-Image-by-Paul-Asman-and-Jill-Lenoble.-Taj-Mahal.-Agra_-India..jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://catracalivre.com.br/geral/viagem-livre/indicacao/os-livros-que-sao-otimas-fontes-de-inspiracao-para-viagens/",
+        "pageTitle": "Os livros que são ótimas fontes de inspiração para viagens",
+        "fullMatchingImages": [
+          {
+            "url": "https://catracalivre.com.br/wp-content/uploads/2017/07/2154751323_f738c57c4c_b.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.enjoytrip.com.br/es/noticias-es/lista-de-libros-que-son-excelentes-fuentes-de-inspiracion-para-viajes/",
+        "pageTitle": "Lista de libros que son excelentes fuentes de inspiración para viajes ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.enjoytrip.com.br/wp-content/uploads/2017/07/image008-2.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://businessinsider.com.pl/lifestyle/podroze/miejsca-do-ktorych-lepiej-nie-podrozowac-w-2018-roku/r8n2cv2",
+        "pageTitle": "Miejsca, do których lepiej nie podróżować w 2018 roku",
+        "partialMatchingImages": [
+          {
+            "url": "https://ocdn.eu/pulscms-transforms/1/BdkktkqTURBXy83MmJmY2EwYjE1MmEzOTlhNGQyMTRlNGRiMWJjOTdkMy5qcGVnk5UCzQMUAMLDlQIAzQL4wsOVB9kyL3B1bHNjbXMvTURBXy8xZDc0Y2I0MTcwNTk1MDQzNjYyOWNhYmQ2MDZmNTBmNi5wbmcHwgA"
+          }
+        ]
+      },
+      {
+        "url": "http://www.enjoytrip.com.br/noticias/lista-de-livros-que-sao-otimas-fontes-de-inspiracao-para-viagens/",
+        "pageTitle": "Lista de livros que são ótimas fontes de inspiração para viagens ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.enjoytrip.com.br/wp-content/uploads/2017/07/image008.jpg"
+          }
+        ]
+      },
+      {
+        "url": "http://www.melhorembarque.com.br/7-livros-que-dao-bons-roteiros-de-viagem/",
+        "pageTitle": "Ama ler e viajar? Então conheça 7 livros que dão bons roteiros de ...",
+        "fullMatchingImages": [
+          {
+            "url": "http://www.melhorembarque.com.br/wp-content/uploads/2017/08/Os-Filhos-da-Meia-Noite-de-Salman-Rushdie-%C3%8Dndia.jpg"
+          }
+        ]
+      },
+      {
+        "url": "https://anntw.com/articles/20151201-WUi0",
+        "pageTitle": "周渝民愛獨處林依晨讚他會耍寶- 台灣醒報Awakening News Networks",
+        "fullMatchingImages": [
+          {
+            "url": "https://anntw-prod.s3.amazonaws.com/assets/images/000/023/736/big/2154751323_f738c57c4c_z.jpg?1448964721"
+          }
+        ]
+      },
+      {
+        "url": "https://anntw.com/articles/20151201-6x2U",
+        "pageTitle": "泰姬瑪哈屬印度教？ 印法院：沒有證據- 台灣醒報Awakening News ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://anntw-prod.s3.amazonaws.com/assets/images/000/023/736/big/2154751323_f738c57c4c_z.jpg?1448964721"
+          }
+        ]
+      },
+      {
+        "url": "https://livingintravels.com/tadzh-maxal-isklyuchili-iz-turisticheskogo-bukleta-indijskogo-shtata/",
+        "pageTitle": "Тадж-Махал исключили из туристического буклета индийского ...",
+        "fullMatchingImages": [
+          {
+            "url": "https://livingintravels.com/wp-content/uploads/2017/10/tadzh-maxal-isklyuchili-iz-turisticheskogo-bukleta-indijskogo-shtata.jpg"
+          }
+        ]
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://static.toiimg.com/thumb/msid-49555208,width-640,resizemode-4/49555208.jpg"
+      },
+      {
+        "url": "https://images.reference.com/reference-production-images/question/aq/1400px-788px/materials-were-used-construct-taj-majal_105c181d1add2039.jpg"
+      },
+      {
+        "url": "https://images.reference.com/reference-production-images/question/aq/700px-394px/materials-were-used-construct-taj-majal_105c181d1add2039.jpg"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/3f/1f/f2/agra-taj-mahal-tour-packages.jpg"
+      },
+      {
+        "url": "https://farm1.staticflickr.com/261/31415208253_1ab9daffb8_c.jpg"
+      },
+      {
+        "url": "https://static1.squarespace.com/static/5475c689e4b05a135b085d65/t/5a939880085229b264f325e9/1519622312051/Top+Tips+for+Visiting+Taj+Mahal+Agra+India+Travel+Guide?format=750w"
+      },
+      {
+        "url": "http://www.thehindu.com/news/national/article19512435.ece/alternates/FREE_660/18THNSMTAJMAHAL"
+      },
+      {
+        "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2d/ca/99/le-taj-mahal-en-travaux.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "taj mahal"
+      }
+    ]
+  }
+}

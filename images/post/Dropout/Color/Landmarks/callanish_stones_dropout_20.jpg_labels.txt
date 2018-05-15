@@ -1,0 +1,10 @@
+sky
+cloud
+grass
+tree
+monolith
+ancient history
+archaeological site
+rock
+meteorological phenomenon
+ruins

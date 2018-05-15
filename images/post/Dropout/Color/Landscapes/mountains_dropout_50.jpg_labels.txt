@@ -1,0 +1,10 @@
+nature
+reflection
+water
+sky
+wilderness
+river
+bank
+tree
+lake
+mount scenery

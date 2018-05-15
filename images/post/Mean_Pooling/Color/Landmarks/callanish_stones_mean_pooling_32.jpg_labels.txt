@@ -1,0 +1,10 @@
+landmark
+sky
+mode of transport
+grass
+skyline
+structure
+residential area
+phenomenon
+skyscraper
+tree

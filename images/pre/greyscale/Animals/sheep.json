@@ -1,0 +1,392 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/01g6gs",
+      "description": "black and white",
+      "score": 0.940853,
+      "topicality": 0.940853
+    },
+    {
+      "mid": "/m/07bgp",
+      "description": "sheep",
+      "score": 0.9387573,
+      "topicality": 0.9387573
+    },
+    {
+      "mid": "/m/03vd46",
+      "description": "herd",
+      "score": 0.90996265,
+      "topicality": 0.90996265
+    },
+    {
+      "mid": "/m/08hhz2",
+      "description": "sheep",
+      "score": 0.9099071,
+      "topicality": 0.9099071
+    },
+    {
+      "mid": "/m/03d49p1",
+      "description": "monochrome photography",
+      "score": 0.87854594,
+      "topicality": 0.87854594
+    },
+    {
+      "mid": "/m/01mwkf",
+      "description": "monochrome",
+      "score": 0.772249,
+      "topicality": 0.772249
+    },
+    {
+      "mid": "/m/01280g",
+      "description": "wildlife",
+      "score": 0.76893264,
+      "topicality": 0.76893264
+    },
+    {
+      "mid": "/m/07k3c",
+      "description": "tundra",
+      "score": 0.76660246,
+      "topicality": 0.76660246
+    },
+    {
+      "mid": "/m/0ch8v",
+      "description": "livestock",
+      "score": 0.7468773,
+      "topicality": 0.7468773
+    },
+    {
+      "mid": "/m/01gd91",
+      "description": "pasture",
+      "score": 0.7450606,
+      "topicality": 0.7450606
+    },
+    {
+      "mid": "/m/01bqvp",
+      "description": "sky",
+      "score": 0.73993534,
+      "topicality": 0.73993534
+    },
+    {
+      "mid": "/m/03hh2k",
+      "description": "grazing",
+      "score": 0.6996437,
+      "topicality": 0.6996437
+    },
+    {
+      "mid": "/m/01c7cq",
+      "description": "grassland",
+      "score": 0.68519163,
+      "topicality": 0.68519163
+    },
+    {
+      "mid": "/m/01k050",
+      "description": "cow goat family",
+      "score": 0.6760968,
+      "topicality": 0.6760968
+    },
+    {
+      "mid": "/m/05mqq3",
+      "description": "snout",
+      "score": 0.65564686,
+      "topicality": 0.65564686
+    },
+    {
+      "mid": "/m/08t9c_",
+      "description": "grass",
+      "score": 0.6342984,
+      "topicality": 0.6342984
+    },
+    {
+      "mid": "/m/0cblv",
+      "description": "ecoregion",
+      "score": 0.56218606,
+      "topicality": 0.56218606
+    },
+    {
+      "mid": "/m/025s3q0",
+      "description": "landscape",
+      "score": 0.5451645,
+      "topicality": 0.5451645
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY"
+  },
+  "imagePropertiesAnnotation": {
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "red": 55,
+            "green": 55,
+            "blue": 55
+          },
+          "score": 0.28362963,
+          "pixelFraction": 0.45697507
+        },
+        {
+          "color": {
+            "red": 192,
+            "green": 192,
+            "blue": 192
+          },
+          "score": 0.1999894,
+          "pixelFraction": 0.027384948
+        },
+        {
+          "color": {
+            "red": 160,
+            "green": 160,
+            "blue": 160
+          },
+          "score": 0.15295261,
+          "pixelFraction": 0.026845638
+        },
+        {
+          "color": {
+            "red": 79,
+            "green": 79,
+            "blue": 79
+          },
+          "score": 0.14080487,
+          "pixelFraction": 0.117809206
+        },
+        {
+          "color": {
+            "red": 121,
+            "green": 121,
+            "blue": 121
+          },
+          "score": 0.100585274,
+          "pixelFraction": 0.041706614
+        },
+        {
+          "color": {
+            "red": 233,
+            "green": 233,
+            "blue": 233
+          },
+          "score": 0.09122263,
+          "pixelFraction": 0.13728428
+        },
+        {
+          "color": {
+            "red": 29,
+            "green": 29,
+            "blue": 29
+          },
+          "score": 0.030815588,
+          "pixelFraction": 0.19199425
+        }
+      ]
+    }
+  },
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 89
+            },
+            {
+              "x": 699
+            },
+            {
+              "x": 699,
+              "y": 749
+            },
+            {
+              "x": 89,
+              "y": 749
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.7
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 109
+            },
+            {
+              "x": 869
+            },
+            {
+              "x": 869,
+              "y": 749
+            },
+            {
+              "x": 109,
+              "y": 749
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.82
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 79
+            },
+            {
+              "x": 979
+            },
+            {
+              "x": 979,
+              "y": 749
+            },
+            {
+              "x": 79,
+              "y": 749
+            }
+          ]
+        },
+        "confidence": 0.79999995,
+        "importanceFraction": 0.95
+      }
+    ]
+  },
+  "webDetection": {
+    "webEntities": [
+      {
+        "entityId": "/m/07bgp",
+        "score": 1.7580032,
+        "description": "Sheep"
+      },
+      {
+        "entityId": "/m/01xq0k1",
+        "score": 1.2958,
+        "description": "Cattle"
+      },
+      {
+        "entityId": "/m/03fwl",
+        "score": 1.2672,
+        "description": "Goat"
+      },
+      {
+        "entityId": "/m/01g6gs",
+        "score": 0.9071507,
+        "description": "Black and white"
+      },
+      {
+        "entityId": "/m/03d49p1",
+        "score": 0.89846873,
+        "description": "Monochrome photography"
+      },
+      {
+        "entityId": "/m/03vd46",
+        "score": 0.88549936,
+        "description": "Herd"
+      },
+      {
+        "entityId": "/m/01gd91",
+        "score": 0.86981237,
+        "description": "Pasture"
+      },
+      {
+        "entityId": "/m/0ch8v",
+        "score": 0.86657554,
+        "description": "Livestock"
+      },
+      {
+        "entityId": "/m/03hh2k",
+        "score": 0.86192137,
+        "description": "Grazing"
+      },
+      {
+        "entityId": "/m/01mwkf",
+        "score": 0.81953526,
+        "description": "Monochrome"
+      },
+      {
+        "entityId": "/m/01c7cq",
+        "score": 0.7868093,
+        "description": "Grassland"
+      },
+      {
+        "entityId": "/m/07k3c",
+        "score": 0.7765264,
+        "description": "Tundra"
+      },
+      {
+        "entityId": "/m/025s3q0",
+        "score": 0.75946546,
+        "description": "Landscape"
+      },
+      {
+        "entityId": "/m/0cblv",
+        "score": 0.72977984,
+        "description": "Ecoregion"
+      },
+      {
+        "entityId": "/m/01280g",
+        "score": 0.7079918,
+        "description": "Wildlife"
+      }
+    ],
+    "visuallySimilarImages": [
+      {
+        "url": "https://www.magnumphotos.com/wp-content/uploads/2017/02/cortex/lon120767-overlay.jpg"
+      },
+      {
+        "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1291403117575585"
+      },
+      {
+        "url": "https://newengland.com/wp-content/uploads/legacy_cms_images/9035.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/736x/22/ab/e3/22abe395d89261089bfe0f040609badd--a-sheep-counting-sheep.jpg"
+      },
+      {
+        "url": "http://www.gaynormairs.co.uk/images/BLACK%20AND%20WHITE%20SHEEP.jpg"
+      },
+      {
+        "url": "https://timedotcom.files.wordpress.com/2017/07/iconic-cowboy-02.jpg?quality=85"
+      },
+      {
+        "url": "https://ssl.c.photoshelter.com/img-get2/I0000j9pn272vRpY/sec=wdfsdfoeflwefms1440ed20180330Sd1LrNQvDybeFmf/fit=1024x1024"
+      },
+      {
+        "url": "https://blherman.files.wordpress.com/2015/04/hog-island-sheep-rider.jpg"
+      },
+      {
+        "url": "https://previews.123rf.com/images/panaramka/panaramka1703/panaramka170300799/74419429-retro-and-vintage-mood-silver-classic-photography-with-the-sheep-herd-in-the-wild-pastures-and-mount.jpg"
+      },
+      {
+        "url": "https://c1.staticflickr.com/1/528/19047515722_4b45ed7b00_b.jpg"
+      },
+      {
+        "url": "http://icelandmag.is/sites/default/files/styles/lightbox/public/thumbnails/image_g8k8998-xl.jpg?itok=5veld8Oh"
+      },
+      {
+        "url": "https://thumb7.shutterstock.com/display_pic_with_logo/6114/6114,1111494578,5/stock-photo-grey-mare-229994.jpg"
+      },
+      {
+        "url": "https://ppmag.com/images/gallery/15589/201708-image-10---family-(1)__gallery_medium.jpg"
+      },
+      {
+        "url": "https://i.pinimg.com/originals/6d/c6/8d/6dc68d612635ad60e91ad2cd93a55941.png"
+      },
+      {
+        "url": "https://previews.123rf.com/images/7106108800/71061088001211/7106108800121100015/16250880-livestock-farm-herd-of-sheep.jpg"
+      },
+      {
+        "url": "http://www.conservationandsociety.org/articles/2010/8/3/images/ConservatSoc_2010_8_3_225_73812_f6.jpg"
+      }
+    ],
+    "bestGuessLabels": [
+      {
+        "label": "sheep"
+      }
+    ]
+  }
+}

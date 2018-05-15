@@ -1,0 +1,10 @@
+blue
+red
+sky
+landmark
+reflection
+light
+architecture
+metropolis
+daytime
+structure
