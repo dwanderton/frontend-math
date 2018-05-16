@@ -422,7 +422,13 @@ if(value != ""){
       $('#compressed').css('background-image', 'url(' + title3[image_index][type] + compressionSets[type] + ')');
       $('#compressedLabels').load(title3[image_index][type] + compressionSets[type] + "_labels.txt");
       setTimeout(function(){
-      $('#compressedButtons').empty();
+        $('#compressedButtons').empty()
+        $('#originalButtons').empty()
+        $.each($('#originalLabels').text().split(","), function(index, value){
+  if(value != ""){
+          $('#originalButtons').append('<button type="button" class="'+value+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
+        }
+        });
       $.each($('#compressedLabels').text().split(","), function(index, value){
         if(value != ""){
         $('#compressedButtons').append('<button type="button" class="'+value+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
