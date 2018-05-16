@@ -1,10 +1,1 @@
-grassland
-sheep
-pasture
-grazing
-sheep
-field
-grass
-ecosystem
-meadow
-fauna
+grassland,sheep,pasture,grazing,sheep,field,grass,ecosystem,meadow,fauna,

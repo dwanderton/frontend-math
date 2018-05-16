@@ -1,7 +1,1 @@
-yellow
-sky
-sign
-traffic sign
-signage
-street sign
-line
+yellow,sky,sign,traffic sign,signage,street sign,line,

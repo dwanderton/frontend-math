@@ -1,10 +1,1 @@
-gerbil
-fauna
-mouse
-mammal
-hamster
-vertebrate
-muroidea
-muridae
-whiskers
-rat
+gerbil,fauna,mouse,mammal,hamster,vertebrate,muroidea,muridae,whiskers,rat,

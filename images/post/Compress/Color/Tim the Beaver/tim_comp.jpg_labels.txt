@@ -1,10 +1,1 @@
-mammal
-vertebrate
-games
-dog like mammal
-recreation
-mascot
-product
-fictional character
-fun
-illustration
+mammal,vertebrate,games,dog like mammal,recreation,mascot,product,fictional character,fun,illustration,

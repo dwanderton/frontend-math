@@ -1,10 +1,1 @@
-erg
-sky
-horizon
-singing sand
-sand
-dune
-aeolian landform
-desert
-morning
-sahara
+erg,sky,horizon,singing sand,sand,dune,aeolian landform,desert,morning,sahara,

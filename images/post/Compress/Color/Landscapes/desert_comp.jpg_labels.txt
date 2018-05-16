@@ -1,9 +1,1 @@
-text
-sky
-line
-biome
-ecoregion
-font
-screenshot
-angle
-pattern
+text,sky,line,biome,ecoregion,font,screenshot,angle,pattern,

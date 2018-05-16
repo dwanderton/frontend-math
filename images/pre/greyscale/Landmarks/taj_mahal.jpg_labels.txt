@@ -1,10 +1,1 @@
-white
-black and white
-landmark
-monochrome photography
-photography
-tourist attraction
-monochrome
-history
-building
-water
+white,black and white,landmark,monochrome photography,photography,tourist attraction,monochrome,history,building,water,

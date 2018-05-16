@@ -1,8 +1,1 @@
-black and white
-monochrome
-sign
-font
-monochrome photography
-signage
-angle
-pattern
+black and white,monochrome,sign,font,monochrome photography,signage,angle,pattern,

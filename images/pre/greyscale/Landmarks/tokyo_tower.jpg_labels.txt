@@ -1,10 +1,1 @@
-tower
-landmark
-black and white
-sky
-monochrome photography
-night
-spire
-tree
-architecture
-photography
+tower,landmark,black and white,sky,monochrome photography,night,spire,tree,architecture,photography,

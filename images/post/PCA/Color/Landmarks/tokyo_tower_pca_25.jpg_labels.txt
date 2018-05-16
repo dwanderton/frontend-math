@@ -1,9 +1,1 @@
-tower
-landmark
-sky
-spire
-tourist attraction
-steeple
-tree
-metropolis
-building
+tower,landmark,sky,spire,tourist attraction,steeple,tree,metropolis,building,

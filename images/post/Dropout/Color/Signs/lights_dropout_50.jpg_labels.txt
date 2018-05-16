@@ -1,4 +1,1 @@
-orange
-reflection
-water
-sky
+orange,reflection,water,sky,

@@ -1,10 +1,1 @@
-landmark
-cloud
-archaeological site
-historic site
-sky
-monument
-phenomenon
-grass
-monolith
-tree
+landmark,cloud,archaeological site,historic site,sky,monument,phenomenon,grass,monolith,tree,

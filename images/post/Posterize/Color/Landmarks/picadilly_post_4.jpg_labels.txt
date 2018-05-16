@@ -1,10 +1,1 @@
-advertising
-transport
-structure
-city
-downtown
-billboard
-car
-vehicle
-signage
-metropolitan area
+advertising,transport,structure,city,downtown,billboard,car,vehicle,signage,metropolitan area,

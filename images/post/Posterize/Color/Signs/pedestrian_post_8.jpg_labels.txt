@@ -1,10 +1,1 @@
-yellow
-sky
-sign
-signage
-traffic sign
-line
-angle
-street sign
-triangle
-font
+yellow,sky,sign,signage,traffic sign,line,angle,street sign,triangle,font,

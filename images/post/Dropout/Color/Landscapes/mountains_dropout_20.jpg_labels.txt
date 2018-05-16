@@ -1,10 +1,1 @@
-reflection
-nature
-mountain
-wilderness
-sky
-mountainous landforms
-water
-mount scenery
-highland
-lake
+reflection,nature,mountain,wilderness,sky,mountainous landforms,water,mount scenery,highland,lake,

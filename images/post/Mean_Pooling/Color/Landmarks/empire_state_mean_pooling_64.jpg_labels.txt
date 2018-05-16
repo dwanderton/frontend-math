@@ -1,5 +1,1 @@
-line
-sky
-angle
-font
-pattern
+line,sky,angle,font,pattern,

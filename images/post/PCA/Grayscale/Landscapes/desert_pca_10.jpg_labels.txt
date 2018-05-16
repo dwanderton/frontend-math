@@ -1,10 +1,1 @@
-sky
-white
-atmosphere
-black
-photograph
-black and white
-monochrome photography
-horizon
-darkness
-photography
+sky,white,atmosphere,black,photograph,black and white,monochrome photography,horizon,darkness,photography,

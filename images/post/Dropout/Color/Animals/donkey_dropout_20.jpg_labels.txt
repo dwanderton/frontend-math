@@ -1,7 +1,1 @@
-donkey
-fauna
-horse like mammal
-livestock
-snout
-pack animal
-wildlife
+donkey,fauna,horse like mammal,livestock,snout,pack animal,wildlife,

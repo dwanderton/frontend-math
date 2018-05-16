@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-atmosphere
-photography
-sky
-monochrome
-wildlife
-phenomenon
-darkness
+black,black and white,monochrome photography,atmosphere,photography,sky,monochrome,wildlife,phenomenon,darkness,

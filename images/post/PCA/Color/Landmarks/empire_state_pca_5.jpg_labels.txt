@@ -1,10 +1,1 @@
-skyscraper
-metropolis
-daytime
-metropolitan area
-tower block
-building
-reflection
-urban area
-sky
-architecture
+skyscraper,metropolis,daytime,metropolitan area,tower block,building,reflection,urban area,sky,architecture,

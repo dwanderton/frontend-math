@@ -1,9 +1,1 @@
-blue
-sky
-reflection
-light
-atmosphere
-daytime
-line
-computer wallpaper
-texture
+blue,sky,reflection,light,atmosphere,daytime,line,computer wallpaper,texture,

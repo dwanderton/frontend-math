@@ -1,10 +1,1 @@
-white
-black
-sky
-black and white
-photograph
-monochrome photography
-atmosphere
-ecosystem
-photography
-horizon
+white,black,sky,black and white,photograph,monochrome photography,atmosphere,ecosystem,photography,horizon,

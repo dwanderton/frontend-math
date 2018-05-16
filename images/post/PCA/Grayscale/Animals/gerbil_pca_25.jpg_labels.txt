@@ -1,10 +1,1 @@
-rat
-gerbil
-mouse
-black
-black and white
-muridae
-muroidea
-fauna
-mammal
-whiskers
+rat,gerbil,mouse,black,black and white,muridae,muroidea,fauna,mammal,whiskers,

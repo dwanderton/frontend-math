@@ -1,10 +1,1 @@
-sheep
-sheep
-grassland
-pasture
-grazing
-grass
-livestock
-cow goat family
-field
-meadow
+sheep,sheep,grassland,pasture,grazing,grass,livestock,cow goat family,field,meadow,

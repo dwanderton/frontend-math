@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-reflection
-darkness
-light
-photography
-monochrome
-night
-lighting
+black,black and white,monochrome photography,reflection,darkness,light,photography,monochrome,night,lighting,

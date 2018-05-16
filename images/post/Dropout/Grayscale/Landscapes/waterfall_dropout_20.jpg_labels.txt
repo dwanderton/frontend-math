@@ -1,10 +1,1 @@
-white
-nature
-black
-black and white
-sky
-monochrome photography
-water
-tree
-photography
-atmosphere
+white,nature,black,black and white,sky,monochrome photography,water,tree,photography,atmosphere,

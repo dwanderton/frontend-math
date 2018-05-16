@@ -1,10 +1,1 @@
-water
-body of water
-water resources
-watercourse
-leaf
-water feature
-waterfall
-tree
-grass
-river
+water,body of water,water resources,watercourse,leaf,water feature,waterfall,tree,grass,river,

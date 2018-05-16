@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-whiskers
-photography
-monochrome
-darkness
-snout
-wildlife
-atmosphere
+black,black and white,monochrome photography,whiskers,photography,monochrome,darkness,snout,wildlife,atmosphere,

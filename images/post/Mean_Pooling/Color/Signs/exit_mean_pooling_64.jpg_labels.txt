@@ -1,10 +1,1 @@
-green
-purple
-atmosphere
-phenomenon
-computer wallpaper
-line
-font
-grass
-graphics
-macro photography
+green,purple,atmosphere,phenomenon,computer wallpaper,line,font,grass,graphics,macro photography,

@@ -1,10 +1,1 @@
-yellow
-orange
-line
-triangle
-signage
-area
-sign
-square
-pattern
-font
+yellow,orange,line,triangle,signage,area,sign,square,pattern,font,

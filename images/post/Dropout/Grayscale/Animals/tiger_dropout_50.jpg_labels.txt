@@ -1,10 +1,1 @@
-black
-black and white
-nature
-tree
-woody plant
-monochrome photography
-photography
-monochrome
-water
-darkness
+black,black and white,nature,tree,woody plant,monochrome photography,photography,monochrome,water,darkness,

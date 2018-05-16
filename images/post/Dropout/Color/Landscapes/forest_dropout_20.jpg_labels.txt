@@ -1,10 +1,1 @@
-nature
-tree
-ecosystem
-forest
-wilderness
-woodland
-vegetation
-path
-deciduous
-spruce fir forest
+nature,tree,ecosystem,forest,wilderness,woodland,vegetation,path,deciduous,spruce fir forest,

@@ -1,8 +1,1 @@
-blue
-red
-sky
-line
-computer wallpaper
-font
-angle
-graphics
+blue,red,sky,line,computer wallpaper,font,angle,graphics,

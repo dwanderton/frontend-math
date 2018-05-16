@@ -1,8 +1,1 @@
-car
-wall
-flag
-mural
-graffiti
-art
-street art
-street
+car,wall,flag,mural,graffiti,art,street art,street,

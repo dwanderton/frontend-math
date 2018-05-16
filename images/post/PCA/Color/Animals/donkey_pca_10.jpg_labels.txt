@@ -1,7 +1,1 @@
-reflection
-wood
-water
-cage
-grass
-flooring
-fence
+reflection,wood,water,cage,grass,flooring,fence,

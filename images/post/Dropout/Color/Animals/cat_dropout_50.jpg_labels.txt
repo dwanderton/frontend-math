@@ -1,10 +1,1 @@
-wildlife
-fauna
-whiskers
-mammal
-red fox
-fox
-terrestrial animal
-leaf
-snout
-dhole
+wildlife,fauna,whiskers,mammal,red fox,fox,terrestrial animal,leaf,snout,dhole,

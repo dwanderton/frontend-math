@@ -1,10 +1,1 @@
-landmark
-water
-tourist attraction
-tourism
-leisure
-crowd
-fun
-city
-recreation
-town square
+landmark,water,tourist attraction,tourism,leisure,crowd,fun,city,recreation,town square,

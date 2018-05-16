@@ -1,10 +1,1 @@
-tower
-black and white
-landmark
-monochrome photography
-mode of transport
-sky
-photography
-metropolis
-monochrome
-skyscraper
+tower,black and white,landmark,monochrome photography,mode of transport,sky,photography,metropolis,monochrome,skyscraper,

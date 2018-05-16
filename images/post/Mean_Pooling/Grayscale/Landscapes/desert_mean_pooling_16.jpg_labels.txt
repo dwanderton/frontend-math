@@ -1,10 +1,1 @@
-white
-black
-photograph
-black and white
-monochrome photography
-atmosphere
-sky
-darkness
-mode of transport
-photography
+white,black,photograph,black and white,monochrome photography,atmosphere,sky,darkness,mode of transport,photography,

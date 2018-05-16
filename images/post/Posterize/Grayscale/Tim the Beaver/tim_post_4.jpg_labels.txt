@@ -1,10 +1,1 @@
-white
-black
-photograph
-black and white
-monochrome photography
-infrastructure
-photography
-snapshot
-darkness
-standing
+white,black,photograph,black and white,monochrome photography,infrastructure,photography,snapshot,darkness,standing,

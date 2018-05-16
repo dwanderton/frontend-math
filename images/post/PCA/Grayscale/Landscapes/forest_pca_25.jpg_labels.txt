@@ -1,10 +1,1 @@
-black and white
-black
-monochrome photography
-darkness
-reflection
-sky
-tree
-metropolis
-atmosphere
-photography
+black and white,black,monochrome photography,darkness,reflection,sky,tree,metropolis,atmosphere,photography,

@@ -1,10 +1,1 @@
-black and white
-font
-line
-technology
-design
-angle
-monochrome
-pattern
-symbol
-triangle
+black and white,font,line,technology,design,angle,monochrome,pattern,symbol,triangle,

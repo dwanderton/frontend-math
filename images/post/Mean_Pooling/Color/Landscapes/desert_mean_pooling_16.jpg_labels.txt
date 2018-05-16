@@ -1,10 +1,1 @@
-blue
-sky
-black
-photograph
-ecosystem
-mode of transport
-close up
-light
-morning
-atmosphere
+blue,sky,black,photograph,ecosystem,mode of transport,close up,light,morning,atmosphere,

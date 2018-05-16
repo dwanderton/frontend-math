@@ -1,10 +1,1 @@
-face
-mammal
-vertebrate
-fauna
-nose
-whiskers
-head
-hamster
-rat
-gerbil
+face,mammal,vertebrate,fauna,nose,whiskers,head,hamster,rat,gerbil,

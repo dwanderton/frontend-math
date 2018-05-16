@@ -1,10 +1,1 @@
-white
-black
-photograph
-black and white
-mammal
-infrastructure
-monochrome photography
-photography
-snapshot
-street
+white,black,photograph,black and white,mammal,infrastructure,monochrome photography,photography,snapshot,street,

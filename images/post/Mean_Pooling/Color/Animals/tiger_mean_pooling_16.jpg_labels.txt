@@ -1,10 +1,1 @@
-wildlife
-tiger
-terrestrial animal
-mammal
-fauna
-cat like mammal
-big cats
-whiskers
-organism
-grass
+wildlife,tiger,terrestrial animal,mammal,fauna,cat like mammal,big cats,whiskers,organism,grass,

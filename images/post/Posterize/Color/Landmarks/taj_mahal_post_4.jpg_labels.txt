@@ -1,10 +1,1 @@
-historic site
-ancient history
-tourist attraction
-history
-tourism
-place of worship
-khanqah
-monument
-mosque
-religion
+historic site,ancient history,tourist attraction,history,tourism,place of worship,khanqah,monument,mosque,religion,

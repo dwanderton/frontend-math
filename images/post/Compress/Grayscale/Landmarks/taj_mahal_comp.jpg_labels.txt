@@ -1,10 +1,1 @@
-white
-black and white
-landmark
-monochrome photography
-tourist attraction
-photography
-religion
-monochrome
-tourism
-historic site
+white,black and white,landmark,monochrome photography,tourist attraction,photography,religion,monochrome,tourism,historic site,

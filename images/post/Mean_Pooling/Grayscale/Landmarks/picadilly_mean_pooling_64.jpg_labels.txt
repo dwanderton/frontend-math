@@ -1,10 +1,1 @@
-black
-white
-black and white
-text
-monochrome photography
-photography
-monochrome
-line
-font
-area
+black,white,black and white,text,monochrome photography,photography,monochrome,line,font,area,

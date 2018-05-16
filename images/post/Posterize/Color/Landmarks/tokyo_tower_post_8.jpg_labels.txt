@@ -1,10 +1,1 @@
-tower
-landmark
-sky
-spire
-tourist attraction
-steeple
-tree
-building
-pagoda
-cloud
+tower,landmark,sky,spire,tourist attraction,steeple,tree,building,pagoda,cloud,

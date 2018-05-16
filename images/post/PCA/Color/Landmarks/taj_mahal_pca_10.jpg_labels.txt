@@ -1,10 +1,1 @@
-reflection
-water
-urban area
-city
-metropolis
-structure
-sky
-daytime
-skyscraper
-tourist attraction
+reflection,water,urban area,city,metropolis,structure,sky,daytime,skyscraper,tourist attraction,

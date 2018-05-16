@@ -1,10 +1,1 @@
-photograph
-black
-black and white
-water
-monochrome photography
-structure
-photography
-architecture
-reflection
-monochrome
+photograph,black,black and white,water,monochrome photography,structure,photography,architecture,reflection,monochrome,

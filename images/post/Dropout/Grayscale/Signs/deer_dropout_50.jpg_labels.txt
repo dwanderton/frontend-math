@@ -1,10 +1,1 @@
-tree
-sky
-black
-black and white
-nature
-woody plant
-monochrome photography
-leaf
-atmosphere
-photography
+tree,sky,black,black and white,nature,woody plant,monochrome photography,leaf,atmosphere,photography,

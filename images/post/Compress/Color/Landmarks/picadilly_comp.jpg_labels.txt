@@ -1,10 +1,1 @@
-motor vehicle
-car
-mode of transport
-advertising
-transport
-vehicle
-metropolitan area
-double decker bus
-city
-signage
+motor vehicle,car,mode of transport,advertising,transport,vehicle,metropolitan area,double decker bus,city,signage,

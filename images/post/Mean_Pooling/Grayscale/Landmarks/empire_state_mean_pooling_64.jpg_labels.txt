@@ -1,9 +1,1 @@
-black
-black and white
-monochrome photography
-photography
-monochrome
-line
-angle
-sky
-computer wallpaper
+black,black and white,monochrome photography,photography,monochrome,line,angle,sky,computer wallpaper,

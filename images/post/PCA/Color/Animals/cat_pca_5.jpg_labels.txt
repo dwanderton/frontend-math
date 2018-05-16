@@ -1,10 +1,1 @@
-yellow
-green
-light
-close up
-sunlight
-reflection
-line
-macro photography
-wood
-grass
+yellow,green,light,close up,sunlight,reflection,line,macro photography,wood,grass,

@@ -1,10 +1,1 @@
-landmark
-tower
-sky
-mode of transport
-spire
-geological phenomenon
-phenomenon
-skyscraper
-recreation
-steeple
+landmark,tower,sky,mode of transport,spire,geological phenomenon,phenomenon,skyscraper,recreation,steeple,

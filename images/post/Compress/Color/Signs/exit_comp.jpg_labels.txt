@@ -1,10 +1,1 @@
-green
-text
-font
-logo
-computer wallpaper
-area
-product
-graphics
-screenshot
-graphic design
+green,text,font,logo,computer wallpaper,area,product,graphics,screenshot,graphic design,

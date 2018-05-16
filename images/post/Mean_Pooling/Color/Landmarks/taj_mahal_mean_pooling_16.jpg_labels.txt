@@ -1,10 +1,1 @@
-residential area
-mode of transport
-waterway
-city
-recreation
-panorama
-skyline
-sky
-land lot
-outdoor structure
+residential area,mode of transport,waterway,city,recreation,panorama,skyline,sky,land lot,outdoor structure,

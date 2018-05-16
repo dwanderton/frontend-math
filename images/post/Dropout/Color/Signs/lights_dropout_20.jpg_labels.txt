@@ -1,3 +1,1 @@
-yellow
-triangle
-sky
+yellow,triangle,sky,

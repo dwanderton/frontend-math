@@ -1,10 +1,1 @@
-sky
-black and white
-tree
-monochrome photography
-woody plant
-tower
-monochrome
-spire
-winter
-plant
+sky,black and white,tree,monochrome photography,woody plant,tower,monochrome,spire,winter,plant,

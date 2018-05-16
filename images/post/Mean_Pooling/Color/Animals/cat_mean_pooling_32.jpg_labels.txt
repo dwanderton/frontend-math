@@ -1,10 +1,1 @@
-cat
-face
-whiskers
-fauna
-mammal
-small to medium sized cats
-cat like mammal
-vertebrate
-tabby cat
-wildlife
+cat,face,whiskers,fauna,mammal,small to medium sized cats,cat like mammal,vertebrate,tabby cat,wildlife,

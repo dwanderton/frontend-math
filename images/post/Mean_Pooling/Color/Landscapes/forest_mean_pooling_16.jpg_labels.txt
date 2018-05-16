@@ -1,10 +1,1 @@
-tree
-flora
-mode of transport
-ecosystem
-leaf
-phenomenon
-branch
-biome
-plant
-membrane winged insect
+tree,flora,mode of transport,ecosystem,leaf,phenomenon,branch,biome,plant,membrane winged insect,

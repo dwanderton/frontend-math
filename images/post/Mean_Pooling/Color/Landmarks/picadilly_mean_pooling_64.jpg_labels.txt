@@ -1,9 +1,1 @@
-text
-line
-font
-design
-angle
-square
-product
-pattern
-rectangle
+text,line,font,design,angle,square,product,pattern,rectangle,

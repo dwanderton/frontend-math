@@ -1,8 +1,1 @@
-reflection
-water
-sky
-atmosphere of earth
-phenomenon
-calm
-sea
-cloud
+reflection,water,sky,atmosphere of earth,phenomenon,calm,sea,cloud,

@@ -1,10 +1,1 @@
-cat
-whiskers
-fauna
-tabby cat
-mammal
-small to medium sized cats
-wildlife
-cat like mammal
-domestic short haired cat
-wild cat
+cat,whiskers,fauna,tabby cat,mammal,small to medium sized cats,wildlife,cat like mammal,domestic short haired cat,wild cat,

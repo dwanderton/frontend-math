@@ -1,10 +1,1 @@
-green
-signage
-sign
-house numbering
-number
-font
-vehicle registration plate
-automotive exterior
-brand
-street sign
+green,signage,sign,house numbering,number,font,vehicle registration plate,automotive exterior,brand,street sign,

@@ -1,9 +1,1 @@
-sky
-text
-font
-signage
-computer wallpaper
-graphics
-logo
-brand
-flag
+sky,text,font,signage,computer wallpaper,graphics,logo,brand,flag,

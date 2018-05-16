@@ -1,10 +1,1 @@
-landmark
-historic site
-tourism
-tourist attraction
-leisure
-water
-temple
-travel
-hindu temple
-pilgrimage
+landmark,historic site,tourism,tourist attraction,leisure,water,temple,travel,hindu temple,pilgrimage,

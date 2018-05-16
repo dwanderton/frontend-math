@@ -1,8 +1,1 @@
-red
-yellow
-light
-close up
-lighting
-macro photography
-computer wallpaper
-symmetry
+red,yellow,light,close up,lighting,macro photography,computer wallpaper,symmetry,

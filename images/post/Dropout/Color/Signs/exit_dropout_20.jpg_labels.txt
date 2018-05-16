@@ -1,5 +1,1 @@
-green
-text
-font
-number
-signage
+green,text,font,number,signage,

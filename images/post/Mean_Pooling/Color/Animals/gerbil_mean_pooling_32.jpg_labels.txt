@@ -1,6 +1,1 @@
-blue
-sky
-phenomenon
-close up
-atmosphere
-cloud
+blue,sky,phenomenon,close up,atmosphere,cloud,

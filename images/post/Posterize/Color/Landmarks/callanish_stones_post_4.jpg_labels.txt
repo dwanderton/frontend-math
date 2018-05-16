@@ -1,4 +1,1 @@
-water
-tree
-sky
-visual arts
+water,tree,sky,visual arts,

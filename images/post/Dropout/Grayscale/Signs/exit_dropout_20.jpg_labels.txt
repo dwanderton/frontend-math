@@ -1,10 +1,1 @@
-black
-black and white
-light
-darkness
-photography
-monochrome
-monochrome photography
-font
-computer wallpaper
-brand
+black,black and white,light,darkness,photography,monochrome,monochrome photography,font,computer wallpaper,brand,

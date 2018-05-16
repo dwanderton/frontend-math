@@ -1,10 +1,1 @@
-black
-white
-black and white
-monochrome photography
-text
-photography
-atmosphere
-monochrome
-phenomenon
-computer wallpaper
+black,white,black and white,monochrome photography,text,photography,atmosphere,monochrome,phenomenon,computer wallpaper,

@@ -1,9 +1,1 @@
-blue
-green
-sky
-azure
-atmosphere
-computer wallpaper
-line
-font
-angle
+blue,green,sky,azure,atmosphere,computer wallpaper,line,font,angle,

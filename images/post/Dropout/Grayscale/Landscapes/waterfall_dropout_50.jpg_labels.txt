@@ -1,10 +1,1 @@
-black
-black and white
-nature
-sky
-monochrome photography
-atmosphere
-water
-photography
-tree
-darkness
+black,black and white,nature,sky,monochrome photography,atmosphere,water,photography,tree,darkness,

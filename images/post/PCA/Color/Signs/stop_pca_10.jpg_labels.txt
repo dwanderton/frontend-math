@@ -1,10 +1,1 @@
-blue
-red
-sky
-daytime
-atmosphere of earth
-hot air balloon
-phenomenon
-hot air ballooning
-technology
-display device
+blue,red,sky,daytime,atmosphere of earth,hot air balloon,phenomenon,hot air ballooning,technology,display device,

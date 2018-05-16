@@ -1,10 +1,1 @@
-skyline
-metropolitan area
-landmark
-skyscraper
-metropolis
-black and white
-city
-monochrome photography
-tower
-cityscape
+skyline,metropolitan area,landmark,skyscraper,metropolis,black and white,city,monochrome photography,tower,cityscape,

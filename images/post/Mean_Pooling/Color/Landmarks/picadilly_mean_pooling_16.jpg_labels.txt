@@ -1,8 +1,1 @@
-mode of transport
-transport
-product
-signage
-recreation
-advertising
-play
-endurance sports
+mode of transport,transport,product,signage,recreation,advertising,play,endurance sports,

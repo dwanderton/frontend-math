@@ -1,10 +1,1 @@
-water
-nature
-black
-black and white
-monochrome photography
-sky
-photography
-geological phenomenon
-monochrome
-phenomenon
+water,nature,black,black and white,monochrome photography,sky,photography,geological phenomenon,monochrome,phenomenon,

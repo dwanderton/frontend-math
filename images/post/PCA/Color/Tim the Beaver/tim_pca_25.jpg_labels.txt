@@ -1,10 +1,1 @@
-mammal
-vertebrate
-dog like mammal
-dog
-dog breed group
-dog breed
-snout
-companion dog
-carnivoran
-fur
+mammal,vertebrate,dog like mammal,dog,dog breed group,dog breed,snout,companion dog,carnivoran,fur,

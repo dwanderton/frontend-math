@@ -1,8 +1,1 @@
-yellow
-sky
-signage
-mode of transport
-traffic sign
-sign
-street sign
-energy
+yellow,sky,signage,mode of transport,traffic sign,sign,street sign,energy,

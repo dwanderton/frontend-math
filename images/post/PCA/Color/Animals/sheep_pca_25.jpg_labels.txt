@@ -1,10 +1,1 @@
-sheep
-grassland
-pasture
-sheep
-grazing
-grass
-field
-livestock
-meadow
-farm
+sheep,grassland,pasture,sheep,grazing,grass,field,livestock,meadow,farm,

@@ -1,6 +1,1 @@
-sky
-daytime
-leaf
-tree
-flag
-plant
+sky,daytime,leaf,tree,flag,plant,

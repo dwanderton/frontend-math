@@ -1,10 +1,1 @@
-tiger
-black
-black and white
-wildlife
-mammal
-monochrome photography
-roar
-big cats
-photography
-monochrome
+tiger,black,black and white,wildlife,mammal,monochrome photography,roar,big cats,photography,monochrome,

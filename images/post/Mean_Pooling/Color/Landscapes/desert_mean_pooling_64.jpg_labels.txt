@@ -1,8 +1,1 @@
-brown
-atmosphere
-line
-computer wallpaper
-sky
-angle
-macro photography
-texture
+brown,atmosphere,line,computer wallpaper,sky,angle,macro photography,texture,

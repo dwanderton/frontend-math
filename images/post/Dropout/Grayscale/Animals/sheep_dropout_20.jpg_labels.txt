@@ -1,10 +1,1 @@
-black and white
-monochrome photography
-sky
-monochrome
-phenomenon
-tundra
-cloud
-landscape
-snout
-ecoregion
+black and white,monochrome photography,sky,monochrome,phenomenon,tundra,cloud,landscape,snout,ecoregion,

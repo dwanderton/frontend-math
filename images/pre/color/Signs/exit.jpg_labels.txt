@@ -1,10 +1,1 @@
-green
-text
-signage
-sign
-font
-logo
-brand
-vehicle registration plate
-number
-automotive exterior
+green,text,signage,sign,font,logo,brand,vehicle registration plate,number,automotive exterior,

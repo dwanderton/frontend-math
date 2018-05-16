@@ -1,7 +1,1 @@
-sky
-atmosphere
-phenomenon
-grass
-line
-cloud
-grass family
+sky,atmosphere,phenomenon,grass,line,cloud,grass family,

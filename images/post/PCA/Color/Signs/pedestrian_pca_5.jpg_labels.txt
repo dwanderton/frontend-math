@@ -1,10 +1,1 @@
-blue
-yellow
-energy
-atmosphere
-light
-sky
-symmetry
-sunlight
-line
-computer wallpaper
+blue,yellow,energy,atmosphere,light,sky,symmetry,sunlight,line,computer wallpaper,

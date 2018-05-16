@@ -1,10 +1,1 @@
-nature
-yellow
-sky
-leaf
-tree
-sign
-signage
-plant
-traffic sign
-spring
+nature,yellow,sky,leaf,tree,sign,signage,plant,traffic sign,spring,

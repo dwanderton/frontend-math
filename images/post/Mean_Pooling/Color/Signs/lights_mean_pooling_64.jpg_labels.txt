@@ -1,5 +1,1 @@
-brown
-line
-computer wallpaper
-angle
-font
+brown,line,computer wallpaper,angle,font,

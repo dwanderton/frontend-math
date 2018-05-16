@@ -1,6 +1,1 @@
-green
-grass
-line
-font
-angle
-graphics
+green,grass,line,font,angle,graphics,

@@ -1,7 +1,1 @@
-yellow
-orange
-light
-lighting
-symmetry
-triangle
-computer wallpaper
+yellow,orange,light,lighting,symmetry,triangle,computer wallpaper,

@@ -1,10 +1,1 @@
-blue
-yellow
-sign
-sky
-signage
-traffic sign
-line
-triangle
-font
-triangle
+blue,yellow,sign,sky,signage,traffic sign,line,triangle,font,triangle,

@@ -1,10 +1,1 @@
-rat
-gerbil
-black
-black and white
-mouse
-muridae
-muroidea
-mammal
-monochrome photography
-whiskers
+rat,gerbil,black,black and white,mouse,muridae,muroidea,mammal,monochrome photography,whiskers,

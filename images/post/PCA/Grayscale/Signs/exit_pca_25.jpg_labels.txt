@@ -1,10 +1,1 @@
-text
-font
-product
-logo
-brand
-signage
-computer wallpaper
-graphics
-darkness
-number
+text,font,product,logo,brand,signage,computer wallpaper,graphics,darkness,number,

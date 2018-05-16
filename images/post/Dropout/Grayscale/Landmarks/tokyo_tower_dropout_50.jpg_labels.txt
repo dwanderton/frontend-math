@@ -1,10 +1,1 @@
-black
-black and white
-nature
-sky
-monochrome photography
-tree
-woody plant
-atmosphere
-reflection
-darkness
+black,black and white,nature,sky,monochrome photography,tree,woody plant,atmosphere,reflection,darkness,

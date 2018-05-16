@@ -1,8 +1,1 @@
-mammal
-vertebrate
-fun
-snout
-play
-flooring
-floor
-child
+mammal,vertebrate,fun,snout,play,flooring,floor,child,

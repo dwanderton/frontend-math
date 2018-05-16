@@ -1,10 +1,1 @@
-landmark
-sky
-daytime
-classical architecture
-structure
-architecture
-building
-column
-campus
-dome
+landmark,sky,daytime,classical architecture,structure,architecture,building,column,campus,dome,

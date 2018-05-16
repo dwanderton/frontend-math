@@ -1,10 +1,1 @@
-green
-fauna
-pattern
-grass
-cage
-tree
-fence
-wildlife
-symmetry
-grass family
+green,fauna,pattern,grass,cage,tree,fence,wildlife,symmetry,grass family,

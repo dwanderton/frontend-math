@@ -1,10 +1,1 @@
-tower
-landmark
-sky
-tourist attraction
-tree
-spire
-leaf
-steeple
-metropolitan area
-city
+tower,landmark,sky,tourist attraction,tree,spire,leaf,steeple,metropolitan area,city,

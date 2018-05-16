@@ -1,10 +1,1 @@
-landmark
-historic site
-national historic landmark
-architecture
-classical architecture
-dome
-stately home
-building
-sky
-corporate headquarters
+landmark,historic site,national historic landmark,architecture,classical architecture,dome,stately home,building,sky,corporate headquarters,

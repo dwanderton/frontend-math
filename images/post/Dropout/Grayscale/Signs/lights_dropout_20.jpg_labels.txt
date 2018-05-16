@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-water
-sky
-photography
-reflection
-monochrome
-cloud
-line
+black,black and white,monochrome photography,water,sky,photography,reflection,monochrome,cloud,line,

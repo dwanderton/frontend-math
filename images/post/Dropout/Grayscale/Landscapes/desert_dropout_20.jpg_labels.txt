@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-sky
-photography
-atmosphere
-monochrome
-landscape
-horizon
-cloud
+black,black and white,monochrome photography,sky,photography,atmosphere,monochrome,landscape,horizon,cloud,

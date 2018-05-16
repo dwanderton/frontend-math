@@ -1,10 +1,1 @@
-dune
-erg
-aeolian landform
-sky
-singing sand
-sand
-desert
-ecoregion
-geological phenomenon
-horizon
+dune,erg,aeolian landform,sky,singing sand,sand,desert,ecoregion,geological phenomenon,horizon,

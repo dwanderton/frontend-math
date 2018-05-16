@@ -1,5 +1,1 @@
-blue
-sky
-line
-energy
-computer wallpaper
+blue,sky,line,energy,computer wallpaper,

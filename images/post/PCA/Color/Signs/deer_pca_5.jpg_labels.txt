@@ -1,6 +1,1 @@
-yellow
-leaf
-close up
-sunlight
-sky
-grass
+yellow,leaf,close up,sunlight,sky,grass,

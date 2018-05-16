@@ -1,10 +1,1 @@
-mammal
-vertebrate
-mode of transport
-text
-eye
-phenomenon
-line
-design
-grass
-material
+mammal,vertebrate,mode of transport,text,eye,phenomenon,line,design,grass,material,

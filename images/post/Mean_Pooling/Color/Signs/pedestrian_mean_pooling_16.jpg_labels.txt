@@ -1,9 +1,1 @@
-sign
-yellow
-signage
-traffic sign
-mode of transport
-sky
-street sign
-line
-grass
+sign,yellow,signage,traffic sign,mode of transport,sky,street sign,line,grass,

@@ -1,10 +1,1 @@
-black
-black and white
-monochrome photography
-reflection
-darkness
-photography
-atmosphere
-monochrome
-phenomenon
-sky
+black,black and white,monochrome photography,reflection,darkness,photography,atmosphere,monochrome,phenomenon,sky,

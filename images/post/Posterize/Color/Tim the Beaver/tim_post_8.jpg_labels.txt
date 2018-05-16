@@ -1,6 +1,1 @@
-mammal
-street
-snout
-fur
-road
-recreation
+mammal,street,snout,fur,road,recreation,

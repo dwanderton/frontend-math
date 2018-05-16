@@ -1,10 +1,1 @@
-black
-white
-photograph
-black and white
-monochrome photography
-text
-photography
-darkness
-monochrome
-phenomenon
+black,white,photograph,black and white,monochrome photography,text,photography,darkness,monochrome,phenomenon,

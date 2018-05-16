@@ -1,10 +1,1 @@
-white
-black
-black and white
-monochrome photography
-light
-photography
-monochrome
-architecture
-wall
-reflection
+white,black,black and white,monochrome photography,light,photography,monochrome,architecture,wall,reflection,

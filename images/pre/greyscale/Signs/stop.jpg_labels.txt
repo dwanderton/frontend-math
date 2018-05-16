@@ -1,10 +1,1 @@
-black and white
-sky
-night
-monochrome photography
-car
-photography
-monochrome
-signage
-font
-darkness
+black and white,sky,night,monochrome photography,car,photography,monochrome,signage,font,darkness,

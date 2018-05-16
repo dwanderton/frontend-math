@@ -1,10 +1,1 @@
-sky
-yellow
-nature
-tree
-woody plant
-leaf
-pole
-plant
-grass
-conifer
+sky,yellow,nature,tree,woody plant,leaf,pole,plant,grass,conifer,

@@ -1,10 +1,1 @@
-sky
-geological phenomenon
-atmosphere
-biome
-terrain
-earth
-computer wallpaper
-tree
-world
-mountain
+sky,geological phenomenon,atmosphere,biome,terrain,earth,computer wallpaper,tree,world,mountain,

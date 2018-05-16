@@ -1,9 +1,1 @@
-leaf
-fauna
-art
-sky
-tree
-house
-grass
-facade
-pattern
+leaf,fauna,art,sky,tree,house,grass,facade,pattern,

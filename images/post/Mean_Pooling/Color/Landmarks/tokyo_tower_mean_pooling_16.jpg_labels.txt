@@ -1,10 +1,1 @@
-landmark
-tower
-sky
-spire
-steeple
-tourist attraction
-building
-city
-place of worship
-tree
+landmark,tower,sky,spire,steeple,tourist attraction,building,city,place of worship,tree,

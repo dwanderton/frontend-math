@@ -1,9 +1,1 @@
-yellow
-sky
-sign
-traffic sign
-signage
-tree
-pole
-street sign
-grass
+yellow,sky,sign,traffic sign,signage,tree,pole,street sign,grass,

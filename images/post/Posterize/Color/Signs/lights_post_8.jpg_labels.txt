@@ -1,8 +1,1 @@
-yellow
-orange
-sign
-traffic sign
-signage
-line
-font
-angle
+yellow,orange,sign,traffic sign,signage,line,font,angle,

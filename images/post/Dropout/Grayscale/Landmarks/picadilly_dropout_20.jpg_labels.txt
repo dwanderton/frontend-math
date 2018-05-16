@@ -1,10 +1,1 @@
-black and white
-landmark
-monochrome photography
-infrastructure
-urban area
-town
-car
-architecture
-metropolis
-building
+black and white,landmark,monochrome photography,infrastructure,urban area,town,car,architecture,metropolis,building,

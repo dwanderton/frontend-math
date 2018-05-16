@@ -1,10 +1,1 @@
-black and white
-donkey
-horse like mammal
-monochrome photography
-pack animal
-monochrome
-livestock
-cattle like mammal
-stable
-snout
+black and white,donkey,horse like mammal,monochrome photography,pack animal,monochrome,livestock,cattle like mammal,stable,snout,

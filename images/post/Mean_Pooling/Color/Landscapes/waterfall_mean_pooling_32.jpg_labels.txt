@@ -1,10 +1,1 @@
-water
-nature
-tree
-ecosystem
-water resources
-mode of transport
-geological phenomenon
-phenomenon
-water feature
-grass
+water,nature,tree,ecosystem,water resources,mode of transport,geological phenomenon,phenomenon,water feature,grass,

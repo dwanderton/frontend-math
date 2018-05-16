@@ -1,10 +1,1 @@
-winter
-tree
-sky
-skyscraper
-city
-freezing
-urban area
-snow
-frost
-tower block
+winter,tree,sky,skyscraper,city,freezing,urban area,snow,frost,tower block,

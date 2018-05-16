@@ -1,7 +1,1 @@
-brown
-wood
-line
-font
-angle
-computer wallpaper
-pattern
+brown,wood,line,font,angle,computer wallpaper,pattern,

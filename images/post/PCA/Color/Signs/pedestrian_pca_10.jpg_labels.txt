@@ -1,10 +1,1 @@
-yellow
-nature
-sky
-light
-phenomenon
-sunlight
-energy
-symmetry
-signage
-sign
+yellow,nature,sky,light,phenomenon,sunlight,energy,symmetry,signage,sign,

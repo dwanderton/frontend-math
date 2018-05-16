@@ -1,9 +1,1 @@
-sky
-desert
-aeolian landform
-erg
-sand
-ecoregion
-landscape
-sahara
-dune
+sky,desert,aeolian landform,erg,sand,ecoregion,landscape,sahara,dune,

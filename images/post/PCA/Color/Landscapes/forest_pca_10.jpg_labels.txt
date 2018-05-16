@@ -1,8 +1,1 @@
-tree
-fauna
-leaf
-sunlight
-wildlife
-forest
-grass
-fence
+tree,fauna,leaf,sunlight,wildlife,forest,grass,fence,

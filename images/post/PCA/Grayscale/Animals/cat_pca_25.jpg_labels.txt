@@ -1,10 +1,1 @@
-cat
-whiskers
-black and white
-monochrome photography
-small to medium sized cats
-fauna
-cat like mammal
-black cat
-photography
-snout
+cat,whiskers,black and white,monochrome photography,small to medium sized cats,fauna,cat like mammal,black cat,photography,snout,

@@ -1,10 +1,1 @@
-waterfall
-water
-nature
-body of water
-nature reserve
-vegetation
-watercourse
-wilderness
-water resources
-tree
+waterfall,water,nature,body of water,nature reserve,vegetation,watercourse,wilderness,water resources,tree,

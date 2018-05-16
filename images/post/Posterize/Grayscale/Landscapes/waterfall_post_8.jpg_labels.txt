@@ -1,10 +1,1 @@
-water
-nature
-black
-black and white
-monochrome photography
-rock
-waterfall
-photography
-sky
-watercourse
+water,nature,black,black and white,monochrome photography,rock,waterfall,photography,sky,watercourse,

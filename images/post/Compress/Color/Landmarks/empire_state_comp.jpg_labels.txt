@@ -1,10 +1,1 @@
-metropolitan area
-skyscraper
-landmark
-metropolis
-tower
-city
-building
-skyline
-urban area
-spire
+metropolitan area,skyscraper,landmark,metropolis,tower,city,building,skyline,urban area,spire,

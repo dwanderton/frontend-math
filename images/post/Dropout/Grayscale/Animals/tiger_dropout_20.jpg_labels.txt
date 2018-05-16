@@ -1,10 +1,1 @@
-wildlife
-black
-black and white
-mammal
-monochrome photography
-whiskers
-photography
-tiger
-monochrome
-big cats
+wildlife,black,black and white,mammal,monochrome photography,whiskers,photography,tiger,monochrome,big cats,

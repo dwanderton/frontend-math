@@ -1,6 +1,1 @@
-tree
-water
-plant
-snout
-recreation
-fun
+tree,water,plant,snout,recreation,fun,

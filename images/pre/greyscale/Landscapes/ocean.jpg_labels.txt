@@ -1,10 +1,1 @@
-black and white
-monochrome photography
-sky
-photography
-rock
-atmosphere
-monochrome
-cloud
-landscape
-meteorological phenomenon
+black and white,monochrome photography,sky,photography,rock,atmosphere,monochrome,cloud,landscape,meteorological phenomenon,

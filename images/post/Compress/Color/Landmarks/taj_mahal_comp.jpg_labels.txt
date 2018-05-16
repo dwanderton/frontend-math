@@ -1,7 +1,1 @@
-landmark
-tourist attraction
-place of worship
-tourism
-city
-recreation
-historic site
+landmark,tourist attraction,place of worship,tourism,city,recreation,historic site,

@@ -1,10 +1,1 @@
-mammal
-vertebrate
-mode of transport
-recreation
-endurance sports
-play
-product
-girl
-child
-grass
+mammal,vertebrate,mode of transport,recreation,endurance sports,play,product,girl,child,grass,

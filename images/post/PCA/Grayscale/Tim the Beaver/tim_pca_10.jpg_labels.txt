@@ -1,10 +1,1 @@
-reflection
-white
-black
-photograph
-black and white
-monochrome photography
-water
-photography
-darkness
-snapshot
+reflection,white,black,photograph,black and white,monochrome photography,water,photography,darkness,snapshot,

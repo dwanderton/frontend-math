@@ -1,10 +1,1 @@
-car
-metropolitan area
-transport
-black and white
-landmark
-vehicle
-infrastructure
-street
-mode of transport
-town
+car,metropolitan area,transport,black and white,landmark,vehicle,infrastructure,street,mode of transport,town,

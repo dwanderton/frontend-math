@@ -1,4 +1,1 @@
-line
-font
-angle
-pattern
+line,font,angle,pattern,

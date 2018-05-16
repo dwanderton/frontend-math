@@ -1,10 +1,1 @@
-green
-display device
-text
-signage
-electronic signage
-lighting
-advertising
-display advertising
-led display
-font
+green,display device,text,signage,electronic signage,lighting,advertising,display advertising,led display,font,

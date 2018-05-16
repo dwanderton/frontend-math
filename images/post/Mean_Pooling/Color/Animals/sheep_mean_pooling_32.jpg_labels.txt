@@ -1,10 +1,1 @@
-green
-grass
-ecosystem
-lawn
-text
-mode of transport
-light
-leaf
-phenomenon
-grass family
+green,grass,ecosystem,lawn,text,mode of transport,light,leaf,phenomenon,grass family,

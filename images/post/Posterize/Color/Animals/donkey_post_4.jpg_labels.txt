@@ -1,9 +1,1 @@
-donkey
-horse like mammal
-fauna
-pack animal
-horse
-livestock
-snout
-mule
-mane
+donkey,horse like mammal,fauna,pack animal,horse,livestock,snout,mule,mane,

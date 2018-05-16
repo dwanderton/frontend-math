@@ -1,8 +1,1 @@
-black
-black and white
-monochrome photography
-photography
-monochrome
-line
-font
-angle
+black,black and white,monochrome photography,photography,monochrome,line,font,angle,
