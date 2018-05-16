@@ -1,0 +1,10 @@
+black : 0.960582077503
+black and white : 0.954195916653
+monochrome photography : 0.9367826581
+photography : 0.851139724255
+monochrome : 0.799734890461
+phenomenon : 0.754764914513
+darkness : 0.72005546093
+sky : 0.716405749321
+font : 0.582482755184
+moon : 0.563400566578

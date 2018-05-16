@@ -1,0 +1,10 @@
+black and white : 0.942218363285
+tree : 0.937013864517
+sky : 0.936516404152
+monochrome photography : 0.901135861874
+woody plant : 0.882518529892
+monochrome : 0.772272408009
+plant : 0.614426732063
+winter : 0.564938187599
+stock photography : 0.524572253227
+branch : 0.501160800457

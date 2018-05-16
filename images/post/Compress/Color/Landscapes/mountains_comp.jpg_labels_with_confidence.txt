@@ -1,0 +1,10 @@
+nature : 0.95462423563
+mount scenery : 0.893590450287
+mountain : 0.849631905556
+sky : 0.804383993149
+fjord : 0.764046549797
+reflection : 0.731407821178
+mountain range : 0.663172662258
+terrain : 0.65472304821
+computer wallpaper : 0.616109490395
+watercourse : 0.604917764664

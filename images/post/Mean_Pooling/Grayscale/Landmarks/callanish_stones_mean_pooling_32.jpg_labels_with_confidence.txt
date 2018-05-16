@@ -1,0 +1,10 @@
+black : 0.958422541618
+black and white : 0.954685211182
+sky : 0.950486660004
+monochrome photography : 0.943503022194
+atmosphere : 0.890738487244
+mode of transport : 0.87485730648
+photography : 0.854368746281
+darkness : 0.833751797676
+monochrome : 0.800379753113
+phenomenon : 0.754764914513

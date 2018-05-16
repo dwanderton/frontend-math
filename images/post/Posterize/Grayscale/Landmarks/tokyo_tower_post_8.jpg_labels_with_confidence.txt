@@ -1,0 +1,10 @@
+black and white : 0.948966264725
+landmark : 0.947188556194
+tower : 0.944760501385
+sky : 0.933234095573
+monochrome photography : 0.930203318596
+photography : 0.826849341393
+night : 0.811422407627
+architecture : 0.804683327675
+tree : 0.79235970974
+monochrome : 0.790614128113

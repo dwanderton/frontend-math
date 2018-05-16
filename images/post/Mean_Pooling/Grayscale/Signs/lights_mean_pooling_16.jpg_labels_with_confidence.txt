@@ -1,0 +1,10 @@
+black : 0.954672038555
+black and white : 0.944787681103
+monochrome photography : 0.896064639091
+mode of transport : 0.875246405602
+photography : 0.816012322903
+monochrome : 0.778313398361
+line : 0.698516607285
+angle : 0.568720936775
+font : 0.56180357933
+symmetry : 0.557414293289

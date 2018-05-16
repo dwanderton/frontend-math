@@ -1,0 +1,10 @@
+black : 0.961334347725
+black and white : 0.953181505203
+monochrome photography : 0.93217343092
+text : 0.901177763939
+photography : 0.848670125008
+monochrome : 0.80306917429
+font : 0.766254007816
+phenomenon : 0.754764914513
+line : 0.72188436985
+pattern : 0.60914349556

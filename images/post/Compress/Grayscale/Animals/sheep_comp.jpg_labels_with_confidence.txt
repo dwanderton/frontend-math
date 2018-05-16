@@ -1,0 +1,10 @@
+black and white : 0.952224135399
+monochrome photography : 0.933106780052
+sky : 0.83752065897
+monochrome : 0.794328272343
+phenomenon : 0.754764914513
+atmosphere : 0.743824779987
+snout : 0.656067848206
+livestock : 0.640154421329
+cattle like mammal : 0.588405191898
+sheep : 0.576695680618

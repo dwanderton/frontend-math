@@ -1,0 +1,10 @@
+blue : 0.968349814415
+coral reef : 0.95145457983
+marine biology : 0.943411052227
+underwater : 0.939914882183
+reef : 0.865670025349
+sea : 0.843989193439
+coral : 0.838802874088
+marine invertebrates : 0.821125864983
+organism : 0.791734457016
+coral reef fish : 0.732126414776

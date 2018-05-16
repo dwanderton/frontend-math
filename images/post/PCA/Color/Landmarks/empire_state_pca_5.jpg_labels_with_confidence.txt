@@ -1,0 +1,10 @@
+skyscraper : 0.974015414715
+metropolis : 0.922148108482
+daytime : 0.919495940208
+metropolitan area : 0.904125392437
+tower block : 0.901499509811
+building : 0.897182166576
+reflection : 0.895002245903
+urban area : 0.86634773016
+sky : 0.861483693123
+architecture : 0.837867200375

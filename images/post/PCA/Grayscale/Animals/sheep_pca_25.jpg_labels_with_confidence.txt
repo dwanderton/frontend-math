@@ -1,0 +1,10 @@
+black and white : 0.94863909483
+monochrome photography : 0.913767695427
+fauna : 0.845717728138
+sheep : 0.845138072968
+sheep : 0.842423021793
+monochrome : 0.781523525715
+wildlife : 0.709575235844
+livestock : 0.689982831478
+tundra : 0.68152576685
+pasture : 0.661982178688

@@ -1,0 +1,10 @@
+black : 0.962000966072
+text : 0.961317002773
+white : 0.9598980546
+black and white : 0.94389039278
+font : 0.881593823433
+mode of transport : 0.875256359577
+monochrome photography : 0.870949864388
+photography : 0.840149044991
+light : 0.837070941925
+darkness : 0.81904065609

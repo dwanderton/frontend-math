@@ -1,0 +1,10 @@
+coral reef : 0.978491902351
+sea : 0.95991486311
+marine biology : 0.954402029514
+reef : 0.933917701244
+underwater : 0.92217040062
+coral : 0.883171200752
+stony coral : 0.85620701313
+marine invertebrates : 0.832389593124
+ocean : 0.803661823273
+organism : 0.7985252738

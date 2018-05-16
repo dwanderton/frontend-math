@@ -1,0 +1,10 @@
+photograph : 0.956884324551
+black : 0.956211566925
+black and white : 0.947522163391
+mammal : 0.924949884415
+monochrome photography : 0.903996527195
+vertebrate : 0.903703629971
+dog like mammal : 0.876688182354
+photography : 0.840281844139
+snapshot : 0.817674517632
+dog : 0.796380341053

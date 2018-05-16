@@ -1,0 +1,10 @@
+ecosystem : 0.925203561783
+sky : 0.916513264179
+atmosphere of earth : 0.783616304398
+phenomenon : 0.754764914513
+atmosphere : 0.736806631088
+biome : 0.728750348091
+world : 0.723010480404
+organism : 0.720770478249
+earth : 0.719376444817
+geological phenomenon : 0.715512394905

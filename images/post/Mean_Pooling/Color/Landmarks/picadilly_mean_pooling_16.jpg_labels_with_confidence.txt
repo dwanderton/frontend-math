@@ -1,0 +1,8 @@
+mode of transport : 0.875256538391
+transport : 0.874694705009
+product : 0.753108620644
+signage : 0.728437781334
+recreation : 0.671784102917
+advertising : 0.621670544147
+play : 0.546569824219
+endurance sports : 0.546024382114

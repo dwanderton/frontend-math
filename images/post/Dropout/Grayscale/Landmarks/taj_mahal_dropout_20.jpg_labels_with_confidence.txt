@@ -1,0 +1,10 @@
+black and white : 0.941275537014
+sky : 0.932328224182
+monochrome photography : 0.90401750803
+landmark : 0.894806981087
+reflection : 0.860720336437
+tree : 0.857527077198
+spire : 0.814674258232
+architecture : 0.802377581596
+photography : 0.794978201389
+monochrome : 0.77299529314

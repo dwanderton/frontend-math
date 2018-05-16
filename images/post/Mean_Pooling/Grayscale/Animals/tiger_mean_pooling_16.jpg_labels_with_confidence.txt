@@ -1,0 +1,10 @@
+tiger : 0.97610783577
+face : 0.967475652695
+black and white : 0.955608546734
+wildlife : 0.940492033958
+monochrome photography : 0.938546001911
+mammal : 0.927065253258
+cat like mammal : 0.909873068333
+vertebrate : 0.903703689575
+head : 0.86092954874
+roar : 0.843881964684

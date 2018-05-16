@@ -1,0 +1,10 @@
+green : 0.9816442132
+text : 0.944411218166
+display device : 0.897114098072
+signage : 0.892766654491
+vehicle registration plate : 0.891425609589
+mode of transport : 0.875256538391
+technology : 0.872623503208
+games : 0.863597691059
+advertising : 0.86044305563
+sign : 0.813796103001

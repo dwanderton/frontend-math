@@ -1,0 +1,10 @@
+face : 0.968996405602
+black : 0.96070098877
+black and white : 0.954475998878
+photograph : 0.951738893986
+monochrome photography : 0.938590586185
+mammal : 0.923233687878
+photography : 0.85464400053
+monochrome : 0.802735567093
+close up : 0.776440739632
+darkness : 0.770231366158

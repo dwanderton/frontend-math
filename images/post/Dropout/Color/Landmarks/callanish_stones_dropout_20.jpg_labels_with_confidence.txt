@@ -1,0 +1,10 @@
+sky : 0.931748151779
+cloud : 0.902832984924
+grass : 0.809264719486
+tree : 0.796606063843
+monolith : 0.709886372089
+ancient history : 0.648739099503
+archaeological site : 0.643306970596
+rock : 0.634071588516
+meteorological phenomenon : 0.604695677757
+ruins : 0.595290124416

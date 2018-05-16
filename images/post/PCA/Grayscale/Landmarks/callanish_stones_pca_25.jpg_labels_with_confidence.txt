@@ -1,0 +1,10 @@
+black and white : 0.940368831158
+sky : 0.927108585835
+monochrome photography : 0.904145181179
+cloud : 0.890743136406
+reflection : 0.884387373924
+atmosphere : 0.86033654213
+photography : 0.821205973625
+architecture : 0.813948810101
+metropolis : 0.799480617046
+phenomenon : 0.754764914513

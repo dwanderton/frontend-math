@@ -1,0 +1,10 @@
+black and white : 0.942889928818
+monochrome photography : 0.903799593449
+photography : 0.826381921768
+darkness : 0.78004938364
+monochrome : 0.769074857235
+phenomenon : 0.754764914513
+atmosphere : 0.754345357418
+metropolis : 0.727707445621
+tower : 0.718400835991
+sky : 0.688455343246

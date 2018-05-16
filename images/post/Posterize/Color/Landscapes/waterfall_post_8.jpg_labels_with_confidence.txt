@@ -1,0 +1,10 @@
+waterfall : 0.968419492245
+water : 0.952819228172
+nature : 0.952351033688
+body of water : 0.935115039349
+nature reserve : 0.906849861145
+vegetation : 0.889046013355
+watercourse : 0.872773706913
+wilderness : 0.852265834808
+water resources : 0.83957451582
+tree : 0.832511425018

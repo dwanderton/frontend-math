@@ -1,0 +1,10 @@
+landmark : 0.949190855026
+tower : 0.943879127502
+sky : 0.890556931496
+mode of transport : 0.875256538391
+spire : 0.830911576748
+geological phenomenon : 0.770202457905
+phenomenon : 0.754764914513
+skyscraper : 0.619676411152
+recreation : 0.605724871159
+steeple : 0.513880252838

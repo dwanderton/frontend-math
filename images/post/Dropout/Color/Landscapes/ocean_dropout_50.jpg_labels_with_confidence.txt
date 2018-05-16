@@ -1,0 +1,10 @@
+sea : 0.96845138073
+coral reef : 0.943058669567
+reef : 0.935639798641
+coastal and oceanic landforms : 0.886643707752
+water : 0.846275448799
+coral : 0.844664037228
+ocean : 0.831837654114
+marine biology : 0.819537580013
+underwater : 0.817267417908
+promontory : 0.741435170174

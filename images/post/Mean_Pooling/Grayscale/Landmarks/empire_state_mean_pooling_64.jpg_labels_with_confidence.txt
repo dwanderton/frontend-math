@@ -1,0 +1,9 @@
+black : 0.959004104137
+black and white : 0.951954603195
+monochrome photography : 0.932292640209
+photography : 0.818665444851
+monochrome : 0.79393607378
+line : 0.686125338078
+angle : 0.579648137093
+sky : 0.573697268963
+computer wallpaper : 0.533878564835

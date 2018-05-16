@@ -1,0 +1,10 @@
+cat : 0.984897792339
+whiskers : 0.972729444504
+fauna : 0.943946123123
+mammal : 0.924492418766
+small to medium sized cats : 0.9027146101
+wild cat : 0.871312499046
+wildlife : 0.850471496582
+tabby cat : 0.815756499767
+eye : 0.814901053905
+cat like mammal : 0.802986085415

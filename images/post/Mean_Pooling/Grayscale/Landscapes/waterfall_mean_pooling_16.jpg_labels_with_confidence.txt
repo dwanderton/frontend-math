@@ -1,0 +1,10 @@
+black : 0.957353174686
+black and white : 0.953621804714
+nature : 0.941010296345
+monochrome photography : 0.937490046024
+water : 0.893357396126
+sky : 0.877362191677
+photography : 0.854556798935
+geological phenomenon : 0.847689211369
+monochrome : 0.787100970745
+tree : 0.764426410198

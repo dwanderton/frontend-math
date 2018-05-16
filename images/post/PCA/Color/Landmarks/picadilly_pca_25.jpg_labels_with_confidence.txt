@@ -1,0 +1,10 @@
+motor vehicle : 0.972513318062
+double decker bus : 0.969963848591
+car : 0.903259754181
+transport : 0.894554436207
+mode of transport : 0.875227570534
+metropolitan area : 0.848665237427
+bus : 0.82347214222
+vehicle : 0.784799039364
+advertising : 0.751153469086
+luxury vehicle : 0.647704958916

@@ -1,0 +1,10 @@
+landmark : 0.949956834316
+historic site : 0.821649253368
+national historic landmark : 0.808108150959
+architecture : 0.804910182953
+classical architecture : 0.794707238674
+dome : 0.78180629015
+stately home : 0.751820147038
+building : 0.74469345808
+sky : 0.721593677998
+corporate headquarters : 0.700663685799

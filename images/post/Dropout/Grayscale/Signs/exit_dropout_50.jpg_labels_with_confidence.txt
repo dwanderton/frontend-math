@@ -1,0 +1,10 @@
+black : 0.958619534969
+black and white : 0.939159095287
+monochrome photography : 0.880393147469
+reflection : 0.873369932175
+darkness : 0.847845256329
+light : 0.842396020889
+photography : 0.825854837894
+monochrome : 0.782139241695
+night : 0.735357224941
+lighting : 0.716657102108

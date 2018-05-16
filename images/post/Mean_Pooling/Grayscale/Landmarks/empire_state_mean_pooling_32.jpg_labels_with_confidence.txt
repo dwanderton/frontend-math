@@ -1,0 +1,10 @@
+black and white : 0.947748839855
+monochrome photography : 0.921841263771
+sky : 0.915354430676
+skyline : 0.865197956562
+photography : 0.810638964176
+monochrome : 0.762606084347
+phenomenon : 0.754764914513
+atmosphere : 0.753745019436
+city : 0.714503765106
+daytime : 0.687444388866

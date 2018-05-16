@@ -1,0 +1,10 @@
+black and white : 0.944125413895
+monochrome photography : 0.904170930386
+sky : 0.859387278557
+monochrome : 0.781322956085
+phenomenon : 0.754764914513
+tundra : 0.743160665035
+cloud : 0.734409332275
+landscape : 0.619071125984
+snout : 0.61162173748
+ecoregion : 0.57344442606

@@ -1,0 +1,10 @@
+black and white : 0.937970280647
+skyscraper : 0.926546037197
+monochrome photography : 0.887820780277
+architecture : 0.836230278015
+photography : 0.819410979748
+metropolis : 0.786954522133
+building : 0.77614146471
+daytime : 0.772110104561
+monochrome : 0.753679692745
+line : 0.680969417095

@@ -1,0 +1,10 @@
+landmark : 0.94419324398
+sky : 0.902872860432
+classical architecture : 0.871522009373
+structure : 0.832842171192
+column : 0.825174152851
+architecture : 0.810929656029
+building : 0.796961247921
+historic site : 0.755740940571
+tree : 0.690513312817
+facade : 0.677850544453

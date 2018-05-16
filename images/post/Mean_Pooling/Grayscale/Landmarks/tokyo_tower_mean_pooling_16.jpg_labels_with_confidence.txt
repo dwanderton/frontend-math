@@ -1,0 +1,10 @@
+tower : 0.961761116982
+black and white : 0.951128304005
+landmark : 0.94219070673
+monochrome photography : 0.933157145977
+mode of transport : 0.874826192856
+sky : 0.869967401028
+photography : 0.842535674572
+metropolis : 0.819723546505
+monochrome : 0.78300601244
+skyscraper : 0.77118563652

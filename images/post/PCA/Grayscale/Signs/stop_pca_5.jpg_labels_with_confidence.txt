@@ -1,0 +1,10 @@
+black : 0.961144506931
+white : 0.959438920021
+black and white : 0.952657699585
+metropolis : 0.947318077087
+monochrome photography : 0.935926735401
+reflection : 0.933364212513
+landmark : 0.926396369934
+darkness : 0.900972783566
+structure : 0.899198949337
+architecture : 0.862879037857

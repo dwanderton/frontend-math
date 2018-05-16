@@ -1,0 +1,10 @@
+black and white : 0.944026052952
+fauna : 0.919152021408
+donkey : 0.909883856773
+horse like mammal : 0.898237764835
+monochrome photography : 0.851966738701
+pack animal : 0.810150921345
+photography : 0.796730697155
+snout : 0.773416161537
+monochrome : 0.767539203167
+livestock : 0.688063263893

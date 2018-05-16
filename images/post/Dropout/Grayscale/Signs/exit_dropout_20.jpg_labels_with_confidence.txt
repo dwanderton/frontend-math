@@ -1,0 +1,10 @@
+black : 0.955350100994
+black and white : 0.910357713699
+light : 0.826256752014
+darkness : 0.802753031254
+photography : 0.787118315697
+monochrome : 0.76906311512
+monochrome photography : 0.744695425034
+font : 0.724200725555
+computer wallpaper : 0.646952986717
+brand : 0.552644371986

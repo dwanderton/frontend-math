@@ -1,0 +1,10 @@
+black and white : 0.940782725811
+landmark : 0.928337931633
+monochrome photography : 0.897886455059
+infrastructure : 0.896435320377
+urban area : 0.875130474567
+town : 0.852129876614
+car : 0.847480356693
+architecture : 0.843033730984
+metropolis : 0.833781063557
+building : 0.808449327946

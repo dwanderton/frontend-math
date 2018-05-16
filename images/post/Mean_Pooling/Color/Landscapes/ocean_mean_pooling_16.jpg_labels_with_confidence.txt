@@ -1,0 +1,10 @@
+ecosystem : 0.945062994957
+marine biology : 0.932717204094
+underwater : 0.912539899349
+coral reef : 0.901932835579
+fauna : 0.877765834332
+organism : 0.776145577431
+phenomenon : 0.754764914513
+marine invertebrates : 0.723578453064
+fish : 0.61110585928
+sea turtle : 0.605870485306

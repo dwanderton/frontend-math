@@ -1,0 +1,10 @@
+historic site : 0.9622797966
+landmark : 0.896324753761
+tourist attraction : 0.861139416695
+ancient history : 0.850870132446
+khanqah : 0.789973139763
+monument : 0.782810270786
+history : 0.75517398119
+tourism : 0.742557525635
+temple : 0.674236416817
+mosque : 0.662711501122

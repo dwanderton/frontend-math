@@ -1,0 +1,10 @@
+white : 0.96209192276
+black and white : 0.934519886971
+landmark : 0.918458759785
+monochrome photography : 0.889533698559
+tourist attraction : 0.820294737816
+photography : 0.820039629936
+monochrome : 0.737493693829
+history : 0.730520308018
+sky : 0.727063894272
+historic site : 0.725801050663

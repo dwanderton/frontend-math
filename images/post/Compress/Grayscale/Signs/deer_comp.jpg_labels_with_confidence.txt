@@ -1,0 +1,10 @@
+black and white : 0.953600049019
+black : 0.951769828796
+monochrome photography : 0.933466315269
+sky : 0.927932083607
+tree : 0.916308283806
+photography : 0.824965000153
+branch : 0.820647358894
+monochrome : 0.768634796143
+silhouette : 0.716965973377
+stock photography : 0.641083776951

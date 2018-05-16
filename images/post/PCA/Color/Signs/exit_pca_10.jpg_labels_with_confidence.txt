@@ -1,0 +1,10 @@
+green : 0.976008594036
+display device : 0.912488996983
+text : 0.901551485062
+signage : 0.821363270283
+electronic signage : 0.756571829319
+lighting : 0.753700017929
+advertising : 0.749198675156
+display advertising : 0.709273636341
+led display : 0.693902909756
+font : 0.652300000191

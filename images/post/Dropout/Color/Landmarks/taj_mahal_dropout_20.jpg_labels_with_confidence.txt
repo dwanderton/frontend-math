@@ -1,0 +1,10 @@
+landmark : 0.918587267399
+tourist attraction : 0.870262145996
+historic site : 0.864036619663
+tourism : 0.766925513744
+place of worship : 0.732818901539
+temple : 0.730432152748
+ancient history : 0.71733880043
+sky : 0.709467947483
+hindu temple : 0.630220234394
+tree : 0.601205706596

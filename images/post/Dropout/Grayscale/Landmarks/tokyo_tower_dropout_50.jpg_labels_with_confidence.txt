@@ -1,0 +1,10 @@
+black : 0.952375710011
+black and white : 0.949110627174
+nature : 0.94124943018
+sky : 0.938612282276
+monochrome photography : 0.928885996342
+tree : 0.915742278099
+woody plant : 0.877773463726
+atmosphere : 0.873366117477
+reflection : 0.841425120831
+darkness : 0.83395755291

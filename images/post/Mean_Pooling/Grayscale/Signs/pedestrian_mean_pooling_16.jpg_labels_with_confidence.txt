@@ -1,0 +1,10 @@
+black and white : 0.938275754452
+mode of transport : 0.875248491764
+monochrome photography : 0.87110722065
+photography : 0.811912238598
+signage : 0.797548353672
+sky : 0.766469836235
+monochrome : 0.749115765095
+sign : 0.717294812202
+line : 0.654894590378
+traffic sign : 0.627815723419

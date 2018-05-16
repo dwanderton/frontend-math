@@ -1,0 +1,10 @@
+landmark : 0.955493807793
+sky : 0.947900414467
+black and white : 0.93568700552
+monochrome photography : 0.909678697586
+column : 0.869183242321
+structure : 0.864231348038
+infrastructure : 0.862150967121
+architecture : 0.838201463223
+night : 0.812740504742
+photography : 0.806917071342

@@ -1,0 +1,8 @@
+black and white : 0.89744669199
+monochrome : 0.683587968349
+sign : 0.675370156765
+font : 0.625091552734
+monochrome photography : 0.621274828911
+signage : 0.594288468361
+angle : 0.565386116505
+pattern : 0.548141777515

@@ -1,0 +1,10 @@
+reflection : 0.969837069511
+black and white : 0.946986675262
+water : 0.93751168251
+monochrome photography : 0.913343548775
+sky : 0.883212268353
+photography : 0.809803783894
+monochrome : 0.772018909454
+tree : 0.707018554211
+calm : 0.634666264057
+stock photography : 0.565798640251

@@ -1,0 +1,10 @@
+black and white : 0.935189366341
+car : 0.912610948086
+monochrome photography : 0.875547885895
+sky : 0.837043881416
+photography : 0.819552123547
+night : 0.803961515427
+monochrome : 0.760997653008
+font : 0.688180923462
+signage : 0.655546724796
+computer wallpaper : 0.612618029118

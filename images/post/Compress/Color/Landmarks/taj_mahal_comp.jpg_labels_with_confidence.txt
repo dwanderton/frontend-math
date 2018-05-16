@@ -1,0 +1,7 @@
+landmark : 0.924567401409
+tourist attraction : 0.745667636395
+place of worship : 0.660118997097
+tourism : 0.650414168835
+city : 0.595319628716
+recreation : 0.56978648901
+historic site : 0.535234689713

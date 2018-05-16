@@ -1,0 +1,10 @@
+rock : 0.899731516838
+tree : 0.841712892056
+sky : 0.782641291618
+monolith : 0.733204007149
+archaeological site : 0.722763299942
+megalith : 0.670597016811
+grass : 0.670254230499
+ancient history : 0.599247872829
+outdoor structure : 0.597457528114
+landscape : 0.563983559608

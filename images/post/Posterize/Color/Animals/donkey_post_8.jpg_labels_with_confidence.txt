@@ -1,0 +1,7 @@
+donkey : 0.961698293686
+fauna : 0.910884320736
+horse like mammal : 0.898177504539
+livestock : 0.773184001446
+pack animal : 0.744282066822
+snout : 0.72695171833
+wildlife : 0.530767202377

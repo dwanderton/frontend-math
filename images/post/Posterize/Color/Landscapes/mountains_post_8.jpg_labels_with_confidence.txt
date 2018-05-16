@@ -1,0 +1,10 @@
+nature : 0.958049297333
+mountain : 0.930362284184
+reflection : 0.929257035255
+water : 0.922345578671
+mountainous landforms : 0.90718215704
+wilderness : 0.899200201035
+sky : 0.842053174973
+mount scenery : 0.833171248436
+fjord : 0.82746309042
+mountain range : 0.813000202179

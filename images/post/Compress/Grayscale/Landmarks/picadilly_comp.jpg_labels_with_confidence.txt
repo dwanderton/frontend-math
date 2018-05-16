@@ -1,0 +1,10 @@
+car : 0.974656283855
+transport : 0.944958269596
+vehicle : 0.918146371841
+motor vehicle : 0.904718637466
+black and white : 0.904247045517
+metropolitan area : 0.900957107544
+mode of transport : 0.87524920702
+town : 0.839475214481
+street : 0.827173113823
+urban area : 0.794942438602

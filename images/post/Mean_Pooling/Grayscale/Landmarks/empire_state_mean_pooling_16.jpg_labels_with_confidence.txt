@@ -1,0 +1,10 @@
+skyline : 0.951868474483
+black and white : 0.946616947651
+monochrome photography : 0.92122900486
+city : 0.902948915958
+sky : 0.880993187428
+skyscraper : 0.879906356335
+photography : 0.824602365494
+metropolis : 0.815537393093
+monochrome : 0.752628386021
+cityscape : 0.743796527386

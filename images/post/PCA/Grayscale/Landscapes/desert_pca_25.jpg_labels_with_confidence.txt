@@ -1,0 +1,10 @@
+white : 0.963268101215
+black : 0.961565971375
+sky : 0.956684887409
+black and white : 0.954925715923
+photograph : 0.951911211014
+monochrome photography : 0.944658756256
+atmosphere : 0.90733808279
+ecosystem : 0.891558766365
+photography : 0.866922318935
+horizon : 0.843165338039

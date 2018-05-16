@@ -1,0 +1,10 @@
+nature : 0.952346980572
+black and white : 0.939733803272
+reflection : 0.909657418728
+mountain : 0.888848483562
+water : 0.885297238827
+wilderness : 0.880719304085
+monochrome photography : 0.876535236835
+photography : 0.810742855072
+fjord : 0.787802696228
+lake : 0.751815259457

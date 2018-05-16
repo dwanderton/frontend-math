@@ -1,0 +1,10 @@
+mammal : 0.926633477211
+donkey : 0.924352645874
+vertebrate : 0.903703689575
+mode of transport : 0.875255823135
+fauna : 0.872831344604
+horse like mammal : 0.847083330154
+goats : 0.779483914375
+livestock : 0.697788774967
+grass : 0.644346475601
+cattle like mammal : 0.632163107395

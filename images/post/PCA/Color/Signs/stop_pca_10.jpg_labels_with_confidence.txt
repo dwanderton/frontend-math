@@ -1,0 +1,10 @@
+blue : 0.968325316906
+red : 0.962860167027
+sky : 0.931743443012
+daytime : 0.838395237923
+atmosphere of earth : 0.811966180801
+hot air balloon : 0.785099625587
+phenomenon : 0.754764914513
+hot air ballooning : 0.659852564335
+technology : 0.623850822449
+display device : 0.592475175858

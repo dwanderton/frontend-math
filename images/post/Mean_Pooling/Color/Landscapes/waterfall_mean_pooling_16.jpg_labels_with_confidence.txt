@@ -1,0 +1,10 @@
+waterfall : 0.962289273739
+nature : 0.949267268181
+water resources : 0.94307488203
+body of water : 0.935450673103
+nature reserve : 0.934878945351
+watercourse : 0.929447770119
+water : 0.904064714909
+rapid : 0.900532245636
+stream : 0.891109108925
+water feature : 0.830804049969

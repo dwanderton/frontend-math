@@ -1,0 +1,10 @@
+cat : 0.986748218536
+whiskers : 0.963870286942
+black : 0.957630455494
+black and white : 0.956084132195
+monochrome photography : 0.932955622673
+mammal : 0.926071226597
+small to medium sized cats : 0.911249995232
+cat like mammal : 0.88058668375
+fauna : 0.873106956482
+photography : 0.836791813374

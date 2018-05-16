@@ -1,0 +1,10 @@
+reflection : 0.960033416748
+landmark : 0.946398317814
+sky : 0.881034851074
+architecture : 0.856542646885
+building : 0.848552465439
+daytime : 0.797715365887
+corporate headquarters : 0.769452631474
+symmetry : 0.74534457922
+tourist attraction : 0.714697301388
+metropolis : 0.693387627602

@@ -1,0 +1,10 @@
+black and white : 0.950904428959
+mammal : 0.925622224808
+horse : 0.919924199581
+vertebrate : 0.903703689575
+horse like mammal : 0.899721503258
+monochrome photography : 0.888117492199
+pack animal : 0.833532094955
+donkey : 0.799452185631
+monochrome : 0.789163053036
+phenomenon : 0.754764914513

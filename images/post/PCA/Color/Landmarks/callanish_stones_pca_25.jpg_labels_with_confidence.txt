@@ -1,0 +1,10 @@
+landmark : 0.906238257885
+historic site : 0.805330216885
+sky : 0.789456069469
+tourist attraction : 0.761682152748
+archaeological site : 0.752717196941
+cloud : 0.689934551716
+grass : 0.667477548122
+monolith : 0.655532836914
+reflection : 0.654997110367
+monument : 0.573126614094

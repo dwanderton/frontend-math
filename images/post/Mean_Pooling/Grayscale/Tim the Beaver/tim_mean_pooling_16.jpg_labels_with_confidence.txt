@@ -1,0 +1,10 @@
+black : 0.960941016674
+photograph : 0.960001766682
+white : 0.959401369095
+black and white : 0.952903449535
+monochrome photography : 0.932656407356
+mode of transport : 0.875256538391
+photography : 0.87112903595
+snapshot : 0.817674517632
+structure : 0.803268194199
+monochrome : 0.790559709072

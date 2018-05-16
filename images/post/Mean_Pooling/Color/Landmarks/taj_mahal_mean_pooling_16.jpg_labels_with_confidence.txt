@@ -1,0 +1,10 @@
+residential area : 0.917303264141
+mode of transport : 0.875256478786
+waterway : 0.851336181164
+city : 0.840637087822
+recreation : 0.7393835783
+panorama : 0.725357472897
+skyline : 0.720785140991
+sky : 0.64771938324
+land lot : 0.637310445309
+outdoor structure : 0.633809149265

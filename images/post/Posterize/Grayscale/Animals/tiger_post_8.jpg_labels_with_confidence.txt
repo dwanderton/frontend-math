@@ -1,0 +1,10 @@
+wildlife : 0.972949743271
+tiger : 0.9722661376
+black : 0.954355299473
+black and white : 0.954213917255
+mammal : 0.926705121994
+monochrome photography : 0.917047321796
+photography : 0.831348717213
+whiskers : 0.82301479578
+big cats : 0.815299630165
+fauna : 0.80151283741

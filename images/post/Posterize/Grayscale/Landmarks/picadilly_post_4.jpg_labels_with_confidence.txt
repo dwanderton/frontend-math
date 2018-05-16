@@ -1,0 +1,10 @@
+car : 0.980677068233
+metropolitan area : 0.93544793129
+transport : 0.931792736053
+black and white : 0.918327391148
+landmark : 0.90927273035
+vehicle : 0.89509999752
+urban area : 0.891222834587
+infrastructure : 0.888117134571
+street : 0.879003584385
+mode of transport : 0.875234246254

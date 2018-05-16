@@ -1,0 +1,10 @@
+black : 0.957564175129
+black and white : 0.951852440834
+nature : 0.940217971802
+tree : 0.931727170944
+woody plant : 0.922925055027
+monochrome photography : 0.921352982521
+photography : 0.834908187389
+monochrome : 0.796381890774
+water : 0.791384994984
+darkness : 0.759327590466

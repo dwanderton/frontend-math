@@ -1,0 +1,10 @@
+face : 0.964010596275
+black : 0.958377718925
+black and white : 0.956135332584
+monochrome photography : 0.942863285542
+mammal : 0.926845550537
+moon : 0.922957539558
+whiskers : 0.911869347095
+vertebrate : 0.903703689575
+cat : 0.903285264969
+small to medium sized cats : 0.880060076714

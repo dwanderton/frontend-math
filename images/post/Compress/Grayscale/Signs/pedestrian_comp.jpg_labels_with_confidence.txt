@@ -1,0 +1,10 @@
+black and white : 0.939147412777
+monochrome photography : 0.846146643162
+monochrome : 0.762362480164
+silhouette : 0.707967817783
+sky : 0.678180038929
+line : 0.660999000072
+triangle : 0.628839313984
+computer wallpaper : 0.580408155918
+angle : 0.57851010561
+darkness : 0.575249314308

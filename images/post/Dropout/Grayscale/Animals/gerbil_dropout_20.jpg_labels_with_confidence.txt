@@ -1,0 +1,10 @@
+black : 0.952708244324
+black and white : 0.950716018677
+monochrome photography : 0.916475057602
+whiskers : 0.825124979019
+photography : 0.803507208824
+monochrome : 0.783781051636
+darkness : 0.782020390034
+snout : 0.780153393745
+wildlife : 0.767699241638
+atmosphere : 0.757302045822

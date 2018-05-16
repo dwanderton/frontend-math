@@ -1,0 +1,10 @@
+sky : 0.972757399082
+cloud : 0.955626070499
+black and white : 0.944684207439
+tree : 0.931818068027
+monochrome photography : 0.915772140026
+woody plant : 0.902707338333
+atmosphere : 0.88800150156
+photography : 0.816944301128
+monochrome : 0.784388005733
+meteorological phenomenon : 0.777419686317

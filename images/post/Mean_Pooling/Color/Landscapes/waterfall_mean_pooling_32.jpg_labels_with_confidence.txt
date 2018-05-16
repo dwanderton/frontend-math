@@ -1,0 +1,10 @@
+water : 0.964474499226
+nature : 0.941469490528
+tree : 0.918874084949
+ecosystem : 0.883159577847
+water resources : 0.879369556904
+mode of transport : 0.875256478786
+geological phenomenon : 0.830133259296
+phenomenon : 0.754764914513
+water feature : 0.753034174442
+grass : 0.751198172569

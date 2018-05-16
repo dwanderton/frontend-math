@@ -1,0 +1,10 @@
+white : 0.963347911835
+black : 0.959672689438
+photograph : 0.958331227303
+black and white : 0.947357594967
+monochrome photography : 0.912042200565
+standing : 0.907182693481
+tree : 0.848872661591
+photography : 0.848309278488
+darkness : 0.829489469528
+light : 0.826053202152

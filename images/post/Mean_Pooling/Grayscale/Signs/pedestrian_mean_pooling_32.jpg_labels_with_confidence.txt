@@ -1,0 +1,10 @@
+black and white : 0.948764622211
+monochrome photography : 0.91393584013
+mode of transport : 0.875254631042
+photography : 0.833652317524
+monochrome : 0.779039621353
+phenomenon : 0.754764914513
+signage : 0.73454195261
+sky : 0.62920665741
+font : 0.616296410561
+sign : 0.584050834179

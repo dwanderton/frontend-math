@@ -1,0 +1,10 @@
+white : 0.958533287048
+black and white : 0.941085040569
+monochrome photography : 0.896343290806
+sky : 0.826132237911
+photography : 0.810682594776
+history : 0.783568024635
+tourist attraction : 0.775297343731
+town square : 0.751709938049
+monochrome : 0.750756084919
+building : 0.670764625072

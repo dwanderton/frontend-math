@@ -1,0 +1,10 @@
+landmark : 0.95464682579
+architecture : 0.835069179535
+building : 0.830174863338
+classical architecture : 0.826411545277
+structure : 0.819803118706
+sky : 0.729046344757
+tree : 0.700539171696
+biome : 0.696905851364
+facade : 0.667199373245
+tourist attraction : 0.625131964684

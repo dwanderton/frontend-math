@@ -1,0 +1,10 @@
+black : 0.955348908901
+black and white : 0.901258826256
+close up : 0.727728128433
+line : 0.715113937855
+monochrome : 0.705758690834
+monochrome photography : 0.700781702995
+wood : 0.615129828453
+font : 0.614527821541
+angle : 0.578757107258
+computer wallpaper : 0.560690999031

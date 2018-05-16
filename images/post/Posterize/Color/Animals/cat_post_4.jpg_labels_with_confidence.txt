@@ -1,0 +1,10 @@
+cat : 0.991878032684
+whiskers : 0.949268996716
+fauna : 0.93216073513
+mammal : 0.926730334759
+small to medium sized cats : 0.924924969673
+vertebrate : 0.903703689575
+cat like mammal : 0.901033520699
+carnivoran : 0.758604466915
+tabby cat : 0.7153647542
+snout : 0.693755269051

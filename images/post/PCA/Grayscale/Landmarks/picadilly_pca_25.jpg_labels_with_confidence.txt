@@ -1,0 +1,10 @@
+black and white : 0.927299678326
+mode of transport : 0.875012278557
+car : 0.869834125042
+motor vehicle : 0.869189560413
+monochrome photography : 0.856189548969
+architecture : 0.840521752834
+building : 0.784483909607
+photography : 0.783675730228
+metropolis : 0.736412644386
+monochrome : 0.706243634224

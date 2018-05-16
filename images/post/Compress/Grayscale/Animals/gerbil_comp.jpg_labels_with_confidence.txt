@@ -1,0 +1,10 @@
+black : 0.95903980732
+black and white : 0.948525130749
+mammal : 0.926098525524
+rat : 0.875376939774
+monochrome photography : 0.868223547935
+darkness : 0.81428450346
+monochrome : 0.791450440884
+phenomenon : 0.754764914513
+snout : 0.739782035351
+muroidea : 0.70439773798

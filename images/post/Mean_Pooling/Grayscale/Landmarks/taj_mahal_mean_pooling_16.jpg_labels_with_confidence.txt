@@ -1,0 +1,10 @@
+black and white : 0.951188564301
+monochrome photography : 0.929732263088
+mode of transport : 0.875200986862
+metropolis : 0.859759986401
+skyline : 0.857993423939
+photography : 0.828318476677
+sky : 0.812277793884
+city : 0.806730628014
+monochrome : 0.782059967518
+phenomenon : 0.754764914513

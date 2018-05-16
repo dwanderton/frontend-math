@@ -1,0 +1,10 @@
+mammal : 0.92611438036
+vertebrate : 0.903703689575
+games : 0.894488751888
+dog like mammal : 0.727785527706
+recreation : 0.686866760254
+mascot : 0.618272542953
+product : 0.587743282318
+fictional character : 0.582841336727
+fun : 0.534547567368
+illustration : 0.516352832317

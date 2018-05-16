@@ -1,0 +1,10 @@
+nature : 0.960254669189
+reflection : 0.953678548336
+black and white : 0.949208557606
+monochrome photography : 0.927013456821
+sky : 0.920506000519
+mountain : 0.905033648014
+wilderness : 0.865433990955
+photography : 0.848329126835
+water : 0.829346120358
+monochrome : 0.782995522022

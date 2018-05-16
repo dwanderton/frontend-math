@@ -1,0 +1,10 @@
+white : 0.958443462849
+black and white : 0.945375978947
+landmark : 0.936998963356
+monochrome photography : 0.913990616798
+tourist attraction : 0.864706218243
+photography : 0.818968892097
+religion : 0.802386462688
+monochrome : 0.764684617519
+tourism : 0.690793216228
+historic site : 0.689106822014

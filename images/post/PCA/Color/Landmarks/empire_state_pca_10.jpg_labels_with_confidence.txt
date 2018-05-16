@@ -1,0 +1,10 @@
+skyscraper : 0.972541093826
+building : 0.911685943604
+daytime : 0.907015740871
+tower : 0.879297971725
+tower block : 0.876494824886
+metropolitan area : 0.846521317959
+metropolis : 0.835918664932
+sky : 0.762712180614
+corporate headquarters : 0.749860227108
+skyline : 0.743103027344

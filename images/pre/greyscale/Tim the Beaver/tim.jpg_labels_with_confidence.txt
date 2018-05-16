@@ -1,0 +1,10 @@
+white : 0.964963316917
+black : 0.960565328598
+photograph : 0.958745658398
+black and white : 0.942050874233
+mammal : 0.925388216972
+vertebrate : 0.903703629971
+infrastructure : 0.900656223297
+monochrome photography : 0.885824501514
+photography : 0.848689138889
+snapshot : 0.817674517632

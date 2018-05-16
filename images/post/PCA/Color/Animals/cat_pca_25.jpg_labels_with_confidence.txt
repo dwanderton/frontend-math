@@ -1,0 +1,10 @@
+cat : 0.987443327904
+whiskers : 0.946664273739
+fauna : 0.940346181393
+small to medium sized cats : 0.894038498402
+tabby cat : 0.858683347702
+cat like mammal : 0.807659387589
+domestic short haired cat : 0.777191340923
+snout : 0.728044748306
+european shorthair : 0.718945741653
+wild cat : 0.637104511261

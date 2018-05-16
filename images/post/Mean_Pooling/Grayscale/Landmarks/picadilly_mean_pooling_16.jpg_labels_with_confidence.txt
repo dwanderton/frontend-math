@@ -1,0 +1,10 @@
+black : 0.949034333229
+black and white : 0.946421205997
+transport : 0.922297418118
+monochrome photography : 0.903093874454
+mode of transport : 0.875256538391
+photography : 0.829354941845
+monochrome : 0.767940342426
+vehicle : 0.760094702244
+phenomenon : 0.754764914513
+font : 0.635025203228

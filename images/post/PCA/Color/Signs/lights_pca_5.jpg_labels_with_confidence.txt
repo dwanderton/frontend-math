@@ -1,0 +1,8 @@
+red : 0.951948106289
+yellow : 0.940248131752
+light : 0.859153270721
+close up : 0.839079141617
+lighting : 0.807116627693
+macro photography : 0.774367272854
+computer wallpaper : 0.68145018816
+symmetry : 0.558712303638

@@ -1,0 +1,10 @@
+skyscraper : 0.962143003941
+metropolis : 0.946806311607
+black and white : 0.941308319569
+skyline : 0.939543902874
+metropolitan area : 0.937414765358
+landmark : 0.922956049442
+city : 0.908575534821
+monochrome photography : 0.907715916634
+tower : 0.894289076328
+urban area : 0.865692198277

@@ -1,0 +1,10 @@
+black and white : 0.937894761562
+water : 0.928941905499
+monochrome photography : 0.884486198425
+water resources : 0.822118401527
+sky : 0.809368848801
+monochrome : 0.785390973091
+wetland : 0.765191078186
+phenomenon : 0.754764914513
+atmosphere : 0.728479206562
+reflection : 0.725112438202
