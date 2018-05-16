@@ -370,16 +370,16 @@
     setTimeout(function(){
     $.each($('#originalLabels').text().split(","), function(index, value){
       if(value != ""){
-        $('#originalButtons').append('<button type="button" class="'+value+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
+        $('#originalButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
       }
     });
     $.each($('#compressedLabels').text().split(","), function(index, value){
       if(value != ""){
-      $('#compressedButtons').append('<button type="button" class="'+value+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
+      $('#compressedButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block btn-outline-secondary" style="cursor:default;">'+value+'</button>')
       if($('#originalLabels').text().toUpperCase().includes(value.toUpperCase())){
-        $('.'+value).addClass("btn-success").removeClass("btn-outline-secondary")
+        $('.'+value.replace(/\s+/g, '-')).addClass("btn-success").removeClass("btn-outline-secondary")
       } else {
-        $('.'+value).removeClass("btn-success").addClass("btn-outline-secondary")
+        $('.'+value.replace(/\s+/g, '-')).removeClass("btn-success").addClass("btn-outline-secondary")
       }
     }
     });
@@ -400,15 +400,15 @@ setTimeout(function(){
       $('#originalButtons').empty()
       $.each($('#originalLabels').text().split(","), function(index, value){
 if(value != ""){
-        $('#originalButtons').append('<button type="button" class="'+value+' btn btn-block" style="cursor:default;">'+value+'</button>')
+        $('#originalButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block" style="cursor:default;">'+value+'</button>')
       }
       });
       $.each($('#compressedLabels').text().split(","), function(index, value){
-      if(value != ""){  $('#compressedButtons').append('<button type="button" class="'+value+' btn btn-block" style="cursor:default;">'+value+'</button>')
+      if(value != ""){  $('#compressedButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block" style="cursor:default;">'+value+'</button>')
         if($('#originalLabels').text().toUpperCase().includes(value.toUpperCase())){
-          $('.'+value).addClass("btn-success").removeClass("btn-outline-secondary")
+          $('.'+value.replace(/\s+/g, '-')).addClass("btn-success").removeClass("btn-outline-secondary")
         } else {
-          $('.'+value).removeClass("btn-success").addClass("btn-outline-secondary")
+          $('.'+value.replace(/\s+/g, '-')).removeClass("btn-success").addClass("btn-outline-secondary")
         }
       }
       });
@@ -426,16 +426,16 @@ if(value != ""){
         $('#originalButtons').empty()
         $.each($('#originalLabels').text().split(","), function(index, value){
   if(value != ""){
-          $('#originalButtons').append('<button type="button" class="'+value+' btn btn-block" style="cursor:default;">'+value+'</button>')
+          $('#originalButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block" style="cursor:default;">'+value+'</button>')
         }
         });
       $.each($('#compressedLabels').text().split(","), function(index, value){
         if(value != ""){
-        $('#compressedButtons').append('<button type="button" class="'+value+' btn btn-block" style="cursor:default;">'+value+'</button>')
+        $('#compressedButtons').append('<button type="button" class="'+value.replace(/\s+/g, '-')+' btn btn-block" style="cursor:default;">'+value+'</button>')
         if($('#originalLabels').text().toUpperCase().includes(value.toUpperCase())){
-          $('.'+value).addClass("btn-success").removeClass("btn-outline-secondary")
+          $('.'+value.replace(/\s+/g, '-')).addClass("btn-success").removeClass("btn-outline-secondary")
         } else {
-          $('.'+value).removeClass("btn-success").addClass("btn-outline-secondary")
+          $('.'+value.replace(/\s+/g, '-')).removeClass("btn-success").addClass("btn-outline-secondary")
         }
       }
       });
