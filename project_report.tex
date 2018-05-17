@@ -398,11 +398,20 @@ factor to our dropout algorithm, for example by
 using an algorithm such as seam-carving\footnote{For a description
 of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}}
 
+\section{CONCLUSION}
+
 Overall, from the data, it appears that k-means clustering was
 the best compression method in terms of maintaining the legibility
 of the images for Google Cloud Vision. In a sense, this makes
 sense, because posterization generally simplifies images while
 retaining the overall shapes in the images.
+
+Users would most likely want to use at least 8-means clustering
+to reduce the dimensionality of their data.
+If there data is larger than the images that we studied in this paper,
+they will probably want to use even higher values of $k$.
+
+\section{FUTURE RESEARCH}
 
 In future analyses, it may be helpful to estalish a more
 specific definition of accuracy and a way to compare
@@ -412,19 +421,18 @@ above does not consider a number of factors, such as
 the certainty of different labels, and the number
 of completely incorrect labels assigned to images.
 
-\section{CONCLUSIONS}
+In addition, we can explore the ways in which the different
+image compression methods we investigated in this paper
+could be used to combat adversarial attacks, in which
+stickers, random noise, etc. are added to images, causing
+neural networks to miscassify them or fail to detect them
+\footnote{\url{https://openreview.net/pdf?id=S10qYwywf}},
+as research has shown that data reduction can be used a method to fight
+adversarial attacks.\footnote{\url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}}
 
-This information
-is useful because data reduction has been used as a method to fight
-adversarial attacks, in which stickers, random noise, etc. are added to images,
-causing neural networks to misclassify them.\footnote{\url{https://openreview.net/pdf?id=S10qYwywf}}
-\footnote{\url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}}
-For exmaple, putting adversarial stickers on stop signs
-can cause neural networks to be unable to detect stop signs.\footnote{\url{http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/}}
-The amount by which one can compress an image before it becomes
-illegible to neural networks, as well as the best method to use to compress an
-image to maintain legibility, can inform methods that use data reduction
-to fight adversarial attacks.
+% Extra example removed
+%For exmaple, putting adversarial stickers on stop signs
+%can cause neural networks to be unable to detect stop signs.\footnote{\url{http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/}}
 
 \addtolength{\textheight}{-12cm}   % This command serves to balance the column lengths
                                   % on the last page of the document manually. It shortens
