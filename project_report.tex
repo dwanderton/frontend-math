@@ -65,7 +65,7 @@ versions of these images, we had a resulting set of 44 source images.
 After collating the source images we sent them through the Google Cloud Vision API\footnote{The Google Cloud Vision API, https://cloud.google.com/vision/, classifies images into categories and detects objects and faces in images utilising non-public machine learning models.}
 and get a control set of labels for the 44 images. Then compress the images, using the five following methods:
 (1) Posterization through k-means clustering,
-(2) :ow-rank approximation using PCA,
+(2) :ow-rank approximation using Principle Component Analysis,
 (3) \textquote{Mean pooling} operation commonly used in neural networks,
 (4) Mogrify (a command-line utility)
 and (5) Dropout (randomly removing a specific percentage of the pixels).
