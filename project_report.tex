@@ -195,21 +195,21 @@ with $p=0.2$ and $p=0.5$ can be considered.
 
 \section{RESULTS}
 
-\subsection{Before Compression}
+\subsection{Pre-Compression}
 
-Google Cloud Vision API assigned each image a set of labels.
+Once the collection of images in the various categories had been located through Creative Commons Image Search\footnote{See: https://search.creativecommons.org/} the images were then sent via http request to the Google Cloud Vision API and returned with an assigned set of labels and respective confidence score.
 All of the labels assigned to the color images were
-accurate or close to accurate, and for each color image,
+found to be intuitively accurate and relevant by the authors, and for each color image,
 at least one label closely identified the image (e.g. \textquote{tiger}
 for the iamge of a tiger and \textquote{tower} for the image of
 the Tokyo Tower).
 
-However, not all the grayscale images were correctly classified.
-Ignoring extremely general labels such as \textquote{black and white}
-and \textquote{monochrome photography,} 40.9\% of the grayscale images
-weren't closely identified, and 18.2\% of them were only given incorrect labels.
+However, not all the grayscale versions of images were accurately classified according to the authors intuition.
+Generic labels such as \textquote{black and white}, \textquote{black}, \textquote{white}, \textquote{art},
+and \textquote{monochrome photography} were prevalent throughout greyscale images - a behavior noted later in this paper where the artefacts of compression were noted as an classifiable part of the image. According to the authors judgement 40.9\% of the grayscale images
+were not closely identified, and 18.2\% of them were given solely inaccurate labels.
 
-\subsection{After Compression}
+\subsection{Post-Compression}
 
 Tables 1 and 2 below analyze how well images are labeled by the
 Google Cloud Vision API after they are compressed using
