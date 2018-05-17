@@ -2,7 +2,7 @@
 %2345678901234567890123456789012345678901234567890123456789012345678901234567890
 %        1         2         3         4         5         6         7         8
 
-\documentclass[letterpaper, 10 pt, conference]{ieeeconf}  % Comment this line out
+\documentclass[letterpaper, 12 pt, conference]{ieeeconf}  % Comment this line out
                                                           % if you need a4paper
 %\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4
                                                           % paper
@@ -43,8 +43,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{abstract}
-
-\normalsize % increases size of font
 
 As the use of artificial intelligence continues to expand into the realm of image compression\footnote{\url{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}}\footnote{\url{http://www.wave.one/icml2017/}}, questions are being raised on how well the original artefacts and nature of the source image are preserved. The consequences of being able to utilize smaller output images that maintain the majority of pertinent information from their often signifantly larger source images are huge. With smaller inputs, applications from self driving cars that rely on camera input, autonomous flight, through to training neural nets could require significantly less processing time and resources.
 
@@ -98,8 +96,8 @@ We arbitrarily stopped our k-means clustering algorithm after 10 iterations as a
 		\includegraphics[width=0.2\textwidth]{posteight} \\
 \end{tabular}
 \begin{tabular}{l}
-	{\it \hspace*{4mm} Fig. 1: Image of a cat compressed using 4-means} \\
-	{\it \hspace*{4mm} and 8-means clustering.}
+	{\it \hspace*{4mm} Fig. 1: Image of a cat compressed using} \\
+	{\it \hspace*{4mm} 4-means and 8-means clustering.}
 \end{tabular}
 
 \subsection{PCA}
@@ -121,8 +119,9 @@ and rank-25 approximations of an image of the Tokyo Tower.
 		\includegraphics[width=0.13\textwidth]{pcatwentyfive} \\
 \end{tabular}
 \begin{tabular}{l}
-	{\it \hspace*{4mm} Fig. 2: Best rank-5, rank-10, and rank-25 matrix} \\
-	{\it \hspace*{4mm} approximations of an image of the Tokyo Tower.} \\
+	{\it \hspace*{4mm} Fig. 2: Best rank-5, rank-10, and rank-25} \\
+	{\it \hspace*{4mm} matrix approximations of an image of the} \\
+	{\it \hspace*{4mm} Tokyo Tower.} \\
 \end{tabular}
 
 \subsection{Mean Pooling}
