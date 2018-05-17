@@ -44,7 +44,7 @@
 
 \begin{abstract}
 
-As the use of artificial intelligence continues to expand into the realm of image compression\footnote{\url{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}}\footnote{\url{http://www.wave.one/icml2017/}}, questions are being raised on how well the original artefacts and nature of the source image are preserved. The consequences of being able to utilize smaller output images that maintain the majority of pertinent information from their often signifantly larger source images are huge. With smaller inputs, applications from self driving cars that rely on camera input, autonomous flight, through to training neural nets could require significantly less processing time and resources.
+As the use of artificial intelligence continues to expand into the realm of image compression\footnote{\url{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}}\footnote{\url{http://www.wave.one/icml2017/}}, questions are being raised on how well the original artefacts and nature of the source image are preserved. The consequences of being able to utilize smaller output images that maintain the majority of pertinent information from their often signifantly larger source images are huge. With smaller inputs, applications from self driving cars that rely on camera input, autonomous flight, through to training neural networks could require significantly less processing time and resources.
 
 In this paper, we briefly examine how the Google Cloud Vision API responds to the content of a selection of images pre- and post-compression. We also consider a variety of compression techniques and extents. The goal: produce a broad estimate of how much an image can be compressed until the Google Cloud Vision API, as a proxy for other classification algorithms, can no longer determine useful insights about the constitution of the image.
 
@@ -142,7 +142,7 @@ a $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean pooling filter.
 		\includegraphics[width=0.13\textwidth]{poolsixtyfour} \\
 \end{tabular}
 \begin{tabular}{l}
-    {\it \hspace*{4mm} Fig. 3: Image of a US traffic put through} \\ 
+    {\it \hspace*{4mm} Fig. 3: Image of a US traffic put through} \\
     {\it \hspace*{4mm} $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean} \\
 	{\it \hspace*{4mm} pooling filters.} \\
 \end{tabular}
@@ -260,7 +260,7 @@ Clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \vspace*{2mm}
 \begin{tabular}{l}
 {\it Table 1: Success rate for color images} \\
-{\it labeled by Google Cloud Vision API} \\ 
+{\it labeled by Google Cloud Vision API} \\
 {\it after image compression.} \\
 \end{tabular}
 \vspace*{4mm}
@@ -308,7 +308,7 @@ Clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 \vspace*{2mm}
 \begin{tabular}{l}
 {\it Table 2: Success rate for grayscale} \\
-{\it images labeled by Google Cloud Vision} \\ 
+{\it images labeled by Google Cloud Vision} \\
 {\it API after image compression.} \\
 \end{tabular}
 
@@ -408,31 +408,27 @@ of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox
 
 Overall, from the data, it appears that k-means clustering was
 the best compression method in terms of maintaining the legibility
-of the images for Google Cloud Vision API. In a sense, this makes
-sense, because posterization generally simplifies images while
-retaining the overall shapes in the images.
+of the images for Google Cloud Vision API. Reflecting on the details of each compression techniques this starts to become a more natural hypothesis, as posterization generally simplifies images whilst retaining the overall dominant shapes in the images.
 
-Users would most likely want to use at least 8-means clustering
-to reduce the dimensionality of their data.
-If there data is larger than the images that we studied in this paper,
-they will probably want to use even higher values of $k$.
+Our initial recommendation is that using at least 8-means clustering
+to reduce dimensionality of image data can maintain the majority of labels from Google Cloud API. However as images become busier with a richer set of entities it is important that the value of $k$ is increased. The exact optimum value of $k$ could be an interesting research question to explore.
 
-In future analyses, it may be helpful to establish a more
-specific definition of accuracy and a way to compare
-the accuracy of Google Cloud Vision API when classifying
-images before and after compression, as the table
-above does not consider a number of factors, such as
+As this study was mainly based on the author's intuition in terms of defining an \textquote{appropriate} or \textquote{accurate} label future analysis should amend for this short coming - perhaps though establishing a more
+specific definition of accuracy using group or mechanical turk\footnote{See: https://www.mturk.com/} rankings and labelling of images. This would provide us with a more reliable and scaleable \textquote{ground truth} for understanding the accuracy of Google Cloud Vision API's classification of
+images pre- and post-compression. The table
+above also does not consider a number of factors, such as
 the certainty of different labels, and the number
-of completely incorrect labels assigned to images.
+of completely incorrect labels assigned to images. We encourage others to further this papers brief exploration and help to develop more robust understanding of how compression effects classification.
 
-In addition, we can explore the ways in which the different
-image compression methods we investigated in this paper
-could be used to combat adversarial attacks, in which
-stickers, random noise, etc. are added to images, causing
-neural networks to miscassify them or fail to detect them
-\footnote{\url{https://openreview.net/pdf?id=S10qYwywf}},
-as research has shown that data reduction can be used a method to fight
-adversarial attacks.\footnote{\url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}}
+The authors also believe much can be gained from exploring the ways in which the different
+image compression methods interact with, and possibly combat, adversarial attacks. Adversarial attacks are where
+stickers, random noise, etc. are added to images or scences, causing
+neural networks to misclassify them or fail to detect them appropriately
+\footnote{\url{https://openreview.net/pdf?id=S10qYwywf}}.
+Initial research has shown promise that data reduction could be used a method to fight
+adversarial attacks\footnote{\url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}} and, given the consequences as neural networks are deployed more routinely into our daily lives, the authors believe further investigation here is promptly needed.
+
+
 
 % Extra example removed
 %For exmaple, putting adversarial stickers on stop signs
