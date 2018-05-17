@@ -1,6 +1,8 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%2
-mment this line out
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                     
+%2345678901234567890123456789012345678901234567890123456789012345678901234567890
+%        1         2         3         4         5         6         7         8
+
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf}  % Comment this line out
                                                           % if you need a4paper
 %\documentclass[a4paper, 10pt, conference]{ieeeconf}      % Use this line for a4
                                                           % paper
@@ -11,6 +13,7 @@ mment this line out
 \overrideIEEEmargins
 % See the \addtolength command later in the file to balance the column lengths
 % on the last page of the document
+
 
 
 
@@ -59,8 +62,8 @@ categories: six animals, six famous landmarks, five landscapes, five
 street signs. Expanding this to both the color and grayscale
 versions of these images, we had a resulting set of 44 source images.
 
-After collating the source images we sent them through the Google Cloud Vision API\footnote{The Google Cloud Vision API, https://cloud.google.com/vision/ , classifies images into categories and detects objects and faces in images utilising non-public machine learning models.}
-} and get a control set of labels for the 44 images. Then compress the images, using the five following methods:
+After collating the source images we sent them through the Google Cloud Vision API\footnote{The Google Cloud Vision API, https://cloud.google.com/vision/, classifies images into categories and detects objects and faces in images utilising non-public machine learning models.}
+and get a control set of labels for the 44 images. Then compress the images, using the five following methods:
 (1) Posterization through k-means clustering,
 (2) :ow-rank approximation using Principle Component Analysis,
 (3) \textquote{Mean pooling} operation commonly used in neural networks,
@@ -133,7 +136,7 @@ $32 \times 32$ and $64 \times 64$ mean pooling filter.
 \subsection{Mogrify}
 The mogrify command line utility, part of the Image Magick suite of tools\footnote{See: https://www.imagemagick.org/script/mogrify.php}, can be used to perform a number of operations
 on images, such as blurring, cropping, and compression.\footnote{https://www.imagemagick.org/script/mogrify.php}
-We used mogrify to compress our images using the option {\tt -quality [num]}\footnote{https://www.imagemagick.org/script/command-line-options.php\#quality}. For JPEG image compression the expected value of {\[num]}\ is an integer from 1 to 100. We used the value of 1, that applies the most extreme JPEG compression from mogrify.
+We used mogrify to compress our images using the option {\tt -quality [num]}\footnote{https://www.imagemagick.org/script/command-line-options.php\#quality}. For JPEG image compression the expected value of {\tt [num]} is an integer from 1 to 100. We used the value of 1, that applies the most extreme JPEG compression from mogrify.
 In figure 4 below, an image of the ocean before and after it has been compressed by the command {\tt mogrify -quality 1} can be considered.
 
 \vspace*{3mm}
