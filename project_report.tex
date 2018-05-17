@@ -26,6 +26,7 @@
 %\usepackage{amssymb}  % assumes amsmath package installed
 \usepackage{csquotes}
 \usepackage{graphicx}
+\usepackage{url}
 
 \title{\LARGE \bf Image Reduction \& Classification}
 \author{David Anderton and Ray Dedhia}
@@ -42,10 +43,10 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{abstract}
 
-As the use of artificial intelligence continues to expand into the realm of image compression\footnote{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}\footnote{http://www.wave.one/icml2017/} questions are raised on how well the original artefacts and nature of the source image are preserved. The consequence of being able to utilize smaller output images, that maintain the majority of pertinent information, from their often 10 times larger source is huge. With smaller inputs applications from self driving cars that rely on camera input, autonomous flight, through to training neural nets could require significantly less processing time and resources.
+As the use of artificial intelligence continues to expand into the realm of image compression\footnote{\url{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}}\footnote{\url{http://www.wave.one/icml2017/}}, questions are being raised on how well the original artefacts and nature of the source image are preserved. The consequences of being able to utilize smaller output images that maintain the majority of pertinent information from their often signifantly larger source images are huge. With smaller inputs, applications from self driving cars that rely on camera input, autonomous flight, through to training neural nets could require significantly less processing time and resources.
 In this paper, we briefly examine how the Google Cloud Vision API responds to the content of a selection of images pre- and post-compression. We also consider a variety of compression techniques and extents. The goal: produce a broad estimate of how much an image can be compressed until the Google Cloud Vision API, as a proxy for other classification algorithms, can no longer determine useful insights about the constitution of the image.
 
-An interactive exploration of the results is available at the following URI: https://mit18065-dimensions.herokuapp.com/
+An interactive exploration of the results is available at the following URI: \url{https://mit18065-dimensions.herokuapp.com/}
 
 \end{abstract}
 
@@ -62,10 +63,10 @@ categories: six animals, six famous landmarks, five landscapes, five
 street signs. Expanding this to both the color and grayscale
 versions of these images, we had a resulting set of 44 source images.
 
-After collating the source images we sent them through the Google Cloud Vision API\footnote{The Google Cloud Vision API, https://cloud.google.com/vision/, classifies images into categories and detects objects and faces in images utilising non-public machine learning models.}
+After collating the source images we sent them through the Google Cloud Vision API\footnote{The Google Cloud Vision API, \url{https://cloud.google.com/vision/}, classifies images into categories and detects objects and faces in images utilising non-public machine learning models.}
 and get a control set of labels for the 44 images. Then compress the images, using the five following methods:
 (1) Posterization through k-means clustering,
-(2) :ow-rank approximation using Principle Component Analysis,
+(2) :ow-rank approximation using Principle Component Analysis (PCA),
 (3) \textquote{Mean pooling} operation commonly used in neural networks,
 (4) Mogrify (a command-line utility)
 and (5) Dropout (randomly removing a specific percentage of the pixels).
@@ -84,71 +85,85 @@ mean of the data points assigned to them in step 1, and repeating steps
 1 and 2 until some stopping criteria has been met. The resulting k-means clustering implemented a posterization
 effect.
 
-We arbitrarily stopped our k-means clustering algorithm after 10 iterations as an intuitive stopping point for efficiency, and used $k=4$ and $k=8$. In figure 1 below are the results of putting an image of a cat through 4-means and 8-means
-clustering.
+We arbitrarily stopped our k-means clustering algorithm after 10 iterations as an intuitive stopping point for efficiency, and used $k=4$ and $k=8$. In figure 1 below are the results of putting an image of a cat through 4-means and 8-means clustering.
 
 \vspace*{3mm}
 \begin{tabular}{c c}
+	$k=4$ & $k=8$ \\
 	\includegraphics[width=0.2\textwidth]{postfour} &
 		\includegraphics[width=0.2\textwidth]{posteight} \\
-	$k=4$ & $k=8$ \\
+\end{tabular}
+\begin{tabular}{l}
+	{\it \hspace*{4mm} Fig. 1: Image of a cat compressed using 4-means} \\
+	{\it \hspace*{4mm} and 8-means clustering.}
 \end{tabular}
 
-\subsection{Principle Component Analysis}
+\subsection{PCA}
 The principle components of some matrix, $M$, are its left and right singular vectors, $u_i$ and $v_i$ respectively, and its singular values,$sigma$. The decomposition of a matrix into these components is referred to most commonly as the Singular Value Decomposition, or SVD.
-Principle Component Analysis, or PCA, is a form of matrix analysis that utilizes the largest principle components of a matrix of data in order to create a summarization or approximate the underlying data.
+PCA is a form of matrix analysis that utilizes the largest principle components of a matrix of data in order to create a summarization or approximate the underlying data.
 
-By utilising the Eckart-Young theorem\footnote{See Golub et al. https://www.ime.usp.br/~jstern/miscellanea/seminario/Golub87.pdf}, the rank $k$ matrix $M_k$ closest to $M$ is the sum of the product of the $k$ largest singular values of $M$with their corresponding left and right singular vectors. That is, $M_k = \sum_{i=1}^k \sigma_i u_i v_i^T$.
+By utilising the Eckart-Young theorem\footnote{See Golub et al. \url{https://www.ime.usp.br/~jstern/miscellanea/seminario/Golub87.pdf}}, the rank $k$ matrix $M_k$ closest to $M$ is the sum of the product of the $k$ largest singular values of $M$with their corresponding left and right singular vectors. That is, $M_k = \sum_{i=1}^k \sigma_i u_i v_i^T$.
 
 Thus, PCA can be utilised to find the best low-rank approximation for $M$.
-Within our study we used PCA to reduce our image matrices to rank-5, rank-10 and rank-25 matrices.
-In figure 2 below we can see the visual effect of calculating the best rank-5, rank-10 and rank-25
-approximations of an image of Tokyo Tower.
+Within our study we used PCA to reduce our image matrices to rank-5, rank-10 
+and rank-25 matrices. Figure 2 below shows the results of calculating the best rank-5, rank-10,
+and rank-25 approximations of an image of the Tokyo Tower.
 
 \vspace*{3mm}
 \begin{tabular}{c c c}
+	rank-5 & rank-10 & rank-25 \\
 	\includegraphics[width=0.13\textwidth]{pcafive} &
 		\includegraphics[width=0.13\textwidth]{pcaten} &
 		\includegraphics[width=0.13\textwidth]{pcatwentyfive} \\
-	rank-5 & rank-10 & rank-25 \\
+\end{tabular}
+\begin{tabular}{l}
+	{\it \hspace*{4mm} Fig. 2: Best rank-5, rank-10, and rank-25 matrix} \\
+	{\it \hspace*{4mm} approximations of an image of the Tokyo Tower.} \\
 \end{tabular}
 
 \subsection{Mean Pooling}
 Mean pooling refers to the operation of dividing
 an image into regions of size $m \times n$, calculating
 the arithmetic mean of those regions, and outputting
-an image consisting of just those calculated averages.\footnote{See the UFLDL Tutorial on Pooling: http://ufldl.stanford.edu/tutorial/supervised/Pooling/}
+an image consisting of just those calculated averages.\footnote{See the UFLDL Tutorial on Pooling: \url{http://ufldl.stanford.edu/tutorial/supervised/Pooling/}}
 
 For our study we considered regions of size $16 \times 16$, $32 \times 32$ and $64 \times 64$.
-In figure 3 below you can appreciate the visual results of putting an image of a US traffic lights sign through a $16 \times 16$,
-$32 \times 32$ and $64 \times 64$ mean pooling filter.
+In figure 3 below are the results of putting an image of a US traffic light sign through
+a $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean pooling filter.
 
 \vspace*{3mm}
 \begin{tabular}{c c c}
+	$16 \times 16$ & $32 \times 32$ & $64 \times 64$ \\
 	\includegraphics[width=0.13\textwidth]{poolsixteen} &
 		\includegraphics[width=0.13\textwidth]{poolthirtytwo} &
 		\includegraphics[width=0.13\textwidth]{poolsixtyfour} \\
-	$16 \times 16$ & $32 \times 32$ & $64 \times 64$ \\
+\end{tabular}
+\begin{tabular}{l}
+    {\it \hspace*{4mm} Fig. 3: Image of a US traffic put through $16 \times 16$,} \\
+    {\it \hspace*{4mm} $32 \times 32$, and $64 \times 64$ mean pooling filters.} \\
 \end{tabular}
 
-\vspace*{3mm}
-
 \subsection{Mogrify}
-The mogrify command line utility, part of the Image Magick suite of tools\footnote{See: https://www.imagemagick.org/script/mogrify.php}, can be used to perform a number of operations
-on images, such as blurring, cropping, and compression.\footnote{https://www.imagemagick.org/script/mogrify.php}
-We used mogrify to compress our images using the option {\tt -quality [num]}\footnote{https://www.imagemagick.org/script/command-line-options.php\#quality}. For JPEG image compression the expected value of {\tt [num]} is an integer from 1 to 100. We used the value of 1, that applies the most extreme JPEG compression from mogrify.
+The mogrify command line utility, part of the Image Magick suite of tools\footnote{See ImageMagick's documentation of the mogrify command: \url{https://www.imagemagick.org/script/mogrify.php}}, can be used to perform a number of operations
+on images, such as blurring, cropping, and compression.
+We used mogrify to compress our images using the option {\tt -quality [num]}\footnote{See ImageMagick's documentation of the quality option: \url{https://www.imagemagick.org/script/command-line-options.php\#quality}}. For JPEG image compression the expected value of {\tt [num]} is an integer from 1 to 100. We used the value of 1, that applies the most extreme JPEG compression from mogrify.
 In figure 4 below, an image of the ocean before and after it has been compressed by the command {\tt mogrify -quality 1} can be considered.
 
 \vspace*{3mm}
 \begin{tabular}{c c}
+	original & compressed \\
 	\includegraphics[width=0.2\textwidth]{ocean} &
 		\includegraphics[width=0.2\textwidth]{mogrify} \\
-	before & after \\
 \end{tabular}
 \vspace*{3mm}
+\begin{tabular}{l}
+    {\it \hspace*{4mm} Fig. 4: Image of the ocean that has been compressed} \\
+    {\it \hspace*{4mm} with the command {\tt mogrify -quality 1.}} \\
+\end{tabular}
+
 
 \subsection{Dropout}
-Inspired by the concept of dropout layers in neural networks\footnote{See Srivastava et al.: http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf},
+Inspired by the concept of dropout layers in neural networks\footnote{See Srivastava et al.: \url{http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf}},
 which randomly remove nodes in the neural network
 to prevent overfitting, we implemented an algorithm
 that randomly removes percentage $p$ of the pixels
@@ -162,14 +177,19 @@ with $p=0.2$ and $p=0.5$ can be considered.
 
 \vspace*{3mm}
 \begin{tabular}{c c c}
+	$p=0.2$ & $p=0.5$ \\
 	\includegraphics[width=0.2\textwidth]{dropouttwenty} &
 		\includegraphics[width=0.2\textwidth]{dropoutfifty} \\
-	$p=0.2$ & $p=0.5$ \\
 \end{tabular}
+\begin{tabular}{l}
+    {\it \hspace*{4mm} Fig. 5: Image of a tiger put through dropout with} \\
+    {\it \hspace*{4mm} with $p=0.2, 0.4$.} \\
+\end{tabular}
+
 
 \vspace*{3mm}
 
-\section{CLASSIFICATION}
+\section{CLASSIFICATION DATA}
 
 \subsection{Before Compression}
 
@@ -180,23 +200,75 @@ at least one label closely identified the image (e.g. \textquote{tiger}
 for the iamge of a tiger and \textquote{tower} for the image of
 the Tokyo Tower).
 
-However, all of the 22 grayscale images were mis-labeled as \textquote{monochrome
-photography,} 9 of them were not closely identified, and 4 of them
-were only given incorrect labels.
+However, not all the grayscale images were correctly classified.
+Ignoring extremely general labels such as \textquote{black and white}
+and \textquote{monochrome photography,} 40.9\% of the grayscale images
+weren't closely identified, and 18.2\% of them were only given incorrect labels.
+
+\newpage
 
 \subsection{After Compression}
 
 \vspace*{2mm}
 
-\begin{tabular}{|c|c|c|}
+\hspace*{28mm} \underline{Color Images}
+
+\vspace*{2mm}
+
+\bgroup
+\def\arraystretch{1.5} % stretches table vertically
+\begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
 \hline
-{\bf method of} & {\bf fraction of} &
-	{\bf fraction of images} \\
-{\bf compression} & {\bf images given} & {\bf given the most accurate} \\
-{} & {\bf a subset of} & {\bf label given to their} \\
-{} & {\bf correct labels} & {\bf un-compressed versions} \\
+{\bf method of compression} & {\bf \% images given at least one correct label} 
+	& {\bf \% images given best label} \\
 \hline
-mogrify & 18/22 & 15/22 \\
+mogrify & 81.8\% & 68.2\% \\ % 18/22, 15/22
+\hline
+dropout (20\%) & 77.3\% & 68.2\% \\ % 7/22, 15/22
+\hline
+dropout (50\%) & 59.1\% & 36.4\% \\ % 13/22, 8/22
+\hline
+pooling (16x16) & 90.9\% & 63.6\% \\ % 20/22, 14/22
+\hline
+pooling (32x32) & 40.9\% & 18.2\% \\ % 9/22, 4/22
+\hline
+pooling (64x64) & 4.5\% & 0\% \\ % 1/22, 0/22
+\hline
+PCA (25) & 95.5\% & 81.8\% \\ % 21/22, 18/22
+\hline
+PCA (10) & 77.3\% & 40.9\% \\ % 17/22, 9/22
+\hline
+PCA (5) & 27.3\% & 0\% \\ % 6/22, 0/22
+\hline
+clustering (8) & 100\% & 90.9\% \\ % 22/22, 20/22
+\hline
+clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
+\hline
+\end{tabular}
+\egroup
+
+\vspace*{2mm}
+\begin{tabular}{l}
+{\it Table 1: Analyzes how successfully color images} \\
+{\it were labeled by Google Cloud Vision after} \\
+{\it image compression.} \\
+\end{tabular}
+\vspace*{4mm}
+
+\vspace*{2mm}
+
+\hspace*{28mm} \underline{Grayscale Images}
+
+\vspace*{2mm}
+
+\bgroup
+\def\arraystretch{1.2} % stretches table vertically
+\begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
+\hline
+{\bf method of compression} & {\bf \% images given at least one correct label} 
+	& {\bf \% images given best label} \\
+\hline
+mogrify & 59.1\% & 40.9\% \\ % updated
 \hline
 dropout (20\%) & 17/22 & 15/22 \\
 \hline
@@ -219,53 +291,98 @@ clustering (8) & 22/22 & 20/22 \\
 clustering (4) & 19/22 & 15/22 \\
 \hline
 \end{tabular}
+\egroup
 
 \vspace*{2mm}
-(Note: this table only analyzes the color images.)
-\vspace*{2mm}
-
-
-\vspace*{2mm}
-
-\begin{tabular}{|c|c|c|}
-\hline
-{\bf method of} & {\bf fraction of} &
-	{\bf fraction of images} \\
-{\bf compression} & {\bf images given} & {\bf given the most accurate} \\
-{} & {\bf a subset of} & {\bf label given to their} \\
-{} & {\bf correct labels} & {\bf un-compressed versions} \\
-\hline
-mogrify & 18/22 & 15/22 \\
-\hline
-dropout (20\%) & 17/22 & 15/22 \\
-\hline
-dropout (50\%) & 13/22 & 8/22 \\
-\hline
-pooling (16x16) & 20/22 & 14/22 \\
-\hline
-pooling (32x32) & 9/22 & 4/22 \\
-\hline
-pooling (64x64) & 1/22 & 0/22 \\
-\hline
-PCA (25) & 21/22 & 18/22 \\
-\hline
-PCA (10) & 17/22 & 9/22 \\
-\hline
-PCA (5) & 6/22 & 0/22 \\
-\hline
-clustering (8) & 22/22 & 20/22 \\
-\hline
-clustering (4) & 19/22 & 15/22 \\
-\hline
+\begin{tabular}{l}
+{\it Table 2: Analyzes how successfully grayscale images} \\
+{\it were labeled by Google Cloud Vision after} \\
+{\it image compression.} \\
 \end{tabular}
-
-\vspace*{2mm}
-(Note: this table only analyzes the greyscale images.)
-\vspace*{2mm}
 
 As expected, the less the image was compressed, the more accurate
-the labels it was assigned were. In addition, larger images
-had significantly higher accuracy rates than smaller images.
+the labels it was assigned were. In addition, each form of image
+compression had its own set of issues.
+
+The smoothening effect of posterization using the k-means clustering 
+algorithm sometimes removed textures that Google Cloud Vision
+needed to correctly classify parts of an image. For instance,
+the image of the waterfall, after it was put through the
+4-means and 8-means clustering algorithm, was assigned the label \textquote{snow}
+by Google Cloud Vision because Google Cloud Vision mistook 
+the smoothened water for snow (see Fig. 6 below).
+
+\vspace*{3mm}
+\begin{tabular}{c c}
+	original & compressed ($k=8$) \\
+	\includegraphics[width=0.2\textwidth]{waterfall} &
+		\includegraphics[width=0.2\textwidth]{posterror} \\
+\end{tabular}
+\begin{tabular}{l}
+	\hspace*{4mm} {\it Fig. 6: Over-smoothening of an image of a waterfall} \\
+	\hspace*{4mm} {\it as a result of the 8-means clustering algorithm.} \\
+\end{tabular}
+\vspace*{3mm}
+
+Low-rank image matrix approximation using PCA often resulted in
+image distortion in a plaid-like pattern, especially in smaller
+images (see Fig. 7 below). This resulted in misclassifications
+such as Google Cloud Vision giving images in all four categories
+false labels such as \textquote{cloth,} \textquote{pattern,}
+and \textquote{line.}
+
+\vspace*{3mm}
+\begin{tabular}{c c}
+	original & rank-5 \\
+	\includegraphics[width=0.2\textwidth]{waterfall} &
+		\includegraphics[width=0.2\textwidth]{pcafiveerror} \\
+\end{tabular}
+
+\begin{tabular}{c c}
+	rank-10 & rank-25 \\
+	\includegraphics[width=0.2\textwidth]{pcatenerror} &
+		\includegraphics[width=0.2\textwidth]{pcatwentyfiveerror} \\
+\end{tabular}
+\begin{tabular}{l}
+	\hspace*{4mm} {\it Fig. 7: Distortions in the low-rank matrix } \\
+	\hspace*{4mm} {\it approximations of an image of a waterfall.} \\
+\end{tabular}
+\vspace*{3mm}
+
+The \textquote{mean pooling} opeartion with a $64 \times 64$ filter,
+and, in some cases, the $32 \times 32$ filter as well, 
+blurred smaller to the point that they become unrecognizeable and
+Google Cloud Vision could no longer give them accurate labels (see 
+Fig. 3). When the filter being used with the \textquote{mean pooling} 
+operation is too large proportional to the size of the image, it
+removes all useful information from the image. 
+
+Image compression using the {\tt mogrify -quality 1} command
+sometimes resulted in random bright colors showing up in the compressed
+images that did not occur in the original images (see Fig. 8 below).
+
+\vspace*{3mm}
+\begin{tabular}{c c}
+	original & compressed \\
+	\includegraphics[width=0.2\textwidth]{mountains} &
+		\includegraphics[width=0.2\textwidth]{mogrifyerror} \\
+\end{tabular}
+\begin{tabular}{l}
+	\hspace*{4mm} {\it Fig. 8: Purple highlights appear in an image of } \\
+	\hspace*{4mm} {\it mountains after it is compressed using the } \\
+	\hspace*{4mm} {\it command} {\tt mogrify -quality 1} \\
+\end{tabular}
+\vspace*{3mm}
+
+The dropout algorithm we created resulted in distortion of
+the compressed images, almost as though the images
+were being reflected on moving water. 
+This could potentially be fixed by adding a smoothening
+factor to our dropout algorithm, for example by 
+using an algorithm such as seam-carving\footnote{For a description
+of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}}
+
+\section{ANALYSIS}
 
 From the data, it appears that k-means clustering was
 the best compression method in terms of maintaining the legibility
@@ -286,10 +403,10 @@ of completely incorrect labels assigned to images.
 This information
 is useful because data reduction has been used as a method to fight
 adversarial attacks, in which stickers, random noise, etc. are added to images,
-causing neural networks to misclassify them.\footnote{https://openreview.net/pdf?id=S10qYwywf}
-\footnote{https://www.researchgate.net/publication/315890594\_Dimensionality\_ Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}
+causing neural networks to misclassify them.\footnote{\url{https://openreview.net/pdf?id=S10qYwywf}}
+\footnote{\url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}}
 For exmaple, putting adversarial stickers on stop signs
-can cause neural networks to be unable to detect stop signs.\footnote{http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/}
+can cause neural networks to be unable to detect stop signs.\footnote{\url{http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/}}
 The amount by which one can compress an image before it becomes
 illegible to neural networks, as well as the best method to use to compress an
 image to maintain legibility, can inform methods that use data reduction
@@ -311,15 +428,23 @@ We would like to thank Prof. Strang for his support and interesting and informat
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{thebibliography}{99}
 
-\bibitem{c1} \textquote{Cloud Vision API.} Google Cloud. https://cloud.google.com/vision/
-\bibitem{c2} \textquote{Pooling.} UFLDL Tutorial. http://ufldl.stanford.edu/tutorial/supervised/Pooling/
-\bibitem{c3} \textquote{mogrify.} ImageMagick. https://www.imagemagick.org/script/mogrify.php
-\bibitem{c4} \textquote{command line options.} ImageMagick. https://www.imagemagick.org/script/command-line-options.php\#quality
-\bibitem{c5} Gopalakrishnan, Soorya, et. al. \textquote{Combating Adversarial
-	Attacks Using Sparse Representations.} ICLR 2018. https://openreview.net/pdf?id=S10qYwywf
-\bibitem{c6} Bhagoji, Arjun, et. al. \textquote{Dimensionality Reduction as a Defense against Evasion Attacks on Machine Learning Classifiers.} https://www.researchgate.net/publication/315890594\_Dimensionality\_ Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers
-\bibitem{c7} Evtimov, Ivan, et. al. \textquote{Physical Adversarial Examples Against Deep
-	Learning Networks.} Berkeley Artificial Intelligence Research. Published 30 December 2017. http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/
+\bibitem{c1} Johnston, Nick and David Minnen. \textquote{Image Compression With Neural Networks.} Google AI Blog. Published 29 September 2016. \url{https://ai.googleblog.com/2016/09/image-compression-with-neural-networks.html}
+\bibitem{c2} \textquote{Real-Time Adaptive Image Compression.} WaveOne, Inc. WaveOne. Published May 2017. \url{http://www.wave.one/icml2017/}
+\bibitem{c3} \textquote{Cloud Vision API.} Google Cloud. \url{https://cloud.google.com/vision/}
+\bibitem{c4} Golub, G. H., Alan Hoffman and G. W. Stewart. \textquote{A Generalization of the
+	Eckart-Young-Mirsky Matrix Approximation Theorem.} \url{https://www.ime.usp.br/~jstern/miscellanea/seminario/Golub87.pdf}
+\bibitem{c5} \textquote{Pooling.} UFLDL Tutorial. \url{http://ufldl.stanford.edu/tutorial/supervised/Pooling/}
+\bibitem{c6} \textquote{mogrify.} ImageMagick. \url{https://www.imagemagick.org/script/mogrify.php}
+\bibitem{c7} \textquote{command line options.} ImageMagick. \url{https://www.imagemagick.org/script/command-line-options.php\#quality}
+\bibitem{c8} Srivastava, Nitish, et. al. \textquote{Dropout: A Simple Way to Prevent Neural Networks
+	from Overfitting.} {\it Journal of Machine Learning Research}, 15 (2014): 1929-1958. 
+	Published 14 June 2014. \url{http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf}
+\bibitem{c9} Tao, Xiaofeng. \textquote{Seam Carving.} \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}
+\bibitem{c10} Gopalakrishnan, Soorya, et. al. \textquote{Combating Adversarial
+	Attacks Using Sparse Representations.} ICLR 2018. \url{https://openreview.net/pdf?id=S10qYwywf}
+\bibitem{c11} Bhagoji, Arjun, et. al. \textquote{Dimensionality Reduction as a Defense against Evasion Attacks on Machine Learning Classifiers.} \url{https://www.researchgate.net/publication/315890594\_Dimensionality\_Reduction\_as\_a\_Defense\_against\_Evasion\_Attacks\_on\_Machine\_ Learning\_Classifiers}
+\bibitem{c12} Evtimov, Ivan, et. al. \textquote{Physical Adversarial Examples Against Deep
+	Learning Networks.} Berkeley Artificial Intelligence Research. Published 30 December 2017. \url{http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/}
 
 \end{thebibliography}
 
