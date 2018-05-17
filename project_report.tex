@@ -205,9 +205,14 @@ Ignoring extremely general labels such as \textquote{black and white}
 and \textquote{monochrome photography,} 40.9\% of the grayscale images
 weren't closely identified, and 18.2\% of them were only given incorrect labels.
 
-\newpage
-
 \subsection{After Compression}
+
+Tables 1 and 2 below analyze how well images are labeled by
+Google Cloud Vision after they are compressed using
+the methods detailed earlier in the paper. We ignore general
+labels such as \textquote{photography,} \textquote{black,}
+and \textquote{sky,} instead focusing on labels that either correctly or falsely
+identify specific objects, landforms, etc. in the images.
 
 \vspace*{2mm}
 
@@ -216,7 +221,7 @@ weren't closely identified, and 18.2\% of them were only given incorrect labels.
 \vspace*{2mm}
 
 \bgroup
-\def\arraystretch{1.5} % stretches table vertically
+\def\arraystretch{1.2} % stretches table vertically
 \begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
 \hline
 {\bf method of compression} & {\bf \% images given at least one correct label} 
@@ -270,25 +275,25 @@ clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \hline
 mogrify & 59.1\% & 40.9\% \\ % updated
 \hline
-dropout (20\%) & 17/22 & 15/22 \\
+dropout (20\%) & 63.6\% & 27.3\% \\ % updated 14/22, 6/22
 \hline
-dropout (50\%) & 13/22 & 8/22 \\
+dropout (50\%) & 22.7\% & 0\% \\ % updated 5/22, 0/22
 \hline
-pooling (16x16) & 20/22 & 14/22 \\
+pooling (16x16) & 31.8\% & 22.7\% \\ % updated 7/22, 5/22
 \hline
-pooling (32x32) & 9/22 & 4/22 \\
+pooling (32x32) & 4.5\% & 4.5\%\\ % updated 1/22, 1/22
 \hline
-pooling (64x64) & 1/22 & 0/22 \\
+pooling (64x64) & 0\% & 0\% \\ % updated 0, 0
 \hline
-PCA (25) & 21/22 & 18/22 \\
+PCA (25) & 68.2\% & 36.4\% \\ % updated 15/22, 8/22
 \hline
-PCA (10) & 17/22 & 9/22 \\
+PCA (10) & 31.8\% & 22.7\% \\ % updated 7/22, 5/22
 \hline
-PCA (5) & 6/22 & 0/22 \\
+PCA (5) & 18.2\% & 4.5\% \\ % updated 4/22, 1/22
 \hline
-clustering (8) & 22/22 & 20/22 \\
+clustering (8) & 90.9\% & 50\% \\ % updated 20/22, 11/22
 \hline
-clustering (4) & 19/22 & 15/22 \\
+clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 \hline
 \end{tabular}
 \egroup
@@ -300,8 +305,19 @@ clustering (4) & 19/22 & 15/22 \\
 {\it image compression.} \\
 \end{tabular}
 
+\def\arraystretch{1.0} % removes vertical stretch
+
+\vspace*{4mm}
+
+\section{ANALYSIS}
+
 As expected, the less the image was compressed, the more accurate
-the labels it was assigned were. In addition, each form of image
+the labels it was assigned were. The grayscale images were also
+given significantly less accurate labels than the color images.
+Of the four categories, the animal dataset had the best
+performance, most likely because the animal images had only
+one subject, making them easier for Google Cloud Vision to classify.
+In addition, each form of image
 compression had its own set of issues.
 
 The smoothening effect of posterization using the k-means clustering 
@@ -382,9 +398,7 @@ factor to our dropout algorithm, for example by
 using an algorithm such as seam-carving\footnote{For a description
 of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}}
 
-\section{ANALYSIS}
-
-From the data, it appears that k-means clustering was
+Overall, from the data, it appears that k-means clustering was
 the best compression method in terms of maintaining the legibility
 of the images for Google Cloud Vision. In a sense, this makes
 sense, because posterization generally simplifies images while
