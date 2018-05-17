@@ -142,8 +142,9 @@ a $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean pooling filter.
 		\includegraphics[width=0.13\textwidth]{poolsixtyfour} \\
 \end{tabular}
 \begin{tabular}{l}
-    {\it \hspace*{4mm} Fig. 3: Image of a US traffic put through $16 \times 16$,} \\
-    {\it \hspace*{4mm} $32 \times 32$, and $64 \times 64$ mean pooling filters.} \\
+    {\it \hspace*{4mm} Fig. 3: Image of a US traffic put through} \\ 
+    {\it \hspace*{4mm} $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean} \\
+	{\it \hspace*{4mm} pooling filters.} \\
 \end{tabular}
 
 \subsection{Mogrify}
@@ -160,8 +161,9 @@ In figure 4 below, an image of the ocean before and after it has been compressed
 \end{tabular}
 \vspace*{3mm}
 \begin{tabular}{l}
-    {\it \hspace*{4mm} Fig. 4: Image of the ocean that has been compressed} \\
-    {\it \hspace*{4mm} with the command {\tt mogrify -quality 1.}} \\
+    {\it \hspace*{4mm} Fig. 4: Image of the ocean that has been} \\
+    {\it \hspace*{4mm} compressed with the command} \\
+	{\tt \hspace*{4mm} mogrify -quality 1.} \\
 \end{tabular}
 
 
@@ -185,8 +187,8 @@ with $p=0.2$ and $p=0.5$ can be considered.
 		\includegraphics[width=0.2\textwidth]{dropoutfifty} \\
 \end{tabular}
 \begin{tabular}{l}
-    {\it \hspace*{4mm} Fig. 5: Image of a tiger put through dropout with} \\
-    {\it \hspace*{4mm} with $p=0.2, 0.4$.} \\
+    {\it \hspace*{4mm} Fig. 5: Image of a tiger put through} \\
+	{\it \hspace*{4mm} dropout with $p=0.2, 0.4$.} \\
 \end{tabular}
 
 
@@ -217,7 +219,7 @@ labels such as \textquote{photography,} \textquote{black,}
 and \textquote{sky,} instead focusing on labels that either correctly or falsely
 identify specific objects, landforms, etc. in the images.
 
-\vspace*{2mm}
+\vspace*{8mm}
 
 \hspace*{28mm} \underline{Color Images}
 
@@ -258,12 +260,14 @@ Clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \vspace*{2mm}
 \begin{tabular}{l}
 {\it Table 1: Success rate for color images} \\
-{\it labeled by Google Cloud Vision API after} \\
-{\it image compression.} \\
+{\it labeled by Google Cloud Vision API} \\ 
+{\it after image compression.} \\
 \end{tabular}
 \vspace*{4mm}
 
-\vspace*{2mm}
+\newpage
+
+\vspace*{10mm}
 
 \hspace*{28mm} \underline{Grayscale Images}
 
@@ -303,9 +307,9 @@ Clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 
 \vspace*{2mm}
 \begin{tabular}{l}
-{\it Table 2: Success rate for grayscale images} \\
-{\it labeled by Google Cloud Vision API after} \\
-{\it image compression.} \\
+{\it Table 2: Success rate for grayscale} \\
+{\it images labeled by Google Cloud Vision} \\ 
+{\it API after image compression.} \\
 \end{tabular}
 
 \def\arraystretch{1.0} % removes vertical stretch
@@ -336,8 +340,9 @@ by the Google Cloud Vision API seemingly because the smoothened water color beca
 		\includegraphics[width=0.2\textwidth]{posterror} \\
 \end{tabular}
 \begin{tabular}{l}
-	\hspace*{4mm} {\it Fig. 6: Potential over-smoothening of an image of a waterfall} \\
-	\hspace*{4mm} {\it as a result of the 8-means clustering algorithm.} \\
+	\hspace*{4mm} {\it Fig. 6: Potential over-smoothening of an} \\
+	\hspace*{4mm} {\it image of a waterfall as a result of the } \\
+	\hspace*{4mm} {\it 8-means clustering algorithm.} \\
 \end{tabular}
 \vspace*{3mm}
 
@@ -385,9 +390,10 @@ images that did not occur in the original images (see Fig. 8 below).
 		\includegraphics[width=0.2\textwidth]{mogrifyerror} \\
 \end{tabular}
 \begin{tabular}{l}
-	\hspace*{4mm} {\it Fig. 8: Purple highlights appear in an image of } \\
-	\hspace*{4mm} {\it mountains after compression using the } \\
-	\hspace*{4mm} {\it command} {\tt mogrify -quality 1} \\
+	\hspace*{4mm} {\it Fig. 8: Purple highlights appear in an} \\
+	\hspace*{4mm} {\it image of mountains after compression} \\
+	\hspace*{4mm} {\it using the command} \\
+	\hspace*{4mm} {\tt mogrify -quality 1}. \\
 \end{tabular}
 \vspace*{3mm}
 
