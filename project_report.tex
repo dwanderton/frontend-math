@@ -87,7 +87,7 @@ mean of the data points assigned to them in step 1, and repeating steps
 1 and 2 until some stopping criteria has been met. The resulting k-means clustering implemented a posterization
 effect.
 
-We arbitrarily stopped our k-means clustering algorithm after 10 iterations as an intuitive stopping point for efficiency, and used $k=4$ and $k=8$. In figure 1 below are the results of putting an image of a cat through 4-means and 8-means clustering.
+We arbitrarily stopped our k-means clustering algorithm after 10 iterations as an intuitive stopping point for efficiency, and used $k=4$ and $k=8$. In Fig. 1 below are the results of putting an image of a cat through 4-means and 8-means clustering.
 
 \vspace*{3mm}
 \begin{tabular}{c c}
@@ -108,7 +108,7 @@ By utilising the Eckart-Young theorem\footnote{See Golub et al. \url{https://www
 
 Thus, PCA can be utilised to find the best low-rank approximation for $M$.
 Within our study we used PCA to reduce our image matrices to rank-5, rank-10
-and rank-25 matrices. Figure 2 below shows the results of calculating the best rank-5, rank-10,
+and rank-25 matrices. Fig. 2 below shows the results of calculating the best rank-5, rank-10,
 and rank-25 approximations of an image of the Tokyo Tower.
 
 \vspace*{3mm}
@@ -131,7 +131,7 @@ the arithmetic mean of those regions, and outputting
 an image consisting of just those calculated averages.\footnote{See the UFLDL Tutorial on Pooling: \url{http://ufldl.stanford.edu/tutorial/supervised/Pooling/}}
 
 For our study we considered regions of size $16 \times 16$, $32 \times 32$ and $64 \times 64$.
-In figure 3 below are the results of putting an image of a US traffic light sign through
+In Fig. 3 below are the results of putting an image of a US traffic light sign through
 a $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean pooling filter.
 
 \vspace*{3mm}
@@ -150,7 +150,7 @@ a $16 \times 16$, $32 \times 32$, and $64 \times 64$ mean pooling filter.
 The mogrify command line utility, part of the Image Magick suite of tools\footnote{See ImageMagick's documentation of the mogrify command: \url{https://www.imagemagick.org/script/mogrify.php}}, can be used to perform a number of operations
 on images, such as blurring, cropping, and compression.
 We used mogrify to compress our images using the option {\tt -quality [num]}\footnote{See ImageMagick's documentation of the quality option: \url{https://www.imagemagick.org/script/command-line-options.php\#quality}}. For JPEG image compression the expected value of {\tt [num]} is an integer from 1 to 100. We used the value of 1, that applies the most extreme JPEG compression from mogrify.
-In figure 4 below, an image of the ocean before and after it has been compressed by the command {\tt mogrify -quality 1} can be considered.
+In Fig. 4 below, an image of the ocean before and after it has been compressed by the command {\tt mogrify -quality 1} can be considered.
 
 \vspace*{3mm}
 \begin{tabular}{c c}
@@ -175,7 +175,7 @@ some percentage $p$ of the columns and the same percentage $p$ of the pixels
 from each of the remaining columns.
 
 We implemented this algorithm with $p=0.2,0.5$, where $p$ is a value between $0$ and $1$.
-In figure 5 the results of putting an image of a tiger through dropout
+In Fig. 5 the results of putting an image of a tiger through dropout
 with $p=0.2$ and $p=0.5$ can be considered.
 
 \vspace*{3mm}
@@ -200,7 +200,7 @@ Once the collection of images in the various categories had been located through
 All of the labels assigned to the color images were
 found to be intuitively accurate and relevant by the authors, and for each color image,
 at least one label closely identified the image (e.g. \textquote{tiger}
-for the iamge of a tiger and \textquote{tower} for the image of
+for the image of a tiger and \textquote{tower} for the image of
 the Tokyo Tower).
 
 However, not all the grayscale versions of images were accurately classified according to the authors intuition.
@@ -343,10 +343,9 @@ by the Google Cloud Vision API seemingly because the smoothened water color beca
 
 Low-rank image matrix approximation using PCA often resulted in
 image distortion in a plaid-like pattern, especially in smaller
-images (see Fig. 7 below). This resulted in misclassifications
-such as Google Cloud Vision API giving images in all four categories
+images (see Fig. 7 below). This resulted in misclassifications where again the artefacts of the compression began to dominate the labelling. Examples such as images in all four categories
 false labels such as \textquote{cloth,} \textquote{pattern,}
-and \textquote{line.}
+and \textquote{line}. One of the more interesting instances of this was where the image of Piccadilly Circus in London became labeled as \textquote{tartan} at rank 5.
 
 \vspace*{3mm}
 \begin{tabular}{c c}
@@ -368,14 +367,14 @@ and \textquote{line.}
 
 The \textquote{mean pooling} opeartion with a $64 \times 64$ filter,
 and, in some cases, the $32 \times 32$ filter as well,
-blurred smaller to the point that they become unrecognizeable and
-Google Cloud Vision API could no longer give them accurate labels (see
+blurred to the extent that they became unrecognizeable and
+Google Cloud Vision API could no longer give them labels that accurately represented the original source image's content (see
 Fig. 3). When the filter being used with the \textquote{mean pooling}
-operation is too large proportional to the size of the image, it
-removes all useful information from the image.
+operation is too large proportional to the size of the image, it seems to
+remove all useful information to derive insight from in the image.
 
 Image compression using the {\tt mogrify -quality 1} command
-sometimes resulted in random bright colors showing up in the compressed
+occasionally resulted in random bright colors showing up in the compressed
 images that did not occur in the original images (see Fig. 8 below).
 
 \vspace*{3mm}
@@ -391,12 +390,12 @@ images that did not occur in the original images (see Fig. 8 below).
 \end{tabular}
 \vspace*{3mm}
 
-The dropout algorithm we created resulted in distortion of
+The dropout algorithm resulted in distortion of
 the compressed images, almost as though the images
 were being reflected on moving water.
-This could potentially be fixed by adding a smoothening
+Issues with classification from this could potentially be alleviated by adding a smoothening
 factor to our dropout algorithm, for example by
-using an algorithm such as seam-carving\footnote{For a description
+using an algorithm such as seam-carving\footnote{For a further exploration
 of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}}
 
 \section{CONCLUSION}
@@ -412,9 +411,7 @@ to reduce the dimensionality of their data.
 If there data is larger than the images that we studied in this paper,
 they will probably want to use even higher values of $k$.
 
-\section{FUTURE RESEARCH}
-
-In future analyses, it may be helpful to estalish a more
+In future analyses, it may be helpful to establish a more
 specific definition of accuracy and a way to compare
 the accuracy of Google Cloud Vision API when classifying
 images before and after compression, as the table
