@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %2345678901234567890123456789012345678901234567890123456789012345678901234567890
 %        1         2         3         4         5         6         7         8
 
@@ -28,7 +28,7 @@
 \usepackage{graphicx}
 \usepackage{url}
 
-\title{\LARGE \bf Image Reduction \& Classification}
+\title{\LARGE \bf Image Recognition and Labeling in Reduced Dimensions}
 \author{David Anderton and Ray Dedhia}
 
 
@@ -105,7 +105,7 @@ PCA is a form of matrix analysis that utilizes the largest principle components 
 By utilising the Eckart-Young theorem\footnote{See Golub et al. \url{https://www.ime.usp.br/~jstern/miscellanea/seminario/Golub87.pdf}}, the rank $k$ matrix $M_k$ closest to $M$ is the sum of the product of the $k$ largest singular values of $M$with their corresponding left and right singular vectors. That is, $M_k = \sum_{i=1}^k \sigma_i u_i v_i^T$.
 
 Thus, PCA can be utilised to find the best low-rank approximation for $M$.
-Within our study we used PCA to reduce our image matrices to rank-5, rank-10 
+Within our study we used PCA to reduce our image matrices to rank-5, rank-10
 and rank-25 matrices. Figure 2 below shows the results of calculating the best rank-5, rank-10,
 and rank-25 approximations of an image of the Tokyo Tower.
 
@@ -189,11 +189,11 @@ with $p=0.2$ and $p=0.5$ can be considered.
 
 \vspace*{3mm}
 
-\section{CLASSIFICATION DATA}
+\section{RESULTS}
 
 \subsection{Before Compression}
 
-Google Cloud Vision assigned each image a set of labels.
+Google Cloud Vision API assigned each image a set of labels.
 All of the labels assigned to the color images were
 accurate or close to accurate, and for each color image,
 at least one label closely identified the image (e.g. \textquote{tiger}
@@ -207,8 +207,8 @@ weren't closely identified, and 18.2\% of them were only given incorrect labels.
 
 \subsection{After Compression}
 
-Tables 1 and 2 below analyze how well images are labeled by
-Google Cloud Vision after they are compressed using
+Tables 1 and 2 below analyze how well images are labeled by the
+Google Cloud Vision API after they are compressed using
 the methods detailed earlier in the paper. We ignore general
 labels such as \textquote{photography,} \textquote{black,}
 and \textquote{sky,} instead focusing on labels that either correctly or falsely
@@ -224,7 +224,7 @@ identify specific objects, landforms, etc. in the images.
 \def\arraystretch{1.2} % stretches table vertically
 \begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
 \hline
-{\bf method of compression} & {\bf \% images given at least one correct label} 
+{\bf method of compression} & {\bf \% images given at least one correct label}
 	& {\bf \% images given best label} \\
 \hline
 mogrify & 81.8\% & 68.2\% \\ % 18/22, 15/22
@@ -255,7 +255,7 @@ clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \vspace*{2mm}
 \begin{tabular}{l}
 {\it Table 1: Analyzes how successfully color images} \\
-{\it were labeled by Google Cloud Vision after} \\
+{\it were labeled by Google Cloud Vision API after} \\
 {\it image compression.} \\
 \end{tabular}
 \vspace*{4mm}
@@ -270,7 +270,7 @@ clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \def\arraystretch{1.2} % stretches table vertically
 \begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
 \hline
-{\bf method of compression} & {\bf \% images given at least one correct label} 
+{\bf method of compression} & {\bf \% images given at least one correct label}
 	& {\bf \% images given best label} \\
 \hline
 mogrify & 59.1\% & 40.9\% \\ % updated
@@ -301,7 +301,7 @@ clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 \vspace*{2mm}
 \begin{tabular}{l}
 {\it Table 2: Analyzes how successfully grayscale images} \\
-{\it were labeled by Google Cloud Vision after} \\
+{\it were labeled by Google Cloud Vision API after} \\
 {\it image compression.} \\
 \end{tabular}
 
@@ -316,16 +316,16 @@ the labels it was assigned were. The grayscale images were also
 given significantly less accurate labels than the color images.
 Of the four categories, the animal dataset had the best
 performance, most likely because the animal images had only
-one subject, making them easier for Google Cloud Vision to classify.
+one subject, making them easier for Google Cloud Vision API to classify.
 In addition, each form of image
 compression had its own set of issues.
 
-The smoothening effect of posterization using the k-means clustering 
-algorithm sometimes removed textures that Google Cloud Vision
+The smoothening effect of posterization using the k-means clustering
+algorithm sometimes removed textures that Google Cloud Vision API
 needed to correctly classify parts of an image. For instance,
 the image of the waterfall, after it was put through the
 4-means and 8-means clustering algorithm, was assigned the label \textquote{snow}
-by Google Cloud Vision because Google Cloud Vision mistook 
+by Google Cloud Vision API because the Google Cloud Vision API mistook
 the smoothened water for snow (see Fig. 6 below).
 
 \vspace*{3mm}
@@ -343,7 +343,7 @@ the smoothened water for snow (see Fig. 6 below).
 Low-rank image matrix approximation using PCA often resulted in
 image distortion in a plaid-like pattern, especially in smaller
 images (see Fig. 7 below). This resulted in misclassifications
-such as Google Cloud Vision giving images in all four categories
+such as Google Cloud Vision API giving images in all four categories
 false labels such as \textquote{cloth,} \textquote{pattern,}
 and \textquote{line.}
 
@@ -366,12 +366,12 @@ and \textquote{line.}
 \vspace*{3mm}
 
 The \textquote{mean pooling} opeartion with a $64 \times 64$ filter,
-and, in some cases, the $32 \times 32$ filter as well, 
+and, in some cases, the $32 \times 32$ filter as well,
 blurred smaller to the point that they become unrecognizeable and
-Google Cloud Vision could no longer give them accurate labels (see 
-Fig. 3). When the filter being used with the \textquote{mean pooling} 
+Google Cloud Vision API could no longer give them accurate labels (see
+Fig. 3). When the filter being used with the \textquote{mean pooling}
 operation is too large proportional to the size of the image, it
-removes all useful information from the image. 
+removes all useful information from the image.
 
 Image compression using the {\tt mogrify -quality 1} command
 sometimes resulted in random bright colors showing up in the compressed
@@ -392,9 +392,9 @@ images that did not occur in the original images (see Fig. 8 below).
 
 The dropout algorithm we created resulted in distortion of
 the compressed images, almost as though the images
-were being reflected on moving water. 
+were being reflected on moving water.
 This could potentially be fixed by adding a smoothening
-factor to our dropout algorithm, for example by 
+factor to our dropout algorithm, for example by
 using an algorithm such as seam-carving\footnote{For a description
 of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}}
 
@@ -402,7 +402,7 @@ of seam-carving, see: \url{https://cs.brown.edu/courses/cs129/results/proj3/taox
 
 Overall, from the data, it appears that k-means clustering was
 the best compression method in terms of maintaining the legibility
-of the images for Google Cloud Vision. In a sense, this makes
+of the images for Google Cloud Vision API. In a sense, this makes
 sense, because posterization generally simplifies images while
 retaining the overall shapes in the images.
 
@@ -415,7 +415,7 @@ they will probably want to use even higher values of $k$.
 
 In future analyses, it may be helpful to estalish a more
 specific definition of accuracy and a way to compare
-the accuracy of Google Cloud Vision when classifying
+the accuracy of Google Cloud Vision API when classifying
 images before and after compression, as the table
 above does not consider a number of factors, such as
 the certainty of different labels, and the number
@@ -459,7 +459,7 @@ We would like to thank Prof. Strang for his support and interesting and informat
 \bibitem{c6} \textquote{mogrify.} ImageMagick. \url{https://www.imagemagick.org/script/mogrify.php}
 \bibitem{c7} \textquote{command line options.} ImageMagick. \url{https://www.imagemagick.org/script/command-line-options.php\#quality}
 \bibitem{c8} Srivastava, Nitish, et. al. \textquote{Dropout: A Simple Way to Prevent Neural Networks
-	from Overfitting.} {\it Journal of Machine Learning Research}, 15 (2014): 1929-1958. 
+	from Overfitting.} {\it Journal of Machine Learning Research}, 15 (2014): 1929-1958.
 	Published 14 June 2014. \url{http://jmlr.org/papers/volume15/srivastava14a.old/srivastava14a.pdf}
 \bibitem{c9} Tao, Xiaofeng. \textquote{Seam Carving.} \url{https://cs.brown.edu/courses/cs129/results/proj3/taox/}
 \bibitem{c10} Gopalakrishnan, Soorya, et. al. \textquote{Combating Adversarial
