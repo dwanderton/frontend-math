@@ -315,21 +315,19 @@ Clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 \section{ANALYSIS}
 
 As expected, the less the image was compressed, the more accurate
-the labels it was assigned were. The grayscale images were also
-given significantly less accurate labels than the color images.
-Of the four categories, the animal dataset had the best
-performance, most likely because the animal images had only
-one subject, making them easier for Google Cloud Vision API to classify.
-In addition, each form of image
-compression had its own set of issues.
+the labels it was assigned were. However, with PCA compression often the intuitive most important entity of the image would gain a higher score. Grayscale images were also given significantly less accurate labels than the color images and, as mentioned previously, the artefacts of grayscale compression dominated the assigned labels - such as \textquote{black and white} and \textquote{monochrome photography}.
 
-The smoothening effect of posterization using the k-means clustering
-algorithm sometimes removed textures that Google Cloud Vision API
-needed to correctly classify parts of an image. For instance,
+Of the four categories, the Animal dataset had the best
+performance, most likely because the animal images had only
+one dominant subject, making them easier for classification to occur and return an intuitively accurate label.
+In addition, each form of
+compression had its own set of behaviors that the authors noted.
+
+The smoothening effect of posterization, using the k-means clustering
+algorithm, was noted to occasionally removed textures that Google Cloud Vision API appeared to utilize to correctly classify parts of an image. For example,
 the image of the waterfall, after it was put through the
 4-means and 8-means clustering algorithm, was assigned the label \textquote{snow}
-by Google Cloud Vision API because the Google Cloud Vision API mistook
-the smoothened water for snow (see Fig. 6 below).
+by the Google Cloud Vision API seemingly because the smoothened water color became white and looked more like snow (see Fig. 6 below).
 
 \vspace*{3mm}
 \begin{tabular}{c c}
@@ -338,7 +336,7 @@ the smoothened water for snow (see Fig. 6 below).
 		\includegraphics[width=0.2\textwidth]{posterror} \\
 \end{tabular}
 \begin{tabular}{l}
-	\hspace*{4mm} {\it Fig. 6: Over-smoothening of an image of a waterfall} \\
+	\hspace*{4mm} {\it Fig. 6: Potential over-smoothening of an image of a waterfall} \\
 	\hspace*{4mm} {\it as a result of the 8-means clustering algorithm.} \\
 \end{tabular}
 \vspace*{3mm}
@@ -388,7 +386,7 @@ images that did not occur in the original images (see Fig. 8 below).
 \end{tabular}
 \begin{tabular}{l}
 	\hspace*{4mm} {\it Fig. 8: Purple highlights appear in an image of } \\
-	\hspace*{4mm} {\it mountains after it is compressed using the } \\
+	\hspace*{4mm} {\it mountains after compression using the } \\
 	\hspace*{4mm} {\it command} {\tt mogrify -quality 1} \\
 \end{tabular}
 \vspace*{3mm}
