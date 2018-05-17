@@ -211,9 +211,9 @@ were not closely identified, and 18.2\% of them were given solely inaccurate lab
 
 \subsection{Post-Compression}
 
-Tables 1 and 2 below analyze how well images are labeled by the
-Google Cloud Vision API after they are compressed using
-the methods detailed earlier in the paper. We ignore general
+Table 1 and 2 below display our analysis of how accurately images are labeled by the
+Google Cloud Vision API after they are compressed using each
+the methods detailed earlier in the paper. We define accuracy as the coincidence of labels between pre- and post-compression images.  We ignored more general
 labels such as \textquote{photography,} \textquote{black,}
 and \textquote{sky,} instead focusing on labels that either correctly or falsely
 identify specific objects, landforms, etc. in the images.
@@ -229,19 +229,19 @@ identify specific objects, landforms, etc. in the images.
 \begin{tabular}{|p{0.25\linewidth}|p{0.25\linewidth}|p{0.25\linewidth}|}
 \hline
 {\bf method of compression} & {\bf \% images given at least one correct label}
-	& {\bf \% images given best label} \\
+	& {\bf \% images given "best" label} \\
 \hline
-mogrify & 81.8\% & 68.2\% \\ % 18/22, 15/22
+Mogrify & 81.8\% & 68.2\% \\ % 18/22, 15/22
 \hline
-dropout (20\%) & 77.3\% & 68.2\% \\ % 7/22, 15/22
+Dropout (20\%) & 77.3\% & 68.2\% \\ % 7/22, 15/22
 \hline
-dropout (50\%) & 59.1\% & 36.4\% \\ % 13/22, 8/22
+Dropout (50\%) & 59.1\% & 36.4\% \\ % 13/22, 8/22
 \hline
-pooling (16x16) & 90.9\% & 63.6\% \\ % 20/22, 14/22
+Pooling (16x16) & 90.9\% & 63.6\% \\ % 20/22, 14/22
 \hline
-pooling (32x32) & 40.9\% & 18.2\% \\ % 9/22, 4/22
+Pooling (32x32) & 40.9\% & 18.2\% \\ % 9/22, 4/22
 \hline
-pooling (64x64) & 4.5\% & 0\% \\ % 1/22, 0/22
+Pooling (64x64) & 4.5\% & 0\% \\ % 1/22, 0/22
 \hline
 PCA (25) & 95.5\% & 81.8\% \\ % 21/22, 18/22
 \hline
@@ -249,17 +249,17 @@ PCA (10) & 77.3\% & 40.9\% \\ % 17/22, 9/22
 \hline
 PCA (5) & 27.3\% & 0\% \\ % 6/22, 0/22
 \hline
-clustering (8) & 100\% & 90.9\% \\ % 22/22, 20/22
+Clustering (8) & 100\% & 90.9\% \\ % 22/22, 20/22
 \hline
-clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
+Clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 \hline
 \end{tabular}
 \egroup
 
 \vspace*{2mm}
 \begin{tabular}{l}
-{\it Table 1: Analyzes how successfully color images} \\
-{\it were labeled by Google Cloud Vision API after} \\
+{\it Table 1: Success rate for color images} \\
+{\it labeled by Google Cloud Vision API after} \\
 {\it image compression.} \\
 \end{tabular}
 \vspace*{4mm}
@@ -277,17 +277,17 @@ clustering (4) & 86.4\% & 68.2\% \\ % 19/22, 15/22
 {\bf method of compression} & {\bf \% images given at least one correct label}
 	& {\bf \% images given best label} \\
 \hline
-mogrify & 59.1\% & 40.9\% \\ % updated
+Mogrify & 59.1\% & 40.9\% \\ % updated
 \hline
-dropout (20\%) & 63.6\% & 27.3\% \\ % updated 14/22, 6/22
+Dropout (20\%) & 63.6\% & 27.3\% \\ % updated 14/22, 6/22
 \hline
-dropout (50\%) & 22.7\% & 0\% \\ % updated 5/22, 0/22
+Dropout (50\%) & 22.7\% & 0\% \\ % updated 5/22, 0/22
 \hline
-pooling (16x16) & 31.8\% & 22.7\% \\ % updated 7/22, 5/22
+Pooling (16x16) & 31.8\% & 22.7\% \\ % updated 7/22, 5/22
 \hline
-pooling (32x32) & 4.5\% & 4.5\%\\ % updated 1/22, 1/22
+Pooling (32x32) & 4.5\% & 4.5\%\\ % updated 1/22, 1/22
 \hline
-pooling (64x64) & 0\% & 0\% \\ % updated 0, 0
+Pooling (64x64) & 0\% & 0\% \\ % updated 0, 0
 \hline
 PCA (25) & 68.2\% & 36.4\% \\ % updated 15/22, 8/22
 \hline
@@ -295,17 +295,17 @@ PCA (10) & 31.8\% & 22.7\% \\ % updated 7/22, 5/22
 \hline
 PCA (5) & 18.2\% & 4.5\% \\ % updated 4/22, 1/22
 \hline
-clustering (8) & 90.9\% & 50\% \\ % updated 20/22, 11/22
+Clustering (8) & 90.9\% & 50\% \\ % updated 20/22, 11/22
 \hline
-clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
+Clustering (4) & 59.1\% & 45.5\% \\ % updated 13/22, 10/22
 \hline
 \end{tabular}
 \egroup
 
 \vspace*{2mm}
 \begin{tabular}{l}
-{\it Table 2: Analyzes how successfully grayscale images} \\
-{\it were labeled by Google Cloud Vision API after} \\
+{\it Table 2: Success rate for grayscale images} \\
+{\it labeled by Google Cloud Vision API after} \\
 {\it image compression.} \\
 \end{tabular}
 
