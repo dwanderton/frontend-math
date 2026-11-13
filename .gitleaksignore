@@ -1,0 +1,4 @@
+# Historical findings baselined 2026-11-12 (reviewed; see security sweep notes).
+e95a00080cfb666077865ff52ef28c68d79b0b31:images/pre/color/Animals/tiger.json:generic-api-key:379
+e95a00080cfb666077865ff52ef28c68d79b0b31:images/pre/color/Animals/tiger.json:generic-api-key:550
+e95a00080cfb666077865ff52ef28c68d79b0b31:images/pre/color/Signs/stop.json:generic-api-key:701
